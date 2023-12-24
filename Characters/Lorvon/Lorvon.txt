@@ -11,11 +11,11 @@ Appearance:
 	Scar on right shoulder (result from arrow shot)
 
 	Face:
-	Medium eyebrows
-	Hooded eyes
-	Oval head
-	Straight thin nose
-	Vertical forehead
+		Medium eyebrows
+		Hooded eyes
+		Oval head
+		Straight thin nose
+		Vertical forehead
 
 Apparel:
 	Brown hooded cloak (wool, semi-circular, hood is not pointed)
@@ -29,6 +29,8 @@ Apparel:
 
 	Leather pouch (hung on right side of belt, dimensions about 15x30)
 	Small leather bag (hung on the right side of belt, to the left of the leather pouch)
+
+	Sapphire necklace made of silver, hidden under robes
 
 Goal: Support/protect family, discover universe, defend kingdom
 
