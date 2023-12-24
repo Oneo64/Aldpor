@@ -1,0 +1,53 @@
+Races found in my world:
+
+Ranastar:
+	Ranastars are anthropomorphic animals, like furries, but they make more sense.
+	When a person is obsessed with nature and they mate with someone else, the offspring has a 10% chance to be a ranastar. Ranastars born this way need to wait a few years before transformation.
+	If a ranastar mates with one of it's kind, the offspring will always be a ranastar.
+
+	Most ranastars will run away from home and live in the wild, or stay sheltered at home. This is because they feel out of place, the commonfolk bully them for their appearance.
+	Bear and rat ranastars prefer to stay with the commonfolk and feel no shame, while bobcat ranastars tend to go alone.
+
+	Classes: Barbarians, fighters, rogues and druids are most common, while everything else are rare.
+
+	Advantages:
+		Camoflauge - You have an option to use an action to blend in foliage near by. Detection requires a DC 12 Wisdom saving throw.
+
+	Disadvantages:
+		Bow Incompatibility - You are unable to use any kind of bow, excluding crossbows.
+		Magic Incompatibility - You are unable to cast a non druid spell with the (S)omatic component.
+
+	Variants/Overrides: (min stat increase up to 3)
+		Bear:
+			Alignments - Lawful, Neutral
+			Ability Score Increase - Dex -1, Con +2, Wis +1
+			Cold Resistance - You have resistance against cold damage.
+			Fur Color - Brown (brown bears), Black (black bears), White (polar bears)
+			Natural Weapons - Claws: 2d6 Slashing
+
+		Bobcat:
+			Alignments - Neutral, Chaotic
+			Ability Score Increase - Dex +2, Int -1, Chr +1
+			Cold Resistance - You have resistance against cold damage.
+			Natural Weapons - Claws: 2d4 Slashing
+			Enhanced Sight - You have Darkvision up to 30ft.
+			Fur Color - Brown (forest bobcats), Burlap (southern bobcats), White (snowy bobcats)
+			High Jumping - You can jump straight up 10ft.
+
+		Rat:
+			Alignments - Lawful, Neutral
+			Ability Score Increase - Str -1, Dex +3, Int +1, Chr -1
+			Fur Color - Black, Brown, Gray, Yellow, White
+			Proper Fingers - You are able to use bows, and spells with the (S)omatic component.
+
+		Fox:
+			Alignments - Lawful, Neutral
+			Fur Color - Gray (southern foxes), Orange + Red (forest foxes), White (arctic foxes)
+			Cold Resistance - You have resistance against cold damage.
+			Ability Score Increase - Dex +2, Int -1, Chr +1
+
+		Wolf (or dog):
+			Alignment - Lawful, Neutral, Chaotic
+			Ability Score Increase - Dex +2, Int -1, Chr +1
+			Cold Resistance - You have resistance against cold damage.
+			Fur Color - Orange + Red (dire wolves), Gray (gray wolves), White (snow wolves)

@@ -1,0 +1,166 @@
+Lorvon Rulvik, Jarl of Ûfalvik Castle
+Male
+Age: 25 (born 1012, december 2)
+Alignment: Lawful Good
+Appearance:
+	Dark blue eyes
+	Fair/light cool skin
+	Shoulder length dark/dirty blonde wavy hair (no style)
+	
+	Burn mark on chest (result of magic practice)
+	Scar on right shoulder (result from arrow shot)
+
+	Face:
+	Medium eyebrows
+	Hooded eyes
+	Oval head
+	Straight thin nose
+	Vertical forehead
+
+Apparel:
+	Brown hooded cloak (wool, semi-circular, hood is not pointed)
+
+	Linen purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
+	Linen blue pants (baggy)
+	
+	Leather boots
+	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
+	Leather scabbard (on left side of hip, pointed down)
+
+	Leather pouch (hung on right side of belt, dimensions about 15x30)
+	Small leather bag (hung on the right side of belt, to the left of the leather pouch)
+
+Goal: Support/protect family, discover universe, defend kingdom
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Good-hearted (kind, generous and benevolent)
+			2. Honest
+			3. Thoughtful (imaginative)
+			4. Loyal
+			5. Brave (bold, daring, courageous)
+			6. Intelligent (smart, logical)
+			7. Wise
+			8. Adaptable
+			9. Observantext 
+
+		NEGATIVE:
+			1. Aloof
+			2. Angered easily, but fast to calm
+			3. Cruel to enemies
+			4. Bad sense of humor
+			5. Socially awkward
+			6. Distrusting
+		
+		Introverted
+		Realistic (perspective on the future)
+
+	Specific:
+		He fears he might become corrupted with magic, and go all out for more knowledge
+		Foxes are his favorite animal
+		Deer meat is his favorite food
+		Has a norvunic accent
+
+Power:
+	Very powerful with magic
+		Because its supposed to be real life and not a generic rpg, all spells will be tweaked to a realistic way.
+		(Like how fireball won't do much in the harsh winters of norvun, but will be affective in the sahara desert)
+	Below average with physical
+	Above average with sword
+
+Skills:
+	Real:
+		Magic
+		Linguistics
+		Geirkal Swordfighting
+		Alchemy (potion brewing)
+		Minor medical things
+
+	For game stats:
+		Arcana
+		History
+		Medicine
+		Investigation
+
+	Alchemist's Supplies
+
+	Strength: 9 (-1)
+	Dexerity: 14 (+2)
+	Constitution: 14 (+2)
+	Intelligence: 16 (+3) proficiency
+	Wisdom: 13 (+1) proficiency
+	Charisma: 12 (+1)
+
+	Martial Adept: Parry + Precision Strike
+
+Height: 175cm (5ft 9in)
+Weight: 79kg (175lbs)
+
+Wealth: 4615 gp, 370 sp, income about (600g - 540g)/month = 60g/month
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	Norvunic
+	English
+	Esrel
+	Ranudan*
+	Primordial*
+
+Possessions:
+	An arming sword (Total length: 85cm, Blade length: 70cm, looks like a viking/ulfberht sword)
+
+	Small leather pouch (contains a portion of Lorvon's wealth)
+	Leather pouch:
+		A closed jar of ink
+		A quill taken from a goose
+		10 sheets of parchment
+		2 blank scrolls
+		A drinking horn
+
+		A spellbook
+		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
+
+		(magic items)
+		A small glass orb, with moving smoke. You can move the smoke by rotating or shaking the orb.
+		Alchemy Jug
+
+Land:
+	A small two floor house in Argonlav, Norvun
+	Ûfalvik Castle:
+		Guards: 8       40sp
+		Men-at-arms: 30 60sp
+
+		Cooks: 4        4cp
+		Caretakers: 15  75sp
+
+		Carters: 3      6cp
+		Shepards: 3     3sp
+		Sheep: 28
+		Horses: 7
+
+Occupications:
+	Current:
+		Wizard
+		Adventurer
+		Norvunic Research Association (Research Traveller)
+
+	Retired:
+		War mage
+
+Relations:
+	Rondar Glomunssul (friend, met in a school of evocation)
+	Jeiruld Aldorim (a teacher from a school of evocation)
+
+Backstory:
+	Magic: He learned magic from an old tome he found in the storage room. He learned magic to kill bandits at a range. He later used his minor knowlegde of magic in a battle later.
+
+(Level 10) Spells:
+	Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+	Level 1: Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
+	Level 2: Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
+	Level 3: Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
+	Level 4: Polymorph, Dimension Door, Fabricate, Arcane Eye
+	Level 5: Wall of Force, Teleportation Circle, Telekinesis
+	Level 6: Sunbeam
+	Level 7: Plane Shift, Finger of Death

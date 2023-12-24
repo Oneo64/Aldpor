@@ -1,0 +1,34 @@
+Name: first last
+Race: See below for races
+Age: See below for lifespan
+Gender: Male/Female
+Personality: ???
+Appearance: ???
+Apparel: ???
+Languages: ???
+Backstory: ???
+
+Inventory: [
+	// Here holds anything the character currently possesses. Any possession of an object or presence should be listed in "Body Conditions".
+]
+
+Memory: [
+	// Here holds memory. Anything the character knows or remembers goes here, except permanent memories, like character details.
+]
+
+Body Conditions: [
+	// Here holds any present curses, blessings, diseases, mutations, phobias, scars, sicknesses, syndromes, viruses, wounds etc.
+]
+
+// RACES
+Dragonborn	(80)
+Dwarf		(400)
+Elemental	(1300)
+Elf		(700)
+Halfling/Hobbit	(120)
+Human		(100)
+Gnome		(300)
+Gnoll		(70)
+Goblin		(50)
+Orc		(80)
+Tiefling	(100)

@@ -1,0 +1,26 @@
+Structure:
+
+Pronounciation:
+Legend:
+"the sequence of letters in the original word" = how you should pronounce it as if speaking english
+
+-letter = if it ends with letter
+letter = if any letter that isn't already above
+
+Things:
+
+a = aa
+û = oo
+
+u- or -u = ul
+u = uh
+
+ae = ey
+ai = aai
+i- or -i = ee
+i = short i (as in live)
+e = eh
+
+y = ee
+
+th = dz (th does not exist in norvunic)

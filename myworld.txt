@@ -1,0 +1,90 @@
+ALDPOR
+Creation date: 2023 July
+
+Notable features:
+	In the forests, there are more monsters/abnormality encounters.
+	If an area has not been visited by a non-evil creature in an hour, has not been recently built by a non-evil creature, and currently does not have any residents, demons may spawn there.
+		these demons can be: a nalfeshnee, a marilith (rarely), a shadow demon, 5-15 quasits, a hezrou, or 5-15 dretchs.
+	The material plane has more elemental evil monsters, their elements corresponding with it's location. For example (Up north, there are ice, earth and air elementals.)
+
+	A lot of weapons use Iron. Only the wealthy can afford Damascus Steel.
+
+	Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and
+		crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most
+		humans. They also have the same lifespan of humans.
+	Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarvish king will be the kings leader.
+		Examples: A king handles the kingdom's army, one handles imports and exports, one handles economy etc.
+	Racism towards dwarves exist. The racial slurs are 'mishman' for Mornesvian dwarves and 'glogs' for Glomic dwarves. Don't use these if you don't want the dwarves to hate you.
+
+	Elves have a lifespan of 150 years. High elves usually have light blue or light purple skin, while cold elves have light yellow, light brown, or bright skin.
+	Elves, unlike the dwarves, have a leader instead. The leader is expected to be responible to everything in the group.
+
+	Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right?
+		(still new technology can be developed, but they will likely be lost due to thieves and bandits)
+
+Appearance of each race:
+	Human:
+		Skin: Ranges from brown to bright skin.
+		Hair: Black, blonde, red or brown.
+		Eyes: Black, brown, green, blue or gray.
+	Dwarves:
+		Skin: Very light skin, but not ghostly white.
+		Hair: Bright blonde, or red.
+		Eyes: Black, brown, green, golden yellow, orange or red.
+	Elves: (Elves only grow head hair)
+		High Elves:
+			Skin: Very light purple, very light blue, or bright skin.
+			Hair: Blonde, white or light purpe.
+			Eyes: Black, brown, green, blue, gray, purple or golden yellow.
+		Cold Elves:
+			Skin: Ranges from very light yellow to light brown.
+			Hair: Black, blonde, brown, or medium yellow.
+			Eyes: Black, brown, green, blue, gray or light yellow.
+
+Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
+
+Kingdoms:
+	Hendril (humans, speaks Hendric, culture = english or german)
+	Norvun (humans, speaks Norvunic, culture = norse) (current king: Palvni II)
+	Tarib (humans, speaks Taribian, culture = slavic)
+	Gordazeel (humans, speaks Taribian, culture = middle eastern)
+
+	Esrelu (cold elves, speaks Esrel, culture = norse-elvish)
+	Ranudel (high elves, speaks Ranudan, culture = elvish)
+	Jûmlaanar (high elves, speaks Ranudan, culture = elvish)
+	Vuntalra (cold elves, speaks Norvunic + Esrel, culture = norse)
+	Amatil (high elves, speaks Amatilish, culture = elvish)
+
+	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = slavic)
+	Mornesvid (dwarves, speaks Mornesvian, main city on high hill) (culture = scottish)
+	Banod (dwarves, speaks Banodic, culture = slavic)
+
+(If a weapon doesn't appear, it doesn't exist in my world)
+Weapons:
+Simple Melee:
+Club
+Dagger
+Greatclub
+Mace
+Quarterstaff
+Sickle
+Spear
+
+Martial Melee:
+Arming Sword
+Battle axe
+Long axe
+Scimitar (Sabre)
+Shortsword
+Trident
+Warhammer
+Whip
+
+Simple Ranged Weapons:
+Crossbow, light
+Shortbow
+Sling
+
+Martial Ranged Weapons:
+Crossbow, heavy
+Longbow

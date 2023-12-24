@@ -1,0 +1,61 @@
+studio id: 32077768
+
+spell learn success chance: 1 in 2 + spell level
+if you roll the spell learn chance, and it lands on 1, then you progress in learning a spell.
+
+Lucan Rust / 20, birthday 1152 dec 2 / Male / Human / Dark brown hair, white skin, bright blue eyes, body is slightly skinnier than usual, foot looks slightly burnt / Large brown cloak with a hood, long purple robes, boots coated with animal fat, and a belt holding an old brown leathery book containing info about creatures, potions and magic / Likes to gather knowledge, loyal, a little generous, although can get reckless sometimes / He can learn any spell from the evocation, abjuration and transmutation schools of magic. Has Fire Bolt, Mage Armor, Message, Chromatic Orb, Shocking Grasp / He cannot use too much magic before resting. (New RPs won't count as resting.) Weak towards moonstone, can only learn spells below the 6th level, and spells take time to learn. / He really hates centipedes and roaches, sometimes he can get impatient, his book is old so it is inaccurate, sometimes gets scared of the modern world, and sometimes forgets to speak English. / He can survive in -30 degrees if it isn't direct cold magic. / A longsword / None / He had entered a portal to this world and got stuck, survived a witch burning / Can speak Elvish. Can cast cantrips without preparing or using a spell slot. Every RP chain, Lucan gets 5 spell slots to use.
+
+Cantrips: fire Bolt, message, shocking grasp, prestidigitation
+Spells: chromatic orb, mage armor, magic missile, blink
+
+Spell slots left: 5 / 5
+Prepared spells (max five): chromatic orb, mage armor, magic missile
+
+Inventory: [
+	A small bottle containing healing liquor
+	A large leathery book called "Taar'ru Arselu" meaning "Wizard's Magic" in elvish
+	A bottle of ink
+	A quill taken from a goose
+	A small cube of burnt wood
+	A longsword
+	An empty bottle
+	2 large shards of glass
+	5 shards of glass
+]
+
+Wealth: [
+	87 gold
+	380 silver
+]
+
+Ingredients availiable: [
+	A small diamond worth 80gp
+	A piece of copper wire
+	A piece of cured leather
+	Two lodestones, the size of a pebble
+]
+
+Memory: [
+	"In the mountains, I met a girl who could summon animals of shadow."
+	"I travelled from the year '1172, july 9th' to '2023, june 12th'."
+	"I lived in a village called Arluvid."
+	"A ghost told me he will haunt me. I'm not sure if it is true."
+	"I want to learn sunbeam."
+	"I met a girl named Spirit. She says her name reminds people of death."
+	"Someone almost burned their finger off."
+	"A girl named Katherine is apparently a 'Halfcat', and can turn into a leopard."
+]
+
+Body Conditions: [
+	Both feet are slightly burnt
+]
+
+Cantrips: mending, light
+lvl 1: feather fall, jump, longstrider, thunderwave
+lvl 2: alter self, arcane lock, darkness, darkvision, levitate, gust of wind, shatter
+lvl 3: lightning bolt, fireball, counterspell, sending, dispel magic, gaseous form, remove curse
+lvl 4: wall of fire, polymorph, banishment, control water, stone shape, fabricate
+lvl 5: cone of cold, animate objects, telekinesis, wall of force
+lvl 6: guards and wards, sunbeam, disintegrate, flesh to stone, move earth, chain lightning
+
+"Taar'ru Arselu": This is Lucan's spellbook. It also serves as some kind of encyclopedia. The ciphers written is an altered version made by the wizard who taught Lucan, mixed with some elvish.
