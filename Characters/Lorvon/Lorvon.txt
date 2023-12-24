@@ -21,7 +21,7 @@ Apparel:
 	Brown hooded cloak (wool, semi-circular, hood is not pointed)
 
 	Linen purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
-	Linen blue pants (baggy)
+	Linen blue viking trousers
 	
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
@@ -45,7 +45,7 @@ Personality:
 			6. Intelligent (smart, logical)
 			7. Wise
 			8. Adaptable
-			9. Observantext 
+			9. Observant
 
 		NEGATIVE:
 			1. Aloof

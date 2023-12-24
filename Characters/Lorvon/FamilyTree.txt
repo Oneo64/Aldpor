@@ -1,11 +1,18 @@
 THE RULVIK FAMILY TREE
 
-Grandparents      Parents             Youth
+m = male
+f = female
+a = alive
+d = dead/deceased (if dead, age is what age they died)
 
-Haldig  (M)
-           >----- Algrom  (M)
-Amgja   (F)                  \        Lorvon  (M) 
-                              >-----<
-Bjelnad (M)                  /        Alovael (M)
-           >----- Myf     (F)
-Elfreida(F)
+---------------------------------------------------------------
+
+Grandparents       Parents                Youth
+
+Haldig  (MA) (64)
+            >----- Algrom  (MA) (51)
+Amgja   (FA) (67)               \        Lorvon  (MA) (25)
+                                 >-----<
+Bjelnad (MD) (43)               /        Alovael (MA) (27)
+            >----- Myf     (FA) (49)
+Elfreida(FA) (72)
