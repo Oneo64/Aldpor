@@ -1,5 +1,7 @@
 THE RULVIK FAMILY TREE
 
+*I want lorvon to have at least 2 siblings
+
 m = male
 f = female
 a = alive
