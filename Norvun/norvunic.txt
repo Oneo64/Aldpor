@@ -22,5 +22,3 @@ i = short i (as in live)
 e = eh
 
 y = ee
-
-th = dz (th does not exist in norvunic)

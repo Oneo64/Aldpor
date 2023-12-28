@@ -1,0 +1,20 @@
+THE RULVIK FAMILY TREE
+
+*I want lorvon to have at least 2 siblings
+
+m = male
+f = female
+a = alive
+d = dead/deceased (if dead, age is what age they died)
+
+---------------------------------------------------------------
+
+Grandparents       Parents                Youth
+
+Haldig  (MA) (64)                      / Alovael (MA) (27)
+            >----- Algrom  (MA) (51)   |
+Amja    (FA) (67)               \      | Lorvon  (MA) (25)
+                                 >-----+
+Bjelnad (MD) (43)               /      | Yngvildr(FA) (23)
+            >----- Myf     (FA) (49)   |
+Elfreida(FA) (72)                      \ Alf     (MA) (21)

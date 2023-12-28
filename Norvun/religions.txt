@@ -1,0 +1,22 @@
+Cosmic structure thingy: Great Tree Model (like yggdrasil)
+
+Names below here will bear the Norvunic name of the thing
+
+Planes/Realms:
+Azomlurhel  = Plane of fire
+Lalvaryg    = Plane of water
+Solmunvaryg = Plane of air
+Norhel      = Plane of earth
+
+Jaelheim    = Good afterlife
+Hel         = Bad afterlife
+
+Valraknul   = Plane of demons
+Fernalfa    = Plane of fey
+
+Deities:
+Talmundur = God of Warmth (hot and cold)
+Lunanyr   = God of Life
+Bjelfald  = God of Creation
+Parhrûgi  = God of Magic
+Hyrfalnig = God of Emotions

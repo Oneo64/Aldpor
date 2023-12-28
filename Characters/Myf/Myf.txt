@@ -1,0 +1,74 @@
+Myf Rulvik
+Female
+Age: 49 (born 964, july 8)
+Alignment: Neutral Good
+Appearance:
+	Dark blue eyes
+	Fair/light cool skin
+	Hair down to armpits, braided into a single thing
+
+	Face:
+		Medium eyebrows
+		Hooded eyes
+		Heart head
+		Straight thin nose
+		Vertical forehead
+
+Apparel:
+	Linen dark green robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
+
+	Leather boots
+	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
+
+	Leather pouch (hung on left side of belt, dimensions about 15x30)
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Kind
+			2. Observant
+			4. Honest
+
+		NEGATIVE:
+			1. Hesitant
+			2. Odd
+		
+		Realistic (perspective on the future)
+
+	Specific:
+		Talks to animals when feeling bored
+		Has a norvunic accent
+
+		Religion: Bjelfaldism (Believes in Bjelfald)
+
+Skills:
+	Real:
+		Alchemy (potion brewing)
+		Minor medical things
+
+	Strength: 	10
+	Dexerity: 	14
+	Constitution: 	10
+	Intelligence: 	13
+	Wisdom: 	12
+	Charisma: 	11
+
+Height: 163cm (5ft 4in)
+Weight: 57kg (126lbs)
+
+Languages (sorted by time learned):
+	Norvunic
+	Esrel
+
+Possessions:
+	Leather pouch:
+		Small knife
+		Shard of rose quartz
+
+Land:
+	A small house in Argonlav, Norvun
+
+Occupications:
+	Woodcarver
+
+Backstory: Grew up in Argonlav. Took passion in wood carving at the age of 14. Met Algrom while wandering in Argonlav's markets.

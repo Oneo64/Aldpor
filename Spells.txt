@@ -66,11 +66,11 @@ Curse of Headaches (LVL 5 necromancy)
 You target a creature. The target must succeed on a Constitution saving throw or be cursed for the duration. While the target is cursed, it has disadvantage on Intelligence, Wisdom and Charisma saving throws. Every minute, the target must make a Constitution saving throw. On failure, it takes 1d4 psychic damage. A Remove Curse, or Lesser/Greater Restoration ends the effect. Constructs and undead are unaffected by this spell.
 
 
-Bind with Chains (LVL 5 conjuration)
+Bind with Chains (LVL 3 conjuration)
 	Casting time: 3 seconds
 	Range: 10m (30ft)
 	Requirements: V, R, M (a bit of chain at least 30cm(a foot))
-	Duration: 12 hours or until dispelled
+	Duration: 1 hour or until dispelled
 
 You choose a creature within range with a size or Huge or smaller. Chains suddenly appear from the ground (air if no ground), and lances towards the target. The target then must succeed on a Dexerity saving throw, or become restrained. The creature can succeed a DC 19 Strength saving throw to break out. You can dismiss this spell anytime.
 At Higher Levels: For each level above 5th, increase the DC required to break free by 2. If cast at 8th level or higher, you can target any creature regardless of size.

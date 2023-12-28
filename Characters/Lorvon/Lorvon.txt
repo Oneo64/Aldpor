@@ -28,11 +28,12 @@ Apparel:
 	Leather scabbard (on left side of hip, pointed down)
 
 	Leather pouch (hung on right side of belt, dimensions about 15x30)
+	Leather pouch 2 (same as leather pouch, but a little more back)
 	Small leather bag (hung on the right side of belt, to the left of the leather pouch)
 
 	Sapphire necklace made of silver, hidden under robes
 
-Goal: Support/protect family, discover universe, defend kingdom
+Goal (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
 Personality:
 	Traits:
@@ -40,12 +41,15 @@ Personality:
 			1. Good-hearted (kind, generous and benevolent)
 			2. Honest
 			3. Thoughtful (imaginative)
-			4. Loyal
+			4. Loyal (trustworthy)
 			5. Brave (bold, daring, courageous)
 			6. Intelligent (smart, logical)
 			7. Wise
-			8. Adaptable
-			9. Observant
+			8. Observant
+
+		NEUTRAL:
+			1. Mysterious
+			2. Competitive
 
 		NEGATIVE:
 			1. Aloof
@@ -63,9 +67,11 @@ Personality:
 		Foxes are his favorite animal
 		Deer meat is his favorite food
 		Has a norvunic accent
-		He likes to collect weird rocks
+		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
 
 		He does not like flashing lights
+
+		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Power:
 	Very powerful with magic
@@ -90,12 +96,12 @@ Skills:
 
 	Alchemist's Supplies
 
-	Strength: 9 (-1)
-	Dexerity: 14 (+2)
-	Constitution: 14 (+2)
-	Intelligence: 16 (+3) proficiency
-	Wisdom: 13 (+1) proficiency
-	Charisma: 12 (+1)
+	Strength: 	9 	-1
+	Dexerity: 	14 	+2
+	Constitution: 	12 	+1
+	Intelligence: 	17	+3 proficiency
+	Wisdom: 	13 	+1 proficiency
+	Charisma: 	11	+0
 
 	Martial Adept: Parry + Precision Strike
 
@@ -127,8 +133,10 @@ Possessions:
 		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
 
 		(magic items)
-		A small glass orb, with moving smoke. You can move the smoke by rotating or shaking the orb.
 		Alchemy Jug
+
+	Leather pouch 2:
+		A small quartz orb, with moving smoke. This is Lorvon's arcane focus.
 
 Land:
 	A small two floor house in Argonlav, Norvun
@@ -160,11 +168,20 @@ Backstory:
 	Magic: He learned magic from an old tome he found in the storage room. He learned magic to kill bandits at a range. He later used his minor knowlegde of magic in a battle later.
 
 (Level 10) Spells:
+	Prepared:
+		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+		Level 1:  Detect Magic, Mage Armor, Magic Missile
+		Level 2:  Invisibility, Hold Person, Alter Self
+		Level 3:  Counterspell, Fireball, Major Image, Gaseous Form
+		Level 4:  Dimension Door
+		Level 6:  Sunbeam
+		Level 7:  Finger of Death
+
 	Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-	Level 1: Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
-	Level 2: Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
-	Level 3: Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
-	Level 4: Polymorph, Dimension Door, Fabricate, Arcane Eye
-	Level 5: Wall of Force, Teleportation Circle, Telekinesis
-	Level 6: Sunbeam
-	Level 7: Plane Shift, Finger of Death
+	Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
+	Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
+	Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
+	Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
+	Level 5:  Wall of Force, Teleportation Circle, Telekinesis
+	Level 6:  Sunbeam
+	Level 7:  Plane Shift, Finger of Death
