@@ -1,0 +1,66 @@
+Jorvald Byrgor
+Male
+Age: 514 (born 522, jan 3)
+Alignment: Lawful Evil
+Appearance:
+	Gray dull eyes
+	Pale yellow skin
+	Bald
+
+Apparel:
+	Migration period gjermundbu Helmet
+
+	Chainmail Hauberk, over gambeson
+	Blue gambeson
+	Brown pants
+
+	Leather shoes
+	Leather belt
+
+	Scabbard at front of chest, slightly left.
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Careful
+			2. Mindful
+			3. Restless
+
+		NEGATIVE:
+			1. Judgemental
+			2. Unfriendly
+			3. Cruel
+		
+		Realistic (perspective on the future)
+
+	Specific:
+		Has a norvunic accent
+		Actually sounds like a corpse speaking
+
+Skills:
+	Real:
+		Spearfighting
+		Swordfighting
+
+	Strength: 	17
+	Dexerity: 	13
+	Constitution: 	19
+	Intelligence: 	12
+	Wisdom: 	11
+	Charisma: 	16
+
+Height: 183cm (6ft 0in)
+Weight: 92kg (202lbs)
+
+Languages (sorted by time learned):
+	Old Hendric
+	Draco-Norvunic
+	Old Esrel
+
+Occupications:
+	Dane axe fighter, eldritch knight
+
+Magic:
+	Cantrips: Light
+	Level 1: Arcane Lock, Knock
+	Level 4: Dimension Door

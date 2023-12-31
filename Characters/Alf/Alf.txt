@@ -75,6 +75,8 @@ Possessions:
 Land: Lives with Lorvon
 
 Occupications:
+	Mercenary
 	Spear Fighter
+	Spear Trainer
 
 Backstory: Grew up in Argonlav. Went with Lorvon on an adventure, took a spear with him. Then went to Thalmundol to train spearfighting.

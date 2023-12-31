@@ -155,7 +155,8 @@ Land:
 Occupications:
 	Current:
 		Wizard
-		Adventurer
+		Mercenary
+		Jarl
 
 	Retired:
 		War mage
