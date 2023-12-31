@@ -31,7 +31,7 @@ Apparel:
 	Leather pouch 2 (same as leather pouch, but a little more back)
 	Small leather bag (hung on the right side of belt, to the left of the leather pouch)
 
-	Sapphire necklace made of silver, hidden under robes
+	Amber necklace made of silver, hidden under robes
 
 Goal (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
@@ -136,7 +136,7 @@ Possessions:
 		Alchemy Jug
 
 	Leather pouch 2:
-		A small quartz orb, with moving smoke. This is Lorvon's arcane focus.
+		An opal orb. This is Lorvon's arcane focus.
 
 Land:
 	A small two floor house in Argonlav, Norvun

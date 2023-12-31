@@ -11,10 +11,10 @@ d = dead/deceased (if dead, age is what age they died)
 
 Grandparents       Parents                Youth
 
-Haldig  (MA) (64)                      / Alovael (MA) (27)
-            >----- Algrom  (MA) (51)   |
-Amja    (FA) (67)               \      | Lorvon  (MA) (25)
+Haldig  (MD) (67)                      / Alovael (MA) (27)
+            >----- Algrom  (MA) (57)   |
+Amja    (FD) (62)               \      | Lorvon  (MA) (25)
                                  >-----+
-Bjelnad (MD) (43)               /      | Yngvildr(FA) (23)
-            >----- Myf     (FA) (49)   |
-Elfreida(FA) (72)                      \ Alf     (MA) (21)
+Bjelnad (MD) (44)               /      | Yngvildr(FA) (23)
+            >----- Myf     (FA) (55)   |
+Elfreida(FA) (80)                      \ Alf     (MA) (21)

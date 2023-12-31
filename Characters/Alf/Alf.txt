@@ -5,7 +5,7 @@ Alignment: Neutral Good
 Appearance:
 	Dark blue eyes
 	Fair/light cool skin
-	Shoulder length hair
+	Armpit-length hair, with two parts of hair hanging on both sides of head
 
 	Face:
 		Medium eyebrows
@@ -18,7 +18,7 @@ Apparel:
 	Gjermundbu Helmet when fighting
 
 	Chainmail Hauberk, over woolen robes
-	Woolen brown robes (goes down to the middle of the shins)
+	Woolen green robes (goes down to the middle of the shins)
 
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
