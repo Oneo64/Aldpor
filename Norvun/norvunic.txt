@@ -1,5 +1,3 @@
-Structure:
-
 Pronounciation:
 Legend:
 "the sequence of letters in the original word" = how you should pronounce it as if speaking english
@@ -12,7 +10,6 @@ Things:
 a = aa
 û = oo
 
-u- or -u = ul
 u = uh
 
 ae = ey

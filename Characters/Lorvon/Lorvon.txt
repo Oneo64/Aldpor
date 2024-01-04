@@ -1,4 +1,4 @@
-Lorvon Rulvik, Jarl of Ûfalvik Castle
+Lorvon Rulvik, Jarl of Ulfalvik Castle
 Male
 Age: 25 (born 1012, december 2)
 Alignment: Lawful Good
@@ -96,6 +96,7 @@ Skills:
 
 	Alchemist's Supplies
 
+	Level:          10
 	Strength: 	9 	-1
 	Dexerity: 	14 	+2
 	Constitution: 	12 	+1
@@ -140,7 +141,7 @@ Possessions:
 
 Land:
 	A small two floor house in Argonlav, Norvun
-	Ûfalvik Castle:
+	Ulfalvik Castle:
 		Guards: 8       40sp
 		Men-at-arms: 30 60sp
 
@@ -153,13 +154,11 @@ Land:
 		Horses: 7
 
 Occupications:
-	Current:
-		Wizard
-		Mercenary
-		Jarl
+	Wizard
+	Mercenary
+	Jarl
 
-	Retired:
-		War mage
+	War mage (retired)
 
 Relations:
 	Rondar Glomunssul (friend, met in a school of evocation)

@@ -1,6 +1,6 @@
 Jorvald Byrgor
 Male
-Age: 514 (born 522, jan 3)
+Age: 323 (born 713, jan 3)
 Alignment: Lawful Evil
 Appearance:
 	Gray dull eyes
@@ -42,6 +42,8 @@ Skills:
 		Spearfighting
 		Swordfighting
 
+
+	Level: 13
 	Strength: 	17
 	Dexerity: 	13
 	Constitution: 	19
@@ -61,6 +63,6 @@ Occupications:
 	Dane axe fighter, eldritch knight
 
 Magic:
-	Cantrips: Light
+	Cantrips: Light, Burning Hands
 	Level 1: Arcane Lock, Knock
 	Level 4: Dimension Door

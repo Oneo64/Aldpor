@@ -52,12 +52,13 @@ Skills:
 	Real:
 		Spearfighting
 
-	Strength: 	13
-	Dexerity: 	14
-	Constitution: 	15
+	Level:          8
+	Strength: 	14
+	Dexerity: 	15
+	Constitution: 	16
 	Intelligence: 	11
 	Wisdom: 	13
-	Charisma: 	13
+	Charisma: 	14
 
 Height: 172cm (5ft 8in)
 Weight: 83kg (182lbs)
