@@ -167,21 +167,25 @@ Relations:
 Backstory:
 	Magic: He learned magic from an old tome he found in the storage room. He learned magic to kill bandits at a range. He later used his minor knowlegde of magic in a battle later.
 
-(Level 10) Spells:
-	Prepared:
-		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-		Level 1:  Detect Magic, Mage Armor, Magic Missile
-		Level 2:  Invisibility, Hold Person, Alter Self
-		Level 3:  Counterspell, Fireball, Major Image, Gaseous Form
-		Level 4:  Dimension Door
-		Level 6:  Sunbeam
-		Level 7:  Finger of Death
+Attacks:
+	Can use sword
+	Throws potions, but rarely
 
-	Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-	Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
-	Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
-	Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
-	Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
-	Level 5:  Wall of Force, Teleportation Circle, Telekinesis
-	Level 6:  Sunbeam
-	Level 7:  Plane Shift, Finger of Death
+	(Level 10) Spells:
+		Prepared:
+			Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+			Level 1:  Detect Magic, Mage Armor, Magic Missile
+			Level 2:  Invisibility, Hold Person, Alter Self
+			Level 3:  Counterspell, Fireball, Major Image, Gaseous Form
+			Level 4:  Dimension Door
+			Level 6:  Sunbeam
+			Level 7:  Finger of Death
+
+		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
+		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
+		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
+		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
+		Level 5:  Wall of Force, Teleportation Circle, Telekinesis
+		Level 6:  Sunbeam
+		Level 7:  Plane Shift, Finger of Death
