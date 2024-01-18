@@ -1,0 +1,26 @@
+Liquids:
+Obviously, water is required, and it is strictly water. Any kind of liquid that isn't water will not work.
+
+Catalysts:
+A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
+A catalyst is a magical object that is what makes the potion's effect. Any edible food that has magical connection is considered a catalyst.
+
+Here are a list of catalyst examples:
+	The snow, or foliage where an intense magical battle happened.
+	The foliage near a magical creatures' lair.
+	The grass from a magic academy's training grounds.
+	The water from an ancient magical well. (These catalysts can also be the water required.)
+
+Regeneration Potion
+	Appearance: The potion is a pale honey-colored liquid.
+	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work.
+	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
+	Downside:   Can cause skin cancer if used too much.
+	Components: Basil, red tulip petal, and gecko tail.
+
+Curing Potion
+	Appearance: The potion is a watery liquid, with white specks floating around, like dandruff or lemon fibers.
+	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
+	Effect:     It will kill diseases, viruses, fungi, sicknesses, amoebas and parasites.
+	Downside:   Weakens you, makes you feel tired and sleepy if used a lot.
+	Components: Duck feather, handful of dirt (any type of soil except sand and clay), and small pieces of wood.

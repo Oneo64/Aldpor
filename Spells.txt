@@ -1,14 +1,14 @@
-If no components are found on an object, then the casting action will be described in it's description.
-
-DnD usage: If the spell description explains the movement required for the spell, that will be it. Otherwise, if there is the (S)omatic component in the spell's component list, you use the Point movement described below.
-
 Requirements:
 	Verbal: You are required to speak some mystical words.
 
 	Swipe: You reach out at a target, kind of like swiping the air.
+
+	Free: You can use the Point, Ball, or Reach gestures.
 	Point: You point at a location.
 	Ball: You form a ball with your hands, like holding an invisible ball.
 	Reach: You reach towards the target, kind of like star wars force.
+
+	SPecial: A special description will be given.
 
 	Material: You need some item, or a handful of material.
 
@@ -16,7 +16,7 @@ Requirements:
 Trip (LVL 2 transmutation)
 	Casting time: Instant
 	Range: 20m (60ft)
-	Requirements: V, S
+	Requirements: V, F
 
 You forcefully move a leg of a target in a direction. If the target is standing, then it must succeed a Dexerity saving throw or fall prone. It then must succeed on a DC 18 Constitution saving throw, or it's concentration will be broken.
 
@@ -24,7 +24,7 @@ You forcefully move a leg of a target in a direction. If the target is standing,
 Pause Movement (LVL 7 transmutation)
 	Casting time: Instant
 	Range: 20m (60ft)
-	Requirements: V, P
+	Requirements: V, F
 	Duration: 2 minutes
 
 You point at a point within the range. Everything, including loose objects in a sphere 3m (10ft) area will completely stop, while they will keep moving with the object they were standing on. Each round after 30 seconds, all creatures that isn't undead or a construct will take 2 necrotic damage due to lack of oxygen.
@@ -42,7 +42,7 @@ A creature you target will have their strength, and constitution lowered by 4, t
 Capture Creature (LVL 6 abjuration)
 	Casting time: 10 minutes
 	Range: Touch
-	Requirements: V, M (a big oyster shell)
+	Requirements: V, SP (draw on ground), M (a big oyster shell)
 	Duration: Lasts untill dispelled
 
 You draw a symbol on the ground, which is near invisible. A creature can see this by making a Wisdom saving throw. When a large or smaller creature steps on this symbol, they will be restrained by an invisible force for 24 hours, or someone casts Dispel Magic.
@@ -51,7 +51,7 @@ You draw a symbol on the ground, which is near invisible. A creature can see thi
 Blast Hole (LVL 5 evocation)
 	Casting time: Instant
 	Range: 40m (120ft)
-	Requirements: V, P, M (a ball of iron worth at least 50gp)
+	Requirements: V, F, M (a ball of iron worth at least 50gp)
 	
 You point at a point. An explosion in a sphere 5m (15ft) erupts from the point you chose. All creatures in the area must make a Dexerity saving throw or take 6d8 Bludgeoning and 1d10 Fire damage.
 If the point was on a wall, and the wall is thinner than 2 + your Intelligence modifier, then a hole gets blasted in the wall. Each creature behind the wall willl take 5d10 Bludgeoning damage, and make a Wisdom (perception) saving throw. On failure, the creature takes this damage suprised. The creatures that can see you automatically succeeds on the saving throw.
@@ -60,7 +60,7 @@ If the point was on a wall, and the wall is thinner than 2 + your Intelligence m
 Curse of Headaches (LVL 5 necromancy)
 	Casting time: Instant
 	Range: 10m (30ft)
-	Requirements: V, B
+	Requirements: V, F
 	Duration: 30 minutes, or until dispelled
 
 You target a creature. The target must succeed on a Constitution saving throw or be cursed for the duration. While the target is cursed, it has disadvantage on Intelligence, Wisdom and Charisma saving throws. Every minute, the target must make a Constitution saving throw. On failure, it takes 1d4 psychic damage. A Remove Curse, or Lesser/Greater Restoration ends the effect. Constructs and undead are unaffected by this spell.
@@ -69,7 +69,7 @@ You target a creature. The target must succeed on a Constitution saving throw or
 Bind with Chains (LVL 3 conjuration)
 	Casting time: 3 seconds
 	Range: 10m (30ft)
-	Requirements: V, R, M (a bit of chain at least 30cm(a foot))
+	Requirements: V, F, M (a bit of chain at least 30cm(a foot))
 	Duration: 1 hour or until dispelled
 
 You choose a creature within range with a size or Huge or smaller. Chains suddenly appear from the ground (air if no ground), and lances towards the target. The target then must succeed on a Dexerity saving throw, or become restrained. The creature can succeed a DC 19 Strength saving throw to break out. You can dismiss this spell anytime.
@@ -79,7 +79,7 @@ At Higher Levels: For each level above 5th, increase the DC required to break fr
 Jeiruld's Random Blasts (LVL 3 conjuration)
 	Casting time: 6 seconds
 	Range: 30m (90ft)
-	Requirements: V, P, M (a handful of small pebbles and pieces of wood)
+	Requirements: V, F, M (a handful of small pebbles and pieces of wood)
 	Duration: concentration up to 1 minute
 
 For every round until the spell ends, roll a d3 on the table below. The object will then pop out randomly around you. It will then shoot towards the direction where you are pointing. Each creature in a 5m (15ft) radius must succeed on a Dexerity saving throw or take the appropriate damage amount. Creatures with a size of Large or greater make this saving throw with disadvantage. The object's size is small.

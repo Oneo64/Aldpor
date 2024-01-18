@@ -28,10 +28,16 @@ Apparel:
 	Leather scabbard (on left side of hip, pointed down)
 
 	Leather pouch (hung on right side of belt, dimensions about 15x30)
-	Leather pouch 2 (same as leather pouch, but a little more back)
-	Small leather bag (hung on the right side of belt, to the left of the leather pouch)
+	Leather pouch 2 (same as leather pouch above, but a little more back)
+	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
 
-	Amber necklace made of silver, hidden under robes
+	Silver necklace, with the norvunic "T" rune (shown below)
+	Silver bracelet, on the left wrist
+
+   .
+  /|\
+   |
+  ===
 
 Goal (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
@@ -122,7 +128,6 @@ Languages (sorted by time learned):
 Possessions:
 	An arming sword (Total length: 85cm, Blade length: 70cm, looks like a viking/ulfberht sword)
 
-	Small leather pouch (contains a portion of Lorvon's wealth)
 	Leather pouch:
 		A closed jar of ink
 		A quill taken from a goose
@@ -130,14 +135,19 @@ Possessions:
 		2 blank scrolls
 		A drinking horn
 
-		A spellbook
 		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
+
+		A small vial of Regeneration Potion
+		A small vial of Simple Curing Potion
 
 		(magic items)
 		Alchemy Jug
 
 	Leather pouch 2:
-		An opal orb. This is Lorvon's arcane focus.
+		A spellbook
+		An opal orb (This is Lorvon's arcane focus)
+
+	Small cloth bag: Gold and silver
 
 Land:
 	A small two floor house in Argonlav, Norvun

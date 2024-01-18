@@ -1,0 +1,6 @@
+Moon:
+	Aan, yellow moon
+	Lûn, white moon
+	Vel, blue moon
+
+	Once every few decades, Aan rubs past on Lûn's surface, causing a bright flash and some meteors.
