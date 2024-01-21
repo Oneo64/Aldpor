@@ -17,9 +17,30 @@ OVERRIDES:
 Fireball (LVL 3 evocation)
 	Casting time: Instant
 	Range: 40m (120ft)
-	Requirements: V, (F: Point or reach)
+	Requirements: V, P or R
 
-A point you choose explodes in a ball of fire. Everything in a 4m (12ft) radius is burnt, taking 2d8 Fire + 1d6 Bludgeoning damage. All cloths and fabrics are torn and destroyed in the radius, unless rules say otherwise.
+A point you choose explodes in a ball of fire. Everything in a 4m (12ft) radius is burnt, taking 2d8 Fire + 1d6 Bludgeoning damage. All cloths and fabrics are torn and destroyed in the radius, unless rules say otherwise. Everything else flammable other than fabric is set on fire.
+
+
+Lightning Bolt (LVL 3 evocation)
+	Casting time: Instant
+	Range: 100m (300ft)
+	Requirements: V, F
+
+A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
+If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
+
+If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
+
+
+Finger of Death (LVL 7 necromancy)
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
+
+Chance to strike something else:
+Distance       Chance
+20m+ (60ft)  > d12 (8.3%)
+50m+ (150ft) > d6  (16.7%)
+80m+ (240ft) > d4  (25%)
 
 
 ORIGINAL SPELLS:

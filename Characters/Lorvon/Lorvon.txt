@@ -10,6 +10,8 @@ Appearance:
 	Burn mark on chest (result of magic practice)
 	Scar on right shoulder (result from arrow shot)
 
+	Voice: Frodo Baggins but older and a little deeper, and instead of british accent, its a norvunic accent
+
 	Face:
 		Medium eyebrows
 		Hooded eyes
