@@ -1,0 +1,25 @@
+Wealth: For personal wealth, divide by 2 and round down, or convert to cp, divide by four and round down.
+Average family wealth per social class:
+	Very Low class (thralls and slaves):     family: 5 sp     + 20 cp   || personal: 2 sp    + 15 cp
+	Low class (peasants):                    family: 5 gp     + 20  sp  || personal: 2 gp    + 15 sp
+	Middle class (karls):                    family: 20 gp    + 100 sp  || personal: 5 gp    + 25 sp
+	High class (nobles, mayors, chieftains): family: 100 gp   + 200 sp  || personal: 50 gp   + 200 sp
+	Very High class (jarls):                 family: 4000 gp  + 500 sp  || personal: 2000 gp + 250 sp
+	Most High class (kings and royals):      family: 10000 gp + 1000 sp || personal: 5000 gp + 500 sp
+
+Gemstones (per carat):
+
+Ruby:       5 gp  Transparent deep red crystal
+
+Emerald:    2 gp  Transparent deep green crystal
+Sapphire:   2 gp  Transparent blue to light blue crystal
+Red opal:   2 gp  Translucent black stone with spots of green, blue, and red
+Black opal: 2 gp  Translucent black stone with spots of green, blue, and red
+
+Opal:       1 gp  Translucent white stone with spots of green, blue, purple and small spots of faint red
+Labadorite: 1 gp  Translucent dark blue/purple with black to dark brown cracks, and some parts gold
+
+Jade:       3 sp  Opaque pale green stone with streaks of light gree
+Amethyst:   3 sp  Transparent deep purple crystal
+Amber:      1 sp  Transparent gold stone
+Malachite:  1 sp  

@@ -2,7 +2,7 @@ Same as DnD's forgotten realm's magic system, with a few changes:
 
 All spell casting has been halved.
 
-You can 'store' a spell in glass/crystal orb. Before you can do this, or even cast a spell using an orb, you MUST attune to it first.
+You can 'store' a spell in orb. Before you can do this, or even cast a spell using an orb, you MUST attune to it first.
 You will not be able to attune to an orb if someone else has already attuned to it.
 By attuning to an orb, the orb will recognise your voice, and only yours.
 
@@ -16,3 +16,6 @@ By casting a spell stored in an orb, the spell is not removed, so you can cast a
 Casting a spell from an orb still uses your mental energy.
 
 Most wizards, clerics, druids, what ever spellcasters there are, uses orbs as their arcane focus because it is faster, easier, and you don't need to speak gibberish, and wave your arms around elegantly in order to cast a spell.
+
+Most orbs used are either marble, glass, or wood.
+Only the wealthy can afford gemstone orbs, and most of these orbs are made of any opal variant.

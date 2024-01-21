@@ -115,7 +115,7 @@ Skills:
 Height: 175cm (5ft 9in)
 Weight: 79kg (175lbs)
 
-Wealth: 4615 gp, 370 sp, income about (600g - 540g)/month = 60g/month
+Personal Wealth: 2330 gp, 230 sp, income about (600g - 540g)/month = 60g/month
 
 (English is also called hendric, * = not fluent)
 Languages (sorted by time learned):
@@ -145,7 +145,7 @@ Possessions:
 
 	Leather pouch 2:
 		A spellbook
-		An opal orb (This is Lorvon's arcane focus)
+		An opal orb, 9cm diameter (This is Lorvon's arcane focus, worth 600gp)
 
 	Small cloth bag: Gold and silver
 
@@ -181,7 +181,7 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 10) Spells:
+	(Level 11, DnD level 6-8) Spells:
 		Prepared:
 			Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
 			Level 1:  Detect Magic, Mage Armor, Magic Missile
@@ -199,3 +199,4 @@ Attacks:
 		Level 5:  Wall of Force, Teleportation Circle, Telekinesis
 		Level 6:  Sunbeam
 		Level 7:  Plane Shift, Finger of Death
+		Level 9:  Major Teleportation (once a day)

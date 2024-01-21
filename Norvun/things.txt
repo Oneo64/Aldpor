@@ -1,0 +1,4 @@
+Rules for houses in Norvun:
+	1. You get the local mayor/cheiftain's permission.
+	2. You tell him the location.
+	3. You build the house yourself, or pay someone to do it (if you can afford to do so).

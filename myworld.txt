@@ -2,25 +2,25 @@ ALDPOR
 Creation date: 2023 July
 
 Notable features:
-	In the forests, there are more monsters/abnormality encounters.
-	If an area has not been visited by a non-evil creature in an hour, has not been recently built by a non-evil creature, and currently does not have any residents, demons may spawn there.
-		these demons can be: a nalfeshnee, a marilith (rarely), a shadow demon, 5-15 quasits, a hezrou, or 5-15 dretchs.
-	The material plane has more elemental evil monsters, their elements corresponding with it's location. For example (Up north, there are ice, earth and air elementals.)
+In the forests, there are more monsters/abnormality encounters.
 
-	A lot of weapons use iron. Only the wealthy can afford Damascus Steel.
+If an area has not been visited by a non-evil creature in an hour, has not been recently built by a non-evil creature, and currently does not have any residents, demons may spawn there. These demons can be: a nalfeshnee, a marilith (rarely), a shadow demon, 5-15 quasits, a hezrou, or 5-15 dretchs.
 
-	Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and
-		crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most
-		humans. They also have the same lifespan of humans.
-	Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarvish king will be the kings leader.
-		Examples: A king handles the kingdom's army, one handles imports and exports, one handles economy etc.
-	Racism towards dwarves exist. The racial slurs are 'mishman' for Mornesvian dwarves and 'glogs' for Glomic dwarves. Don't use these if you don't want the dwarves to hate you.
+The material plane has more elemental evil monsters, their elements corresponding with it's location. For example (Up north, there are ice, earth and air elementals.)
 
-	Elves have a lifespan of 150 years. High elves usually have light blue or light purple skin, while cold elves have light yellow, light brown, or bright skin.
-	Elves, unlike the dwarves, have a leader instead. The leader is expected to be responible to everything in the group.
+A lot of weapons use iron. Only the wealthy can afford Damascus Steel.
 
-	Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right?
-		(still new technology can be developed, but they will likely be lost due to thieves and bandits)
+Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans.
+
+Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarvish king will be the kings leader. Examples: One king handles the kingdom's army, one handles imports and exports, one handles economy etc.
+
+Racism towards dwarves exist. The racial slurs are 'mishman' for Mornesvian dwarves and 'glogs' for Glomic dwarves. Don't use these if you don't want the dwarves to hate you.
+
+Elves have a lifespan of 150 years. High elves usually have light blue or light purple skin, while cold elves have light yellow, light brown, or bright skin.
+
+Elves, unlike the dwarves, have a leader instead. The leader is expected to be responible to everything in the group.
+
+Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right? (still new technology can be developed, but they will likely be lost due to thieves and bandits)
 
 Appearance of each race:
 	Human:
@@ -58,6 +58,26 @@ Kingdoms:
 	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = slavic)
 	Mornesvid (dwarves, speaks Mornesvian, main city on high hill) (culture = scottish)
 	Banod (dwarves, speaks Banodic, culture = slavic)
+
+Craftsmanship/crafter things:
+	Common: Woodworking, Leatherworking (not shoes) Metalworking, Lumberjack, Miner
+	Uncommon: Stone mason
+	Rare: Calligraphers
+
+Shops:
+	Common: Shoemakers, farmers
+	Uncommon: Woodcarvers, arms dealers, non-gemstone orb sellers
+	Rare: Magic scrolls sellers, gemstone orb sellers
+
+Trainers:
+	Common: Axe, Spear, Mace
+	Uncommon: Sword, Longaxe, Magic academies Level 1-8
+	Rare: Magic academies Level 9-11
+
+Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
+	Village: About 30 houses (common crafters and shops)
+	Town: About 100 houses (uncommon crafters and shops)
+	City: About 300 houses (rare crafters and shops)
 
 (If a weapon doesn't appear, it doesn't exist in my world)
 Weapons:
