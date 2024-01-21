@@ -6,7 +6,7 @@ You can 'store' a spell in orb. Before you can do this, or even cast a spell usi
 You will not be able to attune to an orb if someone else has already attuned to it.
 By attuning to an orb, the orb will recognise your voice, and only yours.
 
-*Your orb will not work if someone else with your voice tries to use your voice.
+*Your orb will not work if someone else with your voice tries to use your voice.*
 
 When you store a spell to an orb, you can pick any gesture or movement (you must act it out) for the casting part. Then, you pick some incantation, which can be anything you want. After all that, you have to cast a special spell on the orb, then the actual spell you want to store. You can have as many spells stored in the orb as you want.
 
@@ -15,7 +15,11 @@ Casting Identify or Detect Magic on the orb tells you what spells are stored.
 By casting a spell stored in an orb, the spell is not removed, so you can cast as many as you want.
 Casting a spell from an orb still uses your mental energy.
 
-Most wizards, clerics, druids, what ever spellcasters there are, uses orbs as their arcane focus because it is faster, easier, and you don't need to speak gibberish, and wave your arms around elegantly in order to cast a spell.
+Most wizards, clerics, druids, what ever spellcasters there are, uses orbs as their arcane focus because it is almost three times as fast, much easier, and you don't need to speak gibberish, and wave your arms around elegantly in order to cast a spell.
+
+If you are playing DnD, spells stored in your orb count as prepared. You can still cast spells that aren't 'prepared', but they will take significantly longer, as said above.
+
+If a spell is in "Spells.txt", the casting time is as if you are using an orb. Without an orb, multiply casting time by 3. If the spell isn't in "Spells.txt", and you are using an orb, go look up "5e fireball" or whatever spell it is in 5th edition on google, and divide the casting time by 3.
 
 Most orbs used are either marble, glass, or wood.
 Only the wealthy can afford gemstone orbs, and most of these orbs are made of any opal variant.
