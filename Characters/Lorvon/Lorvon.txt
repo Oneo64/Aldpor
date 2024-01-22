@@ -166,7 +166,7 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 11, DnD level 6-8) Spells:
+	(Level 10) Spells:
 		Prepared In Orb:
 			Cantrips: Fire Bolt, Shocking Grasp
 			Level 1:  Mage Armor, Magic Missile
