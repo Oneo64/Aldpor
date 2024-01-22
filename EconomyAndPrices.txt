@@ -37,13 +37,14 @@ Structures (wall multiplier, floor multiplier, roof multiplier):
 	Keep:        walls x100  floors x30  roof x20  labor x20 (500gp + 90gp + 10gp + (1sp x 20 x 300 = 6000sp = 600gp) = 1200gp)
 	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
 
-Item Materials per cm2, for armor its per 100 cm2:
+Item Materials:
 	Silk:    2 sp
 	Leather: 1 sp
 	Linen:   5 cp
 	Wool:    5 cp
 
 	Wood:    5 cp
+	Copper:  1 sp
 	Iron:    5 sp
 	Steel:   1 gp
 	Silver:  1 gp
@@ -143,24 +144,29 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 
 	1 Sack of Wool (raw):  1 sp + 5 cp
 
+
+Symbols (use the item materials table above, use same rules for engraving):
+	Norvunic "T" Rune: x5
+	Key:               x5
+
+
 Formula: volume in cm3 * density * 0.5 * price
 Gemstones (per 10 carats):
+	Ruby:         8 gp Transparent deep red crystal
+	Black opal:   8 gp Translucent black stone with spots of green, blue, and red
 
-Ruby:         8 gp Transparent deep red crystal
-Black opal:   8 gp Translucent black stone with spots of green, blue, and red
+	Emerald:      4 gp Transparent deep green crystal
+	Sapphire:     4 gp Transparent blue to light blue crystal
 
-Emerald:      4 gp Transparent deep green crystal
-Sapphire:     4 gp Transparent blue to light blue crystal
+	Fire opal:    2 gp Translucent black stone with spots of green, blue, and red
 
-Fire opal:    2 gp Translucent black stone with spots of green, blue, and red
+	Crystal Opal: 7 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
+	Labadorite:   7 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
 
-Crystal Opal: 7 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-Labadorite:   7 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
+	White Opal:   2 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
+	Amethyst:     2 sp Transparent deep purple crystal
 
-White Opal:   2 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-Amethyst:     2 sp Transparent deep purple crystal
+	Jade:         2 sp Opaque pale green stone with streaks of light gree
+	Amber:        2 sp Transparent gold stone
 
-Jade:         2 sp Opaque pale green stone with streaks of light gree
-Amber:        2 sp Transparent gold stone
-
-Malachite:    1 sp Opaque pale dark green stone with swirls
+	Malachite:    1 sp Opaque pale dark green stone with swirls
