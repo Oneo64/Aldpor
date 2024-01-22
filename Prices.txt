@@ -36,12 +36,12 @@ Structures (wall multiplier, floor multiplier, roof multiplier):
 	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
 
 Item Materials per cm2, for armor its per 100 cm2:
-	Leather: 2 sp
-	Linen:   1 sp
-	Wool:    1 sp
+	Leather: 1 sp
+	Linen:   5 cp
+	Wool:    5 cp
 
-	Wood:    1 sp
-	Iron:    1 gp
+	Wood:    5 cp
+	Iron:    5 sp
 	Steel:   1 gp
 	Silver:  1 gp
 	Gold:    10 gp
@@ -82,6 +82,9 @@ Foods (estimate):
 	1 Sack of Oat:        3 sp
 	1 Sack of Rice:       3 sp
 	1 Sack of Rye:        5 sp
+
+	Common spice (jar):   4 sp
+	Rare spice (jar):     8 sp
 
 	Loaf of bread:        5 cp
 

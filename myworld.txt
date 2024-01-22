@@ -74,10 +74,21 @@ Trainers:
 	Uncommon: Sword, Longaxe, Magic academies Level 1-8
 	Rare: Magic academies Level 9-11
 
+Kingdom sizes:
+	Small:  1 Town   + 3 Villages
+	Medium: 1 City   + 2 Towns + 10 Villages
+	Large:  2 Cities + 4 Towns + 20 Villages
+
+Average household (about 14 people):
+	age 1-20  x5
+	age 21-40 x4
+	age 41-60 x3
+	age 61+   x2
+
 Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
-	Village: About 30 houses (common crafters and shops)
-	Town: About 100 houses (uncommon crafters and shops)
-	City: About 300 houses (rare crafters and shops)
+	Village: About 30 houses (common crafters and shops) Population: 30 x 14 = 420   people
+	Town: About 100 houses (uncommon crafters and shops) Population: 100 x 14 = 1400 people
+	City: About 300 houses (rare crafters and shops)     Population: 300 x 14 = 4200 people
 
 (If a weapon doesn't appear, it doesn't exist in my world)
 Weapons:
