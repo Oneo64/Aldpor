@@ -1,6 +1,11 @@
 THE RULVIK FAMILY TREE
 
-Wealth: 4175 gp, 370 sp
+*Everyone alive in the family tree lives together, and everyone except the elderly ocasionally works on their farm.
+
+Wealth: 1210 gp, 370 sp
+Land:
+    A longhouse built with the best materials that houses almost everyone in the family. This house is in Argonlav, Norvun.
+    A couple of small farms next to their longhouse, mainly to feed their family. About 20% of food remain, and that would be sold.
 
 m = male
 f = female
@@ -16,5 +21,5 @@ Haldig  (MD) (67)                      / Alovael (MA) (27)
 Amja    (FD) (62)               \      | Lorvon  (MA) (25)
                                  >-----+
 Bjelnad (MD) (44)               /      | Yngvildr(FA) (23)
-            >----- Myf     (FA) (55)   |
+            >----- Mif     (FA) (55)   |
 Elfreida(FA) (80)                      \ Alf     (MA) (21)

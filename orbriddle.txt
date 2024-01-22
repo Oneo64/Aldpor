@@ -1,3 +1,5 @@
+(old and outdated version of norvunic, it was mostly a relex)
+
 A jade orb in a sylvan forest,
 sits on a great marble pedestal.
 When the full moon shines on it,
@@ -7,3 +9,10 @@ Od jadre urul ei od seilvan traevos,
 hat jan od vost mobre lievaer.
 Ag tamr od tif arandas tif jan ga,
 ateyr ga od navir'rui vertat.
+
+(new version of norvunic, no longer a relex)
+
+Ûn jadre orul ern ûn silven trævos,
+hat ug ûn bag mobre leivær.
+Lanyr pa ik gevfde arandas svusor hom ug sat,
+atr pa orul vral pa galaje vertat.

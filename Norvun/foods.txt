@@ -1,0 +1,11 @@
+common foods:
+	seperated meal (on plate):
+		rice
+		potatoes
+		carrots
+
+	stew (in bowl):
+		bread (if available/affordable)
+		deer/vension (if available/affordable)
+		potatoes
+		carrots

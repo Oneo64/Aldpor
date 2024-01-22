@@ -1,4 +1,4 @@
-Lorvon Rulvik, Jarl of Ulfalvik Castle
+Lorvon Rulvik
 Male
 Age: 25 (born 1012, december 2)
 Alignment: Lawful Good
@@ -82,7 +82,7 @@ Personality:
 		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Power:
-	Very powerful with magic
+	Powerful with magic
 		Because its supposed to be real life and not a generic rpg, all spells will be tweaked to a realistic way.
 		(Like how fireball won't do much in the harsh winters of norvun, but will be affective in the sahara desert)
 	Below average with physical
@@ -105,19 +105,19 @@ Skills:
 	Alchemist's Supplies
 
 	Level:          10
-	Strength: 	9 	-1
-	Dexerity: 	14 	+2
+	Strength: 	    9 	-1
+	Dexerity:       14 	+2
 	Constitution: 	12 	+1
 	Intelligence: 	17	+3 proficiency
-	Wisdom: 	13 	+1 proficiency
-	Charisma: 	11	+0
+	Wisdom: 	    13 	+1 proficiency
+	Charisma: 	    11	+0
 
 	Martial Adept: Parry + Precision Strike
 
 Height: 175cm (5ft 9in)
 Weight: 79kg (175lbs)
 
-Personal Wealth: 2330 gp, 230 sp, income about (600g - 540g)/month = 60g/month
+Personal Wealth: 203 gp, 230 sp, income about (600g - 540g)/month = 60g/month
 
 (English is also called hendric, * = not fluent)
 Languages (sorted by time learned):
@@ -147,30 +147,13 @@ Possessions:
 
 	Leather pouch 2:
 		A spellbook
-		An opal orb, 9cm diameter (This is Lorvon's arcane focus, worth 600gp)
+		An crystal opal orb, 9cm diameter (This is Lorvon's arcane focus)
 
 	Small cloth bag: Gold and silver
-
-Land:
-	A small two floor house in Argonlav, Norvun
-	Ulfalvik Castle:
-		Guards: 8       40sp
-		Men-at-arms: 30 60sp
-
-		Cooks: 4        4cp
-		Caretakers: 15  75sp
-
-		Carters: 3      6cp
-		Shepards: 3     3sp
-		Sheep: 28
-		Horses: 7
 
 Occupications:
 	Wizard
 	Mercenary
-	Jarl
-
-	War mage (retired)
 
 Relations:
 	Rondar Glomunssul (friend, met in a school of evocation)
