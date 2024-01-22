@@ -3,14 +3,18 @@ Currencies:
 	sp = 0.1 gp, 10 cp
 	cp = 0.01 gp, 0.1 sp
 
-Wealth: For personal wealth, divide by 2 and round down, or convert to cp, divide by four and round down.
+Wealth: For personal wealth, divide by 2 and round down, or convert to cp, divide by three and round down. Middle class isn't exactly poor, but average.
+
 Average family wealth per social class:
-	Very Low class (thralls and slaves):     family: 2 sp     + 5 cp              || personal: 2 sp
-	Low class (peasants):                    family: 1 gp     + 5 sp    + 10 cp   || personal: 2 sp   + 15 cp
-	Middle class (karls):                    family: 10 gp    + 50 sp   + 100 cp  || personal: 5 sp   + 25 cp
-	High class (wealthy people, mayors):     family: 500 gp   + 200 sp  + 200 cp  || personal: 8 gp   + 50 cp
-	Very High class (jarls):                 family: 2000 gp  + 1000 sp + 500 cp  || personal: 100 gp + 80 cp
-	Most High class (kings and royals):      family: 15000 gp + 2500 sp + 1000 cp || personal: 500 gp + 250 cp
+	Low class (peasants):                family: 20 sp  + 20 cp               || personal: 6 sp   + 6 cp
+	Middle class (karls):                family: 100 sp + 100 cp              || personal: 35 sp  + 35 cp
+	--WEALTHY/RICH BORDER---------------------------------------------------------------------------------------------
+	High class (wealthy people, mayors): family: 20 gp  + 5000 sp  + 1000 cp  || personal: 6 gp   + 1650 cp  + 350 cp
+	Very High class (jarls):             family: 100 gp + 25000 sp + 5000 cp  || personal: 35 gp  + 8350 sp  + 1650 cp
+	Most High class (kings and royals):  family: 500 gp + 40000 sp + 20000 cp || personal: 160 gp + 13330 cp + 6650 cp
+
+Skilled Hireling:    5 sp/day
+Unskilled Hireling:  2 sp/day
 
 Any carved piece is counted outside of the multiplier, and price goes up by 5x.
 Example: walls multiplier x5, but 1 is carved. the walls cost 1gp each.
@@ -23,8 +27,6 @@ Building Materials:
 	Leather:          2 sp
 	Thatch:           1 sp
 
-	Skilled Labor:    5 sp/day
-	Unskilled Labor:  2 sp/day
 	No floor:         ignore floor
 
 Structures (wall multiplier, floor multiplier, roof multiplier):
@@ -45,10 +47,10 @@ Item Materials per cm2, for armor its per 100 cm2:
 	Gold:    10 gp
 	Sword handle (Iron wrapped with leather): 2 sp
 
-Cloth Dyes per 400 cm2 (pale | saturated):
-	Cheap (earthly colors, shades):   1 sp | 2 sp
-	Somewhat expensive (warm colors): 2 sp | 4 sp
-	Expensive (cool colors):          5 sp | 1 gp
+Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
+	Cheap (earthly colors, shades):   1 cp | 2 cp
+	Somewhat expensive (warm colors): 1 sp | 2 sp
+	Expensive (cool colors):          3 sp | 6 sp
 
 Items (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
 	Ulfberht Sword:   handle x2, crossguard + blade x25
@@ -72,21 +74,21 @@ Items (multipliers, gemstones are below. engraving, or fancy patterns multiplies
 	Ring:           ring x5
 
 Foods (estimate):
-	Apple, orange, lemon: 2 cp
-	Cabbage, potato:      1 cp
-	Carrot, lettuce:      2 cp
+	Apple, orange, lemon: 6 cp
+	Carrot, lettuce:      4 cp
+	Cabbage, potato:      2 cp
 
-	1 Bag of Wheat:       6 sp
-	1 Bag of Oat:         6 sp
-	1 Bag of Rice:        6 sp
-	1 Bag of Rye:         1 gp
+	1 Sack of Wheat:      3 sp
+	1 Sack of Oat:        3 sp
+	1 Sack of Rice:       3 sp
+	1 Sack of Rye:        5 sp
 
 	Loaf of bread:        5 cp
 
-	Cheap Mead:           1 sp
+	Cheap Mead:           5 cp
 	Expensive Mead:       1 gp
 
-	Cheap Wine:           1 sp
+	Cheap Wine:           5 cp
 	Expensive Wine:       1 gp
 
 Formula: volume in cm3 * density * 0.5 * price

@@ -117,7 +117,7 @@ Skills:
 Height: 175cm (5ft 9in)
 Weight: 79kg (175lbs)
 
-Personal Wealth: 203 gp, 230 sp, income about (600g - 540g)/month = 60g/month
+Carrying Wealth: 20 gp, 2600 sp, 940 cp
 
 (English is also called hendric, * = not fluent)
 Languages (sorted by time learned):
