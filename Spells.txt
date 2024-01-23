@@ -22,25 +22,49 @@ Fireball (LVL 3 evocation)
 A point you choose explodes in a ball of fire. Everything in a 4m (12ft) radius is burnt, taking 2d8 Fire + 1d6 Bludgeoning damage. All cloths and fabrics are torn and destroyed in the radius, unless rules say otherwise. Everything else flammable other than fabric is set on fire.
 
 
+
 Lightning Bolt (LVL 3 evocation)
 	Casting time: Instant
 	Range: 100m (300ft)
 	Requirements: V, F
 
-A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
-If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
+	A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
+	If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
 
-If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
+	If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
+
+	Chance to strike something else:
+	Distance       Chance
+	 20m+ (60ft)    d12 (8.3%)
+	 50m+ (150ft)   d6  (16.7%)
+	 80m+ (240ft)   d4  (25%)
+
 
 
 Finger of Death (LVL 7 necromancy)
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 
-Chance to strike something else:
-Distance       Chance
-20m+ (60ft)  > d12 (8.3%)
-50m+ (150ft) > d6  (16.7%)
-80m+ (240ft) > d4  (25%)
+
+
+Telekinesis (LVL 5 transmutation)
+	Casting time: 3 seconds
+	Range: 20m (60ft)
+	Requirements: V, P or R
+	Duration: Concentration up to 1 minute
+
+	An object or creature you choose hovers in the air for the duration. Each round, you can move the creature up to 10m (30ft), or approximately 1.6 m/s. When the spell ends, the object or creature is dropped.
+
+	Based on the spell level, there are additional bonuses.
+
+	You can telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. The damage is determined by the table below.
+
+	Weight       Level Required    Damage
+	 0 - 2 kg     5                 1d4 Bludgeoning
+	 3 - 5 kg     6                 2d6 Bludgeoning
+	 6 - 10 kg    7                 3d8 Bludgeoning
+	 11 - 15 kg   8                 4d10 Bludgeoning
+	 16 - 20 kg   9                 5d12 Bludgeoning
+	 20+          Can't be thrown
 
 
 ORIGINAL SPELLS:
@@ -52,6 +76,7 @@ Trip (LVL 2 transmutation)
 You forcefully move a leg of a target in a direction. If the target is standing, then it must succeed a Dexerity saving throw or fall prone. It then must succeed on a DC 18 Constitution saving throw, or it's concentration will be broken.
 
 
+
 Pause Movement (LVL 7 transmutation)
 	Casting time: Instant
 	Range: 20m (60ft)
@@ -59,6 +84,7 @@ Pause Movement (LVL 7 transmutation)
 	Duration: 2 minutes
 
 You point at a point within the range. Everything, including loose objects in a sphere 3m (10ft) area will completely stop, while they will keep moving with the object they were standing on. Each round after 30 seconds, all creatures that isn't undead or a construct will take 2 necrotic damage due to lack of oxygen.
+
 
 
 Weaken (LVL 4 necromancy)
@@ -70,6 +96,7 @@ Weaken (LVL 4 necromancy)
 A creature you target will have their strength, and constitution lowered by 4, to a minimum of 1. Constructs are not affected by this spell. You cannon cast this spell on the target again for 24 hours.
 
 
+
 Capture Creature (LVL 6 abjuration)
 	Casting time: 10 minutes
 	Range: Touch
@@ -77,6 +104,7 @@ Capture Creature (LVL 6 abjuration)
 	Duration: Lasts untill dispelled
 
 You draw a symbol on the ground, which is near invisible. A creature can see this by making a Wisdom saving throw. When a large or smaller creature steps on this symbol, they will be restrained by an invisible force for 24 hours, or someone casts Dispel Magic.
+
 
 
 Blast Hole (LVL 5 evocation)
@@ -88,6 +116,7 @@ You point at a point. An explosion in a sphere 5m (15ft) erupts from the point y
 If the point was on a wall, and the wall is thinner than 2 + your Intelligence modifier, then a hole gets blasted in the wall. Each creature behind the wall willl take 5d10 Bludgeoning damage, and make a Wisdom (perception) saving throw. On failure, the creature takes this damage suprised. The creatures that can see you automatically succeeds on the saving throw.
 
 
+
 Curse of Headaches (LVL 5 necromancy)
 	Casting time: Instant
 	Range: 10m (30ft)
@@ -95,6 +124,7 @@ Curse of Headaches (LVL 5 necromancy)
 	Duration: 30 minutes, or until dispelled
 
 You target a creature. The target must succeed on a Constitution saving throw or be cursed for the duration. While the target is cursed, it has disadvantage on Intelligence, Wisdom and Charisma saving throws. Every minute, the target must make a Constitution saving throw. On failure, it takes 1d4 psychic damage. A Remove Curse, or Lesser/Greater Restoration ends the effect. Constructs and undead are unaffected by this spell.
+
 
 
 Bind with Chains (LVL 3 conjuration)
@@ -105,6 +135,7 @@ Bind with Chains (LVL 3 conjuration)
 
 You choose a creature within range with a size or Huge or smaller. Chains suddenly appear from the ground (air if no ground), and lances towards the target. The target then must succeed on a Dexerity saving throw, or become restrained. The creature can succeed a DC 19 Strength saving throw to break out. You can dismiss this spell anytime.
 At Higher Levels: For each level above 5th, increase the DC required to break free by 2. If cast at 8th level or higher, you can target any creature regardless of size.
+
 
 
 Jeiruld's Random Blasts (LVL 3 conjuration)
@@ -119,6 +150,7 @@ d3
 1 > Blunt rock > 3d8 Bludgeoning
 2 > Sharp rock > 3d8 Slashing
 3 > Wood piece > 2d8 Piercing
+
 
 
 Major Teleportation (LVL 9 conjuration)
