@@ -28,21 +28,16 @@ Lightning Bolt (LVL 3 evocation)
 	Range: 100m (300ft)
 	Requirements: V, F
 
-	A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
-	If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
+A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
+If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
 
-	If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
+If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
 
-	Chance to strike something else:
-	Distance       Chance
-	 20m+ (60ft)    d12 (8.3%)
-	 50m+ (150ft)   d6  (16.7%)
-	 80m+ (240ft)   d4  (25%)
-
-
-
-Finger of Death (LVL 7 necromancy)
-WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
+Chance to strike something else:
+Distance       Chance
+ 20m+ (60ft)    d12 (8.3%)
+ 50m+ (150ft)   d6  (16.7%)
+ 80m+ (240ft)   d4  (25%)
 
 
 
@@ -52,19 +47,20 @@ Telekinesis (LVL 5 transmutation)
 	Requirements: V, P or R
 	Duration: Concentration up to 1 minute
 
-	An object or creature you choose hovers in the air for the duration. Each round, you can move the creature up to 10m (30ft), or approximately 1.6 m/s. When the spell ends, the object or creature is dropped.
+An object or creature you choose hovers in the air for the duration. Each round, you can move the creature up to 10m (30ft), or approximately 1.6 m/s. When the spell ends, the object or creature is dropped.
 
-	Based on the spell level, there are additional bonuses.
+Based on the spell level, there are additional bonuses.
 
-	You can telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. The damage is determined by the table below.
+You can telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. The damage is determined by the table below.
 
-	Weight       Level Required    Damage
-	 0 - 2 kg     5                 1d4 Bludgeoning
-	 3 - 5 kg     6                 2d6 Bludgeoning
-	 6 - 10 kg    7                 3d8 Bludgeoning
-	 11 - 15 kg   8                 4d10 Bludgeoning
-	 16 - 20 kg   9                 5d12 Bludgeoning
-	 20+          Can't be thrown
+	Weight/Max size      Level Required    Damage
+	 0 - 2 kg    Medium   5                 1d4 Bludgeoning
+	 3 - 5 kg    Medium   6                 2d6 Bludgeoning
+	 6 - 10 kg   Large    7                 3d8 Bludgeoning
+	 11 - 15 kg  Large    8                 4d10 Bludgeoning
+	 16 - 20 kg  Huge     9                 5d12 Bludgeoning
+	 20+                  Can't be thrown
+
 
 
 ORIGINAL SPELLS:
@@ -146,10 +142,11 @@ Jeiruld's Random Blasts (LVL 3 conjuration)
 
 For every round until the spell ends, roll a d3 on the table below. The object will then pop out randomly around you. It will then shoot towards the direction where you are pointing. Each creature in a 5m (15ft) radius must succeed on a Dexerity saving throw or take the appropriate damage amount. Creatures with a size of Large or greater make this saving throw with disadvantage. The object's size is small.
 
-d3
-1 > Blunt rock > 3d8 Bludgeoning
-2 > Sharp rock > 3d8 Slashing
-3 > Wood piece > 2d8 Piercing
+	Objects:
+	d3  Object       Damage
+	 1   Blunt rock   3d8 Bludgeoning
+	 2   Sharp rock   3d8 Slashing
+	 3   Wood piece   2d8 Piercing
 
 
 
@@ -162,16 +159,16 @@ You draw a great 5m (15ft) radius circle on the ground, using the chalks and amb
 You can decide to draw a smaller circle, 1m (5ft) radius. If you decide to use a smaller circle, you will instead use up 2 chalks and 5 ambers.
 You will appear off course, as this spell is intended to long range travel.
 
-Off course, in world
-d4
-1 > On target
-2 > 1 km (0.5 mi)
-3 > 2 km (1 mi)
-4 > 3 km (2 mi)
+	Same world:
+	d4  Distance
+	 1   On target
+	 2   0.5 km (0.3 mi)
+	 3   1   km (0.6 mi)
+	 4   1.5 km (0.9 mi)
 
-Off course, different world
-d4
-1 > 1 km (0.5 mi)
-2 > 2 km (1 mi)
-3 > 3 km (2 mi)
-4 > 4 km (2.5 mi)
+	Different world:
+	d4  Distance
+	 1   1 km (0.6 mi)
+	 2   2 km (1.2 mi)
+	 3   3 km (1.8 mi)
+	 4   4 km (2.5 mi)
