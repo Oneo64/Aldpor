@@ -1,0 +1,9 @@
+Summer:
+	Temperature: 22c - 28c (avg. 25c)
+	Day length: 7 hours
+	Night length: 17 hours
+
+Winter:
+	Temperature: -20c - 0c (avg. -10c)
+	Day length: 17 hours
+	Night length: 7 hours

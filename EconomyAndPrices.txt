@@ -77,72 +77,75 @@ Items (multipliers, gemstones are below. engraving, or fancy patterns multiplies
 	Arm ring:       thing x10
 	Ring:           ring x5
 
+* If a food isn't common in the area, it's price increases by 1.5.
 Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
-	Watermelon:            1 sp
-	Pumpkin:               1 sp
-	Squash:                8 cp
-	Any Fruit:             6 cp
-	Carrot:                4 cp
-	Lettuce:               4 cp
-	Cabbage:               3 cp
-	Potato:                3 cp
-	Onion:                 3 cp
+	Watermelon:             1 sp
+	Pumpkin:                1 sp
+	Squash:                 8 cp
+	Any Fruit:              6 cp
+	Carrot:                 4 cp
+	Lettuce:                4 cp
+	Cabbage:                3 cp
+	Potato:                 3 cp
+	Onion:                  3 cp
 
-	50 Blueberries:        1 sp (50 berries = 1 bowl)
-	50 Raspberries:        3 sp (50 berries = 1 bowl)
-	10 Strawberries:       3 sp
+	50 Blueberries:         1 sp (50 berries = 1 bowl)
+	50 Raspberries:         3 sp (50 berries = 1 bowl)
+	10 Strawberries:        3 sp
 
 	* Each sack can hold up to 30 of any vegetable, fruit, meat, or egg.
 
-	1 Sack of Wheat:       4 sp
-	1 Sack of Wheat Flour: 6 sp (can make 10 loaves)
-	1 Sack of Rye:         5 sp
-	1 Sack of Rye Flour:   7 sp (can make 10 loaves)
+	1 Sack of Wheat:        4 sp
+	1 Sack of Wheat Flour:  6 sp (can make 10 loaves)
+	1 Sack of Rye:          4 sp
+	1 Sack of Rye Flour:    6 sp (can make 10 loaves)
+	1 Sack of Barley:       4 sp
+	1 Sack of Barley Flour: 6 sp (can make 10 loaves)
 
-	1 Sack of Oat:         4 sp (100 servings, 12 lb)
-	1 Sack of Rice:        4 sp (100 servings, 12 lb)
+	1 Sack of Oat:          4 sp (100 servings, 12 lb)
+	1 Sack of Rice:         4 sp (100 servings, 12 lb)
 
-	Loaf of wheat bread:   6 cp
-	Loaf of rye bread:     7 cp
+	Loaf of wheat bread:    6 cp
+	Loaf of rye bread:      7 cp
 
-	Goat:                  5 sp
-	Cattle:                5 sp
-	Sheep:                 5 sp
-	Pig:                   3 sp
-	Chicken:               2 sp
-	Duck:                  2 sp
+	Goat:                   5 sp
+	Cattle:                 5 sp
+	Sheep:                  5 sp
+	Pig:                    3 sp
+	Chicken:                2 sp
+	Duck:                   2 sp
 
 	EVERYTHING IN HERE IS IN POUNDS
-	  Deer/Vension:          5 cp
-	  Beef:                  5 cp
-	  Pork:                  5 cp
-	  Chicken (meat):        3 cp
-	  Duck (meat):           3 cp
-	  Fish (meat):           2 cp
+	  Deer/Vension:           5 cp
+	  Beef:                   5 cp
+	  Pork:                   5 cp
+	  Chicken (meat):         3 cp
+	  Duck (meat):            3 cp
+	  Fish (meat):            2 cp
 	EVERYTHING IN HERE IS IN POUNDS
 
-	Chicken egg:           5 cp
-	Duck egg:              5 cp
+	Chicken egg:            5 cp
+	Duck egg:               5 cp
 
-	Cheese wheel:          3 sp
+	Cheese wheel:           3 sp
 
-	Common spice (jar):    3 sp
-	Rare spice (jar):      8 sp
-	Salt (jar):            5 cp
+	Common spice (jar):     3 sp
+	Rare spice (jar):       8 sp
+	Salt (jar):             5 cp
 
-	Cheap Mead:            5 cp
-	Expensive Mead:        1 gp
+	Cheap Mead:             5 cp
+	Expensive Mead:         1 gp
 
-	Cheap Wine:            5 cp
-	Expensive Wine:        1 gp
+	Cheap Wine:             5 cp
+	Expensive Wine:         1 gp
 
-	10x10cm Silk:          1 sp
-	10x10cm Leather:       5 cp
-	10x10cm Linen:         3 cp
+	10x10cm Silk:           1 sp
+	10x10cm Leather:        5 cp
+	10x10cm Linen:          3 cp
 
-	10x10cm Wool (fabric): 3 cp
+	10x10cm Wool (fabric):  3 cp
 
-	1 Sack of Wool (raw):  1 sp + 5 cp
+	1 Sack of Wool (raw):   1 sp + 5 cp
 
 
 Symbols (use the item materials table above, use same rules for engraving):

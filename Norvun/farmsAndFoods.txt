@@ -1,0 +1,66 @@
+Common foods (check the stuff below):
+	Rye bread
+	Vension
+
+Crops/animals best grown/raised here:
+	Chickens
+	Cattle
+	Sheep
+	Goats
+
+	Carrots
+	Potatoes
+	Cabbage
+	Lettuce
+	Rye
+	Barley
+
+Common foods:
+	main meal:
+		poor and average:
+			seperated meal (on plate):
+				meats: (if available/affordable)
+					deer/vension
+					chicken
+
+				potatoes
+				carrots, cabbage, or lettuce
+
+			stew (in bowl):
+				meats: (if available/affordable)
+					deer/vension
+					chicken
+
+				bread (if available/affordable)
+				spices (if available/affordable)
+
+				potatoes
+				carrots, cabbage, or lettuce
+				onions
+
+			cheap wine or mead (if available/affordable)
+
+		rich:
+			seperated meal (on plate):
+				meats: (if available)
+					deer/vension
+					chicken
+
+				potatoes
+				carrots
+
+			stew (in bowl):
+				meats: (if available)
+					deer/vension
+					chicken
+
+				bread (if available)
+				spices (if available)
+
+				potatoes
+				carrots or cabbage or lettuce
+				onions
+				salt
+
+			cheap or expensive wine, mead, or juice
+			blueberries, raspberries, or apples (unchopped)
