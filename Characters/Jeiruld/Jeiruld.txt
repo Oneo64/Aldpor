@@ -1,0 +1,89 @@
+Jeiruld Aldorim
+Male
+Age: 77 (born 961, april 10)
+Alignment: Lawful Neutral
+Appearance:
+	Dark brown eyes
+	Fair/light cool skin
+	Bald
+
+Apparel:
+	Linen dark red dress
+
+	Leather boots
+	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
+
+	Leather pouch (hung on right side of belt, dimensions about 15x30)
+	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
+
+	Gold circlet
+	Silver ring on index and middle finger on left hand
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Intelligent (smart, logical)
+			2. Wise
+			3. Observant
+			4. Analytical
+
+		NEUTRAL:
+			1. Mysterious
+
+		NEGATIVE:
+			1. Prefers to be with close people
+			2. Wrathful
+
+	Specific:
+		Has a norvunic accent, speaks broken english
+
+		Religion: Bjelfaldism (Believes in Bjelfald)
+
+Power:
+	Master of Magic
+
+Skills:
+	Real:
+		Magic
+		Linguistics
+		Alchemy (potion brewing)
+		Astrology
+
+	Alchemist's Supplies
+
+	Level:          15
+	Strength: 	    10 	+0
+	Dexerity:       13 	+1
+	Constitution: 	14 	+2
+	Intelligence: 	20	+5 proficiency
+	Wisdom: 	    16 	+3 proficiency
+	Charisma: 	    9	-1
+
+Height: 170cm (5ft 7in)
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	Norvunic
+	English
+	Esrel
+	Ranudan
+	Primordial*
+	Draconic*
+	Infernal (or abyssal)*
+
+Occupications:
+	Wizard
+	Teacher
+
+Attacks:
+	(Level 15) Spells:
+		Cantrips: Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
+		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Identify
+		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
+		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Fly
+		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye, Blight
+		Level 5:  Teleportation Circle, Telekinesis, Cone of Cold, Seeming
+		Level 6:  Sunbeam, Globe of Invulnerbility
+		Level 7:  Plane Shift, Finger of Death
+		Level 8:  Sunburst
+		Level 9:  Major Teleportation (once a day)

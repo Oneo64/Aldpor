@@ -58,6 +58,7 @@ Personality:
 		NEUTRAL:
 			1. Mysterious
 			2. Competitive
+			3. Most of the time, he carries a half-emotionless face
 
 		NEGATIVE:
 			1. Aloof
