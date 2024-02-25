@@ -2,6 +2,7 @@ Jeiruld Aldorim
 Male
 Age: 77 (born 961, april 10)
 Alignment: Lawful Neutral
+Ethnicity: Hendric
 Appearance:
 	Dark brown eyes
 	Fair/light cool skin
@@ -76,14 +77,14 @@ Occupications:
 	Teacher
 
 Attacks:
-	(Level 15) Spells:
+	(Level 16) Spells:
 		Cantrips: Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Identify
-		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person
-		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Fly
-		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye, Blight
-		Level 5:  Teleportation Circle, Telekinesis, Cone of Cold, Seeming
-		Level 6:  Sunbeam, Globe of Invulnerbility
+		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Blindness/Deafness
+		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Fly, Jeiruld's Random Blasts
+		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye, Blight, Control Water
+		Level 5:  Teleportation Circle, Telekinesis, Cone of Cold, Seeming, Blast Hole
+		Level 6:  Sunbeam, Globe of Invulnerbility, Disintegrate
 		Level 7:  Plane Shift, Finger of Death
 		Level 8:  Sunburst
 		Level 9:  Major Teleportation (once a day)
