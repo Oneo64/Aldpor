@@ -156,7 +156,7 @@ Possessions:
 	Small cloth bag: Gold and silver
 
 Occupications:
-	Wizard
+	Evocation Wizard (Evoker)
 	Mercenary
 
 Relations:
@@ -189,3 +189,16 @@ Attacks:
 		Level 6:  Sunbeam
 		Level 7:  Plane Shift, Finger of Death
 		Level 9:  Major Teleportation (once a day)
+
+Speakings: (for some reason, he speaks like this:)
+	"Is", "am", and "are" are replaced with "be". (That dog be skinny.)
+	"That" is replaced with "Sat"
+	"Yes" is replaced with "Ja"
+
+	He says "not" like:
+		I not like dirt
+		It not be a cart
+		(and so on and so forth)
+
+	Examples:
+		Today's weather be really nice, ja? It not very windy.
