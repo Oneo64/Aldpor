@@ -77,7 +77,9 @@ Personality:
 		Foxes are his favorite animal
 		Deer meat is his favorite food
 		Has a norvunic accent, speaks broken english
+
 		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
+		He also likes to build tiny wooden fortresses. He has one on top of a hill, it's walls are about 3 meters tall, and it's area is around 60 square meters.
 
 		He does not like flashing lights
 
