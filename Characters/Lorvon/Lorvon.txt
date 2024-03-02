@@ -183,7 +183,7 @@ Attacks:
 			Level 7:  Finger of Death
 
 		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good
+		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant
 		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Suggestion
 		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
 		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
