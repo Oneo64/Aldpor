@@ -51,15 +51,15 @@ An object or creature you choose hovers in the air for the duration. Each round,
 
 Based on the spell level, there are additional bonuses.
 
-You can telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. The damage is determined by the table below.
+You can also use an action to telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. Doing so will instantly end the spell. The damage is determined by the table below.
 
-	Weight/Max size      Level Required    Damage
-	 0 - 2 kg    Medium   5                 1d4 Bludgeoning
-	 3 - 5 kg    Medium   6                 2d6 Bludgeoning
-	 6 - 10 kg   Large    7                 3d8 Bludgeoning
-	 11 - 15 kg  Large    8                 4d10 Bludgeoning
-	 16 - 20 kg  Huge     9                 5d12 Bludgeoning
-	 20+                  Can't be thrown
+	Max objects  Weight/Max size      Level Required    Damage
+	 1            0 - 2 kg    Medium   5                 1d4 Bludgeoning
+	 2            3 - 5 kg    Medium   6                 2d6 Bludgeoning
+	 3            6 - 10 kg   Large    7                 3d8 Bludgeoning
+	 4            11 - 15 kg  Large    8                 4d10 Bludgeoning
+	 5            16 - 20 kg  Huge     9                 5d12 Bludgeoning
+	 6            20+                  Can't be thrown
 
 
 
