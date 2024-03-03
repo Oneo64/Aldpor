@@ -1,9 +1,11 @@
+To brew a potion, you add water, and a catalyst, along with it's ingredients. You will then need to shake the potion up for at least a few seconds. You can then enhance the effects by leaving it boiling for a few hours, which will increase it's potency by about 25 percent.
+
 Liquids:
 Obviously, water is required, and it is strictly water. Any kind of liquid that isn't water will not work.
 
 Catalysts:
 A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
-A catalyst is a magical object that is what makes the potion's effect. Any edible food that has magical connection is considered a catalyst.
+A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst. The catalyst must also be completely submerged in the liquid to work.
 
 Here are a list of catalyst examples:
 	The snow, or foliage where an intense magical battle happened.
@@ -11,11 +13,13 @@ Here are a list of catalyst examples:
 	The grass from a magic academy's training grounds.
 	The water from an ancient magical well. (These catalysts can also be the water required.)
 
+
+
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work.
+	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work. Can be also drinked, to heal any damaged organs.
 	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
-	Downside:   Can cause skin cancer if used too much.
+	Downside:   Can cause cancer if used too much.
 	Components: Basil, red tulip petal, and gecko tail.
 
 Curing Potion

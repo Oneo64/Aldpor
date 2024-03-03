@@ -19,7 +19,7 @@ Fireball (LVL 3 evocation)
 	Range: 40m (120ft)
 	Requirements: V, P or R
 
-A point you choose explodes in a ball of fire. Everything in a 4m (12ft) radius is burnt, taking 2d8 Fire + 1d6 Bludgeoning damage. All cloths and fabrics are torn and destroyed in the radius, unless rules say otherwise. Everything else flammable other than fabric is set on fire.
+A point you choose explodes in a ball of fire. Everything in a 5m (15ft) radius is burnt, taking 2d8 Fire + 1d6 Bludgeoning damage. All cloths and fabrics are torn and destroyed in the radius, unless rules say otherwise. Everything else flammable other than fabric is set on fire. In a 1m (3ft) radius, all wooden objects are destroyed, and metal are bent. (Think 6 kgs of tnt)
 
 
 
