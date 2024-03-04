@@ -6,12 +6,10 @@ Ethnicity: Norvunic
 Appearance:
 	Dark blue eyes
 	Fair/light cool skin
-	Shoulder length dark/dirty blonde wavy hair (no style)
+	Shoulder length dark/dirty blond wavy hair (no style)
 	
 	Burn mark on chest (result of magic practice)
 	Scar on right shoulder (result from arrow shot)
-
-	Voice: Frodo Baggins but older and a little deeper, and instead of british accent, its a norvunic accent
 
 	Face:
 		Medium eyebrows
@@ -136,16 +134,17 @@ Possessions:
 	An arming sword (Total length: 85cm, Blade length: 80cm, looks like a viking/ulfberht sword)
 
 	Leather pouch:
-		A closed jar of ink
+		A small jar of ink
 		A quill taken from a goose
 		10 sheets of parchment
 		10 sheets of vellum
 		2 blank scrolls
 		A drinking horn
-		A waterskin
+		A waterskin (usually filled with water)
 		A small knife (or seax, used like a fork)
 
-		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
+		A small cloth bag with dried venison
+		A small cloth bag with 10 small rocks with similar magical properties as the rocks in his mastermyr chest
 
 		A small vial of Regeneration Potion
 		A small vial of Simple Curing Potion
@@ -155,7 +154,16 @@ Possessions:
 
 	Leather pouch 2:
 		A spellbook (simple leather cover, 150 vellum pages)
+		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
 		An crystal opal orb, 9cm diameter (This is Lorvon's arcane focus)
+
+	Inside mastermyr chest at his home:
+		5 wood carvings of random people
+		2 backup spellbooks
+		A leather book on herbs
+		A leather book on potion making and alchemy
+		An old leather book that teaches basics of magic
+		A handful of rocks that will harmlessly explode in a shower of sparks when thrown and landed (He makes these to scare animals away without harming them, provide distraction while in stealth, or some kind of toy)
 
 	Small cloth bag: Gold and silver
 
@@ -166,9 +174,6 @@ Occupications:
 Relations:
 	Rondar Glomunssul (friend, met in a school of evocation)
 	Jeiruld Aldorim (a teacher from a school of evocation)
-
-Backstory:
-	Magic: He learned magic from an old tome he found in the storage room. He learned magic to kill bandits at a range. He later used his minor knowlegde of magic in a battle later.
 
 Attacks:
 	Can use sword

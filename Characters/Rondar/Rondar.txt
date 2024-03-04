@@ -76,8 +76,6 @@ Skills:
 Height: 177cm (5ft 10in)
 Weight: 81kg (179lbs)
 
-Wealth: 3302 gp, 810 sp, income about 300g/month
-
 (English is also called hendric, * = not fluent)
 Languages (sorted by time learned):
 	Norvunic
@@ -90,10 +88,8 @@ Land:
 	A medium two floor house in Argonlav, Norvun
 
 Occupications:
-	Current:
-		Wizard
-		Adventurer
-		Norvunic Research Association (Research Traveller)
+	Wizard
+	Adventurer
 
 Relations:
 	Lorvon Rulvik (friend, met in a school of evocation)
