@@ -77,6 +77,7 @@ Personality:
 		Has a norvunic accent, speaks broken english
 
 		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
+		He likes to play a game called "Spark Bead Battle".
 		He also likes to build tiny wooden fortresses. He has one on top of a hill, it's walls are about 3 meters tall, and it's area is around 60 square meters.
 
 		He does not like flashing lights
@@ -165,6 +166,10 @@ Possessions:
 		An old leather book that teaches basics of magic
 		A handful of rocks that will harmlessly explode in a shower of sparks when thrown and landed (He makes these to scare animals away without harming them, provide distraction while in stealth, or some kind of toy)
 
+		A small jar of half rusted iron powder
+		A small jar of sulfur powder
+		A small jar of spark potion
+
 	Small cloth bag: Gold and silver
 
 Occupications:
@@ -211,3 +216,10 @@ Speakings: (for some reason, he speaks like this:)
 
 	Examples:
 		Today's weather be really nice, ja? It not very windy.
+
+Day Plan:
+	Get up (obviously)
+	Eat breakfast
+	Check for weeds in farm
+	Chop some firewood and bring it back
+	Go to library and study for a few hours
