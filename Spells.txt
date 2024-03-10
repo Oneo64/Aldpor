@@ -64,12 +64,12 @@ You can also use an action to telekinetically apply a sudden force to objects, c
 
 
 ORIGINAL SPELLS:
-Trip (LVL 2 transmutation)
+Trip (LVL 1 transmutation)
 	Casting time: Instant
 	Range: 20m (60ft)
 	Requirements: V, F
 
-You forcefully move a leg of a target in a direction. If the target is standing, then it must succeed a Dexerity saving throw or fall prone. It then must succeed on a DC 18 Constitution saving throw, or it's concentration will be broken.
+You forcefully move a leg of a target in a direction. If the target is standing, then it must succeed a Dexerity saving throw or fall prone. It then must succeed on a DC 16 Constitution saving throw, or it's concentration will be broken.
 
 
 
@@ -123,7 +123,7 @@ You target a creature. The target must succeed on a Constitution saving throw or
 
 
 
-Bind with Chains (LVL 3 conjuration)
+Bind with Chains (LVL 5 conjuration)
 	Casting time: 3 seconds
 	Range: 10m (30ft)
 	Requirements: V, F, M (a bit of chain at least 30cm(a foot))
@@ -150,13 +150,28 @@ For every round until the spell ends, roll a d3 on the table below. The object w
 
 
 
-Major Teleportation (LVL 9 conjuration)
-	Casting time: 6 seconds
-	Range: Touch
-	Requirements: V, SP, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and black opal orbs worth at least 200gp in total. All of these are consumed on use.)
+Dimension Door (LVL 4 conjuration)
+	Casting time: 3 seconds
+	Range: 200m (600ft)
+	Requirements: V, P
 
-You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. When you teleport, if you decide to teleport to a different world, you will appear at the location, asleep for an hour.
-You can decide to draw a smaller circle, 1m (5ft) radius. If you decide to use a smaller circle, you will instead use up 2 chalks and 5 ambers.
+You teleport to a location you can see. When you teleport, you disappear in a fast twirl, and a loud crack and a brief whooshing sound can be heard up to 50m (150ft). The same sounds can also be heard when you arrive.
+At higher levels: For each spell level above 4th, the range increases by 50m (150ft)
+
+
+Major Teleportation (LVL 9 conjuration)
+	Casting time: 5 minutes
+	Range: Touch
+	Requirements: V, SP, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and 8 black opal marbles worth at least 30gp each. All of these are consumed on use.)
+
+You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. All creatures in the circle are transported to the set location. If you decide to target a different world, all creatures transported that isn't a construct or undead will be asleep for an hour.
+
+You can also decide to draw a smaller circle, 2m (10ft) radius. If you decide to use a smaller circle, you will instead use up 2 chalks, 5 ambers and 4 black opals, and you instead use a level 8th spell slot.
+
+You can also decide to draw a smaller circle, 1m (3ft) diameter. If you decide to use this, you will instead use up a chalk, 2 ambers and require no black opals, and you instead use a level 6th spell slot. Using this size, you cannot teleport to a different world.
+
+In order to teleport to a location using this spell that targets the same world, you must know what the location looks like.
+
 You will appear off course, as this spell is intended to long range travel.
 
 	Same world:

@@ -68,10 +68,21 @@ Languages (sorted by time learned):
 	Esrel
 
 Possessions:
+	Spear
+	Bearded axe mounted on belt
+	Round shield, with a black vegvisir painted over it
+
 	Leather pouch:
 		Drinking horn
 		Straw doll (don't ask me why)
 		Linen bag of nuts and raisins
+
+		6 unlit torches
+		A waterskin
+
+		15 meters of rope stuffed in the pouch
+
+		A slip of parchment that has one side written "i not able speak english", and another side that bears a single word "icelandic".
 
 Occupications:
 	Mercenary
