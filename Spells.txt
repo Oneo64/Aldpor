@@ -155,7 +155,7 @@ Dimension Door (LVL 4 conjuration)
 	Range: 200m (600ft)
 	Requirements: V, P
 
-You teleport to a location you can see. When you teleport, you disappear in a fast twirl, and a loud crack and a brief whooshing sound can be heard up to 50m (150ft). The same sounds can also be heard when you arrive.
+You teleport to a location you can see. When you teleport, you disappear in a fast twirl. There will be a brief, warped whooshing sound, and then a loud crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive, along with a flash of light.
 At higher levels: For each spell level above 4th, the range increases by 50m (150ft)
 
 
