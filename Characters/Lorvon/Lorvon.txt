@@ -83,7 +83,7 @@ Personality:
 
 		He does not like vibrant, flashing lights
 
-		Calls his phantom steed Lûn
+		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
 
 		Religion: Bjelfaldism (Believes in Bjelfald)
 
@@ -188,7 +188,7 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 13) Spells:
+	(Level 13, current version) Spells:
 		Prepared In Orb:
 			Cantrips: Fire Bolt, Shocking Grasp
 			Level 1:  Mage Armor, Magic Missile
@@ -207,6 +207,18 @@ Attacks:
 		Level 6:  Sunbeam
 		Level 7:  Plane Shift, Finger of Death
 		Level 9:  Major Teleportation (once a day)
+
+	(Level 17, old op version) Spells:
+		Cantrips: Fire Bolt, Message, Ray of Frost, Shocking Grasp, Minor Illusion
+		Level 1:  Comprehend Languages, Detect Magic, Mage Armor, Magic Missile, Protection from Evil and Good, Color Spray
+		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Blindness/Deafness
+		Level 3:  Animate Dead, Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed, Sending
+		Level 4:  Polymorph, Dimension Door, Locate Creature, Blight
+		Level 5:  Conjure Elemental, Telekinesis, Wall of Force, Scrying
+		Level 6:  Guards and Wards, Arcane Gate, Sunbeam, Arcane Sword
+		Level 7:  Plane Shift, Project Image, Teleport
+		Level 8:  Demiplane, Dominate Monster
+		Level 9:  Shapechange
 
 Speakings: (for some reason, he speaks like this:)
 	"Is", "am", and "are" are replaced with "be". (That dog be skinny.)
