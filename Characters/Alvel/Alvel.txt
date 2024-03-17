@@ -1,0 +1,26 @@
+Eilfror Evenalming
+Male
+Age: 33 (born 1005, april 2)
+Alignment: Neutral
+
+Skills:
+	Level:        8
+	Strength: 	  14
+	Dexerity: 	  13
+	Constitution: 14
+	Intelligence: 13
+	Wisdom: 	  14
+	Charisma: 	  16
+
+Languages (sorted by time learned):
+	Norvunic
+	Esrel
+	English
+	Ranudan
+
+Possessions:
+	Black round shield, with a white vegvisir
+	Dane axe
+
+Occupications:
+	Jarl of Ulfalvik

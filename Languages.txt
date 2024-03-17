@@ -1,0 +1,29 @@
+Common:
+	Humans:
+		Hendric (English)
+		Norvunic
+		Taribian
+
+	Elves:
+		Esrel (Cold Elvish)
+		Ranûdan (High Elvish)
+		Amatilish (High Elvish v2)
+
+	Dwarves:
+		Glomish
+		Banodic
+		Mornesvian
+
+Uncommon:
+	Neshozic
+
+Rare:
+	Primordial
+	Draconic
+
+	Primordial Dwarven
+
+	Old Hendric
+	Draco-Norvunic
+	Old Esrel
+	Old Ranûdan

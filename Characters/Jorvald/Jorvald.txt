@@ -8,7 +8,7 @@ Appearance:
 	Bald
 
 Apparel:
-	Migration period gjermundbu Helmet
+	Migration period gjermundbu Helmet, lined with brass and lead
 
 	Chainmail Hauberk, over gambeson
 	Blue gambeson
@@ -47,7 +47,7 @@ Skills:
 	Strength: 	17
 	Dexerity: 	13
 	Constitution: 	19
-	Intelligence: 	12
+	Intelligence: 	10
 	Wisdom: 	11
 	Charisma: 	16
 
@@ -60,9 +60,12 @@ Languages (sorted by time learned):
 	Old Esrel
 
 Occupications:
-	Dane axe fighter, eldritch knight
+	Warrior
+	Jarl
+	Eldritch knight
 
 Magic:
 	Cantrips: Light, Burning Hands
 	Level 1: Arcane Lock, Knock
+	Level 2: Locate Object (use on will, no spell slots required)
 	Level 4: Dimension Door

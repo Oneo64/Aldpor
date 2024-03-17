@@ -44,20 +44,20 @@ Appearance of each race:
 Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
 
 Kingdoms:
-	Hendril (humans, speaks Hendric, culture = english or german)
+	Hendril (humans, speaks Hendric, culture = roman)
 	Norvun (humans, speaks Norvunic, culture = norse) (current king: Palvni II)
 	Tarib (humans, speaks Taribian, culture = slavic)
 	Gordazeel (humans, speaks Taribian, culture = middle eastern)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish)
-	Ranudel (high elves, speaks Ranudan, culture = elvish)
-	Jûmlaanar (high elves, speaks Ranudan, culture = elvish)
+	Ranûdel (high elves, speaks Ranûdan, culture = elvish)
+	Jûmlaanar (high elves, speaks Ranûdan, culture = elvish) (pronounced as yoomlaanaar)
 	Vuntalra (cold elves, speaks Norvunic + Esrel, culture = norse)
 	Amatil (high elves, speaks Amatilish, culture = elvish)
 
 	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = slavic)
 	Mornesvid (dwarves, speaks Mornesvian, main city on high hill) (culture = scottish)
-	Banod (dwarves, speaks Banodic, culture = slavic)
+	Banod (dwarves, speaks Banodic, culture = slavic) (pronounced as baanod)
 
 Craftsmanship/crafter things:
 	Common: Woodworking, Leatherworking (not shoes) Metalworking, Lumberjack, Miner

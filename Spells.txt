@@ -63,7 +63,33 @@ You can also use an action to telekinetically apply a sudden force to objects, c
 
 
 
+Dimension Door (LVL 4 conjuration)
+	Casting time: 3 seconds
+	Range: 200m (600ft)
+	Requirements: V, P
+
+You teleport to a location you can see. When you teleport, you disappear in a fast twirl. There will be a brief, warped whooshing sound, and then a loud crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive, along with a flash of light.
+
+At higher levels:
+For each spell level above 4th, the range increases by 50m (150ft)
+
+
+
 ORIGINAL SPELLS:
+Frostbite Infection (Level 2 conjuration)
+	Casting time: 3 seconds
+	Range: 40m (120ft)
+	Requirements: V, F, M (a handful of a mixure of moss and silver powder, which is consumed on use)
+	Duration: 5 minutes
+
+A mote of frost shoots out of your hand, striking a target you choose. The target takes 2d8 frost damage. Every 30 seconds, the target must make a DC 5 constitution saving throw, or take 1d6 frost damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 2 meter radius (6ft). Any creature that moves in this space must make a DC 10 dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
+
+At higher levels:
+If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d8, and the damage over time increases by 1d6.
+If you strike the ground, then the radius of which it spreads increases by 2 meters (6ft), and the damage increases by 1d4 for every spell level above 2nd. If the spell reaches 6th level or above, creatures that are in the radius are not required to fall prone to take frost damage.
+
+
+
 Trip (LVL 1 transmutation)
 	Casting time: Instant
 	Range: 20m (60ft)
@@ -130,7 +156,9 @@ Bind with Chains (LVL 5 conjuration)
 	Duration: 1 hour or until dispelled
 
 You choose a creature within range with a size or Huge or smaller. Chains suddenly appear from the ground (air if no ground), and lances towards the target. The target then must succeed on a Dexerity saving throw, or become restrained. The creature can succeed a DC 19 Strength saving throw to break out. You can dismiss this spell anytime.
-At Higher Levels: For each level above 5th, increase the DC required to break free by 2. If cast at 8th level or higher, you can target any creature regardless of size.
+
+At Higher Levels:
+For each level above 5th, increase the DC required to break free by 2. If cast at 8th level or higher, you can target any creature regardless of size.
 
 
 
@@ -150,21 +178,12 @@ For every round until the spell ends, roll a d3 on the table below. The object w
 
 
 
-Dimension Door (LVL 4 conjuration)
-	Casting time: 3 seconds
-	Range: 200m (600ft)
-	Requirements: V, P
-
-You teleport to a location you can see. When you teleport, you disappear in a fast twirl. There will be a brief, warped whooshing sound, and then a loud crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive, along with a flash of light.
-At higher levels: For each spell level above 4th, the range increases by 50m (150ft)
-
-
 Major Teleportation (LVL 9 conjuration)
 	Casting time: 5 minutes
 	Range: Touch
 	Requirements: V, SP, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and 8 black opal marbles worth at least 30gp each. All of these are consumed on use.)
 
-You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. All creatures in the circle are transported to the set location. If you decide to target a different world, all creatures transported that isn't a construct or undead will be asleep for an hour.
+You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. All creatures in the circle are transported to the set location.
 
 You can also decide to draw a smaller circle, 2m (10ft) radius. If you decide to use a smaller circle, you will instead use up 2 chalks, 5 ambers and 4 black opals, and you instead use a level 8th spell slot.
 
