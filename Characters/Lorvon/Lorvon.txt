@@ -191,14 +191,14 @@ Attacks:
 	Throws potions, but rarely
 
 	(Level 13, current version) Spells:
-		Prepared In Orb:
-			Cantrips: Fire Bolt, Shocking Grasp
-			Level 1:  Mage Armor, Magic Missile
-			Level 2:  Invisibility, Hold Person
-			Level 3:  Counterspell, Fireball, Gaseous Form
-			Level 4:  Dimension Door
-			Level 6:  Sunbeam
-			Level 7:  Finger of Death
+		evo 9
+		abj 7
+		trs 6
+		con 5
+		div 3
+		ilu 3
+		enc 2
+		nec 2
 
 		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
 		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant, Shield
