@@ -1,0 +1,8 @@
+!FOR REALISTIC ROLEPLAY USE!
+
+Max Health:      4 + level + constitution modifier 
+Damage (spells): Divide by 5 rounded down
+
+Convert dnd stats to realistic roleplay stats (input in feet, results are already converted to meters):
+	Walk speed: (spd / 8)
+	Run speed:  (spd / 6) * 1.5

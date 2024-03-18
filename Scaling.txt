@@ -10,3 +10,5 @@ Levels of play (low and high are the equivalent of the level, if level is 1-5, t
 	Level 6-10:  low: skilled guy | high: multiple skilled guys
 	Level 11-15: low: small army  | high: army
 	Level 16-20: minor diety
+
+aldpor level * 0.8 (rounded down) = dnd level

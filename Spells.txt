@@ -31,7 +31,7 @@ Lightning Bolt (LVL 3 evocation)
 A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
 If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
 
-If the target is wearing plate armor, the damage is instead 1d8 + 14 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
+If the target is wearing plate armor, the damage is instead 2d8 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
 
 Chance to strike something else:
 Distance       Chance
@@ -68,7 +68,9 @@ Dimension Door (LVL 4 conjuration)
 	Range: 200m (600ft)
 	Requirements: V, P
 
-You teleport to a location you can see. When you teleport, you disappear in a fast twirl. There will be a brief, warped whooshing sound, and then a loud crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive, along with a flash of light.
+You teleport to a location you can see, visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45- degree angle, 300 feet."
+
+When you teleport, you disappear in a fast twirl. There will be a brief, warped whooshing sound, and then a loud crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive, along with a flash of light.
 
 At higher levels:
 For each spell level above 4th, the range increases by 50m (150ft)

@@ -110,7 +110,7 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          12
+	Level:          13
 	Strength: 	    9 	-1
 	Dexerity:       14 	+2
 	Constitution: 	12 	+1
@@ -130,7 +130,7 @@ Languages (sorted by time learned):
 	Norvunic
 	English*
 	Esrel
-	Ranudan*
+	Ranûdan*
 	Primordial*
 	Draconic*
 
@@ -190,7 +190,7 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 12, current version) Spells:
+	(Level 13, current version) Spells:
 		Prepared In Orb:
 			Cantrips: Fire Bolt, Shocking Grasp
 			Level 1:  Mage Armor, Magic Missile
@@ -201,14 +201,15 @@ Attacks:
 			Level 7:  Finger of Death
 
 		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant
-		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Suggestion
-		Level 3:  Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Phantom Steed
-		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye, Ice Storm
+		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant, Shield
+		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion
+		Level 3:  Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death
+		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
 		Level 5:  Wall of Force, Teleportation Circle, Telekinesis
-		Level 6:  Sunbeam
+		Level 6:  Sunbeam, Disintegrate
 		Level 7:  Plane Shift, Finger of Death
-		Level 9:  Major Teleportation
+
+		Level 9:  Major Teleportation (dont actually include this in a dnd campaign just pretend it doesnt exist)
 
 	(Level 17, old op version) Spells:
 		Cantrips: Fire Bolt, Message, Ray of Frost, Shocking Grasp, Minor Illusion
