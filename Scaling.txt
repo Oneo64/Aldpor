@@ -1,4 +1,1 @@
 Power cap: Dnd level 16
-
-level 1s = 50%
-level 2s = 25%

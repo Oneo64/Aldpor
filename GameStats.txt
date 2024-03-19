@@ -1,5 +1,7 @@
 !FOR REALISTIC ROLEPLAY USE!
 
+*Use the spell points system for more realistic things
+
 Max Health:      4 + level + constitution modifier 
 Damage (spells): Divide by 5 rounded down
 
