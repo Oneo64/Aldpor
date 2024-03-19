@@ -89,8 +89,6 @@ Personality:
 
 Power:
 	Powerful with magic
-		Because its supposed to be real life and not a generic rpg, all spells will be tweaked to a realistic way.
-		(Like how fireball won't do much in the harsh winters of norvun, but will be affective in the sahara desert)
 	Below average with physical
 	Above average with sword
 
@@ -150,7 +148,7 @@ Possessions:
 		A small knife (or seax, used like a fork)
 
 		A small cloth bag with dried venison
-		A small cloth bag with 10 small rocks with similar magical properties as the rocks in his mastermyr chest
+		A small cloth bag with 10 small rocks with similar magical properties as the rocks in his mästermyr chest
 
 		A small vial of Regeneration Potion
 		A small vial of Simple Curing Potion
