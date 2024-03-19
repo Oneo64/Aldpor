@@ -23,3 +23,5 @@ If a spell is in "Spells.txt", the casting time is as if you are using an orb. W
 
 Most orbs used are either marble, glass, or wood.
 Only the wealthy can afford gemstone orbs, and most of these orbs are made of any opal variant.
+
+If you don't have a spell prepared/stored in your orb, you can cast it if you are looking at your spellbook. Casting time takes an extra round. (Reason: it's realistic)

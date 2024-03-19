@@ -1,14 +1,4 @@
-Examples set below are as if it was a fight until one side has died, been destroyed, or somehow defeated without capture.
+Power cap: Dnd level 16
 
-Small armies consists of: 2 experienced + skilled guys, 20 fighters, 10 archers, and 5 wizards
-Armies consists of: 20 experienced + skilled guys, 200 fighters, 50 archers, and 25 wizards
-
-Trained vs Skilled: Trained = Basic soldier/adventurer with basic weapon knowledge, Skilled = Martial artist
-
-Levels of play (low and high are the equivalent of the level, if level is 1-5, then low = 1-2.5, high = 2.5-5):
-	Level 1-5:   low: villager    | high: trained guy
-	Level 6-10:  low: skilled guy | high: multiple skilled guys
-	Level 11-15: low: small army  | high: army
-	Level 16-20: minor diety
-
-aldpor level * 0.8 (rounded down) = dnd level
+level 1s = 50%
+level 2s = 25%

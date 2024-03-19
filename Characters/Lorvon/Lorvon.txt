@@ -110,11 +110,11 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          13
+	Level:          9
 	Strength: 	    9 	-1
 	Dexerity:       14 	+2
 	Constitution: 	12 	+1
-	Intelligence: 	17	+3 proficiency
+	Intelligence: 	16	+3 proficiency
 	Wisdom: 	    13 	+1 proficiency
 	Charisma: 	    11	+0
 
@@ -190,28 +190,30 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 13, current version) Spells:
-		evo 9
-		abj 7
-		trs 6
-		con 5
-		div 3
-		ilu 3
-		enc 2
-		nec 2
+	(Level 9, current version) Spells:
+		Cantrips:
+		Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+		
+		Level 1: 
+		Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant, Shield, Floating Disk, Illusory Script
+		
+		Level 2: 
+		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion, Ray of Enfeeblement, Darkvision, Locate Object
+		
+		Level 3:
+		Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death, Glyph of Warding
+		
+		Level 4:
+		Polymorph, Dimension Door, Fabricate, Arcane Eye, Banishment, Control Water
+		
+		Level 5:
+		Wall of Force, Teleportation Circle, Telekinesis
 
-		Cantrips: Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
-		Level 1:  Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Unseen Servant, Shield
-		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion
-		Level 3:  Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death
-		Level 4:  Polymorph, Dimension Door, Fabricate, Arcane Eye
-		Level 5:  Wall of Force, Teleportation Circle, Telekinesis
-		Level 6:  Sunbeam, Disintegrate
-		Level 7:  Plane Shift, Finger of Death
+		Level 9:
+		Major Teleportation (dont actually include this in a dnd campaign just pretend it doesnt exist)
 
-		Level 9:  Major Teleportation (dont actually include this in a dnd campaign just pretend it doesnt exist)
 
-	(Level 17, old op version) Spells:
+	(Level 17, old op version, dont use because its old, stupid powerful and MIGHT contain non-cc0 spells) Spells:
 		Cantrips: Fire Bolt, Message, Ray of Frost, Shocking Grasp, Minor Illusion
 		Level 1:  Comprehend Languages, Detect Magic, Mage Armor, Magic Missile, Protection from Evil and Good, Color Spray
 		Level 2:  Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Blindness/Deafness
