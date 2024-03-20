@@ -4,12 +4,12 @@ Age: 33 (born 1005, april 2)
 Alignment: Neutral
 
 Skills:
-	Level:        8
+	Level:        12
 	Strength: 	  14
 	Dexerity: 	  13
-	Constitution: 14
+	Constitution: 15
 	Intelligence: 13
-	Wisdom: 	  14
+	Wisdom: 	  15
 	Charisma: 	  16
 
 Languages (sorted by time learned):

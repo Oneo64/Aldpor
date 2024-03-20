@@ -66,6 +66,9 @@ Occupications:
 
 Magic:
 	Cantrips: Light, Burning Hands
-	Level 1: Arcane Lock, Knock
+	Level 1: Arcane Lock, Knock, Ray of Sickness
 	Level 2: Locate Object (use on will, no spell slots required)
+	Level 3: Animate Dead
 	Level 4: Dimension Door
+
+	Special: When death, he turns into ash which will form back into him again. He cannot feel pain, cannot be mind controlled, immune to phsychic damage, and is immune to sickness and disease.
