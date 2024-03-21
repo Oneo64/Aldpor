@@ -194,8 +194,8 @@ Attacks:
 		Prepared in orb:
 			Level 1: Mage Armor, Magic Missile, Feather Fall, Illusory Script, Shield
 			Level 2: Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion, Ray of Enfeeblement
-			Level 3: Counterspell, Fireball, Lightning Bolt, Gaseous Form, Feign Death
-			Level 4: Polymorph, Dimension Door, Arcane Eye, Banishment
+			Level 3: Counterspell, Fireball, Lightning Bolt, Gaseous Form, Feign Death, Major Image
+			Level 4: Polymorph, Dimension Door, Banishment
 			Level 5: Wall of Force, Telekinesis
 
 		Cantrips:
