@@ -1,0 +1,85 @@
+Nix Tamiar
+Male
+Age: 19 (born 1019, august 7)
+Alignment: Lawful Good
+Ethnicity: Hendric
+Appearance:
+	Dark brown eyes
+	Fair/light cool skin
+	Short dark brown straight hair
+
+Apparel:
+	Linen tunic, verticically striped with black and reddish orange, each stripe about 8 cm thick
+	Linen dark gray pants
+
+	Leather shoes
+	Leather belt
+
+	Spear mounted on back
+	Sheathed dagger on belt
+
+	Leather pouch (hung on left side of belt)
+	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Good-hearted (kind, generous and benevolent)
+			2. Thoughtful (imaginative)
+			3. Brave (bold, daring, courageous)
+
+		NEGATIVE:
+			1. Overprotective
+			2. Prideful
+		
+		Optimistic
+
+	Others:
+		If he uses magic, his eyes start to glow a fiery color
+
+Skills:
+	Real:
+		Sorcery Magic
+
+	DnD additional skills:
+		Medicine
+		Investigation
+		Intimidation
+		Persuation
+
+	Alchemist's Supplies
+
+	Level:          6
+	Strength: 	    10  +0
+	Dexerity:       14 	+2
+	Constitution: 	14 	+2 proficiency
+	Intelligence: 	11	+0
+	Wisdom: 	    9 	-1
+	Charisma: 	    16	+3 proficiency
+
+Height: 173cm (5ft 8in)
+Weight: 85kg (187lbs)
+
+Carrying Wealth: 20 gp, 2600 sp, 940 cp
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	English
+	Draconic
+
+Occupications:
+	Sorcerer
+
+Attacks:
+	(Level 6) Spells:
+		Cantrips:
+		Acid Splash, Light, Minor Illusion, Ray of Frost, Mending
+		
+		Level 1:
+		Detect Magic, Disguise Self, Mage Armor, Magic Missile
+
+		Level 2:
+		Darkness, See Invisibility
+
+		Level 3:
+		Fireball

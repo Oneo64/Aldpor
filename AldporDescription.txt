@@ -1,6 +1,8 @@
 ALDPOR
 Creation date: 2023 July
 
+Setting: The year is 1038, set in the classical age and the viking age.
+
 Notable features:
 In the forests, there are more monsters/abnormality encounters.
 

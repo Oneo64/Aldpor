@@ -208,7 +208,7 @@ Attacks:
 		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion, Ray of Enfeeblement, Darkvision, Locate Object
 		
 		Level 3:
-		Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death
+		Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death, Magic Circle
 		
 		Level 4:
 		Polymorph, Dimension Door, Fabricate, Arcane Eye, Banishment, Control Water
