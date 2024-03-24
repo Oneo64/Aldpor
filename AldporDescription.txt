@@ -65,7 +65,7 @@ Kingdoms:
 	Hendril (humans, speaks Hendric, culture = roman)
 	Norvun (humans, speaks Norvunic, culture = norse) (current king: Palvnin II)
 	Tarib (humans, speaks Taribian, culture = slavic)
-	Gordazeel (humans, speaks Taribian, culture = middle eastern)
+	Gordazeel (humans, speaks Taribian, culture = persian)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish)
 	Ranûdel (high elves, speaks Ranûdan, culture = elvish)
