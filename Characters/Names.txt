@@ -1,0 +1,12 @@
+List of first names that are not being used and last names:
+
+Human names:
+	Norvun:
+		First (m):
+		First (f):
+		Last: Rulvik, Glomunsal
+
+Cold Elf names:
+	First (m): Huthviyn, Antolos, Pasralos, Kiriyn, Sasoldaf, Toraf, Lûsraf
+	First (f): Sanari, Vuseri, Baieris, Quiyris, Ûndiyre, Jadre, Niyre
+	Last: Vaond, Mûindo, Fron, Falaor, Janvis, Baoriyser

@@ -16,7 +16,7 @@ Fernalfa    = Plane of fey
 
 Deities:
 Talmundur = God of Warmth (hot and cold)
-Lunanyr   = God of Life
+Lûnanyr   = God of Life
 Bjelfald  = God of Creation
 Parhrûgi  = God of Magic
 Hyrfalnig = God of Emotions
