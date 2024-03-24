@@ -1,0 +1,14 @@
+Towns:
+Gellervail
+Bantusea
+Oflanas
+Fleenedo
+
+Cities:
+Drinaskas
+Jollantus
+Evatabril
+
+Fortresses:
+Gavalor
+Hedrolhal

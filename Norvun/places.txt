@@ -2,13 +2,18 @@ Villages:
 Argonlav
 Borsuldol
 Elkvin
-Thalmundol, village next to Thurnin Castle
 Baserdol
 Lismerlav
+
+Towns:
+Thalmundol
 Mansart
 
+Cities:
+Thurnin City (inside of Thurnin)
+
 Castles:
-Thurnin (name of main castle in Norvun, also holds Thurnin City)
+Thurnin (main castle)
 Ulfalvik
 Halgrid
 Ynfrunar
