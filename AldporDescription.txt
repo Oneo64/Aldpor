@@ -46,9 +46,17 @@ Appearance of each race:
 
 		Cold Elves (170cm, 60kg):
 			Better eyesight than other humanoid races.
-			Skin: Light brown, pale yellow, or very light skin.
-			Hair: Black, blond, brown, white, or golden yellow.
-			Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
+
+			Variant 1:
+				Skin: Very light skin.
+				Hair: Black, blond, brown, white, or golden yellow.
+				Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
+
+			Variant 2:
+				Skin: Brown (like wood).
+				Hair: Black, brown, or white.
+				Eyes: Black, brown, green, golden yellow, red, or orange.
+
 			Earlobes are longer.
 
 Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
