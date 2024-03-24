@@ -26,18 +26,26 @@ Appearance of each race:
 		Skin: Ranges from brown to bright skin.
 		Hair: Black, blond, red or brown.
 		Eyes: Black, brown, green, blue or gray.
+
 	Dwarves (110cm, 60kg):
+		Stronger due to exessive mining.
+		Slightly slower at running.
 		Skin: Very light skin.
 		Hair: Blond, or red.
 		Eyes: Black, brown, green, golden yellow, orange or red.
+
 	Elves: (Elves only grow head hair)
+		Leadership not as good as other humanoid races.
+
 		High Elves (190cm, 55kg):
+			Can easily scale and avoid obstacles.
 			Skin: Very light purple, or very light blue.
 			Hair: Light purple, white.
 			Eyes: Black, brown, blue, gray, purple.
 			Ears are pointed.
 
 		Cold Elves (170cm, 60kg):
+			Better eyesight than other humanoid races.
 			Skin: Light brown, pale yellow, very light skin, or light brown (like wood).
 			Hair: Black, blond, brown, white, or golden yellow.
 			Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
