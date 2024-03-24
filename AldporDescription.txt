@@ -33,7 +33,7 @@ Appearance of each race:
 	Elves: (Elves only grow head hair)
 		High Elves (190cm, 55kg):
 			Skin: Very light purple, or very light blue.
-			Hair: Light purple.
+			Hair: Light purple, white.
 			Eyes: Black, brown, blue, gray, purple.
 			Ears are pointed.
 
