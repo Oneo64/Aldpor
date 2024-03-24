@@ -7,7 +7,7 @@ Race:      Cold Elf
 
 Appearance:
 	Green eyes
-	Light brown skin
+	Light light skin
 	Long golden hair
 
 Apparel:
