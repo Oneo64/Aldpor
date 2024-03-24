@@ -1,4 +1,4 @@
-Eilfror Evenalmyn
+Eilfror Eralmid
 Male
 Age: 33 (born 1005, april 2)
 Alignment: Neutral
@@ -16,7 +16,6 @@ Languages (sorted by time learned):
 	Norvunic
 	Esrel
 	English
-	Ranudan
 
 Possessions:
 	Black round shield, with a white vegvisir

@@ -1,0 +1,114 @@
+Haeviyn Alerus
+Female
+Age: 45 (born 993, january 10, looks 22)
+Alignment: Neutral
+Ethnicity: Esrel
+Race:      Cold Elf
+
+Appearance:
+	Green eyes
+	Light yellow skin
+	Long light brown hair with hints of pale gold hair
+
+Apparel:
+	Linen dark green-blue robes
+
+	Leather shoes
+	Leather belt
+
+	Sheathed dagger on belt
+
+	Leather pouch (hung on left side of belt)
+	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. 
+
+		NEGATIVE:
+			1. Overprotective
+			2. Prideful
+
+Skills:
+	Real:
+		Druidic Magic
+
+	DnD additional skills:
+		Medicine
+		Nature
+		Survival
+		Animal Handling
+
+	Level:          10
+	Strength: 	    10  +0
+	Dexerity:       15 	+2
+	Constitution: 	13 	+1
+	Intelligence: 	11	+0 proficiency
+	Wisdom: 	    16 	+3 proficiency
+	Charisma: 	    9	-1
+
+	Immune to poison and disease
+
+	Wild Shape animals:
+		Brown bear (combat)
+		Cat (stealth)
+		Elk (travel)
+
+Carrying Wealth: 10 gp, 600 sp, 500 cp
+
+*=not fluent
+Languages (sorted by time learned):
+	Esrel
+	English
+	Ranudan
+	Druidic
+	Sylvan*
+
+Possessions:
+	A staff made of pine wood, with a small amber orb (5 cm diameter) on the tip as an arcane focus
+	A small knife (or seax, used like a fork. it is currently sheathed on the belt)
+
+	Leather pouch:
+		A quill taken from a goose
+		10 sheets of parchment
+		10 sheets of vellum
+		3 blank scrolls
+		2 scrolls of incantations written in cold elvish
+		A drinking horn
+		A waterskin (usually filled with water)
+
+Occupications:
+	Druid
+
+Attacks:
+	Cantrips known: Druidcraft, Resistance, Guidance, Shillelagh
+
+	Prepared:
+		Level 1:
+		Create or Destroy Water, Healing Word, Entangle
+
+		Level 2:
+		Barkskin, Darkvision, Gust of Wind
+
+		Level 3:
+		Protection from Energy, Sleet Storm, Conjure Animals
+
+		Level 4:
+		Blight, Conjure Woodland Beings
+
+		Level 5:
+		Antilife Shell, Tree Stride
+
+	Circle spells:
+		Level 2:
+		Hold Person, Spike Growth
+
+		Level 3:
+		Sleet Storm, Slow
+
+		Level 4:
+		Freedom of Movement, Ice Storm
+
+		Level 5:
+		Commune with Nature, Cone of Cold
