@@ -1,4 +1,4 @@
-Haeviyn Alerus
+Saelri Vaond
 Female
 Age: 45 (born 993, january 10, looks 22)
 Alignment: Neutral
@@ -7,11 +7,12 @@ Race:      Cold Elf
 
 Appearance:
 	Green eyes
-	Light yellow skin
-	Long light brown hair with hints of pale gold hair
+	Light brown skin
+	Long golden hair
 
 Apparel:
-	Linen dark green-blue robes
+	White hooded cloak
+	Linen dark green robes with slight blue hue
 
 	Leather shoes
 	Leather belt
@@ -24,11 +25,14 @@ Apparel:
 Personality:
 	Traits:
 		POSITIVE:
-			1. 
+			1. Collaborative
+			2. Patient
 
 		NEGATIVE:
-			1. Overprotective
-			2. Prideful
+			1. Meddlesome
+			2. Extravagent
+
+		Realistic view of future
 
 Skills:
 	Real:

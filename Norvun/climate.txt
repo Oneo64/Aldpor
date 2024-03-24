@@ -4,6 +4,6 @@ Summer:
 	Night length: 17 hours
 
 Winter:
-	Temperature: -20c - 0c (avg. -10c)
+	Temperature: -20c - -10c (avg. -15c)
 	Day length: 17 hours
 	Night length: 7 hours

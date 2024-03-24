@@ -46,7 +46,7 @@ Appearance of each race:
 
 		Cold Elves (170cm, 60kg):
 			Better eyesight than other humanoid races.
-			Skin: Light brown, pale yellow, very light skin, or light brown (like wood).
+			Skin: Light brown, pale yellow, or very light skin.
 			Hair: Black, blond, brown, white, or golden yellow.
 			Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
 			Earlobes are longer.

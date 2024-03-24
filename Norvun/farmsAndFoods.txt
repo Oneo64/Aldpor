@@ -16,51 +16,51 @@ Crops/animals best grown/raised here:
 	Barley
 
 Common foods:
-	main meal:
-		poor and average:
-			seperated meal (on plate):
-				meats: (if available/affordable)
-					deer/vension
-					chicken
+	Main meal:
+		Poor and average:
+			Seperated meal (on plate):
+				Meats: (if available/affordable)
+					Deer/vension
+					Chicken
 
-				potatoes
-				carrots, cabbage, or lettuce
+				Potatoes
+				Carrots, cabbage, or lettuce
 
-			stew (in bowl):
-				meats: (if available/affordable)
-					deer/vension
-					chicken
+			Stew (in bowl):
+				Meats: (if available/affordable)
+					Deer/vension
+					Chicken
 
-				bread (if available/affordable)
-				spices (if available/affordable)
+				Bread (if available/affordable)
+				Spices (if available/affordable)
 
-				potatoes
-				carrots, cabbage, or lettuce
-				onions
+				Potatoes
+				Carrots, cabbage, or lettuce
+				Onions
 
-			cheap wine or mead (if available/affordable)
+			Cheap wine or mead (if available/affordable)
 
-		rich:
-			seperated meal (on plate):
-				meats: (if available)
-					deer/vension
-					chicken
+		Rich:
+			Seperated meal (on plate):
+				Meats: (if available)
+					Deer/vension
+					Chicken
 
-				potatoes
-				carrots
+				Potatoes
+				Carrots
 
-			stew (in bowl):
-				meats: (if available)
-					deer/vension
-					chicken
+			Stew (in bowl):
+				Meats: (if available)
+					Deer/vension
+					Chicken
 
-				bread (if available)
-				spices (if available)
+				Bread (if available)
+				Spices (if available)
 
-				potatoes
-				carrots or cabbage or lettuce
-				onions
-				salt
+				Potatoes
+				Carrots or cabbage or lettuce
+				Onions
+				Salt
 
-			cheap or expensive wine, mead, or juice
-			blueberries, raspberries, or apples (unchopped)
+			Cheap or expensive wine, mead, or juice
+			Blueberries, raspberries, or apples (unchopped)

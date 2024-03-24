@@ -1,12 +1,15 @@
 Villages:
 Argonlav
-Borssuldol
+Borsuldol
 Elkvin
-
 Thalmundol, village next to Thurnin Castle
+Baserdol
+Lismerlav
+Mansart
 
 Castles:
-Thurnin (King Palvni the II, also the main hub of the castle)
+Thurnin (name of main castle in Norvun, also holds Thurnin City)
 Ulfalvik
 Halgrid
 Ynfrunar
+Galundegt
