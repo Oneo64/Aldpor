@@ -1,0 +1,136 @@
+Settlements/empires/kingdoms:
+	Human:
+		Haear (Floradish - Old Haearic)
+		Borusdalis (Old Haearic)
+		Veilodin (Haearic)
+		Borusdaliandur (Haearic - Borusdaliandurish)
+		Zarapib (Haearic - Old Zarapibian - Zarapibian)
+		Tarib (Zarapibian - Old Taribian - Taribian)
+		Grutorus (Old Zarapibian - Grutorian)
+		Galabrus (Grutorian - Galabrian)
+		Hendrala (Old Hendric)
+		Hendril (Hendric)
+		Norvun (Old Hendric - Draco-Norvunic - Norvunic)
+
+	High Elf:
+		Floradoin (Floradish)
+		Glismil (Floradish)
+		Thisalvinan (Ancient Elvish)
+		Thisalvinan II (Ancient Elvish)
+		Ranuladaen (Old Ranûdan)
+		Ranûdel (Old Ranûdan - Ranûdan)
+		Amatil (Old Ranûdan - Amatilish)
+		Esrelu (Old Ranûdan - Old Esrel - Esrel)
+
+	Dwarf:
+		Baan (Primordial Banodic)
+		Banir (Old Banodic)
+		Banod (Old Banodic - Banodic)
+		Glomdur (Old Banodic - Glomdish)
+		Mornesvid (Old Banodic - Mornesvian)
+
+
+Before 2000 BCE
+Baan existed a few hundred years before. They were the first dwarvish settlement, and they spoke Primordial Banodic, which is one of the first dwarvish languages.
+Floradoin existed only a few decades, which is small compared to Baan. They spoke Floradish.
+
+2000
+Glismil is formed.
+
+1930
+Haear is formed. The main language of Haear was Floradish. Floradoin collapsed due to an invasion planned by the demon lord Iskarn. Fortunately, many of the world's powerful people came in assistance, and Iskarn's army retreated. A group then travelled to a fortress located in a massive cavern known as Krivsbort Stone Fortress. They entered it, and destroyed the portal that lead Iskarn to the material plane.
+
+1770
+Glismil collapses. Azudengo, the current king of Haear at this time, took advantage of this and took over the remains of Glismil. Baan was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings.
+
+1800
+Kingdom of Thisalvinan is created, named after it's founder. Floradish was transformed to Ancient Elvish, and Old Haearic. The Kingdom of Thisalvinan spoke Ancient Elvsh, while Haear spoke Old Haearic.
+
+1140
+Banir collapsed, due to an economy problem. The people moved west, appointing a few new kings. This became known as the Banod.
+
+1120
+Haear collapses. Borusdalis, and Veilodin rises from Haear. The Kingdom of Thisalvinan attacked Borusdalis, destroying it. Refugees fled to Veilodin, while some went east, forming Borusdaliandur.
+
+910
+Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. 
+
+<First Age of Peace>
+
+740
+A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Suprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
+
+<First Age of Peace>
+
+680
+Veilodin collapsed, when a massive disease broke out. It was an uncurable disease at it's time. A few hundred people traveled to Borusdaliandur. However, to stop mass migration and potential disease outbreak, Borusdaliandur had artillery to try and kill any immigrants that tried to enter. Almost half of them died to either disease, or the massacre, known as the Veilodin Migration Massacre.
+
+650
+Borusdaliandur fell. The people of Veilodin traveled south, to the Taribian desert. They formed an empire, named Zarapib. Zarapib was also led by a sorcerer, named Junas.
+
+610
+Junas was assassinated by a group of bandits. Zarapib almost collapsed, but was saved by Haronin using a spear to fend off the bandits. He became a hero, and was given the title of emperor.
+
+520
+Kingdom of Thisalvinan fell. A new empire, named Kingdom of Thisalvinan II rose, under Uluranush.
+
+490
+A group of explorers from Zerapib decided to travel north, to where current day Hendril is. They established a settlement called Grutorus, which would in the future become a village, then town, then kingdom.
+
+450
+Zarapib collapsed, and Tarib rose, taking over it's remains.
+
+360
+Grutorus fully became a kingdom. In the Kingdom of Thisalvinan II, a group of explorers went to where current day Ranûdel is, and put down a new Kingdom, named Ranuladaen.
+
+ ^
+ |
+BCE
+~~~~~~~~~~
+AD
+ |
+ v
+
+0
+Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Hendrala.
+
+20
+A group of explorers from Ranuladaen traveled north, and established Esrelu and Vuntarla.
+
+170
+Ranuladaen was renamed to Ranûdel. Some high elves did not like the change, so they went and created a kingdom called Amatil, located a few ten kilometers away from Ranûdel.
+
+350
+Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
+
+355
+Banodic explorers traveled from Banod again, and created Glomdur.
+
+410
+Hendrala went under revolution, becoming current day Hendril.
+
+500
+Jûmlaanar is created.
+
+560
+The King of Jûmlaanar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
+
+710
+A large group of explorers from Hendril traveled up north, due to inflation (mines were invaded by fire elementals).
+
+730
+They established Turinus.
+
+750
+Over time, the language of the travelers changed, influenced by Esrel. Turnius became Thalanol, then to Thalmundol.
+
+780
+From the settlement Thalmundol, Norvun rises.
+
+<Second Age of Peace>
+
+930
+Jûmlaanar launches assault upon Glomdur, bringing chaos. Glomdur barely survives, only because Jûmlaanar only took resources.
+
+935
+Norvun declares war on Jûmlaanar. They launch an invasion on Jûmlaanar, which was unsuccessful.

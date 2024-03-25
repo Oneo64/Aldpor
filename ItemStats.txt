@@ -1,0 +1,37 @@
+(If a weapon doesn't appear, it doesn't exist in my world)
+(*=see EconomyAndPrices.txt)
+Weapons:
+	Simple Melee:
+		Club
+		Dagger
+		Greatclub
+		Mace
+		Quarterstaff
+		Sickle
+		Spear
+		Star Glising* (invented 1500 BCE) (1d8 piercing)
+
+	Martial Melee:
+		Arming Sword (invented 300 AD)
+		Battle axe
+		Longaxe (Dane axe, invented 400 BCE) (use greataxe stats, damage is 1d10 slashing instead)
+		Scimitar
+		Shortsword
+		Trident
+		Warhammer
+		Whip
+		Pike
+
+	Simple Ranged Weapons:
+		Crossbow, light (invented 400 AD)
+		Shortbow
+		Sling
+
+	Martial Ranged Weapons:
+		Crossbow, heavy (invented 450 AD)
+		Longbow
+
+
+Star Glising of Namiam
+	Weapon (Star Glising)
+	Legendary (requires attunement)

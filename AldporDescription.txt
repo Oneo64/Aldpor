@@ -64,8 +64,7 @@ Creating magic items is still known, but it's very hard to find someone who know
 Kingdoms:
 	Hendril (humans, speaks Hendric, culture = roman)
 	Norvun (humans, speaks Norvunic, culture = norse) (current king: Palvnin II)
-	Tarib (humans, speaks Taribian, culture = slavic)
-	Gordazeel (humans, speaks Taribian, culture = persian)
+	Tarib (humans, speaks Taribian, culture = persian)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish)
 	Ranûdel (high elves, speaks Ranûdan, culture = elvish)
@@ -107,36 +106,6 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 	Village: About 30 houses (common crafters and shops) Population: 30 x 14 = 420   people
 	Town: About 100 houses (uncommon crafters and shops) Population: 100 x 14 = 1400 people
 	City: About 300 houses (rare crafters and shops)     Population: 300 x 14 = 4200 people
-
-(If a weapon doesn't appear, it doesn't exist in my world)
-Weapons:
-Simple Melee:
-Club
-Dagger
-Greatclub
-Mace
-Quarterstaff
-Sickle
-Spear
-
-Martial Melee:
-Arming Sword
-Battle axe
-Longaxe (Dane axe)
-Scimitar
-Shortsword
-Trident
-Warhammer
-Whip
-
-Simple Ranged Weapons:
-Crossbow, light
-Shortbow
-Sling
-
-Martial Ranged Weapons:
-Crossbow, heavy
-Longbow
 
 Lifespans:
 Human = 100

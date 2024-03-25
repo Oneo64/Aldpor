@@ -56,14 +56,24 @@ Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
 	Somewhat expensive (warm colors): 1 sp | 2 sp
 	Expensive (cool colors):          3 sp | 6 sp
 
-Items (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
-	Ulfberht Sword:   handle x2, crossguard + blade x25
-	Bearded Axe:      handle x5, head x6
-	Longaxe/Dane axe: handle x8, head x10
-	Mace:             handle x5, head x15
-	Spear:            handle x10, head x3
-	Staff:            handle x6
-	Roundshield:      shield x10, paint (see dye, ignore if undyed) x5, round thingy in the middle x5
+*default prices are assuming they are made of iron*
+Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
+	Ulfberht Sword:   handle x2, crossguard + blade x25 (13gp 5sp)
+	Arming Sword:     handle x2, crossguard + blade x20 (11gp)
+	Shortsword:       handle x2, crossguard + blade x12 (7gp)
+	Scimitar:         handle x3, crossguard + blade x20 (11gp 5sp)
+	Bearded Axe:      handle x5, head x6 (3gp 2sp 5cp)
+	Longaxe/Dane axe: handle x8, head x10 (5gp 4sp)
+	Star Glising:     handle x5, head x18 (11gp 5sp, similar to a morning star, instead of the head is made of spikes that protrude out of the tip like a sea urchin)
+	Mace:             handle x5, head x15 (10gp)
+	Warhammer:        (small) handle x6, head x6 (3gp 3sp) | (large) handle x10, head x7 (4sp)
+	Spear:            handle x10, head x3 (2gp)
+	Pike:             handle x16, head x5 (3gp 3sp)
+	Staff:            handle x6 (3sp)
+	Trident:          handle x10, head x20 (15gp, steel = 30gp)
+	Round Shield:     shield x16, leather rim x10, paint (see dye, ignore if undyed) x5, round thingy in the middle x5 (undyed = 4gp 3sp)
+
+	Whip: 2gp
 
 	Fancy patterns: multipliers + 3gp
 	Tunic/Pants:    area x10
