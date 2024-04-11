@@ -18,7 +18,7 @@ Grandparents       Parents                Youth
 
 Haldig  (MD) (67)                      / Alovael (MA) (27)
             >----- Algrom  (MA) (57)   |
-Amja    (FD) (62)               \      | Lorvon  (MA) (25)
+Amja    (FD) (62)               \      | Ljorn   (MA) (25)
                                  >-----+
 Bjelnad (MD) (44)               /      | Yngvildr(FA) (23)
             >----- Mif     (FA) (55)   |

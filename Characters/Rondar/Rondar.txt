@@ -92,5 +92,5 @@ Occupications:
 	Adventurer
 
 Relations:
-	Lorvon Rulvik (friend, met in a school of evocation)
+	Ljorn Rulvik (friend, met in a school of evocation)
 	Jeiruld Aldorim (a teacher from a school of evocation)

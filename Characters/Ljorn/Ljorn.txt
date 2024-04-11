@@ -1,4 +1,4 @@
-Lorvon Rulvik
+Ljorn Rulvik
 Male
 Age: 25 (born 1012, december 2)
 Alignment: Lawful Good
@@ -158,8 +158,8 @@ Possessions:
 
 	Leather pouch 2:
 		A spellbook (simple leather cover, 150 vellum pages)
-		A journal, documenting Lorvon's adventures and discoveries, written in Norvunic
-		An crystal opal orb, 9cm diameter (This is Lorvon's arcane focus)
+		A journal, documenting Ljorn's adventures and discoveries, written in Norvunic
+		An crystal opal orb, 9cm diameter (This is Ljorn's arcane focus)
 
 	Inside mastermyr chest at his home:
 		5 wood carvings of random people
