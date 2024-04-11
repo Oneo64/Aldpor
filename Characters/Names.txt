@@ -4,7 +4,7 @@ Human names:
 	Norvun:
 		First (m):
 		First (f):
-		Last: Rulvik, Glomunsal, Galigt
+		Last: Rulvandr, Glomunsal, Galigt
 
 Cold Elf names:
 	First (m): Huthviyn, Antolos, Pasralos, Kiriyn, Sasoldaf, Toraf, Lûsraf
