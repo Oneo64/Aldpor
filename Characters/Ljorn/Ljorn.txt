@@ -48,25 +48,24 @@ Personality:
 			1. Good-hearted (kind, generous and benevolent)
 			2. Honest
 			3. Thoughtful (imaginative)
-			4. Loyal (trustworthy)
-			5. Brave (bold, daring, courageous)
-			6. Intelligent (smart, logical)
-			7. Wise
-			8. Observant
+			4. Brave (bold, daring, courageous)
+			5. Intelligent (smart, logical)
+			6. Wise
+			7. Observant
 
 		NEUTRAL:
 			1. Mysterious
 			2. Competitive
 			3. Most of the time, he carries a half-emotionless face
 			4. Slightly secretive
+			5. Tries to avoid conflict most of the time
 
 		NEGATIVE:
 			1. Aloof
 			2. Angered easily, but fast to calm
-			3. Cruel to enemies
-			4. Bad sense of humor
-			5. Socially awkward
-			6. Distrusting
+			3. Bad sense of humor
+			4. Socially awkward
+			5. Distrusting
 		
 		Introverted
 		Realistic (perspective on the future)
