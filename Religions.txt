@@ -17,6 +17,6 @@ Furnalfa    = Plane of fey
 Deities:
 Talmundr  = God of Warmth (hot and cold)
 Lûnanyr   = God of Life
-Bjelfald  = God of Creation
+Jalfar    = God of Creation
 Parhrûgi  = God of Magic
 Hirulfyr  = God of Emotions

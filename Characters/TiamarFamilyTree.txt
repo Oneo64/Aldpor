@@ -1,0 +1,23 @@
+THE TIAMAR FAMILY TREE
+
+Wealth: 20 gp, 7700 sp, 3360 cp (about 825 gp)
+Land:
+    A wood house. This house is in Bantusea, Hendril.
+    A piece of farmland behind their house.
+
+m = male
+f = female
+a = alive
+d = dead/deceased (if dead, age is what age they died)
+
+---------------------------------------------------------------
+
+Grandparents       Parents                Youth
+
+Haldig  (MD) (67)
+            >----- Geren   (MA) (45)   / Jadet   (FA) (22)
+Amja    (FD) (62)               \      | 
+                                 >-----+ Hevus   (MA) (20)
+Bjelnad (MD) (44)               /      | 
+            >----- Donnobel(FA) (48)   \ Nix     (MA) (19)
+Elfreida(FA) (80)

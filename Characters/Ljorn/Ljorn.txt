@@ -25,7 +25,7 @@ Apparel:
 	Linen blue viking trousers
 
 	Leather boots
-	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
+	Leather ring belt (on waist not hip, loose part of belt hanging down to below crotch)
 	Leather scabbard (on left side of hip, pointed down)
 
 	Leather pouch (hung on right side of belt, dimensions about 15x30)
@@ -84,7 +84,7 @@ Personality:
 
 		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
 
-		Religion: Bjelfaldism (Believes in Bjelfald)
+		Religion: Jalfaric
 
 Power:
 	Powerful with magic
@@ -136,12 +136,7 @@ Possessions:
 	A bearded axe
 
 	Leather pouch:
-		A small jar of ink
 		A small jar of linseed oil
-		A quill taken from a goose
-		10 sheets of parchment
-		10 sheets of vFlum
-		2 blank scrolls
 		A drinking horn
 		A waterskin (usually filled with water)
 		A small knife (or seax, used like a fork)
@@ -152,13 +147,19 @@ Possessions:
 		A small vial of Regeneration Potion
 		A small vial of Simple Curing Potion
 
-		(magic items)
-		Alchemy Jug
+		5 unlit candles
+		5 unlit torches
 
 	Leather pouch 2:
 		A spellbook (simple leather cover, 150 vellum pages)
 		A journal, documenting Ljorn's adventures and discoveries, written in Norvunic
 		An crystal opal orb, 9cm diameter (This is Ljorn's arcane focus)
+
+		A small jar of ink
+		A quill taken from a goose
+		2 blank scrolls of vellum
+		10 sheets of parchment
+		10 sheets of vellum
 
 	Inside mastermyr chest at his home:
 		5 wood carvings of random people
