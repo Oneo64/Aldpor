@@ -14,10 +14,10 @@ d = dead/deceased (if dead, age is what age they died)
 
 Grandparents       Parents                Youth
 
-Haldig  (MD) (67)
+Torzus  (MD) (67)
             >----- Geren   (MA) (45)   / Jadet   (FA) (22)
-Amja    (FD) (62)               \      | 
+Fram    (FD) (62)               \      | 
                                  >-----+ Hevus   (MA) (20)
-Bjelnad (MD) (44)               /      | 
+Barrex  (MD) (44)               /      | 
             >----- Donnobel(FA) (48)   \ Nix     (MA) (19)
-Elfreida(FA) (80)
+Haidet  (FA) (80)

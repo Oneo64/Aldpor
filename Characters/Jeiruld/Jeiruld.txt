@@ -9,7 +9,7 @@ Appearance:
 	Bald
 
 Apparel:
-	Linen dark red dress
+	Woolen dark red dress
 
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)

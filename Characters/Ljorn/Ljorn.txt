@@ -21,7 +21,8 @@ Appearance:
 Apparel:
 	Brown hooded cloak (wool, semi-circular, hood is not pointed)
 
-	Linen dark purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
+	Woolen dark purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
+	Linen undershirt
 	Linen blue viking trousers
 
 	Leather boots

@@ -18,7 +18,7 @@ Appearance:
 Apparel:
 	Brown hooded cloak (wool, semi-circular, hood is not pointed)
 
-	Linen blue robes, with a thick yellow line from the collar down the end
+	Woolen blue robes, with a thick yellow line from the collar down the end
 	
 	Leather boots
 	Leather belt, with all sorts of pouches and bags (on waist not hip, loose part of belt hanging down to below crotch)

@@ -12,7 +12,7 @@ Appearance:
 
 Apparel:
 	White hooded cloak
-	Linen dark green robes with slight blue hue
+	Woolen dark green robes with slight blue hue
 
 	Leather shoes
 	Leather belt

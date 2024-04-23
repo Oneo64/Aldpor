@@ -15,7 +15,7 @@ Appearance:
 		Vertical forehead
 
 Apparel:
-	Linen dark green robes, with fancy brown collar (goes down to the middle of the shins, loose for flexibility like a modern dress)
+	Woolen dark green robes, with fancy brown collar (goes down to the middle of the shins, loose for flexibility like a modern dress)
 
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
