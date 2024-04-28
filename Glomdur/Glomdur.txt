@@ -1,0 +1,9 @@
+Government: Elected Diarchy
+Race Majority: Dwarf
+Culture type: Slavic
+
+Rulers:
+	Galthav (Rules economy, imports, exports, trading)
+	Rudulgan (Rules the law, criminal punishment)
+	Fravikus (Rules military, and war)
+	Thand (Major King, rules everything)
