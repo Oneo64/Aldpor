@@ -1,6 +1,6 @@
 Same as DnD's forgotten realm's magic system, with a few changes:
 
-All spell casting has been halved.
+All spell casting speed has been halved.
 
 You can 'store' a spell in orb. Before you can do this, or even cast a spell using an orb, you MUST attune to it first.
 You will not be able to attune to an orb if someone else has already attuned to it.
@@ -25,5 +25,5 @@ Most orbs used are either marble, glass, or wood.
 Only the wealthy can afford gemstone orbs, and most of these orbs are made of any opal variant.
 
 
-If you don't have a spell prepared/stored in your orb, you can cast it if you are looking at your spellbook. Casting time takes an extra round. (Reason: it's realistic)
+If you don't have a spell prepared/stored in your orb, you can cast it if you are looking at your spellbook. Casting time is normal speed plus an extra round. (Reason: it's realistic, one extra round to look at spellbook)
 If you use an orb, then the maximum prepared spells you can have is: (wizard level * 2) + int modifier.

@@ -17,9 +17,10 @@ Common:
 Uncommon:
 	Neshozic
 
-Rare:
+Exotic:
 	Primordial
 	Draconic
+	Abyssal
 
 	Primordial Dwarven
 

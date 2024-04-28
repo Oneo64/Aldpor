@@ -208,3 +208,12 @@ You will appear off course, as this spell is intended to long range travel.
 	 2   2 km (1.2 mi)
 	 3   3 km (1.8 mi)
 	 4   4 km (2.5 mi)
+
+
+
+Streak of Power (Level 4):
+	Casting time: 6 seconds
+	Range: 30m (90ft)
+	Requirements: V, F
+
+An arcing beam of blue shoots out to a creature you can see. The creature gains no benefit from half cover, and must succeed on a Constutution saving throw or take 6d8 force damage.

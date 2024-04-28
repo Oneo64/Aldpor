@@ -3,7 +3,7 @@
 *Use the spell points system for more realistic things
 
 Max Health:      4 + level + constitution modifier 
-Damage (spells): Divide by 5 rounded down
+Damage (only apply to spells level 2 - 9): dmg / (level - 1)
 
 Convert dnd stats to realistic roleplay stats (input in feet, results are already converted to meters):
 	Walk speed: (spd / 8)
