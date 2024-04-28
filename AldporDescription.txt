@@ -63,7 +63,7 @@ Creating magic items is still known, but it's very hard to find someone who know
 
 Kingdoms:
 	Hendril (humans, speaks Hendric, culture = roman, empire)
-	Norvun (humans, speaks Norvunic, culture = norse, feudal absolute monarchy) (current king: Palvnin II)
+	Norvun (humans, speaks Norvunic, culture = norse, feudal absolute monarchy)
 	Tarib (humans, speaks Taribian, culture = persian, aristocracy)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish, noocracy)

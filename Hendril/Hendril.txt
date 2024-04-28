@@ -1,0 +1,20 @@
+Government: Empire
+Race Majority: Human
+Culture type: Roman
+
+Main languages: Hendric (English)
+
+Ruler: Taevus
+
+Towns:
+	Gellervail
+	Bantusea
+	Oflanas
+	Fleenedo
+
+Cities:
+	Jollantil (main place)
+
+Fortresses:
+	Gavalor
+	Hedrolhal

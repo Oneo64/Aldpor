@@ -1,0 +1,29 @@
+Government: Feudal Absolute Monarchy
+Race Majority: Human
+Culture type: Norse
+
+Main languages: Norvunic
+Other languages: Esrel
+
+Ruler: King Palvnin II
+
+Villages:
+	Argonlav
+	Borsuldol
+	Elkvin
+	Baserdol
+	Lismerlav
+
+Towns:
+	Thalmundol
+	Mansart
+
+Cities:
+	Thurnin City (inside of Thurnin)
+
+Castles:
+	Thurnin (main castle)
+	Ulfalvik
+	Halgrid
+	Ynfrunar
+	Galundegt

@@ -1,0 +1,20 @@
+Government: Elected Noocracy
+Race Majority: Cold Elf
+Culture type: Norse-Elvish
+
+Main language: Esrel
+Other languages: Norvunic
+
+Ruler: Ildiyre (gal)
+
+Villages:
+	Irbalûind
+	Ynfrotiru
+	Palerrel
+	Vesesvala
+	Minbaslûind
+	Fleriydol
+
+Castles (stone):
+	Krinvriydan (main castle thingy)
+	Hathossali

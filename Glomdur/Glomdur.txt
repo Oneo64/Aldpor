@@ -2,7 +2,10 @@ Government: Elected Diarchy
 Race Majority: Dwarf
 Culture type: Slavic
 
-Rulers:
+Main languages: Glomish
+Other languages: Banodic
+
+Rulers (guys):
 	Galthav (Rules economy, imports, exports, trading)
 	Rudulgan (Rules the law, criminal punishment)
 	Fravikus (Rules military, and war)

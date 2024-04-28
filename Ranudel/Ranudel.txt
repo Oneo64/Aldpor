@@ -1,0 +1,15 @@
+Government: Elected Geniocracy
+Race Majority: High Elf
+Culture type: Elvish
+
+Main languages: Ranûdan
+
+Ruler: Vasolas (Guy)
+
+Villages:
+	Qualu Dasin
+	Pûsa Dasin
+	Talithtoum
+
+Cities:
+	Emeroreslu
