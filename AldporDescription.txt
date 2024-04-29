@@ -6,7 +6,7 @@ Setting: The year is 1038, set in the classical age and the viking age.
 Notable features:
 In the forests, there are more monsters/abnormality encounters.
 
-Ice elementals manifest in northern Norvun and Esrelu.
+Ice elementals manifest in northern Dagsvald and Esrelu.
 Fire elementals manifest in southern Tarib.
 
 A lot of weapons use iron. Only the wealthy can afford Damascus Steel.
@@ -63,13 +63,13 @@ Creating magic items is still known, but it's very hard to find someone who know
 
 Kingdoms:
 	Hendril (humans, speaks Hendric, culture = roman, elected autocracy)
-	Norvun (humans, speaks Norvunic, culture = norse, feudal absolute monarchy)
+	Dagsvald (humans, speaks Dagsvaldian, culture = norse, feudal absolute monarchy)
 	Tarib (humans, speaks Taribian, culture = persian, aristocracy)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish, noocracy)
 	Ranûdel (high elves, speaks Ranûdan, culture = elvish, geniocracy)
 	Jûmlaanar (high elves, speaks Ranûdan, culture = elvish, aristocracy) (pronounced as yoomlaanaar)
-	Vuntarla (cold elves, speaks Norvunic + Esrel, culture = norse, absolute monarchy)
+	Vuntarla (cold elves, speaks Dagsvaldian + Esrel, culture = norse, absolute monarchy)
 	Asaovis (high elves, speaks Amatilish, culture = elvish, constitutional monarchy)
 
 	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = slavic, elected diarchy)

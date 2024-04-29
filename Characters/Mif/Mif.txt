@@ -37,7 +37,7 @@ Personality:
 
 	Specific:
 		Talks to animals when feeling bored
-		Has a norvunic accent
+		Has a Dagsvaldian accent
 
 		Religion: Bjelfaldism (Believes in Bjelfald)
 
@@ -57,7 +57,7 @@ Height: 163cm (5ft 4in)
 Weight: 57kg (126lbs)
 
 Languages (sorted by time learned):
-	Norvunic
+	Dagsvaldian
 	Esrel
 
 Possessions:
@@ -68,4 +68,4 @@ Possessions:
 Occupications:
 	Woodcarver
 
-Backstory: Grew up in Argonlav. Took passion in wood carving at the age of 14. Met Algrom while wandering in Argonlav's markets.
+Backstory: Grew up in Argonlav. Took passion in wood carving at the age of 14.

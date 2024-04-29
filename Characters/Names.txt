@@ -1,7 +1,7 @@
 List of first names that are not being used and last names:
 
 Human names:
-	Norvun:
+	Dagsvald:
 		First (m):
 		First (f):
 		Last: Rulvandr, Glomunsal, Galigt

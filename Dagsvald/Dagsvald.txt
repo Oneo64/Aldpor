@@ -2,7 +2,7 @@ Government: Feudal Absolute Monarchy
 Race Majority: Human
 Culture type: Norse
 
-Main languages: Norvunic
+Main languages: Dagsvaldian
 Other languages: Esrel
 
 Ruler: King Palvnin II

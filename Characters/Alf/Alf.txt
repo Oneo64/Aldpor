@@ -48,8 +48,6 @@ Personality:
 		Optimistic (perspective on the future)
 
 	Specific:
-		Has a norvunic accent
-
 		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Skills:
@@ -68,7 +66,7 @@ Height: 172cm (5ft 8in)
 Weight: 83kg (182lbs)
 
 Languages (sorted by time learned):
-	Norvunic
+	Dagsvaldian
 	Esrel
 
 Possessions:

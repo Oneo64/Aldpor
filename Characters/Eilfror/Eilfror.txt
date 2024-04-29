@@ -13,7 +13,7 @@ Skills:
 	Charisma: 	  16
 
 Languages (sorted by time learned):
-	Norvunic
+	Dagsvaldian
 	Esrel
 	English
 
