@@ -19,22 +19,20 @@ Appearance:
 		Vertical forehead
 
 Apparel:
-	Brown hooded cloak (wool, semi-circular, hood is not pointed)
+	Brown hooded cloak (wool, semi-circular)
 
 	Woolen dark purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
-	Linen undershirt
 	Linen blue viking trousers
 
 	Leather boots
-	Leather ring belt (on waist not hip, loose part of belt hanging down to below crotch)
+	Leather ring belt
 	Leather scabbard (on left side of hip, pointed down)
 
-	Leather pouch (hung on right side of belt, dimensions about 15x30)
-	Leather pouch 2 (same as leather pouch above, but a little more back)
+	Two leather pouches (hung on right side of belt, dimensions about 15x30)
 	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
 
 	Silver necklace, with an engraved norvunic "T" rune (shown below)
-	Silver bracelet, on the left wrist
+	Silver arm ring, on the left wrist
 
    .
   /|\

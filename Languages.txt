@@ -7,7 +7,7 @@ Common:
 	Elves:
 		Esrel (Cold Elvish)
 		Ranûdan (High Elvish)
-		Amatilish (High Elvish v2)
+		Asaovish (High Elvish v2)
 
 	Dwarves:
 		Glomish

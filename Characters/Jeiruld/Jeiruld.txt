@@ -9,7 +9,8 @@ Appearance:
 	Bald
 
 Apparel:
-	Woolen dark red dress
+	Woolen dark red robes (ankle length)
+	Four large pockets on upper part of robes
 
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
@@ -18,7 +19,7 @@ Apparel:
 	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
 
 	Gold circlet
-	Silver ring on index and middle finger on left hand
+	Silver rings on index and middle finger on left hand
 
 Personality:
 	Traits:
