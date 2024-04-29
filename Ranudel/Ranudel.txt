@@ -13,3 +13,5 @@ Villages:
 
 Cities:
 	Emeroreslu
+
+Emeroreslu is built on three giant trees over 100 meters high. Each tree holds a circular wooden floor supported by the large branches of the trees, with bridges connecting each floor. At this height, it is very windy. The wood of the wooden floor and each tree is resistant to fire, and any fires that do catch fire will go out after several seconds.

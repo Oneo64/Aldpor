@@ -8,3 +8,5 @@ Ruler: King Sûvisgarn
 
 Cities:
 	Vuntarla
+
+Vuntarla is a tiny castle that holds a town, perched on a high hill near the ocean.

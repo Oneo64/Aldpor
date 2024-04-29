@@ -19,11 +19,12 @@ Towns:
 	Mansart
 
 Cities:
-	Thurnin City (inside of Thurnin)
+	Thurnin City (inside of Dagsvald)
 
 Castles:
-	Thurnin (main castle)
 	Ulfalvik
 	Halgrid
 	Ynfrunar
 	Galundegt
+
+Dagsvald Castle: This castle is a large norman style castle that is built on top of a large hill.

@@ -18,3 +18,20 @@ Cities:
 Fortresses:
 	Gavalor
 	Hedrolhal
+
+Jollantil: Jollantil is a city built against a mountain cliff, with a wall surrounding it. Example:
+
+
+W = Wall, C = Cliff face
+
+               C
+    WWWWWWWWWWWC
+  WW           C
+ W             C
+W              C
+W     city     C
+W              C
+ W             C
+  WW           C
+    WWWWWWWWWWWC
+               C
