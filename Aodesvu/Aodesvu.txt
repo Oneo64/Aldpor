@@ -1,0 +1,16 @@
+Government: Constitutional Monarchy
+Race Majority: High Elf
+Culture type: Elvish
+
+Main language: Aodesvic
+Other languages: Ranûdan
+
+Ruler: Aodovash
+
+Villages:
+	Brustashar
+	Pendlas Mus
+	Fiythargaon
+
+Cities:
+	Yūsathu Gandathu

@@ -1,13 +1,13 @@
 Common:
 	Humans:
 		Hendric (English)
-		Norvunic
+		Dagsvaldian
 		Taribian
 
 	Elves:
 		Esrel (Cold Elvish)
 		Ranûdan (High Elvish)
-		Asaovish (High Elvish v2)
+		Aodesvic (High Elvish v2)
 
 	Dwarves:
 		Glomish
@@ -25,6 +25,6 @@ Exotic:
 	Primordial Dwarven
 
 	Old Hendric
-	Draco-Norvunic
+	Draco-Dagsvaldian
 	Old Esrel
 	Old Ranûdan
