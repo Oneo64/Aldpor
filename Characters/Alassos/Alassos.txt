@@ -1,4 +1,4 @@
-Alassos Entviyng
+Alassös Entviyng
 Male
 Age: 43, looks 33 (born 995, march 4)
 Alignment: Neutral
@@ -35,8 +35,6 @@ Personality:
 
 	Specific:
 		Has a norvunic accent
-
-		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Skills:
 	Real:
