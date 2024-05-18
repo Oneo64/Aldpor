@@ -3,6 +3,7 @@ Female
 Age: 19 (born 1019, march 5)
 Alignment: Lawful Good
 Ethnicity: Aodesvic
+Race: Celestial Human Hybrid
 Appearance:
 	Vibrant eyes
 	Fair/light cool skin
@@ -41,16 +42,18 @@ Power:
 	Average with magic
 	Expert with sword and shield
 
+	Darkvision up to 3 meters (9ft)
+
 Skills:
 	Real:
-		Magic (2 years experience)
+		Magic (1 year experience)
 		Barohin Swordfighting
 
 	DnD additional skills:
 		History
 		Religion
 
-	Level:          Fighter 4 / Cleric 1
+	Level:          Fighter 2 / Cleric 1
 	Strength: 	    8 	-1
 	Dexerity:       12 	+1
 	Constitution: 	12  +1
@@ -70,7 +73,7 @@ Languages (sorted by time learned):
 
 Possessions:
 	A spatha
-	A purple shield bearing a white symbol of Lûnanyr
+	A purple kite shield bearing a white symbol of Lûnanyr
 
 Occupications:
 	Fighter
