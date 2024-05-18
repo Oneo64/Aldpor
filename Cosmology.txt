@@ -15,8 +15,8 @@ Planes/Realms:
 	Furnalfa    = Plane of fey (N, Feywild)
 
 Deities:
-	Talmundr  = God of Warmth and Cold (N)
-	Lûnanyr   = God of Life and Death (LG)
-	Jalfar    = God of Creation (NG)
-	Parhrûgi  = God of Magic (N)
-	Hirulfyr  = God of Emotions (CN)
+	Talmundr  = God of Warmth and Cold (N, Tempest, Luck)
+	Lûnanyr   = God of Life and Death (LG, Order, Life, Death)
+	Jalfar    = God of Creation (NG, Order, War, Creation, Destruction, Change)
+	Parhrûgi  = God of Magic (N, Order, Knowledge, Arcana)
+	Hirulfyr  = God of Emotions (CN, Life, Trickery)

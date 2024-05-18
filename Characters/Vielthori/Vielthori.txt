@@ -1,0 +1,87 @@
+Vielthori
+Female
+Age: 19 (born 1019, march 5)
+Alignment: Lawful Good
+Ethnicity: Aodesvic
+Appearance:
+	Vibrant eyes
+	Fair/light cool skin
+	Long light blond hair
+
+Apparel:
+	Purple surcoat with white symbol of Lûnanyr
+
+	Steel chainmail hauberk
+	Norman nasal helmet lined with gold
+
+	Linen grey tunic
+	Linen brown pants
+
+	Leather boots
+	Leather ring belt
+	Leather scabbard (on left side of hip, pointed down)
+
+Goal (sorted by priority first): "Protect" the world and the cycle of life from undeath
+
+Personality:
+	Traits:
+		POSITIVE:
+			1. Friendly
+			2. Commanding
+
+		NEGATIVE:
+			1. Wrathful
+
+	Specific:
+		She despises any necromancy that does anything else other than heal
+
+		Religion: Specifically devoted to Lûnanyr
+
+Power:
+	Average with magic
+	Expert with sword and shield
+
+Skills:
+	Real:
+		Magic (2 years experience)
+		Barohin Swordfighting
+
+	DnD additional skills:
+		History
+		Religion
+
+	Level:          Fighter 4 / Cleric 1
+	Strength: 	    8 	-1
+	Dexerity:       12 	+1
+	Constitution: 	12  +1
+	Intelligence: 	10	0
+	Wisdom: 	    14 	+2 proficiency
+	Charisma: 	    14	+2 proficiency
+
+Height: 160cm (5ft 3in)
+Weight: 50kg (110lbs)
+
+Carrying Wealth: 5 gp, 500 sp, 940 cp
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	Aodesvic
+	English
+
+Possessions:
+	A spatha
+	A purple shield bearing a white symbol of Lûnanyr
+
+Occupications:
+	Fighter
+	Cleric (Lûnanyr)
+
+Attacks:
+	Can use sword and shield
+
+	(Level 1 Cleric) Spells:
+		Spell points available: 4
+
+		Prepared:
+			Cantrips: Mending, Light
+			Level 1: Bless, Cure Wounds, Detect Evil and Good, Detect Poison and Disease
