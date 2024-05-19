@@ -25,12 +25,12 @@ Apparel:
 Personality:
 	Traits:
 		POSITIVE:
-			1. Collaborative
+			1. Helpful
 			2. Patient
 
 		NEGATIVE:
-			1. Meddlesome
-			2. Extravagent
+			1. Extravagent
+			2. Disorganised
 
 		Realistic view of future
 

@@ -3,6 +3,8 @@ Male
 Age: 77 (born 961, april 10)
 Alignment: Lawful Neutral
 Ethnicity: Hendric
+Race:      Human
+
 Appearance:
 	Dark brown eyes
 	Fair/light cool skin
@@ -33,14 +35,8 @@ Personality:
 			1. Mysterious
 
 		NEGATIVE:
-			1. Prefers to be with close people
-			2. Wrathful
-
-	Specific:
-		Has a norvunic accent, speaks broken english
-
-		Religion: Bjelfaldism (Believes in Bjelfald)
-
+			1. Slightly wrathful
+			2. Aloof
 Power:
 	Master of Magic
 

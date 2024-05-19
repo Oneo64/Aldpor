@@ -1,27 +1,24 @@
 Races found in my world:
 
 Ranastar:
-	Ranastars are anthropomorphic animals, like furries, but they make more sense.
-	When a person is obsessed with nature and they mate with someone else, the offspring has a 10% chance to be a ranastar. Ranastars born this way need to wait a few years before transformation.
-	If a ranastar mates with one of it's kind, the offspring will always be a ranastar.
+	Ranastars are literally just animals that stand on their hind legs, created by natural manifestations of Lûnanyr. When a person is obsessed with nature and they mate with someone else, the offspring has a 10% chance to be a ranastar. Ranastars born this way will appear normal, but will begin transformation almost immedietely. The transformation takes up to a year.
 
-	Most ranastars will run away from home and live in the wild, or stay sheltered at home. This is because they feel out of place, the commonfolk bully them for their appearance.
-	Bear and rat ranastars prefer to stay with the commonfolk and feel no shame, while bobcat ranastars tend to go alone.
+	Most ranastars will run away from home and live in the wild, or stay sheltered at home. This is because they feel out of place, the commonfolk shame, or depise them for their appearance. However, certain variants are not treated as harshly, such as the bear. Because of this, the shamed and despised often develop a hatred, or anger for intelligent beings and the certain variants said before.
 
-	Classes: Barbarians, fighters, rogues and druids are most common, while everything else are rare.
+	Classes: Barbarians, fighters, rogues, druids, and sorcerers are most common, while everything else are rare.
 
 	Advantages:
 		Camoflauge - You have an option to use an action to blend in foliage near by. Detection requires a DC 12 Wisdom saving throw.
 
 	Disadvantages:
-		Bow Incompatibility - You are unable to use any kind of bow, excluding crossbows.
-		Magic Incompatibility - You are unable to cast a non druid spell with the (S)omatic component.
+		Bow Incompatibility - You are unable to use any kind of bow. Crossbows are the only exception.
+		Magic Incompatibility - You are unable to cast any non-druid and any non-sorcerer spell with the (S)omatic component.
 
 	Variants/Overrides: (min stat increase up to 3)
 		Bear:
 			Alignments - Lawful, Neutral
 			Ability Score Increase - Dex -1, Con +2, Wis +1
-			Cold Resistance - You have resistance against cold damage.
+			Cold Resistance - You have resistance against Cold and Piercing damage.
 			Fur Color - Brown (brown bears), Black (black bears), White (polar bears)
 			Natural Weapons - Claws: 2d6 Slashing
 
@@ -46,7 +43,7 @@ Ranastar:
 			Cold Resistance - You have resistance against cold damage.
 			Ability Score Increase - Dex +2, Int -1, Chr +1
 
-		Wolf (or dog):
+		Wolf:
 			Alignment - Lawful, Neutral, Chaotic
 			Ability Score Increase - Dex +2, Int -1, Chr +1
 			Cold Resistance - You have resistance against cold damage.

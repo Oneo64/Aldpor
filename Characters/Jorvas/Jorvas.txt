@@ -1,14 +1,17 @@
-Jorvald Byrgor
+Jorvas Byrgor
 Male
 Age: 323 (born 713, jan 3)
 Alignment: Lawful Evil
+Ethnicity: Old Hendric
+Race:      Draugr (Human)
+
 Appearance:
 	Gray dull eyes
 	Pale yellow skin
 	Bald
 
 Apparel:
-	Migration period gjermundbu Helmet, lined with brass and lead
+	Migration period helmet, lined with brass and lead
 
 	Chainmail Hauberk, over gambeson
 	Blue gambeson
@@ -25,6 +28,7 @@ Personality:
 			1. Careful
 			2. Mindful
 			3. Restless
+			4. Stoic
 
 		NEGATIVE:
 			1. Judgemental

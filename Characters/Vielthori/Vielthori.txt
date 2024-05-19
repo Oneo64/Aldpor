@@ -4,6 +4,7 @@ Age: 19 (born 1019, march 5)
 Alignment: Lawful Good
 Ethnicity: Aodesvic
 Race: Celestial Human Hybrid
+
 Appearance:
 	Vibrant eyes
 	Fair/light cool skin
@@ -28,15 +29,16 @@ Personality:
 	Traits:
 		POSITIVE:
 			1. Friendly
-			2. Commanding
+			2. Assertive
 
 		NEGATIVE:
-			1. Wrathful
+			1. Purist
+			2. Meddlesome
 
 	Specific:
 		She despises any necromancy that does anything else other than heal
 
-		Religion: Specifically devoted to Lûnanyr
+		Religion: Devoted to Lûnanyr
 
 Power:
 	Average with magic

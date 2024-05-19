@@ -11,7 +11,7 @@ Average family wealth per social class:
 	Low class (peasants):                family: 20 sp  + 20 cp               || personal: 6 sp   + 6 cp
 	Middle class (karls):                family: 100 sp + 100 cp              || personal: 35 sp  + 35 cp
 	--WEALTHY/RICH BORDER---------------------------------------------------------------------------------------------
-	High class (wealthy people, mayors): family: 20 gp  + 5000 sp  + 1000 cp  || personal: 6 gp   + 1650 cp  + 350 cp
+	High class (wealthy people, mayors): family: 20 gp  + 5000 sp  + 1000 cp  || personal: 6 gp   + 1650 sp  + 350 cp
 	Very High class (jarls):             family: 100 gp + 25000 sp + 5000 cp  || personal: 35 gp  + 8350 sp  + 1650 cp
 	Most High class (kings and royals):  family: 500 gp + 40000 sp + 20000 cp || personal: 160 gp + 13330 cp + 6650 cp
 

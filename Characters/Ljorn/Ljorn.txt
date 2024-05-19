@@ -3,6 +3,8 @@ Male
 Age: 25 (born 1012, december 2)
 Alignment: Lawful Good
 Ethnicity: Dagsvaldian
+Race:      Human
+
 Appearance:
 	Dark blue eyes
 	Fair/light cool skin
@@ -10,13 +12,6 @@ Appearance:
 	
 	Burn mark on chest (result of magic practice)
 	Scar on right shoulder (result from arrow shot)
-
-	Face:
-		Medium eyebrows
-		Hooded eyes
-		Oval head
-		Straight thin nose
-		Vertical forehead
 
 Apparel:
 	Brown hooded cloak (wool, semi-circular)
@@ -46,25 +41,16 @@ Personality:
 		POSITIVE:
 			1. Good-hearted (kind, generous and benevolent)
 			2. Honest
-			3. Thoughtful (imaginative)
-			4. Brave (bold, daring, courageous)
-			5. Intelligent (smart, logical)
-			6. Wise
-			7. Observant
-
-		NEUTRAL:
-			1. Mysterious
-			2. Competitive
-			3. Most of the time, he carries a half-emotionless face
-			4. Slightly secretive
-			5. Tries to avoid conflict most of the time
+			3. Intelligent (smart, logical)
+			4. Wise
+			5. Observant
 
 		NEGATIVE:
-			1. Aloof
-			2. Angered easily, but fast to calm
-			3. Bad sense of humor
-			4. Socially awkward
-			5. Distrusting
+			1. Angered easily
+			2. Bad sense of humor
+			3. Socially awkward
+			4. Distrusting
+			5. Aloof
 		
 		Introverted
 		Realistic (perspective on the future)
@@ -82,8 +68,6 @@ Personality:
 		He does not like vibrant, flashing lights
 
 		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
-
-		Religion: Jalfaric
 
 Power:
 	Powerful with magic

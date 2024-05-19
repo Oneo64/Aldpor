@@ -1,0 +1,67 @@
+Mod Lazulkror
+Male
+Age: 25 (born 1012, december 2)
+Alignment: Chaotic Neutral
+Ethnicity: Banodic
+Race:      Dwarf
+
+Appearance:
+	Long blood red hair
+	Beard braided into one, clamped by a silver clasp
+
+	Vibrant red eyes
+	Very pale skin
+
+Apparel:
+	Bronze nasal helmet (imagine norman nasal helmet, but the nose piece is longer and wider)
+	Bronze chainmail hauberk, the bottom split into 6 instead of four (A piece of chainmail covering front and back side of both legs, and a piece covering each side)
+
+	Black linen shirt
+	Dark blue baggy pants
+	Leather shoes
+
+Personality:
+	Unfinished
+
+Power:
+	Trained with warhammer
+
+Skills:
+	Real:
+		Dwarvish Weaponbashing
+
+	DnD additional skills:
+		Arcana
+		History
+		Medicine
+		Investigation
+
+	Level:          Fighter 6
+	Strength: 	    14  +2 proficiency
+	Dexerity:       11  0
+	Constitution: 	13 	+1 proficiency
+	Intelligence: 	10  0
+	Wisdom: 	    8 	-1
+	Charisma: 	    12	+1
+
+Height: 112cm (3ft 8in)
+Weight: 70kg (143lbs)
+
+Carrying Wealth: 40 gp, 80 sp
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	Banodic
+
+Possessions:
+	A war hammer without a pointy tip
+	A bronze buckler with the words "Balkrosdi-mod" carved on it's front (meaning "Mod's Shield" in Banodic, "balkros" = shield, "di" = of, "mod" = this guy's name)
+
+	Small cloth bag: Gold and silver
+
+Occupications:
+	Fighter
+
+Attacks:
+	Can use warhammer
+	Can use shield (shield bash)

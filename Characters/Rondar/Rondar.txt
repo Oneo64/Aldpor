@@ -2,6 +2,9 @@ Rondar Glomunsal
 Male
 Age: 24 (born 1012, july 23)
 Alignment: Lawful Good
+Ethnicity: Human
+Race:      Dagsvaldian
+
 Appearance:
 	Green eyes
 	Fair/light cool skin
@@ -31,14 +34,10 @@ Personality:
 			1. Warm
 			2. Creative
 			3. Intelligent (smart, logical)
-			4. Adaptable
-			5. Observant
 
 		NEGATIVE:
 			1. Distrusting
 			2. Regimental
-			3. Assertive
-			4. Anxious
 		
 		Ambivert, leaning introvert
 		Realistic (perspective on the future)

@@ -1,7 +1,10 @@
 Mif Rulvik
 Female
 Age: 55 (born 981, july 8)
-Alignment: Neutral Good
+Alignment: Neutral
+Ethnicity: Dagsvaldian
+Race:      Human
+
 Appearance:
 	Dark blue eyes
 	Fair/light cool skin
@@ -27,7 +30,6 @@ Personality:
 		POSITIVE:
 			1. Kind
 			2. Observant
-			4. Honest
 
 		NEGATIVE:
 			1. Hesitant
@@ -38,8 +40,6 @@ Personality:
 	Specific:
 		Talks to animals when feeling bored
 		Has a Dagsvaldian accent
-
-		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Skills:
 	Real:

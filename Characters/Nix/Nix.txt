@@ -1,8 +1,10 @@
 Nix Tamiar
 Male
 Age: 19 (born 1019, august 7)
-Alignment: Lawful Good
+Alignment: Chaotic Good
 Ethnicity: Hendric
+Race:      Human
+
 Appearance:
 	Dark brown eyes
 	Fair/light cool skin
@@ -25,8 +27,7 @@ Personality:
 	Traits:
 		POSITIVE:
 			1. Good-hearted (kind, generous and benevolent)
-			2. Thoughtful (imaginative)
-			3. Brave (bold, daring, courageous)
+			2. Brave (bold, daring, courageous)
 
 		NEGATIVE:
 			1. Overprotective

@@ -2,6 +2,9 @@ Alf Rulvandr
 Male
 Age: 21 (born 1016, august 17)
 Alignment: Neutral Good
+Ethnicity: Dagsvaldian
+Race:      Human
+
 Appearance:
 	Dark blue eyes
 	Fair/light cool skin
@@ -35,20 +38,15 @@ Personality:
 			1. Kind
 			2. Thoughtful (imaginative)
 			3. Careful
-			4. Jokes around
 
 		NEUTRAL:
 			1. Competitive
 
 		NEGATIVE:
-			1. Aloof
-			2. Unfriendly
-			3. Distrusting
+			1. Unfriendly
+			2. Distrusting
 		
 		Optimistic (perspective on the future)
-
-	Specific:
-		Religion: Bjelfaldism (Believes in Bjelfald)
 
 Skills:
 	Real:
