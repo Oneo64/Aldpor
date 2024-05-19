@@ -5,7 +5,7 @@ Culture type: Norse
 Main languages: Dagsvaldian
 Other languages: Esrel
 
-Ruler: King Palvnin II
+Ruler: Palf
 
 Villages:
 	Argonlav
