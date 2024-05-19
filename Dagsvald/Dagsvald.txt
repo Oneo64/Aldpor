@@ -28,3 +28,10 @@ Castles:
 	Galundegt
 
 Dagsvald Castle: This castle is a large norman style castle that is built on top of a large hill.
+
+Coins: Each gold or silver coin could be engraved with a symbol of the following:
+	Lûnanyr's symbol (silver only)
+	Sword
+	Dagsvaldian "T" rune (symbolizes Talmundr)
+	Vegvisir
+	Small circle of Dagsvaldian runes that translate into a word or phrase such as "magic", "the light", "destiny", "mighty", "draugr repeller", or "my gold"
