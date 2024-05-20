@@ -16,12 +16,19 @@ Apparel:
 	Bronze nasal helmet (imagine norman nasal helmet, but the nose piece is longer and wider)
 	Bronze chainmail hauberk, the bottom split into 6 instead of four (A piece of chainmail covering front and back side of both legs, and a piece covering each side)
 
+	Black capelet
 	Black linen shirt
 	Dark blue baggy pants
 	Leather shoes
 
 Personality:
-	Unfinished
+	POSITIIVE:
+		1. Sharing
+		2. Magnanimous
+
+	NEGATIVE:
+		1. Reckless
+		2. Pompous
 
 Power:
 	Trained with warhammer
@@ -30,17 +37,15 @@ Skills:
 	Real:
 		Dwarvish Weaponbashing
 
-	DnD additional skills:
-		Arcana
+	Game:
 		History
-		Medicine
-		Investigation
+		Athletics
 
 	Level:          Fighter 6
 	Strength: 	    14  +2 proficiency
-	Dexerity:       11  0
+	Dexerity:       11
 	Constitution: 	13 	+1 proficiency
-	Intelligence: 	10  0
+	Intelligence: 	10
 	Wisdom: 	    8 	-1
 	Charisma: 	    12	+1
 

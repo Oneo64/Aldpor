@@ -38,18 +38,18 @@ Skills:
 	Real:
 		Druidic Magic
 
-	DnD additional skills:
+	Game:
 		Medicine
 		Nature
 		Survival
 		Animal Handling
 
 	Level:          10
-	Strength: 	    10  +0
+	Strength: 	    10
 	Dexerity:       15 	+2
 	Constitution: 	13 	+1
-	Intelligence: 	11	+0 proficiency
-	Wisdom: 	    16 	+3 proficiency
+	Intelligence: 	11	    proficiency
+	Wisdom: 	    16 	+3  proficiency
 	Charisma: 	    9	-1
 
 	Immune to poison and disease
@@ -65,7 +65,7 @@ Carrying Wealth: 10 gp, 600 sp, 500 cp
 Languages (sorted by time learned):
 	Esrel
 	English
-	Ranudan
+	Ranûdan
 	Druidic
 	Sylvan*
 

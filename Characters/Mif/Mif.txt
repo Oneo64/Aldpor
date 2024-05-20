@@ -46,12 +46,12 @@ Skills:
 		Alchemy (potion brewing)
 		Minor medical things
 
-	Strength: 	10
-	Dexerity: 	14
+	Strength: 		10
+	Dexerity: 		14  +2
 	Constitution: 	10
-	Intelligence: 	13
-	Wisdom: 	12
-	Charisma: 	11
+	Intelligence: 	13  +1
+	Wisdom: 		12  +1
+	Charisma: 		11
 
 Height: 163cm (5ft 4in)
 Weight: 57kg (126lbs)

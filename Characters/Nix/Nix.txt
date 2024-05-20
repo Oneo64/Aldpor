@@ -50,13 +50,13 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          6
-	Strength: 	    10  +0
+	Level:          Sorcerer 6 / Fighter 1
+	Strength: 	    10
 	Dexerity:       14 	+2
-	Constitution: 	14 	+2 proficiency
-	Intelligence: 	11	+0
+	Constitution: 	14 	+2  proficiency
+	Intelligence: 	11
 	Wisdom: 	    9 	-1
-	Charisma: 	    16	+3 proficiency
+	Charisma: 	    16	+3  proficiency
 
 Height: 173cm (5ft 8in)
 Weight: 85kg (187lbs)

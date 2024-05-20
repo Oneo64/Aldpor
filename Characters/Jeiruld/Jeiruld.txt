@@ -50,11 +50,11 @@ Skills:
 	Alchemist's Supplies
 
 	Level:          15
-	Strength: 	    10 	+0
+	Strength: 	    10
 	Dexerity:       13 	+1
 	Constitution: 	14 	+2
-	Intelligence: 	20	+5 proficiency
-	Wisdom: 	    16 	+3 proficiency
+	Intelligence: 	20	+5  proficiency
+	Wisdom: 	    16 	+3  proficiency
 	Charisma: 	    9	-1
 
 Height: 170cm (5ft 7in)

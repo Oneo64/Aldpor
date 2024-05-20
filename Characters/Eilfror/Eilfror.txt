@@ -4,13 +4,13 @@ Age: 33 (born 1005, april 2)
 Alignment: Neutral
 
 Skills:
-	Level:        12
-	Strength: 	  14
-	Dexerity: 	  13
-	Constitution: 15
-	Intelligence: 13
-	Wisdom: 	  15
-	Charisma: 	  16
+	Level:         12
+	Strength: 	   14  +2
+	Dexerity: 	   13  +1
+	Constitution:  15  +2
+	Intelligence:  13  +1
+	Wisdom: 	   15  +2
+	Charisma: 	   16  +3
 
 Languages (sorted by time learned):
 	Dagsvaldian

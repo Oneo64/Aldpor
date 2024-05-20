@@ -30,10 +30,12 @@ Personality:
 		POSITIVE:
 			1. Friendly
 			2. Assertive
+			3. Generous
 
 		NEGATIVE:
 			1. Purist
 			2. Meddlesome
+			3. Overcritical
 
 	Specific:
 		She despises any necromancy that does anything else other than heal
@@ -51,15 +53,15 @@ Skills:
 		Magic (1 year experience)
 		Barohin Swordfighting
 
-	DnD additional skills:
-		History
+	Game:
 		Religion
+		Persuation
 
-	Level:          Fighter 2 / Cleric 1
+	Level:          Cleric 1 / Fighter 2
 	Strength: 	    8 	-1
-	Dexerity:       12 	+1
+	Dexerity:       13 	+1
 	Constitution: 	12  +1
-	Intelligence: 	10	0
+	Intelligence: 	10
 	Wisdom: 	    14 	+2 proficiency
 	Charisma: 	    14	+2 proficiency
 

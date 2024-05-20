@@ -56,16 +56,11 @@ Personality:
 		Realistic (perspective on the future)
 
 	Specific:
-		He fears he might become corrupted with magic, and go all out for more knowledge
-		Foxes are his favorite animal
-		Deer meat is his favorite food
 		Has a Dagsvaldian accent, speaks broken english
+		Deer meat is his favorite food
 
 		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
 		He likes to play a game called "Spark Bead Battle".
-		He also likes to build tiny wooden fortresses. He has one on top of a hill, it's walls are about 3 meters tall, and it's area is around 60 square meters.
-
-		He does not like vibrant, flashing lights
 
 		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
 
@@ -82,7 +77,7 @@ Skills:
 		Alchemy (potion brewing)
 		Minor medical things
 
-	DnD additional skills:
+	Game:
 		Arcana
 		History
 		Medicine
@@ -94,9 +89,9 @@ Skills:
 	Strength: 	    9 	-1
 	Dexerity:       14 	+2
 	Constitution: 	12 	+1
-	Intelligence: 	16	+3 proficiency
-	Wisdom: 	    13 	+1 proficiency
-	Charisma: 	    9	-1
+	Intelligence: 	16	+3  proficiency
+	Wisdom: 	    13 	+1  proficiency
+	Charisma: 	    9	-1 
 
 Height: 175cm (5ft 9in)
 Weight: 79kg (175lbs)

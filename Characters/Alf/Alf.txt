@@ -20,8 +20,9 @@ Appearance:
 Apparel:
 	Gjermundbu Helmet when fighting
 
-	Chainmail Hauberk, over woolen robes
-	Woolen green robes (goes down to the middle of the shins)
+	Woolen green robes over hauberk
+	Chainmail Hauberk, over linen robes
+	Linen dark green robes (goes down to the middle of the shins)
 
 	Leather boots
 	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
@@ -47,18 +48,27 @@ Personality:
 			2. Distrusting
 		
 		Optimistic (perspective on the future)
+		
+	Specific:
+		None
 
 Skills:
 	Real:
 		Spearfighting
 
+	Game:
+		Survival
+		Perception
+		Athletics
+		Intimidation
+
 	Level:          8
-	Strength: 	14
-	Dexerity: 	15
-	Constitution: 	16
+	Strength: 		14  +2
+	Dexerity: 		15  +2  proficiency
+	Constitution: 	16  +3  proficiency
 	Intelligence: 	11
-	Wisdom: 	13
-	Charisma: 	14
+	Wisdom: 		13  +1
+	Charisma: 		14  +2
 
 Height: 172cm (5ft 8in)
 Weight: 83kg (182lbs)
@@ -78,11 +88,7 @@ Possessions:
 
 		15 meters of rope stuffed in the pouch
 
-		A slip of parchment that has one side written "i not able speak english", and another side that bears a single word "icelandic".
-
 Occupications:
 	Mercenary
 	Spear Fighter
 	Spear Trainer
-
-Backstory: Grew up in Argonlav. Went with Lorvon on an adventure, took a spear with him. Then went to Thalmundol to train spearfighting.

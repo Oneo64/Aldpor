@@ -20,7 +20,7 @@ Apparel:
 	Leather shoes
 	Leather belt
 
-	Scabbard at front of chest, slightly left.
+	Scabbard at front of chest, slightly left
 
 Personality:
 	Traits:
@@ -39,21 +39,25 @@ Personality:
 
 	Specific:
 		Has a norvunic accent
-		Actually sounds like a corpse speaking
+		Voice is deep and raspy, like a zombie
 
 Skills:
 	Real:
 		Spearfighting
 		Swordfighting
 
+	Game:
+		Athletics
+		Insight
+		Perception
 
-	Level: 13
-	Strength: 	17
-	Dexerity: 	13
-	Constitution: 	19
+	Level: 			Fighter 12 / Wizard 3
+	Strength: 		17  +3  proficiency
+	Dexerity: 		13  +1  proficiency
+	Constitution: 	19  +4
 	Intelligence: 	10
-	Wisdom: 	11
-	Charisma: 	16
+	Wisdom: 		11
+	Charisma: 		16  +3
 
 Height: 183cm (6ft 0in)
 Weight: 92kg (202lbs)
@@ -65,13 +69,11 @@ Languages (sorted by time learned):
 Occupications:
 	Warrior
 	Jarl
-	Eldritch knight
 
 Magic:
-	Cantrips: Light, Burning Hands
+	Cantrips: Burning Hands
 	Level 1: Arcane Lock, Knock, Ray of Sickness
-	Level 2: Locate Object (use on will, no spell slots required)
+	Level 2: Locate Object (use on will, no spell slots required), Misty Step
 	Level 3: Animate Dead
-	Level 4: Dimension Door
 
 	Special: When death, he turns into ash which will form back into him again. He cannot feel pain, cannot be mind controlled, immune to phsychic damage, and is immune to sickness and disease.
