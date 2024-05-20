@@ -59,7 +59,7 @@ Skills:
 	Charisma: 	    16	+3  proficiency
 
 Height: 173cm (5ft 8in)
-Weight: 85kg (187lbs)
+Weight: 56kg (123lbs)
 
 Carrying Wealth: 20 gp, 2600 sp, 940 cp
 

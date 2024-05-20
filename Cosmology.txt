@@ -15,7 +15,7 @@ Planes/Realms:
 	Furnalfa    = Plane of fey (N, Feywild)
 
 Deities:
-	Talmundr  = God of Warmth and Cold (N, Tempest, Luck)
+	Talmundr  = God of Warmth and Cold (N, Tempest, Luck) (Symbol: Upside down Dagsvaldian T rune)
 	Lûnanyr   = God of Life and Death (LG, Order, Life, Death)
 	Jalfar    = God of Creation (NG, Order, War, Creation, Destruction, Change)
 	Parhrûgi  = God of Magic (N, Order, Knowledge, Arcana)

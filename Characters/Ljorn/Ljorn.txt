@@ -1,7 +1,7 @@
 Ljorn Rulvandr
 Male
 Age: 25 (born 1012, december 2)
-Alignment: Lawful Good
+Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
@@ -17,7 +17,7 @@ Apparel:
 	Brown hooded cloak (wool, semi-circular)
 
 	Woolen dark purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
-	Linen blue viking trousers
+	Linen blue baggy pants
 
 	Leather boots
 	Leather ring belt
@@ -26,13 +26,8 @@ Apparel:
 	Two leather pouches (hung on right side of belt, dimensions about 15x30)
 	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
 
-	Silver necklace, with an engraved Dagsvaldian "T" rune (shown below)
+	Silver necklace with Talmundr's symbol
 	Silver arm ring, on the left wrist
-
-   .
-  /|\
-   |
-  ===
 
 Goal (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
@@ -94,7 +89,7 @@ Skills:
 	Charisma: 	    9	-1 
 
 Height: 175cm (5ft 9in)
-Weight: 79kg (175lbs)
+Weight: 59kg (130lbs)
 
 Carrying Wealth: 10 gp, 1300 sp, 400 cp
 
@@ -108,7 +103,7 @@ Languages (sorted by time learned):
 	Draconic*
 
 Possessions:
-	A viking sword (Total length: 85cm, Blade length: 80cm, runes ᚢᛚᚠᛒᛖᚱᚺᛏ (ULFBERHT) etched on blade)
+	A viking sword
 	A bearded axe
 
 	Leather pouch:

@@ -1,0 +1,93 @@
+Monster Habitats:
+	All: Draugr
+	Desert:  Daeva Warrior, Daeva Sorcerer
+	Jungles: Daeva Warrior, Daeva Sorcerer
+	Moors:   Daeva Warrior, Daeva Sorcerer
+
+
+Daeva Warrior (large fiend):
+	Neutral Evil
+
+	Armor Class: 14 (lamellar armor)
+	Hit Points:  45 (6d8 + 18)
+	Speed:       30ft
+
+	Strength: 		14  +2
+	Dexerity: 		12  +1
+	Constitution: 	14  +2
+	Intelligence: 	10
+	Wisdom:			10
+	Charisma:		13  +1
+
+	Skills: Animal Handling +3, Deception +2, Persuation +2, Survival +4
+	Senses: Darkvision 40m (120ft), Passive Perception 12
+	Languages: Abyssal
+	Challenge: 3
+
+	Special Traits:
+		Night Dweller: When it is day, the daeva deal 2 less damage, and take 2 more damage, and it's Passive Perception becomes 8.
+
+	Abilities:
+		Scimitar: Melee Weapon Attack: +3 to hit, reach 2m (6ft), one target. Hit: 9 (1d6 + 5) slashing damage.
+		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
+
+		Multiattack: The daeva makes two attacks with it's scimitar. 
+
+
+
+Daeva Sorcerer (large fiend):
+	Neutral Evil
+
+	Armor Class: 10
+	Hit Points:  45 (6d8 + 18)
+	Speed:       30ft
+
+	Strength: 		12  +1
+	Dexerity: 		13  +1
+	Constitution: 	12  +1
+	Intelligence: 	12  +1
+	Wisdom:			14  +2
+	Charisma:		15  +2
+
+	Senses: Darkvision 40m (120ft), Passive Perception 12
+	Languages: Abyssal
+	Challenge: 3
+
+	Special Traits:
+		Night Dweller: When it is day, the daeva deal 2 less damage, and take 2 more damage, and it's Passive Perception becomes 8.
+
+	Abilities:
+		Nightmare: The daeva targets one creature it can see, that isn't undead or a construct, and is asleep. The creature is given a horrific nightmare, and the creature takes 1d8 + 4 necrotic damage.
+		Rock: Melee Weapon Attack: +4 to hit, reach 1m (3ft), one target. Hit: 5 (1d6 + 1) bludgeoning damage.
+
+		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
+
+
+
+Draugr (medium undead):
+	Any chaotic alignment
+
+	Armor Class: 14 (chainmail hauberk)
+	Hit Points:  56 (4d10 + 34)
+	Speed:       30ft
+
+	Strength: 		16  +3
+	Dexerity: 		12  +1
+	Constitution: 	18  +4
+	Intelligence: 	10
+	Wisdom:			13  +1
+	Charisma:		17  +3
+
+	Skills: Athletics +10, Intimidation +4
+	Senses: Darkvision 10m (30ft)
+	Languages: The languages it knew in life
+	Challenge: 8
+
+	Special Traits:
+		Immortal: When the draugr dies, it is reduced to a pile of ashes. After 1d4 minutes, the draugr materializes at the spot which it died, and the ashes disappear. The only way to truly kill the draugr is to kill the draugr while it is under the effects of a Bless spell.
+
+		Undead Nature: The draugr does not require food, water, or rest.
+
+	Abilities:
+		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 14 (1d10 + 8) slashing damage.
+		Arming Sword: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 12 (1d6 + 8) slashing damage.

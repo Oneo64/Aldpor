@@ -1,4 +1,4 @@
-Mod Lazulkror
+Mod Latovhaz
 Male
 Age: 25 (born 1012, december 2)
 Alignment: Chaotic Neutral
@@ -49,8 +49,8 @@ Skills:
 	Wisdom: 	    8 	-1
 	Charisma: 	    12	+1
 
-Height: 112cm (3ft 8in)
-Weight: 70kg (143lbs)
+Height: 130cm (4ft 3in)
+Weight: 64kg (141lbs)
 
 Carrying Wealth: 40 gp, 80 sp
 

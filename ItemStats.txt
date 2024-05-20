@@ -9,12 +9,12 @@ Weapons:
 		Quarterstaff
 		Sickle
 		Spear
-		Star Glising* (invented 1500 BCE) (1d8 piercing)
+		Star Glising* (1d8 piercing)
 
 	Martial Melee:
-		Arming Sword (invented 300 AD)
+		Arming Sword
 		Battle axe
-		Longaxe (Dane axe, invented 400 BCE) (use greataxe stats, damage is 1d10 slashing instead)
+		Longaxe (dane axe) (use greataxe stats, damage is 1d10 slashing instead)
 		Scimitar
 		Shortsword
 		Trident
@@ -30,6 +30,23 @@ Weapons:
 	Martial Ranged Weapons:
 		Crossbow, heavy (invented 450 AD)
 		Longbow
+
+	Armors:
+		Light:
+			Gambeson
+			Leather
+			Studded Leather
+
+		Medium:
+			Hide
+			Chainmail Hauberk
+			Scale Mail
+			Breastplate
+			Half Plate
+
+		Heavy:
+			Lamellar (14, stealth disadvantage)
+			Splint
 
 
 Star Glising of Namiam

@@ -38,15 +38,20 @@ Structures (wall multiplier, floor multiplier, roof multiplier):
 	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
 
 Item Materials:
-	Silk:    2 sp
 	Leather: 1 sp
+	Silk:    2 sp
 	Linen:   5 cp
 	Wool:    5 cp
 
 	Wood:    5 cp
-	Copper:  1 sp
-	Iron:    5 sp
+
+	Copper:  3 sp
+	Bronze:  4 sp
+	Brass:   4 sp
+
+	Iron:    3 sp
 	Steel:   1 gp
+
 	Silver:  1 gp
 	Gold:    10 gp
 	Sword handle (Iron wrapped with leather): 2 sp
@@ -58,20 +63,21 @@ Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
 
 *default prices are assuming they are made of iron*
 Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
-	Ulfberht Sword:   handle x2, crossguard + blade x25 (13gp 5sp)
-	Arming Sword:     handle x2, crossguard + blade x20 (11gp)
-	Shortsword:       handle x2, crossguard + blade x12 (7gp)
-	Scimitar:         handle x3, crossguard + blade x20 (11gp 5sp)
+	Ulfberht Sword:   handle x2, crossguard + blade x25
+	Arming Sword:     handle x2, crossguard + blade x20
+	Shortsword:       handle x2, crossguard + blade x12
+	Scimitar:         handle x3, crossguard + blade x20
 	Bearded Axe:      handle x5, head x6 (3gp 2sp 5cp)
 	Longaxe/Dane axe: handle x8, head x10 (5gp 4sp)
 	Star Glising:     handle x5, head x18 (11gp 5sp, similar to a morning star, instead of the head is made of spikes that protrude out of the tip like a sea urchin)
 	Mace:             handle x5, head x15 (10gp)
-	Warhammer:        (small) handle x6, head x6 (3gp 3sp) | (large) handle x10, head x7 (4sp)
+	War Hammer:       (small) handle x6, head x6 (3gp 3sp) | (large) handle x10, head x7 (4sp)
 	Spear:            handle x10, head x3 (2gp)
 	Pike:             handle x16, head x5 (3gp 3sp)
 	Staff:            handle x6 (3sp)
 	Trident:          handle x10, head x20 (15gp, steel = 30gp)
 	Round Shield:     shield x16, leather rim x10, paint (see dye, ignore if undyed) x5, round thingy in the middle x5 (undyed = 4gp 3sp)
+	Buckler:          shield x10
 
 	Whip: 2gp
 
@@ -81,11 +87,13 @@ Weapons and armor (multipliers, gemstones are below. engraving, or fancy pattern
 	Dress:          area x20
 
 	Gambeson:       area x30
+	Lamellar:       area x30 (warning: does not come with undergarment)
 	Mail Hauberk:   area x50
 
 	Necklace:       necklace x10
 	Arm ring:       thing x10
 	Ring:           ring x5
+	Circlet:        circlet x20
 
 * If a food isn't common in the area, it's price increases by 1.5.
 Animals, Foods and Trade Goods (estimate, meats are per 5 oz):

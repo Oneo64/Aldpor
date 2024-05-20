@@ -71,7 +71,7 @@ Skills:
 	Charisma: 		14  +2
 
 Height: 172cm (5ft 8in)
-Weight: 83kg (182lbs)
+Weight: 65kg (143lbs)
 
 Languages (sorted by time learned):
 	Dagsvaldian

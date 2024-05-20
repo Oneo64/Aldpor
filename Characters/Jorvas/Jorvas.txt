@@ -1,7 +1,7 @@
-Jorvas Byrgor
+Jorvas Beogor
 Male
 Age: 323 (born 713, jan 3)
-Alignment: Lawful Evil
+Alignment: Chaotic Neutral
 Ethnicity: Old Hendric
 Race:      Draugr (Human)
 
@@ -60,7 +60,7 @@ Skills:
 	Charisma: 		16  +3
 
 Height: 183cm (6ft 0in)
-Weight: 92kg (202lbs)
+Weight: 78kg (172lbs)
 
 Languages (sorted by time learned):
 	Draco-Dagsvaldian
