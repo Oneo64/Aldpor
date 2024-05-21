@@ -52,7 +52,8 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Sorcerer 6 / Fighter 1
+	Level:          Sorcerer 3 / Fighter 1
+	
 	Strength: 	    10
 	Dexerity:       14 	+2
 	Constitution: 	14 	+2  proficiency
@@ -74,15 +75,12 @@ Occupications:
 	Sorcerer
 
 Attacks:
-	(Level 6) Spells:
+	(Level 3) Spells:
 		Cantrips:
-		Acid Splash, Light, Minor Illusion, Ray of Frost, Mending
+		Acid Splash, Light, Ray of Frost, Mending
 		
 		Level 1:
-		Detect Magic, Disguise Self, Mage Armor, Magic Missile
+		Mage Armor, Magic Missile
 
 		Level 2:
 		Darkness, See Invisibility
-
-		Level 3:
-		Fireball

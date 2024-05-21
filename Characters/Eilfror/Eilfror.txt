@@ -5,6 +5,7 @@ Alignment: Neutral
 
 Skills:
 	Level:         12
+	
 	Strength: 	   14  +2
 	Dexerity: 	   13  +1
 	Constitution:  15  +2

@@ -39,6 +39,7 @@ Personality:
 		NEGATIVE:
 			1. Slightly wrathful
 			2. Aloof
+
 Power:
 	Master of Magic
 
@@ -51,11 +52,12 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          15
+	Level:          Wizard 11
+	
 	Strength: 	    10
 	Dexerity:       13 	+1
 	Constitution: 	14 	+2
-	Intelligence: 	20	+5  proficiency
+	Intelligence: 	18	+4  proficiency
 	Wisdom: 	    16 	+3  proficiency
 	Charisma: 	    9	-1
 
@@ -73,10 +75,10 @@ Languages (sorted by time learned):
 
 Occupications:
 	Wizard
-	Teacher
+	Teacher, headmaster of Academy of Aldorim
 
 Attacks:
-	(Level 15) Spells:
+	(Level 11) Spells:
 		Cantrips:
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		
@@ -87,22 +89,16 @@ Attacks:
 		Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Blindness/Deafness, Locate Object, Suggestion
 		
 		Level 3:
-		Counterspell, Fireball, Gaseous Form, Lightning Bolt, Major Image, Remove Curse, Fly, Jeiruld's Random Blasts
+		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Image, Remove Curse, Fly, Jeiruld's Random Blasts
 		
 		Level 4:
 		Polymorph, Dimension Door, Fabricate, Arcane Eye, Blight, Control Water, Fire Shield
 		
 		Level 5:
-		Teleportation Circle, Telekinesis, Cone of Cold, Seeming, Blast Hole, Telepathic Bond
+		Teleportation Circle, Telekinesis, Cone of Cold, Seeming, Blast Hole
 		
 		Level 6:
-		Sunbeam, Globe of Invulnerbility, Disintegrate, Forbiddance
-		
-		Level 7:
-		Plane Shift, Finger of Death, Mirage Arcane
-		
-		Level 8:
-		Sunburst, Clone
+		Sunbeam, Globe of Invulnerbility, Forbiddance, Chain Lightning
 		
 		Level 9:
 		Major Teleportation (once a day)

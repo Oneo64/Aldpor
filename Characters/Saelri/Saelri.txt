@@ -46,7 +46,8 @@ Skills:
 		Survival
 		Animal Handling
 
-	Level:          10
+	Level:          Druid 8
+
 	Strength: 	    10
 	Dexerity:       15 	+2
 	Constitution: 	13 	+1
@@ -80,7 +81,7 @@ Possessions:
 		10 sheets of parchment
 		10 sheets of vellum
 		3 blank scrolls
-		2 scrolls of incantations written in cold elvish
+		2 scrolls of incantations written in Esrel
 		A drinking horn
 		A waterskin (usually filled with water)
 
@@ -88,7 +89,7 @@ Occupications:
 	Druid
 
 Attacks:
-	Cantrips known: Druidcraft, Resistance, Guidance, Shillelagh
+	Cantrips known: Druidcraft, Resistance, Shillelagh
 
 	Prepared:
 		Level 1:
@@ -103,9 +104,6 @@ Attacks:
 		Level 4:
 		Blight, Conjure Woodland Beings
 
-		Level 5:
-		Antilife Shell, Tree Stride
-
 	Circle spells:
 		Level 2:
 		Hold Person, Spike Growth
@@ -115,6 +113,3 @@ Attacks:
 
 		Level 4:
 		Freedom of Movement, Ice Storm
-
-		Level 5:
-		Commune with Nature, Cone of Cold

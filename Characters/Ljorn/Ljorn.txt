@@ -82,7 +82,8 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          10
+	Level:          Wizard 8
+
 	Strength: 	    9 	-1
 	Dexerity:       14 	+2
 	Constitution: 	12 	+1
@@ -161,18 +162,17 @@ Attacks:
 	Can use sword
 	Throws potions, but rarely
 
-	(Level 10, current version) Spells:
-		Spell points available: 60
+	(Level 8, current version) Spells:
+		Spell points available: 45
 
-		Prepared in orb:
+		Prepared in orb (max 19):
 			Level 1: Mage Armor, Magic Missile, Feather Fall, Illusory Script, Shield
-			Level 2: Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion, Ray of Enfeeblement
+			Level 2: Detect Thoughts, Invisibility, Arcane Lock, Hold Person, Suggestion, Ray of Enfeeblement
 			Level 3: Counterspell, Fireball, Lightning Bolt, Gaseous Form, Feign Death, Major Image
-			Level 4: Polymorph, Dimension Door, Banishment
-			Level 5: Wall of Force, Telekinesis
+			Level 4: Polymorph, Dimension Door
 
 		Cantrips:
-		Fire Bolt, Message, Shocking Grasp, Mage Hand, Prestidigitation
+		Fire Bolt, Message, Mage Hand, Prestidigitation
 		
 		Level 1:
 		Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Shield, Floating Disk, Illusory Script
@@ -184,10 +184,7 @@ Attacks:
 		Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death, Magic Circle
 		
 		Level 4:
-		Polymorph, Dimension Door, Fabricate, Arcane Eye, Banishment, Control Water, Blight
-		
-		Level 5:
-		Wall of Force, Teleportation Circle, Telekinesis
+		Polymorph, Dimension Door, Fabricate, Arcane Eye, Control Water, Blight
 
 		Level 7:
 		Plane Shift (twice a day)
@@ -195,8 +192,8 @@ Attacks:
 		Level 9:
 		Major Teleportation (dont actually include this in a dnd campaign just pretend it doesnt exist)
 
-Speakings: (for some reason, he speaks like this:)
-	"Is", "am", and "are" are replaced with "be". (That dog be skinny.)
+Speech: (for some reason, he speaks like this)
+	"Is", "am", and "are" are replaced with "be". (Example: That dog be skinny.)
 	"It" is replaced with "That"
 	"Yes" is replaced with "Ja"
 	"Can" is replaced with "Able"

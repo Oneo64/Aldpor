@@ -60,6 +60,7 @@ Skills:
 		Persuation
 
 	Level:          Cleric 1 / Fighter 2
+	
 	Strength: 	    8 	-1
 	Dexerity:       13 	+1
 	Constitution: 	12  +1

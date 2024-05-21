@@ -52,7 +52,8 @@ Skills:
 		Persuation
 		History
 
-	Level:          Fighter 7
+	Level:          Fighter 4
+	
 	Strength: 	    13 	+1
 	Dexerity:       13 	+1 proficiency
 	Constitution: 	12  +1
