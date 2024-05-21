@@ -61,7 +61,7 @@ Skills:
 		Cat (stealth)
 		Elk (travel)
 
-Carrying Wealth: 10 gp, 600 sp, 500 cp
+Carrying Wealth: 3 gp, 370 sp, 100 cp
 
 *=not fluent
 Languages (sorted by time learned):

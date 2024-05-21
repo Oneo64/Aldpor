@@ -93,7 +93,7 @@ Skills:
 Height: 175cm (5ft 9in)
 Weight: 59kg (130lbs)
 
-Carrying Wealth: 10 gp, 1300 sp, 400 cp
+Carrying Wealth: 5 gp, 240 sp, 220 cp
 
 (English is also called hendric, * = not fluent)
 Languages (sorted by time learned):
