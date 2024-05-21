@@ -5,7 +5,7 @@ Culture type: Norse
 Main languages: Dagsvaldian
 Other languages: Esrel
 
-Ruler: Palf
+Ruler: Palf Thoskar II
 
 Villages:
 	Argonlav
@@ -34,4 +34,4 @@ Coins: Each gold or silver coin could be engraved with a symbol of the following
 	Sword
 	Dagsvaldian "T" rune (symbolizes Talmundr)
 	Vegvisir
-	Small circle of Dagsvaldian runes that translate into a word or phrase such as "magic", "the light", "destiny", "mighty", "draugr repeller", or "my gold"
+	Small circle of Dagsvaldian runes that translate into a word or phrase such as "magic", "light", "destiny", "mighty", "draugr repeller", "gold", or "silver"
