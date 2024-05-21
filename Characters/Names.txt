@@ -4,7 +4,7 @@ Human names:
 	Dagsvald:
 		First (m):
 		First (f):
-		Last: Rulvandr, Glomunsal, Galigt
+		Last: Rulvegtur, Glomunsal, Galigt
 
 Cold Elf names:
 	First (m): Huthviyn, Antolos, Pasralos, Kiriyn, Sasoldaf, Toraf, Lûsraf
