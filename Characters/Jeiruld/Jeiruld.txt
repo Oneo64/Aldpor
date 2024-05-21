@@ -5,6 +5,8 @@ Alignment: Lawful Neutral
 Ethnicity: Hendric
 Race:      Human
 
+Hometown: Forthias, Hendril
+
 Appearance:
 	Dark brown eyes
 	Fair/light cool skin

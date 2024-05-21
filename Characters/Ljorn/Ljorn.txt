@@ -1,9 +1,11 @@
-Ljorn Rulvandr
+Ljorn Rulvegtur
 Male
 Age: 25 (born 1012, december 2)
-Alignment: Lawful Neutral
+Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
+
+Hometown: Argonlav, Dagsvald
 
 Appearance:
 	Dark blue eyes
@@ -29,7 +31,7 @@ Apparel:
 	Silver necklace with Talmundr's symbol
 	Silver arm ring, on the left wrist
 
-Goal (sorted by priority first): Support/protect family, defend kingdom, discover universe
+Goal/Motivation (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
 Personality:
 	Traits:

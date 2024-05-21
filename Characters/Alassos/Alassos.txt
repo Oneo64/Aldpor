@@ -5,6 +5,8 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
+Hometown: Minbaslûind, Esrelu
+
 Appearance:
 	Gray eyes
 	Unusually pale cool skin

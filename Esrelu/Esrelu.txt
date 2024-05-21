@@ -9,8 +9,8 @@ Ruler: Ildiyre (gal)
 
 Villages:
 	Irbalûind
-	Ynfrotiru
-	Palerrel
+	Yrfrostiru
+	Pelassel
 	Vesesvala
 	Minbaslûind
 	Fleriydol

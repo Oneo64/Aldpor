@@ -16,7 +16,7 @@ Villages:
 
 Towns:
 	Thalmundol
-	Mansart
+	Manasart
 
 Cities:
 	Thurnin City (inside of Dagsvald)

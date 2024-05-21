@@ -5,6 +5,8 @@ Alignment: Lawful Good
 Ethnicity: Aodesvic
 Race: Celestial Human Hybrid
 
+Hometown: Pendlas Mus, Aodesvu
+
 Appearance:
 	Vibrant green eyes
 	Fair/light cool skin

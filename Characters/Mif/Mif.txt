@@ -1,9 +1,11 @@
-Mif Rulvik
+Mif Rulvegtur
 Female
 Age: 55 (born 981, july 8)
 Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
+
+Hometown: Argonlav, Dagsvald
 
 Appearance:
 	Dark blue eyes
@@ -66,6 +68,4 @@ Possessions:
 		Shard of rose quartz
 
 Occupications:
-	Woodcarver
-
-Backstory: Grew up in Argonlav. Took passion in wood carving at the age of 14.
+	Farmer

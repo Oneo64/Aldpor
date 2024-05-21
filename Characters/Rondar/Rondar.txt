@@ -5,6 +5,8 @@ Alignment: Lawful Good
 Ethnicity: Human
 Race:      Dagsvaldian
 
+Hometown: Argonlav, Dagsvald
+
 Appearance:
 	Green eyes
 	Fair/light cool skin
@@ -89,5 +91,5 @@ Occupications:
 	Adventurer
 
 Relations:
-	Ljorn Rulvandr (friend, met in a school of evocation)
+	Ljorn Rulvegtur (friend, met in a school of evocation)
 	Jeiruld Aldorim (a teacher from a school of evocation)

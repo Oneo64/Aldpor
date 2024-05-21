@@ -5,6 +5,8 @@ Alignment: Chaotic Neutral
 Ethnicity: Banodic
 Race:      Dwarf
 
+Hometown: Glomdur
+
 Appearance:
 	Long blood red hair
 	Beard braided into one, clamped by a silver clasp

@@ -5,6 +5,8 @@ Alignment: Chaotic Neutral
 Ethnicity: Old Hendric
 Race:      Draugr (Human)
 
+Hometown: ???, Hendril
+
 Appearance:
 	Gray dull eyes
 	Pale yellow skin

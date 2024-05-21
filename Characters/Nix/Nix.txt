@@ -5,6 +5,8 @@ Alignment: Chaotic Good
 Ethnicity: Hendric
 Race:      Human
 
+Hometown: Jollantil, Hendril
+
 Appearance:
 	Dark brown eyes
 	Fair/light cool skin

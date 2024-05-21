@@ -5,6 +5,8 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
+Hometown: Vesesvala, Esrelu
+
 Appearance:
 	Green eyes
 	Light light skin

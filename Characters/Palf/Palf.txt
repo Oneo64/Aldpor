@@ -1,9 +1,11 @@
-Palf
+Palf Thoskar
 Male
 Age: 53 (born 984, december 17)
 Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race: Human
+
+Hometown: Thurnin City, Dagsvald
 
 Appearance:
 	Blue eyes
@@ -26,6 +28,8 @@ Apparel:
 	Leather boots
 	Leather ring belt
 	Leather scabbard
+
+	Cloth bag (holds coins)
 
 Personality:
 	Traits:

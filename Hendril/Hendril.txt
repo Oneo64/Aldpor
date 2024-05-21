@@ -9,11 +9,12 @@ Ruler: Taevus
 Towns:
 	Gellervail
 	Bantusea
-	Oflanas
-	Fleenedo
+	Orfalan
+	Forthias
 
 Cities:
 	Jollantil (main place)
+	Virot
 
 Fortresses:
 	Gavalor
