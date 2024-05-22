@@ -94,4 +94,4 @@ Attacks:
 
 		Prepared:
 			Cantrips: Mending, Light
-			Level 1: Bless, Cure Wounds, Detect Evil and Good, Detect Poison and Disease
+			Level 1: Bless, Cure Wounds, Detect Evil and Good, Guiding Bolt

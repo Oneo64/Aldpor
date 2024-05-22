@@ -65,10 +65,12 @@ Daeva Sorcerer (large fiend):
 
 
 Draugr (medium undead):
+	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it returns back into it's dead body and will wake up as a Draugr 50 to 400 years later.
+
 	Any chaotic alignment
 
 	Armor Class: 14 (chainmail hauberk)
-	Hit Points:  56 (4d10 + 34)
+	Hit Points:  38 (4d6 + 24)
 	Speed:       30ft
 
 	Strength: 		16  +3
@@ -81,7 +83,7 @@ Draugr (medium undead):
 	Skills: Athletics +10, Intimidation +4
 	Senses: Darkvision 10m (30ft)
 	Languages: The languages it knew in life
-	Challenge: 8
+	Challenge: 6
 
 	Special Traits:
 		Immortal: When the draugr dies, it is reduced to a pile of ashes. After 1d4 minutes, the draugr materializes at the spot which it died, and the ashes disappear. The only way to truly kill the draugr is to kill the draugr while it is under the effects of a Bless spell.
@@ -91,3 +93,31 @@ Draugr (medium undead):
 	Abilities:
 		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 14 (1d10 + 8) slashing damage.
 		Arming Sword: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 12 (1d6 + 8) slashing damage.
+
+
+
+Daskar (medium undead):
+	Daskars are undead created by magic as servants or guards, usually to guard or secure something. They are capable to using weapons and martial skills, and they are just as intelligent as the average person.
+
+	Unaligned
+
+	Armor Class: 12 (gambeson)
+	Hit Points:  26 (3d6 + 15)
+	Speed:       30ft
+
+	Strength: 		12  +1
+	Dexerity: 		12  +1
+	Constitution: 	14  +2
+	Intelligence: 	14  +2
+	Wisdom:			7   -2
+	Charisma:		5   -3
+
+	Senses: Darkvision 10m (30ft)
+	Languages: Understands the languages it knew in life and the languages it's creator speaks, but cannot speak
+	Challenge: 3
+
+	Special Traits:
+		Undead Nature: The daskar does not require food, water, or rest.
+
+	Abilities:
+		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 10 (1d10 + 4) slashing damage.
