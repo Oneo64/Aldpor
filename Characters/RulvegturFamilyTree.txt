@@ -14,24 +14,20 @@ d = dead/deceased (if dead, age is what age they died)
 
 ---------------------------------------------------------------
 
-Current people in the Rulvegtur house: Algrom, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Inid, Lalfrel, Iryn
+Current people in the Rulvegtur house: Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn
 
-
-
-
-
-
-Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]---+                                    +-Anru [F, 14 November 984]
-                                                                                      |                                    |                              +-Lalfrel [F, 28 July 1006]
-                                                              Ljora [F, 931 - 1001]---+  +-Idun [F, 958 - 948]             +-Fald [M, 4 March 982]-----+>>|
-                                                                                      |  |                                 |                           |  +-Iryn [F, 13 August 1007]
-                                                                                      +>>+-Haldig III [M, 959 - 1026]---+  | Ynid [F, 10 July 982]-----+
-                                                                                                                        |  |                       
-                                                              Svoran [M, 928 - 975]---+                                 |  |                              +-Alovæl [M, 13 January 1012]
-                                                                                      |>>+-Amja [F, 957 - 1019]---------+>>+-Algord [M, 26 August 980]-+  |
-                                                              Fyrel [F, 930 - 978]----+                                                                |  +-Ljorn [M, 2 December 1012]
-                                                                                                                                                       +>>|
-                                                              Magnod I [M, 932 - 960]-+>>+-Bjol [M, 959 - 1026]---------+                              |  +-Yngvild [F, 1 May 1014]
-                                                                                      |                                 |>>+-Mif [F, 19 September 982]-+  |
-                                                              Agni [F, 938 - 969]-----+    Elfreida [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
-                                                                                                                           +-Magnod II [M, 7 March 979]
+Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]
+                                                                                             |                                           |                              +-Lalfrel [F, 28 July 1006]
+                                                              Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                    +-Fald [M, 4 March 982]-----+>>|
+                                                                                             |  |                                        |                           |  +-Iryn [F, 13 August 1007]
+                                                                                             +>>+-Haldig III [M, 959 - 1026]----------+  | Ynid [F, 10 July 982]-----+
+                                                                                                                                      |  |                       
+                                                              Svoran Jerdfyr [M, 928 - 975]--+                                        |  |                              +-Alovæl [M, 13 January 1012]
+                                                                                             |>>+-Amja [F, 957 - 1019]----------------+>>+-Algord [M, 26 August 980]-+  |
+                                                              Fyrel Jerdfyr [F, 930 - 978----+                                                                       |  +-Ljorn [M, 2 December 1012]
+                                                                                                                                                                     +>>|
+                                                              Magnod I Galigt [M, 932 - 960]-+>>+-Bjol Galigt [M, 959 - 1026]---------+                              |  +-Yngvild [F, 1 May 1014]
+                                                                                             |                                        |>>+-Mif [F, 19 September 982]-+  |
+                                                              Agni Galigt [F, 938 - 969]-----+    Elfreida Galigt [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
+                                                                                                                                         |
+                                                                                                                                         +-Magnod II Galigt [M, 7 March 979]
