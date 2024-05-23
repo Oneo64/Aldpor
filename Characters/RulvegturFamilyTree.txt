@@ -20,12 +20,12 @@ Current people in the Rulvegtur house: Alovæl, Ljorn, Yngvild, Alf, Finstald, A
 
                                                      
 
-                                                     +-Alûin [F, 14 November 984]
-                                                     |
-                         +-Eldiska [F, 958 - 948]    +-Finstald [M, 4 March 983]-+
-Julfur [M, 928 - 948]-+  |                           |
-                      |--+-Haldig [M, 959 - 1026]-+  | Hesnon
-   Yn [F, 931 - 1001]-+                           |  |                              +-Alovæl [M, 13 January 1012]
+                                                     +-Anru [F, 14 November 984]
+                                                     |                              +-Lafrel [F, 28 July 1006]
+                         +-Idun [F, 958 - 948]       +-Fald [M, 4 March 982]-----+--|
+Julfur [M, 928 - 948]-+  |                           |                           |  +-??? [F, 13 August 1007]
+                      |--+-Haldig [M, 959 - 1026]-+  |     Ynid [F, 10 July 982]-+
+Fyrel [F, 931 - 1001]-+                           |  |                              +-Alovæl [M, 13 January 1012]
                               Amja [F, 957 - 119]-+--+-Algrom [M, 26 August 980]-+  |
                                                                                  |  +-Ljorn [M, 2 December 1012]
                                                                                  +--|
