@@ -9,10 +9,13 @@ Land:
 
 Current people in the Tiamar house (13): Torzus, Geren, Donnobel, Jadet, Hevus, Nix
 
-Torzus [M, 14 November 970]-----+
-                                |                                 +-Jadet [F, 26 September 1017]
-Frela [F, 972 - 1036]-----------+>>+-Geren [M, 10 January 993]-+  |
-                                                               |>>+-Hevus [M, 13 August 1018]
-Barrex Waldin [M, 966 - 1010]---+>>+-Donnobel [F, 2 March 990]-+  |
-                                |                                 +-Nix [M, 11 June 1019]
-Haidet Waldin [F, 27 April 962]-+
+
+Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 987]-+
+                                                   |
+                            Andra [M, 940 - 993]---+>>+-Torzus [M, 14 November 970]-----+  +-Halevar II [M, 11 March 996]
+                                                                                        |  |                                 +-Jadet [F, 26 September 1017]
+                                                        Frela [F, 972 - 1036]-----------+>>+-Geren [M, 10 January 993]----+  |
+                                                                                                                          |>>+-Hevus [M, 13 August 1018]
+                                                        Barrex Waldin [M, 966 - 1010]---+>>+-Donnobel [F, 2 March 990]----+  |
+                                                                                        |                                    +-Nix [M, 11 June 1019]
+                                                        Haidet Waldin [F, 27 April 962]-+
