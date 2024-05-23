@@ -14,29 +14,22 @@ d = dead/deceased (if dead, age is what age they died)
 
 ---------------------------------------------------------------
 
-Grandparents       Parents                Youth
-
-Haldig  (MD) (67)                      / Alovael (MA) (27)
-            >----- Algrom  (MA) (57)   |
-Amja    (FD) (62)               \      | Ljorn   (MA) (25)
-                                 >-----+
-Bjelnad (MD) (44)               /      | Yngvildr(FA) (23)
-            >----- Mif     (FA) (55)   |
-Elfreida(FA) (80)                      \ Alf     (MA) (21)
+Current people in the Rulvegtur house: Alovæl, Ljorn, Yngvild, Alf, Finstald, Algrom, Mif
 
 
 
+                                                     
 
-Julfur [M, 928 - 948]-+  +-Eldiska [F, 958 - 948]
-                      |  |                           +-Alûin [F, 14 November 984]
-                      +--+-Haldig [M, 959 - 1026]-+  |
-                      |                           |  +-Finstald [M, 4 March 983]
+                                                     +-Alûin [F, 14 November 984]
+                                                     |
+                         +-Eldiska [F, 958 - 948]    +-Finstald [M, 4 March 983]-+
+Julfur [M, 928 - 948]-+  |                           |
+                      |--+-Haldig [M, 959 - 1026]-+  | Hesnon
    Yn [F, 931 - 1001]-+                           |  |                              +-Alovæl [M, 13 January 1012]
-                                                  +--+-Algrom [M, 26 August 980]-+  |
-                              Amja [F, 957 - 119]-+                              |  +-Ljorn [M, 2 December 1012]
+                              Amja [F, 957 - 119]-+--+-Algrom [M, 26 August 980]-+  |
+                                                                                 |  +-Ljorn [M, 2 December 1012]
                                                                                  +--|
                          Bjelfald [M, 959 - 1026]-+                              |  +-Yngvild [F, 1 May 1014]
-                                                  +--+-Mif [F, 19 September 982]-+  |
-                                                  |  |                              +-Alf [M, 17 August 1016]
-                                                  |  +-Magnod [M, 7 March 979]
-                     Elfreida [F, 5 February 958]-+
+                                                  |--+-Mif [F, 19 September 982]-+  |
+                     Elfreida [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
+                                                     +-Magnod [M, 7 March 979]
