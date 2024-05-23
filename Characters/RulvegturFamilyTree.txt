@@ -16,10 +16,15 @@ d = dead/deceased (if dead, age is what age they died)
 
 Current people in the Rulvegtur house: Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn
 
-Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]
-                                                                                             |                                           |                              +-Lalfrel [F, 28 July 1006]
+Legend:
+ >> = 1 generation
+ >>> = More than 1 generations
+
+                                                                                                                                                                        +-Lalfrel [F, 28 July 1006]
+Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]    |
+                                                                                             |                                           |                              +-Gordur [M, 26 May 1007]
                                                               Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                    +-Fald [M, 4 March 982]-----+>>|
-                                                                                             |  |                                        |                           |  +-Iryn [F, 13 August 1007]
+                                                                                             |  |                                        |                           |  +-Iryn [F, 13 August 1008]
                                                                                              +>>+-Haldig III [M, 959 - 1026]----------+  | Ynid [F, 10 July 982]-----+
                                                                                                                                       |  |                       
                                                               Svoran Jerdfyr [M, 928 - 975]--+                                        |  |                              +-Alovæl [M, 13 January 1012]
