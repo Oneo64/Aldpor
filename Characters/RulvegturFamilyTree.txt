@@ -14,15 +14,17 @@ d = dead/deceased (if dead, age is what age they died)
 
 ---------------------------------------------------------------
 
-Current people in the Rulvegtur house: Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn
+Current people in the Rulvegtur house (13): Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn, Gordur, Vorda, Sval
 
 Legend:
  >> = 1 generation
  >>> = More than 1 generations
 
-                                                                                                                                                                        +-Lalfrel [F, 28 July 1006]
-Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]    |
-                                                                                             |                                           |                              +-Gordur [M, 26 May 1007]
+                                                                                                                                                                          Vorda [F, 4 October 1010]---+
+                                                                                                                                                                                                      |
+                                                                                                                                                                        +-Lalfrel [F, 28 July 1006]   +--+-Sval [M, 18 June 1033]
+Haldig Dalsdavu I [800 - 850]-+>>>>+-Haldig II [850 - 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]    |                             |
+                                                                                             |                                           |                              +-Gordur [M, 26 May 1007]-----+
                                                               Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                    +-Fald [M, 4 March 982]-----+>>|
                                                                                              |  |                                        |                           |  +-Iryn [F, 13 August 1008]
                                                                                              +>>+-Haldig III [M, 959 - 1026]----------+  | Ynid [F, 10 July 982]-----+
