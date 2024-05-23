@@ -7,12 +7,13 @@ Land:
 
 ---------------------------------------------------------------
 
-Current people in the Tiamar house (13): Torzus, Geren, Donnobel, Jadet, Hevus, Nix
+Current people in the Tiamar house (13): Torzus, Geren, Donnobel, Jadet, Hevus, Nix, Halevar II, Yorwyn, Klorvas, Ireya
 
-
-Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 987]-+
-                                                   |
-                            Andra [M, 940 - 993]---+>>+-Torzus [M, 14 November 970]-----+  +-Halevar II [M, 11 March 996]
+                                                                                                                             +-Klorvas [M, 24 Feburary 1023]
+                                                                                           +-Halevar II [M, 11 March 996]-+  |
+Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 987]-+                                       |                              |>>+-Ireya [F, 5 April 1025]
+                                                   |                                       | Yorwyn [F, 4 October 998]----+
+                            Andra [M, 940 - 993]---+>>+-Torzus [M, 14 November 970]-----+  |
                                                                                         |  |                                 +-Jadet [F, 26 September 1017]
                                                         Frela [F, 972 - 1036]-----------+>>+-Geren [M, 10 January 993]----+  |
                                                                                                                           |>>+-Hevus [M, 13 August 1018]
