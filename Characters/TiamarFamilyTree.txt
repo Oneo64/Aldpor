@@ -5,19 +5,14 @@ Land:
     A wood house. This house is in Bantusea, Hendril.
     A piece of farmland behind their house.
 
-m = male
-f = female
-a = alive
-d = dead/deceased (if dead, age is what age they died)
-
 ---------------------------------------------------------------
 
-Grandparents       Parents                Youth
+Current people in the Tiamar house (13): Torzus, Geren, Donnobel, Jadet, Hevus, Nix
 
-Torzus  (MD) (67)
-            >----- Geren   (MA) (45)   / Jadet   (FA) (22)
-Fram    (FD) (62)               \      | 
-                                 >-----+ Hevus   (MA) (20)
-Barrex  (MD) (44)               /      | 
-            >----- Donnobel(FA) (48)   \ Nix     (MA) (19)
-Haidet  (FA) (80)
+Torzus [M, 14 November 970]-----+
+                                |                                 +-Jadet [F, 26 September 1017]
+Frela [F, 972 - 1036]-----------+>>+-Geren [M, 10 January 993]-+  |
+                                                               |>>+-Hevus [M, 13 August 1018]
+Barrex Waldin [M, 966 - 1010]---+>>+-Donnobel [F, 2 March 990]-+  |
+                                |                                 +-Nix [M, 11 June 1019]
+Haidet Waldin [F, 27 April 962]-+

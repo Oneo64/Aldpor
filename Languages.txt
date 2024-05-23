@@ -7,7 +7,7 @@ Common:
 	Elves:
 		Esrel (Cold Elvish)
 		Ranûdan (High Elvish)
-		Aodesvic (High Elvish v2)
+		Aodesvic
 
 	Dwarves:
 		Glomish
@@ -15,7 +15,11 @@ Common:
 		Mornesvian
 
 Uncommon:
-	Neshozic
+	Daevas:
+		Neshozic
+
+	Twarel:
+		Sylvendric (Sylvan-Hendric)
 
 Exotic:
 	Primordial

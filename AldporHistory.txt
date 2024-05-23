@@ -10,7 +10,7 @@ Settlements/empires/kingdoms:
 		Galabrus (Grutorian - Galabrian)
 		Hendrala (Old Hendric)
 		Hendril (Hendric)
-		Norvun (Old Hendric - Draco-Norvunic - Norvunic)
+		Dagsvald (Old Hendric - Draco-Dagsvaldian - Dagsvaldian)
 
 	High Elf:
 		Floradoin (Floradish)
@@ -60,10 +60,12 @@ Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a
 740
 A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Suprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
 
-<First Age of Peace>
+<First Age of Peace START>
 
 760
 Hondaf died a natural death. His body was buried in a memorial along with his Star Glising of Namiam, which was then moved to a tomb.
+
+<First Age of Peace END>
 
 680
 Veilodin collapsed, when a massive disease broke out. It was an uncurable disease at it's time. A few hundred people traveled to Borusdaliandur. However, to stop mass migration and potential disease outbreak, Borusdaliandur had artillery to try and kill any immigrants that tried to enter. Almost half of them died to either disease, or the massacre, known as the Veilodin Migration Massacre.
@@ -130,16 +132,29 @@ The large group of explorers unknowingly enterd the territory of a large bandit 
 730
 They established Turinus.
 
+<Second Age of Peace START>
+
 750
 Over time, the language of the travelers changed, influenced by Esrel. Turnius became Thalanol, then to Thalmundol.
 
 780
-From the settlement Thalmundol, Norvun rises.
+From the settlement Thalmundol, Dagsvald rises.
 
-<Second Age of Peace>
+<Second Age of Peace END>
+
+870
+Dagsvald invades Andragz, Vatakrond, ending second age of peace. Andragz was successfully captured.
 
 930
-Jûmlaanar launches assault upon Glomdur, bringing chaos. Glomdur barely survives, only because Jûmlaanar only took resources.
+Jûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Jûmlathnar only took resources.
 
-935
-Norvun declares war on Jûmlaanar. They launch an invasion on Jûmlaanar, which was unsuccessful.
+940
+Dagsvald invades Braosh, Vatakrond. This was also successful.
+
+965
+Dagsvald declares war on Jûmlathnar. They launch an invasion on Jûmlathnar, which was unsuccessful. Jûmlathnar offered help to Vatakrond, who did accept.
+
+RECENT
+
+1031
+Jûmlathnar raids Algonlav, which was kind of successful, even though they retreated without destroying half the village.

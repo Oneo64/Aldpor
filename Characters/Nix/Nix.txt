@@ -5,7 +5,7 @@ Alignment: Chaotic Good
 Ethnicity: Hendric
 Race:      Human
 
-Hometown: Jollantil, Hendril
+Hometown: Bantusea, Hendril
 
 Appearance:
 	Dark brown eyes
