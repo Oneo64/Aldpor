@@ -25,17 +25,18 @@ Bjelnad (MD) (44)               /      | Yngvildr(FA) (23)
 Elfreida(FA) (80)                      \ Alf     (MA) (21)
 
 
-            
-  Julfur-+  +-Eldiska
-         |  |                              +-Alûin [F, 14 November 984]
-         +--+-Haldig [959 - 1026]-+        |
-         |                        |        +-Finstald [M, 4 March 983]
-      Yn-+                        |        |                           +-Alovæl [M, 13 January 1012]
-                                  +--------+-Algrom [26 August 980]-+  |
-                 Amja [957 - 119]-+                                 |  +-Ljorn [M, 2 December 1012]
-                                                                    +--|
-            Bjelfald [959 - 1026]-+                                 |  +-Yngvild [F, 1 May 1014]
-                                  +--------+-Mif [19 September 982]-+  |
-                                  |        |                           +-Alf [M, 17 August 1016]
-                                  |        +-Magnod [7 March 979]
-        Elfreida [5 February 958]-+
+
+
+Julfur [M, 928 - 948]-+  +-Eldiska [F, 958 - 948]
+                      |  |                           +-Alûin [F, 14 November 984]
+                      +--+-Haldig [M, 959 - 1026]-+  |
+                      |                           |  +-Finstald [M, 4 March 983]
+   Yn [F, 931 - 1001]-+                           |  |                              +-Alovæl [M, 13 January 1012]
+                                                  +--+-Algrom [M, 26 August 980]-+  |
+                              Amja [F, 957 - 119]-+                              |  +-Ljorn [M, 2 December 1012]
+                                                                                 +--|
+                         Bjelfald [M, 959 - 1026]-+                              |  +-Yngvild [F, 1 May 1014]
+                                                  +--+-Mif [F, 19 September 982]-+  |
+                                                  |  |                              +-Alf [M, 17 August 1016]
+                                                  |  +-Magnod [M, 7 March 979]
+                     Elfreida [F, 5 February 958]-+
