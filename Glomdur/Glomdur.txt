@@ -6,9 +6,9 @@ Main languages: Glomish
 Other languages: Banodic
 
 Rulers (guys):
-	Galthav (Rules economy, imports, exports, trading)
-	Rudulgan (Rules the law, criminal punishment)
-	Frasvirn (Rules military, and war)
+	Garth (Rules economy, imports, exports, trading)
+	Rithmol (Rules the law, criminal punishment)
+	Borog (Rules military, and war)
 	Thand (Major King, rules everything)
 
 The city of Glomdur is built on a mountain cliff, with a long stone staircase leading up to the entrance. Each house is carved into the stone, with it's doorway leading outside the cliff. Because of unfortunate placement, the shadow of the mountain makes it very dark in the morning, so torches are placed along the staircase and in front of houses.
