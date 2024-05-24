@@ -122,7 +122,7 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 	City: About 300 houses (rare crafters and shops)     Population: 300 x 14 = 4200 people
 
 Lifespans:
-Human = 100
+Human = 70
 Dwarf = 100
 High Elf = 200
 Cold Elf = 130

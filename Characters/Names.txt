@@ -7,6 +7,6 @@ Human names:
 		Last: Rulvegtur, Glomunsal, Galigt
 
 Cold Elf names:
-	First (m): Huthviyn, Antolos, Pasralos, Kiriyn, Sasoldaf, Toraf, Lûsraf
-	First (f): Sanari, Vuseri, Baieris, Quiyris, Ûndiyre, Jadre, Niyre
-	Last: Vaond, Mûindo, Fron, Falaor, Janvis, Baoriyser
+	First (m): Hûthviyn, Antolös, Söriyn, Kiriyn, Sasoldaf, Töraf, Lûsraf
+	First (f): Sanari, Vûseri, Biörûne, Qweris, Ûndiyre, Jaore, Niyre, Arassil
+	Last: Vaond, Melesûind, Fröndil, Falaor, Jathivöl, Baoniyrel

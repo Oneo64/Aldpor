@@ -1,11 +1,9 @@
 THE RULVEGTUR FAMILY TREE
 
-*Everyone alive in the family tree lives together, and everyone except the elderly ocasionally works on their farm.
-
-Wealth: 20 gp, 1200 sp, 1100 cp (about 552 gp)
+Wealth: High class
 Land:
     A longhouse built with the best materials that houses almost everyone in the family. This house is in Argonlav, Dagsvald.
-    A couple of small farms next to their longhouse, mainly to feed their family. About 20% of food remain, and that would be sold.
+    A four small farms next to their longhouse.
 
 ---------------------------------------------------------------
 
@@ -16,21 +14,27 @@ Legend:
  >>> = More than 1 generations
  ~   = Alive around in this range of years
 
-                                                                                                                                                                [LATHUR FAMILY] ->  Vorda [F, 4 October 1010]---+
+                                                                                                                                                                   [LATHUR FAMILY]--Vorda [F, 4 October 1010]---+
                                                                                                                                                                                                                 |
                                                                                                                                                                                   +-Lalfrel [F, 28 July 1006]   +>>+-Svan [M, 18 June 1033]
 Haldig Dalsdavu I [800 ~ 850]-+>>>>+-Haldig Rulvegtur II [850 ~ 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]    |                             |
                                                                                                        |                     [BJOMALDUR FAMILY]--+ |                              +-Gordur [M, 26 May 1007]-----+
-                                                    [ALDAGVA FAMILY] -> Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                  | +-Fald [M, 4 March 982]-----+>>|
+                                                      [ALDAGVA FAMILY]--Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                  | +-Fald [M, 4 March 982]-----+>>|
                                                                                                        |  |                                      | |                           |  +-Iryn [F, 13 August 1008]
-                                                                                                       +>>+-Haldig III [M, 959 - 1026]--------+  +-|-Ynid [F, 10 July 982]-----+
+                                                                                                       +>>+-Haldig III [M, 959 - 1035]--------+  +-|-Ynid [F, 10 July 982]-----+
                                                                                                                                               |    |                       
-                                                                        Svoran Jerdfyr [M, 918 - 975]--+                                      +-+  |                              +-Alovæl [M, 13 January 1012]
-                                                                                                       |>>+-Amja [F, 957 - 1019]----------------+>>+-Algord [M, 26 August 980]-+  |
-                                                                        Fyrel Jerdfyr [F, 920 - 978----+                                                                       |  +-Ljorn [M, 2 December 1012]
+                                                                        Svoran Jerdfyr [M, 918 - 985]--+                                      +-+  |                              +-Alovæl [M, 13 January 1012]
+                                                                                                       |>>+-Amja [F, 957 - 1031]----------------+>>+-Algord [M, 26 August 980]-+  |
+                                                                        Fyrel Jerdfyr [F, 920 - 988]---+                                                                       |  +-Ljorn [M, 2 December 1012]
                                                                                                                                                                                +>>|
-                                                                        Magnod I Galigt [M, 922 - 960]-+>>+-Bjol Galigt [M, 959 - 1026]---------+                              |  +-Yngvild [F, 1 May 1014]
+                                                                        Magnod I Galigt [M, 922 - 980]-+>>+-Bjol Galigt [M, 959 - 1029]---------+                              |  +-Yngvild [F, 1 May 1014]
                                                                                                        |                                        |>>+-Mif [F, 19 September 982]-+  |
-                                                                        Agni Galigt [F, 928 - 969]-----+    Elfreida Galigt [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
+                                                                        Agni Galigt [F, 928 - 994]-----+    Elfreida Galigt [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
                                                                                                                                                    |
                                                                                                                                                    +-Magnod II Galigt [M, 7 March 979]
+
+
+
+Notable Deaths:
+   Haldig Dalsdavu I: Unknown cause of death travelling from Hendril to Tarib. Said to be killed by daevas.
+   Julfur & Idun:     Slain during the Invasion of Bravosh.
