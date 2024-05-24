@@ -14,15 +14,17 @@ Current people in the Tiamar house (10): Torzus, Geren, Donnobel, Jadet, Hevus, 
 
 
                                                                                                                                       +-Klorvas [M, 24 Feburary 1023]
-                                                                                              +-Halevar II [M, 11 March 996]-------+  |
-Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 987]---+                                        |                                    |>>+-Ireya [F, 5 April 1025]
-                                                     |                                        | Yorwyn [F, 4 October 998]----------+
-                            Andra [M, 940 - 993]-----+>>+-Torzus [M, 14 November 970]------+  |
-                                                                                           |  |                                       +-Jadet [F, 26 September 1017]
-                            Perendar [M, 948 - 1004]-+>>+-Frela [F, 972 - 1036]------------+>>+-Geren [M, 10 January 993]----------+  |
+                                                                        [THENESIN FAMILY]--+  +-Halevar II [M, 11 March 996]-------+  |
+Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 987]---+                                     |  |                                    |>>+-Ireya [F, 5 April 1025]
+                                                     |                                     +--|-Yorwyn [F, 4 October 998]----------+
+                   Andra Veradoth [M, 940 - 993]-----+>>+-Torzus [M, 14 November 970]----+    |
+                                                                                         +-+  |                                       +-Jadet [F, 26 September 1017]
+                   Perendar Hatfazer [M, 948 - 1004]-+>>+-Frela [F, 972 - 1036]------------+>>+-Geren [M, 10 January 993]----------+  |
                                                      |  |                                                                          |>>+-Hevus [M, 13 August 1018]
  Aovryn [M, 750 - 800]-+>>+-Brelwyn [F, 946 - 1001]--+  +-Azaleia [F, 29 March 978]-+>>[?] +>>+-Donnobel [F, 2 March 990]----------+  |
                                                                                            |  |                                       +-Nix [M, 11 June 1019]
                                                           Barrex Waldin [M, 966 - 1010]----+  +-Enoraz Walin [M, 11 January 992]---+
                                                                                            |                                       |>>+-Boras Walin [M, 7 June 1020]
-                                                          Haidet Waldin [F, 27 April 962]--+    Morya Walin [F, 19 September 995]--+
+                                                          Haidet Waldin [F, 27 April 962]--+       +--Morya [F, 19 September 995]--+
+                                                                                                   |
+                                                                               [BRASSHAND FAMILY]--+

@@ -7,10 +7,12 @@ Land:
 
 ---------------------------------------------------------------
 
-Vond [M, 13 September 860]----------+
-                                    |                               +-Verdan [M, 6 May 1011] 
-Ifnild [F, 2, November 861]---------+>>+-Paldur [M, 2 May 987]---+  |
-                                                                 |>>+-Rondar [M, 23 July 1013]
-Horin Jondian [M, 30 March 966]-----+>>+-Ysda [F, 12 August 989]-+  |
-                                    |                               +-Byrnda [F, 27 June 1014]
-Gerd Jondian [F, 17 April 963]------+
+
+
+[GOLHÆRN FAMILY] --> Vond [M, 960 - 1023]------------+
+                                                     |                               +-Verdan [M, 6 May 1011] 
+[ALDAGVA FAMILY] --> Ifnild [F, 961 - 1031]----------+>>+-Paldur [M, 2 May 987]---+  |
+                                                                                  |>>+-Rondar [M, 23 July 1013]
+[JONDIAN FAMILY] --> Horin Jondian [M, 30 March 966]-+>>+-Ysda [F, 12 August 989]-+  |
+                                                     |                               +-Byrnda [F, 27 June 1014]
+[HÆNURDAN FAMILY] -> Gerd Jondian [F, 963 - 1027]----+
