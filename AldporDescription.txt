@@ -68,6 +68,8 @@ Appearance of each race:
 
 			Earlobes are longer.
 
+	Half-elves are called elfmen.
+
 Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
 
 Kingdoms:

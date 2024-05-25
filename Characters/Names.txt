@@ -1,12 +1,17 @@
 List of first names that are not being used and last names:
 
-Human names:
+Dagsvaldian example names:
 	Dagsvald:
 		First (m):
 		First (f):
-		Last: Rulvegtur, Glomunsal, Galigt
+		Last: Rulvegtur, Golhærn, Galigt
 
-Cold Elf names:
-	First (m): Hûthviyn, Antolös, Söriyn, Kiriyn, Sasoldaf, Töraf, Lûsraf
+Ranûdan and Aodesvic example names:
+	First (m): Hesin, Antrond, Söriin, Thiör, Sasöldar, Tölar, Lûvar, Gwond
+	First (f): Sanari, Vûseri, Biörûne, Qwierel, Ûndiire, Jaore, Niire, Àlantre
+	Last: Gwindrànd, Shalànth, Inthesrönd, Ilûvràn, Thranth, Àndriànd
+
+Esrel example names:
+	First (m): Hûthviyn, Antolös, Söriyn, Kiriyn, Sasoldaf, Töraf, Lûsraf, Thiör
 	First (f): Sanari, Vûseri, Biörûne, Qweris, Ûndiyre, Jaore, Niyre, Arassil
 	Last: Vaond, Melesûind, Fröndil, Falaor, Jathivöl, Baoniyrel

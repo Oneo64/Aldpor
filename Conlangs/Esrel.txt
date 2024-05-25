@@ -4,10 +4,14 @@ a = aa
 
 u = uh (say 'oo' if at back of word)
 
-æ = aai
-ei = ey
-i- or -i = ee
+ae, ei = ey
+
+-i = ee
 i = short i (as in live)
+
 e = eh
 
-y = ee
+y, iy = ee
+
+o = ou
+ö = short o (as in on)
