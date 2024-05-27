@@ -6,8 +6,8 @@ Main languages: Glomish
 Other languages: Banodic
 
 Rulers (guys):
-	Garth (Rules economy, imports, exports, trading)
-	Rithmol (Rules the law, criminal punishment)
+	Garv (Rules economy, imports, exports, trading)
+	Raldan (Rules the law, criminal punishment)
 	Borog (Rules military, and war)
 	Thand (Major King, rules everything)
 

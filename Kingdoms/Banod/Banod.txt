@@ -1,0 +1,12 @@
+Government: Elected Diarchy
+Race Majority: Dwarf
+Culture type: Slavic
+
+Main languages: Banodic
+
+Rulers (guys):
+	Olk (Rules economy, imports, exports, trading)
+	Norad (Rules military, the law, criminal punishment)
+	Yarandin (Major King, rules everything)
+
+The castle of Banod is a slavic castle in a similar style of Garibaldi Castle. It is built on a peak on a steep mountain. The main entrance is a road up the mountain with some carved stairs on the steep parts.
