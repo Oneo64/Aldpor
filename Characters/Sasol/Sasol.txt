@@ -1,0 +1,63 @@
+Sasöl Gwieldriànd
+Male
+Age: 52, looks 26 (born 986, june 3)
+Alignment: Neutral Good
+Ethnicity: Ranûdan
+Race:      High Elf
+
+Hometown: Emeroreslu, Ranûdel
+
+Appearance:
+	Gray eyes
+	Light blue skin
+	Shoulder length light purple hair
+	Long pointed ears
+
+	Slim
+
+Apparel:
+	Dark aqua gambeson
+	Deer hide pants
+
+	Leather boots
+	Leather belt
+
+	Quiver of obsidian arrows on back
+
+Personality:
+	Traits:
+		???
+		
+		Realistic (perspective on the future)
+
+	Specific:
+		None
+
+Skills:
+	Real:
+		Longbow
+
+	DnD:
+		Acrobatics
+		Perception
+		Stealth
+
+	Level:          Ranger 4
+	Strength: 		12  +1  proficiency
+	Dexerity: 		14  +2  proficiency
+	Constitution: 	10
+	Intelligence: 	12  +1
+	Wisdom: 		12  +1
+	Charisma: 		9   -1
+
+Height: 190cm (6ft 3in)
+
+Languages (sorted by time learned):
+	Ranûdan
+	Hendric (English)
+
+Possessions:
+	A longbow
+
+Occupications:
+	Longbow Archer

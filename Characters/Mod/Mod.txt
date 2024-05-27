@@ -1,11 +1,11 @@
 Mod Gorzadun
 Male
-Age: 25 (born 1012, december 2)
+Age: 100 (born 938, april 1)
 Alignment: Chaotic Neutral
 Ethnicity: Banodic
 Race:      Dwarf
 
-Hometown: Glomdur
+Hometown: Banod
 
 Appearance:
 	Long blood red hair
@@ -47,7 +47,7 @@ Skills:
 
 	Strength: 	    14  +2 proficiency
 	Dexerity:       11
-	Constitution: 	13 	+1 proficiency
+	Constitution: 	14 	+2 proficiency
 	Intelligence: 	10
 	Wisdom: 	    8 	-1
 	Charisma: 	    12	+1

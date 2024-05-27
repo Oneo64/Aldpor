@@ -125,7 +125,7 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 
 Lifespans:
 Human = 70
-Dwarf = 100
+Dwarf = 300
 High Elf = 200
 Cold Elf = 130
 Orc = 60

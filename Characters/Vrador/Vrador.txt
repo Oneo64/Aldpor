@@ -1,0 +1,76 @@
+Vrandor Hathrak
+Male
+Age: 125 (born 912, september 18)
+Alignment: Chaotic Neutral
+Ethnicity: Glomish
+Race:      Dwarf
+
+Hometown: Glomdur
+
+Appearance:
+	Long blond hair
+	Long unstyled beard
+
+	Black eyes
+	Very pale skin
+
+Apparel:
+	Brown woolen cloak
+
+	Leather nasal helmet
+
+	Iron breastplate
+	Woolen blue tunic
+	Dark brown pants
+	Leather shoes
+
+	Quiver of iron bolts, worn on left hip
+
+Personality:
+	POSITIIVE:
+		1. Ambitious
+
+	NEGATIVE:
+		1. Pompous
+		2. Messy
+
+Power:
+	Trained with crossbow
+
+Skills:
+	Real:
+		Arrow shooting
+
+	Game:
+		Athletics
+		Perception
+		Stealth
+
+	Level:          Ranger 3
+
+	Strength: 	    13  +1 proficiency
+	Dexerity:       14  +2 proficiency
+	Constitution: 	12 	+1
+	Intelligence: 	11
+	Wisdom: 	    10
+	Charisma: 	    9   -1
+
+Height: 135cm (4ft 5in)
+Weight: 66kg (146lbs)
+
+Carrying Wealth: 2 gp, 10 sp
+
+(English is also called hendric, * = not fluent)
+Languages (sorted by time learned):
+	Glomish
+
+Possessions:
+	A dwarvish crossbow
+
+	Small cloth bag: Gold and silver
+
+Occupications:
+	Crossbow archer
+
+Attacks:
+	Can use crossbow
