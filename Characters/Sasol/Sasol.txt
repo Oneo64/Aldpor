@@ -22,6 +22,8 @@ Apparel:
 	Leather boots
 	Leather belt
 
+	Silver circlet
+
 	Quiver of obsidian arrows on back
 
 Personality:
