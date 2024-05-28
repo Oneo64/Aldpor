@@ -95,6 +95,12 @@ Weapons and armor (multipliers, gemstones are below. engraving, or fancy pattern
 	Ring:           ring x5
 	Circlet:        circlet x20
 
+	*measured in diameters
+	Orb (large,  >=9 cm): gems x60
+	Orb (medium, >=6 cm): gems x40
+	Orb (small,  >=4 cm): gems x30
+	Marble (<4cm):        gems x10
+
 * If a food isn't common in the area, it's price increases by 1.5.
 Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Watermelon:             1 sp
