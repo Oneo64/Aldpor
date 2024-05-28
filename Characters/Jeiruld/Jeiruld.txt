@@ -28,10 +28,8 @@ Apparel:
 Personality:
 	Traits:
 		POSITIVE:
-			1. Intelligent (smart, logical)
-			2. Wise
-			3. Observant
-			4. Analytical
+			1. Observant
+			2. Analytical
 
 		NEUTRAL:
 			1. Mysterious
@@ -39,6 +37,10 @@ Personality:
 		NEGATIVE:
 			1. Slightly wrathful
 			2. Aloof
+
+		OTHERS (Not really personality):
+			1. Intelligent (smart, logical)
+			2. Wise
 
 Power:
 	Master of Magic

@@ -37,17 +37,20 @@ Personality:
 	Traits:
 		POSITIVE:
 			1. Good-hearted (kind, generous and benevolent)
-			2. Honest
-			3. Intelligent (smart, logical)
-			4. Wise
-			5. Observant
+			2. Trustworthy (Loyal and honest)
+			3. Observant
+
+		NEUTRAL:
+			1. Mysterious
 
 		NEGATIVE:
 			1. Angered easily
-			2. Bad sense of humor
-			3. Socially awkward
-			4. Distrusting
-			5. Aloof
+			2. Socially awkward
+			3. Distrusting
+			4. Aloof
+
+		OTHERS (Not really personality):
+			1. Intelligent (smart, logical)
 		
 		Introverted
 		Realistic (perspective on the future)

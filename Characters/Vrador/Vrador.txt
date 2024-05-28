@@ -1,7 +1,7 @@
 Vrandor Hathrak
 Male
 Age: 125 (born 912, september 18)
-Alignment: Chaotic Neutral
+Alignment: Neutral
 Ethnicity: Glomish
 Race:      Dwarf
 
@@ -29,6 +29,7 @@ Apparel:
 Personality:
 	POSITIIVE:
 		1. Ambitious
+		2. Loyal
 
 	NEGATIVE:
 		1. Pompous

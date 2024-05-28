@@ -30,6 +30,7 @@ Personality:
 	Traits:
 		???
 		
+		Introverted
 		Realistic (perspective on the future)
 
 	Specific:
