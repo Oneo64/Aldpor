@@ -133,14 +133,14 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Chicken:                2 sp
 	Duck:                   2 sp
 
-	EVERYTHING IN HERE IS IN POUNDS
+	EVERYTHING IN HERE IS PER POUND
 	  Deer/Vension:           5 cp
 	  Beef:                   5 cp
 	  Pork:                   5 cp
 	  Chicken (meat):         3 cp
 	  Duck (meat):            3 cp
 	  Fish (meat):            2 cp
-	EVERYTHING IN HERE IS IN POUNDS
+	EVERYTHING IN HERE IS PER POUND
 
 	Chicken egg:            5 cp
 	Duck egg:               5 cp
@@ -163,6 +163,19 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	10x10cm Wool (fabric):  3 cp
 
 	1 Sack of Wool (raw):   1 sp + 5 cp
+
+	Sheet (parchment)       2 cp
+	Sheet (vellum)          6 cp
+
+	Scroll (parchment)      2 sp
+	Scroll (vellum)         6 sp
+
+	Spell Scroll (LVL 1)    15 gp
+	Spell Scroll (LVL 2)    30 gp
+	Spell Scroll (LVL 3)    60 gp
+	Spell Scroll (LVL 4)    90 gp
+	Spell Scroll (LVL 5)    130 gp
+	Spell Scroll (LVL 6)    160 gp
 
 
 Symbols (use the item materials table above, use same rules for engraving):

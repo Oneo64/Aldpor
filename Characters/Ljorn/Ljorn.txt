@@ -170,24 +170,24 @@ Attacks:
 
 		Prepared in orb (max 19):
 			Level 1: Mage Armor, Magic Missile, Feather Fall, Illusory Script, Shield
-			Level 2: Detect Thoughts, Invisibility, Arcane Lock, Hold Person, Suggestion, Ray of Enfeeblement
+			Level 2: Detect Thoughts, Invisibility, Hold Person, Suggestion, Ray of Enfeeblement
 			Level 3: Counterspell, Fireball, Lightning Bolt, Gaseous Form, Feign Death, Major Image
-			Level 4: Polymorph, Dimension Door
+			Level 4: Polymorph, Dimension Door, Ice Storm
 
-		Cantrips:
+		Cantrips (4):
 		Fire Bolt, Message, Mage Hand, Prestidigitation
 		
-		Level 1:
+		Level 1 (8):
 		Detect Magic, Mage Armor, Magic Missile, Feather Fall, Protection from Evil and Good, Shield, Floating Disk, Illusory Script
 		
-		Level 2: 
+		Level 2 (9):
 		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Suggestion, Ray of Enfeeblement, Darkvision, Locate Object
 		
-		Level 3:
+		Level 3 (9):
 		Counterspell, Dispel Magic, Fireball, Gaseous Form, Lightning Bolt, Major Image, Phantom Steed, Feign Death, Magic Circle
 		
-		Level 4:
-		Polymorph, Dimension Door, Fabricate, Arcane Eye, Control Water, Blight
+		Level 4 (7):
+		Polymorph, Dimension Door, Fabricate, Arcane Eye, Control Water, Blight, Ice Storm
 
 		Level 7:
 		Plane Shift (twice a day)
