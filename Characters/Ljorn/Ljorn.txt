@@ -154,7 +154,7 @@ Possessions:
 
 Occupications:
 	Evocation Wizard (Evoker)
-	Mercenary
+	Mercenary/Hireling
 	Traveler
 
 Relations:
