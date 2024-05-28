@@ -7,7 +7,7 @@ Dagsvaldian example names:
 		Last: Rulvegtur, Golhærn, Galigt
 
 Ranûdan and Aodesvic example names:
-	First (m): Hesin, Antrond, Söriin, Thiör, Sasöldar, Tölar, Lûvar, Gwond
+	First (m): Hesin, Antrond, Söriin, Thiör, Sasöl, Tölar, Lûvar, Gwond
 	First (f): Sanari, Vûseri, Biörûne, Qwierel, Ûndiire, Jaore, Niire, Àlantre
 	Last: Gwindrànd, Shalànth, Inthesrönd, Ilûvràn, Thranth, Àndriànd
 

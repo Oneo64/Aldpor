@@ -38,7 +38,7 @@ Appearance of each race:
 
 		Skin: Very light skin.
 		Hair: Blond, red, or actually red (more like maroon).
-		Eyes: Black, brown, green, golden yellow, orange or red.
+		Eyes: Black, brown, green, golden yellow, orange, or red.
 
 	Elves: (Elves only grow head hair)
 		Leadership not as good as other humanoid races.
@@ -48,20 +48,20 @@ Appearance of each race:
 		High Elves (190cm, 55kg):
 			Can easily scale and avoid obstacles.
 			Skin: Very light purple, or very light blue.
-			Hair: Dark purple, white.
-			Eyes: Black, brown, blue, gray, purple.
+			Hair: Dark purple, or white.
+			Eyes: Blue, gray, or purple.
 			Ears are pointed.
 
 		Cold Elves (170cm, 60kg):
 			Slight cold resistance: All Cold damage is reduced by 2.
 			Better eyesight: You have darkvision up to 5m (15ft).
 
-			Variant 1 (Snow and Ice):
-				Skin: Very light skin, very pale blue skin.
+			Variant 1 (Snow):
+				Skin: Very light skin, or very pale blue skin.
 				Hair: Black, blond, brown, white, or golden yellow.
 				Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
 
-			Variant 2 (Wood and Trees):
+			Variant 2 (Wood):
 				Skin: Brown (like wood).
 				Hair: Black, brown, or white.
 				Eyes: Black, brown, green, golden yellow, red, or orange.
