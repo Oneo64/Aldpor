@@ -13,8 +13,8 @@ Villages:
 	Pelassel
 	Vesesvala
 	Minbaslûind
-	Fleriydol
+	Fleriydöl
 
 Castles (stone):
 	Krinvriydan (main castle thingy)
-	Hathossali
+	Hathössali

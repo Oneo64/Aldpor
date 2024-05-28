@@ -7,12 +7,12 @@ Main languages: Ranûdan
 Ruler: Vasolas (Guy)
 
 Villages:
-	Qualu Dasin
+	Qwalu Dasin
 	Pûsa Dasin
-	Talithtoum
+	Talithtom
 
 Cities:
-	Emeroreslu
+	Emeröreslu
 
 Ranûdel is located inside the Forest of Ranûdel.
 

@@ -5,7 +5,7 @@ Alignment: Neutral Good
 Ethnicity: Ranûdan
 Race:      Moon Elf
 
-Hometown: Emeroreslu, Ranûdel
+Hometown: Emeröreslu, Ranûdel
 
 Appearance:
 	Gray eyes
