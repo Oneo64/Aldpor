@@ -13,6 +13,8 @@ Appearance:
 	Bald
 
 Apparel:
+	Black silk hooded cloak
+
 	Woolen dark red robes (ankle length)
 	Four large pockets on upper part of robes
 

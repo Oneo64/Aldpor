@@ -30,6 +30,7 @@ Apparel:
 
 	Silver necklace with Talmundr's symbol
 	Silver arm ring, on the left wrist
+	Silver circlet
 
 Goal/Motivation (sorted by priority first): Support/protect family, defend kingdom, discover universe
 
@@ -60,7 +61,6 @@ Personality:
 		Deer meat is his favorite food
 
 		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
-		He likes to play a game called "Spark Bead Battle".
 
 		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
 
