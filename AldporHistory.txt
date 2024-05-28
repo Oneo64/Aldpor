@@ -12,7 +12,7 @@ Settlements/empires/kingdoms:
 		Hendril (Hendric)
 		Dagsvald (Old Hendric - Draco-Dagsvaldian - Dagsvaldian)
 
-	High Elf:
+	Moon Elf:
 		Floradoin (Floradish)
 		Glismil (Floradish)
 		Thisalvinan (Ancient Elvish)
@@ -106,7 +106,7 @@ Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galab
 A group of explorers from Ranuladaen traveled north, and established Esrelu and Vuntarla.
 
 170
-Ranuladaen was renamed to Ranûdel. Some high elves did not like the change, so they went and created a kingdom called Amatil, located a few ten kilometers away from Ranûdel.
+Ranuladaen was renamed to Ranûdel. Some moon elves did not like the change, so they went and created a kingdom called Amatil, located a few ten kilometers away from Ranûdel.
 
 350
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.

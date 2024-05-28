@@ -1,5 +1,5 @@
 Government: Constitutional Monarchy
-Race Majority: High Elf
+Race Majority: Moon Elf, Elfmen
 Culture type: Elvish
 
 Main language: Aodesvic
