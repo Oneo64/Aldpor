@@ -6,7 +6,7 @@ Common:
 
 	Elves:
 		Esrel (Cold Elvish)
-		Ranûdan (High Elvish)
+		Ranûdan (Moon Elvish)
 
 	Dwarves:
 		Glomish
