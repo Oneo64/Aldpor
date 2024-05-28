@@ -48,7 +48,7 @@ Appearance of each race:
 		High Elves (190cm, 55kg):
 			Can easily scale and avoid obstacles.
 			Skin: Very light purple, or very light blue.
-			Hair: Light purple, white.
+			Hair: Dark purple, white.
 			Eyes: Black, brown, blue, gray, purple.
 			Ears are pointed.
 
