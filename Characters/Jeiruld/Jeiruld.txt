@@ -56,7 +56,7 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Wizard 11
+	Level:          Wizard 12
 	
 	Strength: 	    10
 	Dexerity:       13 	+1

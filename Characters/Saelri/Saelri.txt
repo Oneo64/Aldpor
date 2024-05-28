@@ -51,7 +51,7 @@ Skills:
 	Strength: 	    10
 	Dexerity:       15 	+2
 	Constitution: 	13 	+1
-	Intelligence: 	11	    proficiency
+	Intelligence: 	12	+1  proficiency
 	Wisdom: 	    16 	+3  proficiency
 	Charisma: 	    9	-1
 

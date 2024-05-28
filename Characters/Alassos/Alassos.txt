@@ -53,13 +53,13 @@ Skills:
 
 		Fighting style: Duelling
 
-	Level:          Fighter 3 / Rogue 2
-	Strength: 		12  +1  proficiency
+	Level:          Fighter 5 / Rogue 2
+	Strength: 		13  +1  proficiency
 	Dexerity: 		16  +3
-	Constitution: 	10      proficiency
+	Constitution: 	12  +1  proficiency
 	Intelligence: 	10   
 	Wisdom: 		14  +2
-	Charisma: 		12  +1
+	Charisma: 		10
 
 Height: 178cm (5ft 10in)
 

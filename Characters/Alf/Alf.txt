@@ -64,7 +64,7 @@ Skills:
 		Athletics
 		Intimidation
 
-	Level:          Fighter 8
+	Level:          Fighter 7
 
 	Strength: 		14  +2
 	Dexerity: 		15  +2  proficiency
@@ -81,6 +81,10 @@ Languages (sorted by time learned):
 	Esrel
 
 Possessions:
+	A spear
+	A bearded axe
+	A white shield painted with a black vegvisir
+
 	Leather pouch:
 		Drinking horn
 		Straw doll (don't ask me why)
