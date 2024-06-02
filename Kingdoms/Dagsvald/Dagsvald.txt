@@ -19,7 +19,7 @@ Towns:
 	Manasart
 
 Cities:
-	Thurnin City (inside of Dagsvald)
+	Thuryngard (inside of Dagsvald)
 
 Castles:
 	Ulfalvik
