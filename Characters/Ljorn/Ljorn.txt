@@ -40,6 +40,7 @@ Personality:
 			1. Good-hearted (kind and benevolent)
 			2. Trustworthy (Loyal and honest)
 			3. Observant
+			4. Caring
 
 		NEUTRAL:
 			1. Mysterious
