@@ -93,7 +93,7 @@ Skills:
 	Constitution: 	12 	+1
 	Intelligence: 	16	+3  proficiency
 	Wisdom: 	    13 	+1  proficiency
-	Charisma: 	    9	-1 
+	Charisma: 	    9	-1
 
 Height: 175cm (5ft 9in)
 Weight: 59kg (130lbs)
