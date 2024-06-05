@@ -14,20 +14,24 @@ Villages:
 	Baserdol
 	Lismerlav
 
-Towns:
-	Thalmundol
-	Manasart
-
 Cities:
-	Thuryngard (inside of Dagsvald)
+	Thuryngard
+
+Towns in Thuryngard:
+	Thalmundol
+	Kagindet
+	Vilsnagur
 
 Castles:
+	Thuryngard (Capital)
 	Ulfalvik
 	Halgrid
 	Ynfrunar
 	Galundegt
 
-Dagsvald Castle: This castle is a large norman style castle that is built on top of a large hill.
+Dagsvald Castle: This castle is a large ring fortress made of stone, built on the top of a hill. The diameter is approximately 120 meters, and the buildings inside are made of stone instead of wood. The castle is then surrounded with a second curtain wall, which is about 6 meters high. This wall is much farther from the ring fortress, which can fit a few towns.
+
+In the 'ring', there is a large longhouse built with mostly stone, except for the roof and the top 'triangle' wall part of the roof. This is where the king resides. The ring of the castle is generally reserved for only the king, his family, guards, soldiers, nobles and slaves (criminals serving a sentence).
 
 Coins: Each gold or silver coin could be engraved with a symbol of the following:
 	Lûnanyr's symbol (silver only)

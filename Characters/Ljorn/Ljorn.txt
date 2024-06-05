@@ -37,7 +37,7 @@ Goal/Motivation (sorted by priority first): Support/protect family, defend kingd
 Personality:
 	Traits:
 		POSITIVE:
-			1. Good-hearted (kind and benevolent)
+			1. Good-hearted (kind, generous and benevolent)
 			2. Trustworthy (Loyal and honest)
 			3. Observant
 			4. Caring
