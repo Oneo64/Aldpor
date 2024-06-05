@@ -38,22 +38,23 @@ Structures (wall multiplier, floor multiplier, roof multiplier):
 	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
 
 Item Materials:
-	Leather: 1 sp
-	Silk:    2 sp
-	Linen:   5 cp
-	Wool:    5 cp
+	Leather:  1 sp
+	Silk:     2 sp
+	Linen:    5 cp
+	Wool:     5 cp
 
-	Wood:    5 cp
+	Wood:     5 cp
 
-	Copper:  3 sp
-	Bronze:  4 sp
-	Brass:   4 sp
+	Copper:   3 sp
+	Bronze:   4 sp
+	Brass:    4 sp
 
-	Iron:    3 sp
-	Steel:   1 gp
+	Iron:     4 sp
+	Steel:    6 sp
+	Damascus: 8 sp
 
-	Silver:  1 gp
-	Gold:    10 gp
+	Silver:   1 gp
+	Gold:     10 gp
 	Sword handle (Iron wrapped with leather): 2 sp
 
 Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
@@ -63,7 +64,6 @@ Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
 
 *default prices are assuming they are made of iron*
 Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
-	Ulfberht Sword:   handle x2, crossguard + blade x25
 	Arming Sword:     handle x2, crossguard + blade x20
 	Shortsword:       handle x2, crossguard + blade x12
 	Scimitar:         handle x3, crossguard + blade x20
