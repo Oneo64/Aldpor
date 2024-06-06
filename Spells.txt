@@ -20,7 +20,7 @@ Fireball (LVL 3 evocation)
 	Range: 40m (120ft)
 	Requirements: V, P or R
 
-A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 5m (15ft) radius is burnt, taking 3d8 Fire + 1d6 Bludgeoning damage. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
+A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2m (6ft) radius is burnt, taking 3d8 Fire + 1d6 Bludgeoning damage. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
 
 
 
