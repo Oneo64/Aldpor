@@ -74,8 +74,8 @@ Occupications:
 	Jarl
 
 Magic:
-	Cantrips: Burning Hands
-	Level 1: Arcane Lock, Knock, Ray of Sickness
+	Cantrips: Dragonfire
+	Level 1: Arcane Lock, Knock
 	Level 2: Locate Object (use on will, no spell slots required), Misty Step
 	Level 3: Animate Dead
 

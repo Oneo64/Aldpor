@@ -124,8 +124,25 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 	City: About 300 houses (rare crafters and shops)     Population: 300 x 14 = 4200 people
 
 Lifespans:
-Human = 70
-Dwarf = 300
-Moon Elf = 200
-Cold Elf = 130
-Orc = 60
+	Human = 70
+	Dwarf = 300
+	Moon Elf = 200
+	Cold Elf = 130
+	Orc = 60
+
+Available Classes:
+	Fighter classes (No magic involved):
+		Barbarian (Let rage power you and use pure strength and brutality to kill)
+		Fighter (Practice some sort of martial arts using a melee weapon or with bare fists)
+		Ranger (Practice bows, or crossbows)
+		Rogue (Practice the art of stealing and sneaking)
+
+	Caster classes (Magic involved, almost no melee involved):
+		Cleric (Heavily worship a diety to gain their powers)
+		Druid (Take care of nature so the fey give you fey powers)
+		Sorcerer (Be born with magic powers)
+		Wizard (Study hard to get magic powers)
+
+	Fighter + Cleric = Paladin
+	Low level fighter + Non-magical healing skills or tonic/medicine making skills = Bard
+	Evil druid = Warlock

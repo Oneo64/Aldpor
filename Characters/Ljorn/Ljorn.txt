@@ -172,8 +172,8 @@ Attacks:
 
 		Prepared in orb (max 13):
 			Level 1: Feather Fall, Mage Armor, Magic Missile, Protection from E/G, Shield
-			Level 2: Detect Thoughts, Invisibility, Hold Person, Suggestion, Misty Step
-			Level 3: Counterspell, Feign Death, Lightning Bolt
+			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
+			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Image
 
 		Cantrips (4):
 		Fire Bolt, Message, Mage Hand, Prestidigitation
@@ -182,7 +182,7 @@ Attacks:
 		Detect Magic, Feather Fall, Floating Disk, Illusory Script, Mage Armor, Magic Missile, Protection from E/G, Shield
 		
 		Level 2 (8):
-		Arcane Lock, Detect Thoughts, Hold Person, Invisibility, Knock, Locate Object, Misty Step, Suggestion
+		Arcane Lock, Detect Thoughts, Hold Person, Invisibility, Knock, Locate Object, Misty Step
 		
 		Level 3 (6):
 		Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Image, Magic Circle

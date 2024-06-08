@@ -77,7 +77,7 @@ Occupications:
 Attacks:
 	(Level 3) Spells:
 		Cantrips:
-		Acid Splash, Light, Ray of Frost, Mending
+		Ray of Frost, Mending
 		
 		Level 1:
 		Mage Armor, Magic Missile
