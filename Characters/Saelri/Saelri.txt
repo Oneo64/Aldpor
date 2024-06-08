@@ -46,7 +46,7 @@ Skills:
 		Survival
 		Animal Handling
 
-	Level:          Druid 8
+	Level:          Druid 6
 
 	Strength: 	    10
 	Dexerity:       15 	+2
@@ -101,15 +101,9 @@ Attacks:
 		Level 3:
 		Protection from Energy, Sleet Storm, Conjure Animals
 
-		Level 4:
-		Blight, Conjure Woodland Beings
-
 	Circle spells:
 		Level 2:
 		Hold Person, Spike Growth
 
 		Level 3:
 		Sleet Storm, Slow
-
-		Level 4:
-		Freedom of Movement, Ice Storm

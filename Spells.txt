@@ -64,71 +64,18 @@ You can also use an action to telekinetically apply a sudden force to objects, c
 
 
 
-Dimension Door (LVL 4 conjuration)
-	Casting time: 3 seconds
-	Range: 200m (600ft)
-	Requirements: V, P
-
-You teleport to a location you can see, visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45 degree angle, 300 feet."
-
-When you teleport, you disappear in a fast twirl, and a flash of light. There will be a brief, warped whooshing sound, and then a loud musical crack that can be heard up to 50m (150ft). The same sounds can also be heard when you arrive.
-
-At higher levels:
-For each spell level above 4th, the range increases by 50m (150ft)
-
-
-
 ORIGINAL SPELLS:
-Frostbite Infection (Level 2 conjuration)
+Cold Snare (Level 2 conjuration)
 	Casting time: 3 seconds
 	Range: 40m (120ft)
 	Requirements: V, F, M (a handful of a mixure of moss and silver powder, which is consumed on use)
 	Duration: 5 minutes
 
-A mote of frost shoots out of your hand, striking a target you choose. The target takes 2d8 frost damage. Every 30 seconds, the target must make a DC 5 constitution saving throw, or take 1d6 frost damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 2 meter radius (6ft). Any creature that moves in this space must make a DC 10 dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
+A mote of frost shoots out of your hand, striking a target you choose. The target takes 2d8 frost damage. Every 30 seconds, the target must make a DC 5 constitution saving throw, or take 1d6 frost damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 3 meter radius (6ft). Any creature that moves in this space must make a DC 10 dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
 
 At higher levels:
 If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d8, and the damage over time increases by 1d6.
 If you strike the ground, then the radius of which it spreads increases by 2 meters (6ft), and the damage increases by 1d4 for every spell level above 2nd. If the spell reaches 6th level or above, creatures that are in the radius are not required to fall prone to take frost damage.
-
-
-
-Trip (LVL 1 transmutation)
-	Casting time: Instant
-	Range: 20m (60ft)
-	Requirements: V, F
-
-You forcefully move a leg of a target in a direction. If the target is standing, then it must succeed a Dexerity saving throw or fall prone. It then must succeed on a DC 16 Constitution saving throw, or it's concentration will be broken.
-
-
-
-Pause Movement (LVL 7 transmutation)
-	Casting time: Instant
-	Range: 20m (60ft)
-	Requirements: V, F
-	Duration: 2 minutes
-
-You point at a point within the range. Everything, including loose objects in a sphere 3m (10ft) area will completely stop, while they will keep moving with the object they were standing on. Each round after 30 seconds, all creatures that isn't undead or a construct will take 2 necrotic damage due to lack of oxygen.
-
-
-
-Weaken (LVL 4 necromancy)
-	Casting time: Instant
-	Range: 10m (30ft)
-	Requirements: V
-	Duration: 1 minute
-
-A creature you target will have their strength, and constitution lowered by 4, to a minimum of 1. Constructs are not affected by this spell. You cannon cast this spell on the target again for 24 hours.
-
-
-
-Capture Creature (LVL 6 abjuration)
-	Casting time: 10 minutes
-	Range: Touch
-	Requirements: V, SP (draw on ground), M (a big oyster shell)
-	Duration: Lasts untill dispelled
-
-You draw a symbol on the ground, which is near invisible. A creature can see this by making a Wisdom saving throw. When a large or smaller creature steps on this symbol, they will be restrained by an invisible force for 24 hours, or someone casts Dispel Magic.
 
 
 
@@ -139,16 +86,6 @@ Blast Hole (LVL 7 evocation)
 	
 You point at a point. An explosion in a sphere 5m (15ft) erupts from the point you chose. All creatures in the area must make a Dexerity saving throw or take 8d10 Bludgeoning and 1d12 Fire damage.
 If the point was on a wall, and the wall is thinner than 1 + your Intelligence modifier in meters (multiply by three for feet) with a minimum of 1 meter, then a hole gets blasted in the wall.
-
-
-
-Curse of Headaches (LVL 5 necromancy)
-	Casting time: Instant
-	Range: 10m (30ft)
-	Requirements: V, F
-	Duration: 30 minutes, or until dispelled
-
-You target a creature. The target must succeed on a Constitution saving throw or be cursed for the duration. While the target is cursed, it has disadvantage on Intelligence, Wisdom and Charisma saving throws. Every minute, the target must make a Constitution saving throw. On failure, it takes 1d4 psychic damage. A Remove Curse, or Lesser/Greater Restoration ends the effect. Constructs and undead are unaffected by this spell.
 
 
 

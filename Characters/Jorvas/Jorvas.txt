@@ -53,7 +53,7 @@ Skills:
 		Insight
 		Perception
 
-	Level: 			Fighter 10 / Wizard 3
+	Level: 			Fighter 8 / Wizard 3
 
 	Strength: 		18  +4  proficiency
 	Dexerity: 		13  +1  proficiency

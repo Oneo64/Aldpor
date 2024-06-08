@@ -26,4 +26,4 @@ Only the wealthy can afford gemstone orbs, and most of these orbs are made of an
 
 
 If you don't have a spell prepared/stored in your orb, you can cast it if you are looking at your spellbook. Casting time is normal speed plus an extra round. (Reason: it's realistic, one extra round to look at spellbook)
-If you use an orb, then the maximum prepared spells you can have is: (wizard level * 2) + int modifier.
+If you use an orb, then the maximum prepared spells you can have is: (wizard level * 1.75 rounded down) + int modifier.
