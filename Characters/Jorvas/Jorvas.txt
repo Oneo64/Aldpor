@@ -74,9 +74,8 @@ Occupications:
 	Jarl
 
 Magic:
-	Cantrips: Dragonfire
-	Level 1: Arcane Lock, Knock
+	Cantrips: Ray of Frost
+	Level 1: Dragonfire, Arcane Lock, Knock
 	Level 2: Locate Object (use on will, no spell slots required), Misty Step
-	Level 3: Animate Dead
 
 	Special: When death, he turns into ash which will form back into him again. He cannot feel pain, cannot be mind controlled, immune to phsychic damage, and is immune to sickness and disease.

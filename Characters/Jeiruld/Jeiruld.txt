@@ -56,14 +56,14 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Wizard 9
+	Level:          Wizard 10
 	
 	Strength: 	    10
 	Dexerity:       13 	+1
 	Constitution: 	14 	+2
 	Intelligence: 	18	+4  proficiency
 	Wisdom: 	    16 	+3  proficiency
-	Charisma: 	    9	-1
+	Charisma: 	    12	+1
 
 Height: 170cm (5ft 7in)
 
@@ -82,12 +82,12 @@ Occupications:
 	Teacher, headmaster of Academy of Aldorim
 
 Attacks:
-	(Level 9) Spells:
+	(Level 10) Spells:
 		Cantrips:
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		
-		Level 1 (7):
-		Detect Magic, Disguise Self, Feather Fall, Mage Armor, Magic Missile, Shield, Unseen Servant
+		Level 1 (9):
+		Cold Snare, Detect Magic, Disguise Self, Feather Fall, Mage Armor, Magic Missile, Shield, Unseen Servant, Floating Disk
 		
 		Level 2 (7):
 		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Locate Object
@@ -98,5 +98,5 @@ Attacks:
 		Level 4 (6):
 		Arcane Eye, Blight, Control Water, Dimension Door, Fabricate, Polymorph
 		
-		Level 5 (3):
-		Plane Shift, Teleportation Circle, Telekinesis
+		Level 5 (4):
+		Plane Shift, Teleportation Circle, Telekinesis, Scrying

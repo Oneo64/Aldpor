@@ -93,13 +93,13 @@ Attacks:
 
 	Prepared:
 		Level 1:
-		Cure Wounds, Entangle
+		Create or Destroy Water, Cure Wounds, Entangle
 
 		Level 2:
 		Barkskin, Gust of Wind
 
 		Level 3:
-		Conjure Animals
+		Conjure Animals, Speak with Plants
 
 	Circle spells:
 		Level 2:

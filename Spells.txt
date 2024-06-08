@@ -1,33 +1,20 @@
-Requirements:
-	Verbal: You are required to speak some mystical words.
-
-	Swipe: You reach out at a target, kind of like swiping the air.
-
-	Free: You can use the Point, Ball, or Reach gestures.
-	Point: You point at a location.
-	Ball: You form a ball with your hands, like holding an invisible ball.
-	Reach: You reach towards the target, kind of like star wars force.
-
-	SPecial: A special description will be given.
-
-	Material: You need some item, or a handful of material.
-
-
-
+======================================================================================================================================================
 OVERRIDES:
+======================================================================================================================================================
+
 Fireball (LVL 3 evocation)
 	Casting time: Instant
 	Range: 40m (120ft)
-	Requirements: V, P or R
+	Requirements: V, S
 
-A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2m (6ft) radius is burnt, taking 3d8 Fire + 1d6 Bludgeoning damage. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
+A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2.5m (7.5ft) radius is burnt, taking 3d8 Fire. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
 
-
+======================================================================================================================================================
 
 Lightning Bolt (LVL 3 evocation)
 	Casting time: Instant
 	Range: 100m (300ft)
-	Requirements: V, F
+	Requirements: V, S
 
 A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
 If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
@@ -40,12 +27,12 @@ Distance       Chance
  50m+ (150ft)   d6  (16.7%)
  80m+ (240ft)   d4  (25%)
 
-
+======================================================================================================================================================
 
 Telekinesis (LVL 5 transmutation)
 	Casting time: 3 seconds
 	Range: 20m (60ft)
-	Requirements: V, P or R
+	Requirements: V, S
 	Duration: Concentration up to 1 minute
 
 An object or creature you choose hovers in the air for the duration. Each round, you can move the creature up to 10m (30ft), or approximately 1.6 m/s. When the spell ends, the object or creature is dropped.
@@ -64,64 +51,40 @@ You can also use an action to telekinetically apply a sudden force to objects, c
 
 
 
+======================================================================================================================================================
 ORIGINAL SPELLS:
-Cold Snare (Level 2 conjuration)
+======================================================================================================================================================
+
+Cold Snare (Level 1 conjuration)
 	Casting time: 3 seconds
 	Range: 40m (120ft)
-	Requirements: V, F, M (a handful of a mixure of moss and silver powder, which is consumed on use)
+	Requirements: V, S, M (a handful of a mixure of moss and silver powder, which is consumed on use)
 	Duration: 5 minutes
 
-A mote of frost shoots out of your hand, striking a target you choose. The target takes 2d8 frost damage. Every 30 seconds, the target must make a DC 5 constitution saving throw, or take 1d6 frost damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 3 meter radius (6ft). Any creature that moves in this space must make a DC 10 dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
+A mote of frost shoots out of your hand, striking a target you choose. The target takes 1d6 Cold damage. Every 30 seconds, the target must make a DC 5 Constitution saving throw, or take 1d4 Cold damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 3 meter radius (6ft). Any creature that moves in this space must make a DC 10 Dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
 
 At higher levels:
-If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d8, and the damage over time increases by 1d6.
-If you strike the ground, then the radius of which it spreads increases by 2 meters (6ft), and the damage increases by 1d4 for every spell level above 2nd. If the spell reaches 6th level or above, creatures that are in the radius are not required to fall prone to take frost damage.
+If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d6, and the damage over time increases by 1d4.
+If you strike the ground, then the radius of which it spreads increases by 2 meters (6ft), and the damage increases by 1d4 for every spell level above 2nd.
 
+======================================================================================================================================================
 
-
-Blast Hole (LVL 7 evocation)
-	Casting time: Instant
-	Range: 40m (120ft)
-	Requirements: V, F, M (a ball of iron worth at least 50gp)
-	
-You point at a point. An explosion in a sphere 5m (15ft) erupts from the point you chose. All creatures in the area must make a Dexerity saving throw or take 8d10 Bludgeoning and 1d12 Fire damage.
-If the point was on a wall, and the wall is thinner than 1 + your Intelligence modifier in meters (multiply by three for feet) with a minimum of 1 meter, then a hole gets blasted in the wall.
-
-
-
-Bind with Chains (LVL 5 conjuration)
+Dragonfire (Level 1 evocation)
 	Casting time: 3 seconds
-	Range: 10m (30ft)
-	Requirements: V, F, M (a bit of chain at least 30cm(a foot))
-	Duration: 1 hour or until dispelled
+	Range: 10m cone (30ft)
+	Requirements: V, S
 
-You choose a creature within range with a size or Huge or smaller. Chains suddenly appear from the ground (air if no ground), and lances towards the target. The target then must succeed on a Dexerity saving throw, or become restrained. The creature can succeed a DC 19 Strength saving throw to break out. You can dismiss this spell anytime.
+A burst of fire shoots out of your palm in a cone. Every creature in the cone takes 2d6 Fire Damage.
 
-At Higher Levels:
-For each level above 5th, increase the DC required to break free by 2. If cast at 8th level or higher, you can target any creature regardless of size.
+At higher levels:
+If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d6.
 
-
-
-Jeiruld's Random Blasts (LVL 3 conjuration)
-	Casting time: 6 seconds
-	Range: 30m (90ft)
-	Requirements: V, F, M (a handful of small pebbles and pieces of wood)
-	Duration: concentration up to 1 minute
-
-For every round until the spell ends, roll a d3 on the table below. The object will then pop out randomly around you. It will then shoot towards the direction where you are pointing. Each creature in a 5m (15ft) radius must succeed on a Dexerity saving throw or take the appropriate damage amount. Creatures with a size of Large or greater make this saving throw with disadvantage. The object's size is small.
-
-	Objects:
-	d3  Object       Damage
-	 1   Blunt rock   3d8 Bludgeoning
-	 2   Sharp rock   3d8 Slashing
-	 3   Wood piece   2d8 Piercing
-
-
+======================================================================================================================================================
 
 Major Teleportation (LVL 9 conjuration)
 	Casting time: 5 minutes
 	Range: Touch
-	Requirements: V, SP, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and 8 black opal marbles worth at least 30gp each. All of these are consumed on use.)
+	Requirements: V, S, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and 8 black opal marbles worth at least 30gp each. All of these are consumed on use.)
 
 You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. All creatures in the circle are transported to the set location.
 
@@ -147,11 +110,375 @@ You will appear off course, as this spell is intended to long range travel.
 	 3   3 km (1.8 mi)
 	 4   4 km (2.5 mi)
 
+======================================================================================================================================================
 
+Spell list:
+	CLERIC:
+		Cantrips:
+			Guidance
+			Light
+			Mending
+			Resistance
+			Sacred Flame
+			Spare the Dying
+			Thaumaturgy
 
-Streak of Power (Level 4):
-	Casting time: 6 seconds
-	Range: 30m (90ft)
-	Requirements: V, F
+		Level 1:
+			Bane
+			Bless
+			Command
+			Create or Destroy Water
+			Cure Wounds
+			Detect Evil and Good
+			Detect Magic
+			Detect Poison and Disease
+			Inflict Wounds
+			Protection from Evil and Good
+			Purify Food and Drink
+			Shield of Faith
+		
+		Level 2:
+			Aid
+			Enhance Ability
+			Gentle Repose
+			Hold Person
+			Lesser Restoration
+			Locate Object
+			Prayer of Healing
+			Protection from Poison
+			Silence
+			Spiritual Weapon
+			Warding Bond
 
-An arcing beam of blue shoots out to a creature you can see. The creature gains no benefit from half cover, and must succeed on a Constutution saving throw or take 6d8 force damage.
+		Level 3:
+			Animate Dead
+			Beacon of Hope
+			Bestow Curse
+			Daylight
+			Dispel Magic
+			Glyph of Warding
+			Magic Circle
+			Remove Curse
+			Revivify
+			Sending
+			Speak with Dead
+			Spirit Guardians
+			Tongues
+			Water Walk
+
+		Level 4:
+			Banishment
+			Control Water
+			Death Ward
+			Divination
+			Locate Creature
+			Stone Shape
+		
+		Level 5:
+			Commune
+			Contagion
+			Dispel Evil and Good
+			Greater Restoration
+			Hallow
+			Raise Dead
+			Scrying
+		
+		Level 6:
+			Blade Barrier
+			Create Undead
+			Find the Path
+			Harm
+			Heal
+			Planar Ally
+			True Seeing
+			Word of Recall
+
+		Level 7:
+			Conjure Celestial
+			Divine Word
+			Etherealness
+			Plane Shift
+			Regenerate
+			Resurrection
+			Symbol
+
+	DRUID:
+		Cantrips:
+			Druidcraft
+			Guidance
+			Mending
+			Poison Spray
+			Shillelagh
+		
+		Level 1:
+			Animal Friendship
+			Create or Destroy Water
+			Cure Wounds
+			Detect Magic
+			Detect Poison and Disease
+			Entangle
+			Jump
+			Longstrider
+			Purify Food and Drink
+			Speak with Animals
+
+		Level 2:
+			Animal Messenger
+			Barkskin
+			Darkvision
+			Enhance Ability
+			Gust of Wind
+			Hold Person
+			Lesser Restoration
+			Locate Animals or Plants
+			Locate Object
+			Moonbeam
+			Protection from Poison
+			Spike Growth
+
+		Level 3:
+			Conjure Animals
+			Dispel Magic
+			Plant Growth
+			Sleet Storm
+			Speak with Plants
+			Water Walk
+		
+		Level 4:
+			Blight
+			Conjure Minor Elementals
+			Conjure Woodland Beings
+			Control Water
+			Dominate Beast
+			Ice Storm
+			Locate Creature
+			Polymorph
+			Stone Shape
+
+		Level 5:
+			Awaken
+			Commune with Nature
+			Conjure Elemental
+			Contagion
+			Greater Restoration
+			Mass Cure Wounds
+			Scrying
+			Tree Stride
+
+		Level 6:
+			Conjure Fey
+			Find the Path
+			Heal
+			Move Earth
+			Sunbeam
+			Transport via Plants
+			Wall of Thorns
+			Wind Walk
+
+		Level 7:
+			Mirage Arcane
+			Plane Shift
+			Regenerate
+
+	SORCERER:
+		Cantrips:
+			Cold Snare
+			Fire Bolt
+			Mage Hand
+			Mending
+			Message
+			Minor Illusion
+			Prestidigitation
+			Ray of Frost
+			Shocking Grasp
+		
+		Level 1:
+			Dragonfire
+			Color Spray
+			Detect Magic
+			Disguise Self
+			Expeditious Retreat
+			Feather Fall
+			Jump
+			Mage Armor
+			Magic Missile
+			Shield
+			Thunderwave
+		
+		Level 2:
+			Alter Self
+			Blur
+			Darkness
+			Darkvision
+			Detect Thoughts
+			Enhance Ability
+			Gust of Wind
+			Hold Person
+			Invisibility
+			Knock
+			Mirror Image
+			Misty Step
+			Scorching Ray
+			See Invisibility
+			Suggestion
+		
+		Level 3:
+			Blink
+			Counterspell
+			Dispel Magic
+			Fireball
+			Fly
+			Gaseous Form
+			Lightning Bolt
+			Major Image
+			Sleet Storm
+			Slow
+			Water Walk
+		
+		Level 4:
+			Banishment
+			Blight
+			Dimension Door
+			Dominate Beast
+			Ice Storm
+			Polymorph
+			Stoneskin
+			Wall of Fire
+		
+		Level 5:
+			Animate Objects
+			Cone of Cold
+			Dominate Person
+			Hold Monster
+			Seeming
+			Telekinesis
+			Teleportation Circle
+		
+		Level 6:
+			Chain Lightning
+			Circle of Death
+			Disintegrate
+			Globe of Invulnerability
+			Move Earth
+			Sunbeam
+			True Seeing
+		
+		Level 7:
+			Etherealness
+			Finger of Death
+			Fire Storm
+			Plane Shift
+			Prismatic Spray
+			Teleport
+
+	WIZARD:
+		Cantrips:
+			Cold Snare
+			Fire Bolt
+			Mage Hand
+			Mending
+			Message
+			Minor Illusion
+			Prestidigitation
+			Ray of Frost
+			Shocking Grasp
+	
+		Level 1:
+			Dragonfire
+			Detect Magic
+			Disguise Self
+			Feather Fall
+			Floating Disk
+			Grease
+			Illusory Script
+			Jump
+			Longstrider
+			Mage Armor
+			Magic Missile
+			Protection from Evil and Good
+			Shield
+			Unseen Servant
+		
+		Level 2:
+			Arcane Lock
+			Blur
+			Darkness
+			Detect Thoughts
+			Gentle Repose
+			Gust of Wind
+			Hold Person
+			Invisibility
+			Knock
+			Locate Object
+			Magic Weapon
+			Misty Step
+			Ray of Enfeeblement
+			Scorching Ray
+			See Invisibility
+			Suggestion
+		
+		Level 3:
+			Animate Dead
+			Bestow Curse
+			Blink
+			Counterspell
+			Dispel Magic
+			Fireball
+			Fly
+			Gaseous Form
+			Glyph of Warding
+			Lightning Bolt
+			Magic Circle
+			Major Image
+			Remove Curse
+			Sending
+			Sleet Storm
+			Slow
+		
+		Level 4:
+			Arcane Eye
+			Banishment
+			Blight
+			Conjure Minor Elementals
+			Control Water
+			Dimension Door
+			Fabricate
+			Ice Storm
+			Locate Creature
+			Polymorph
+			Stone Shape
+		
+		Level 5:
+			Animate Objects
+			Arcane Hand
+			Cone of Cold
+			Conjure Elemental
+			Dominate Person
+			Dream
+			Hold Monster
+			Modify Memory
+			Scrying
+			Telekinesis
+			Teleportation Circle
+			Wall of Force
+
+		Level 6:
+			Chain Lightning
+			Circle of Death
+			Contingency
+			Create Undead
+			Disintegrate
+			Globe of Invulnerability
+			Move Earth
+			Programmed Illusion
+			Sunbeam
+			True Seeing
+
+		Level 7:
+			Arcane Sword
+			Etherealness
+			Finger of Death
+			Plane Shift
+			Project Image
+			Symbol
+			Teleport
