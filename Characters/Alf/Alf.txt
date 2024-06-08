@@ -22,7 +22,7 @@ Appearance:
 Apparel:
 	Gjermundbu Helmet when fighting
 
-	Woolen green robes over hauberk
+	Dark blue cape
 	Chainmail Hauberk, over linen robes
 	Linen dark green robes (goes down to the middle of the shins)
 

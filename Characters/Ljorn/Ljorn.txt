@@ -140,18 +140,6 @@ Possessions:
 		10 sheets of parchment
 		10 sheets of vellum
 
-	Inside mastermyr chest at his home:
-		5 wood carvings of random people
-		2 backup spellbooks
-		A leather book on herbs
-		A leather book on potion making and alchemy
-		An old leather book that teaches basics of magic
-		A handful of rocks that will harmlessly explode in a shower of sparks when thrown and landed (He makes these to scare animals away without harming them, provide distraction while in stealth, or some kind of toy)
-
-		A small jar of half rusted iron powder
-		A small jar of sulfur powder
-		A small jar of spark potion
-
 	Small cloth bag: Gold and silver
 
 Occupications:
@@ -168,10 +156,10 @@ Attacks:
 	Throws potions, but rarely
 
 	(Level 6, current version) Spells:
-		Spell points available: 45
+		Spell points available: 40
 
 		Prepared in orb (max 13):
-			Level 1: Feather Fall, Mage Armor, Magic Missile, Protection from E/G, Shield
+			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
 			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Image
 
@@ -179,9 +167,9 @@ Attacks:
 		Fire Bolt, Message, Mage Hand, Prestidigitation
 		
 		Level 1 (8):
-		Detect Magic, Feather Fall, Floating Disk, Illusory Script, Mage Armor, Magic Missile, Protection from E/G, Shield
+		Cold Snare, Detect Magic, Feather Fall, Illusory Script, Mage Armor, Magic Missile, Protection from E/G, Shield
 		
-		Level 2 (8):
+		Level 2 (7):
 		Arcane Lock, Detect Thoughts, Hold Person, Invisibility, Knock, Locate Object, Misty Step
 		
 		Level 3 (6):

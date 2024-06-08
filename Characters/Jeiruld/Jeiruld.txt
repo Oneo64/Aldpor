@@ -56,7 +56,7 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Wizard 12
+	Level:          Wizard 9
 	
 	Strength: 	    10
 	Dexerity:       13 	+1
@@ -82,27 +82,21 @@ Occupications:
 	Teacher, headmaster of Academy of Aldorim
 
 Attacks:
-	(Level 11) Spells:
+	(Level 9) Spells:
 		Cantrips:
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		
-		Level 1:
-		Detect Magic, Mage Armor, Magic Missile, Feather Fall, Identify, Comprehend Languages, False Life, Disguise Self, Unseen Servant
+		Level 1 (7):
+		Detect Magic, Disguise Self, Feather Fall, Mage Armor, Magic Missile, Shield, Unseen Servant
 		
-		Level 2:
-		Detect Thoughts, Invisibility, Arcane Lock, Alter Self, Knock, Hold Person, Blindness/Deafness, Locate Object, Suggestion
+		Level 2 (7):
+		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Locate Object
 		
-		Level 3:
-		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Image, Remove Curse, Fly, Jeiruld's Random Blasts
+		Level 3 (6):
+		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Image, Remove Curse
 		
-		Level 4:
-		Polymorph, Dimension Door, Fabricate, Arcane Eye, Blight, Control Water, Fire Shield
+		Level 4 (6):
+		Arcane Eye, Blight, Control Water, Dimension Door, Fabricate, Polymorph
 		
-		Level 5:
-		Teleportation Circle, Telekinesis, Cone of Cold, Seeming, Blast Hole
-		
-		Level 6:
-		Sunbeam, Globe of Invulnerbility, Forbiddance, Chain Lightning
-		
-		Level 9:
-		Major Teleportation (once a day)
+		Level 5 (3):
+		Plane Shift, Teleportation Circle, Telekinesis
