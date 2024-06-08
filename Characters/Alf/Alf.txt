@@ -64,7 +64,7 @@ Skills:
 		Athletics
 		Intimidation
 
-	Level:          Fighter 7
+	Level:          Fighter 5
 
 	Strength: 		14  +2
 	Dexerity: 		15  +2  proficiency

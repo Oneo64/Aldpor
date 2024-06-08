@@ -4,7 +4,7 @@ Age: 33 (born 940, april 2)
 Alignment: Neutral
 
 Skills:
-	Level:         12
+	Level:         Fighter 7
 	
 	Strength: 	   14  +2
 	Dexerity: 	   13  +1
