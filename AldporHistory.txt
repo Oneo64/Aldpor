@@ -122,14 +122,10 @@ Jûmlaanar is created.
 
 560
 The King of Jûmlaanar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
-
-710
 A large group of explorers from Hendril traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
 
-220
+650
 The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
-
-730
 They established Turinus.
 
 <Second Age of Peace START>
@@ -145,19 +141,19 @@ From the settlement Thalmundol, Dagsvald rises.
 870
 Dagsvald invades Andragz, Vatakrond, ending second age of peace. Andragz was successfully captured.
 
-930
+875
 Jûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Jûmlathnar only took resources.
 
-940
+880
 Dagsvald invades Bravosh, Vatakrond. This was also successful.
-
-965
-Dagsvald declares war on Jûmlathnar. They launch an invasion on Jûmlathnar, which was unsuccessful. Jûmlathnar offered help to Vatakrond, who did accept.
 
 RECENT
 
-980
+955
+Dagsvald declares war on Jûmlathnar. They launch an invasion on Jûmlathnar, which was unsuccessful. Jûmlathnar offered help to Vatakrond, who did accept.
+
+962
 Vatakrond surprise attacks Bantusea. The attack was partially successfull, half the town destroyed.
 
-1031
+966
 Jûmlathnar raids Algonlav, which was kind of successful, even though they retreated without destroying half the village.

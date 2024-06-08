@@ -1,7 +1,7 @@
 ALDPOR
 Creation date: 2023 July
 
-Setting: The year is 1038, set in the classical age and the viking age.
+Setting: The year is 973, set in the classical age and the viking age.
 
 Notable features:
 In the forests, there are more monsters/abnormality encounters.
@@ -19,7 +19,7 @@ Racism towards dwarves exist. The racial slurs are 'mishman' for Mornesvian dwar
 
 Elves, unlike the dwarves, have a leader instead. The leader is expected to be responible to everything in the group.
 
-Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right? (still new technology can be developed, but they will likely be lost due to thieves and bandits) (technology will develop until the highest point of technology is comparable to earth's 1100 or 1200 or something like that)
+Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right? (still new technology can be developed, but they will likely be lost due to thieves and bandits) (technology will develop until the highest point of technology is comparable to earth's 12th or 13th century or something like that)
 
 Appearance of each race:
 	Human (175cm, 70kg):

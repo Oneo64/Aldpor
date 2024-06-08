@@ -1,54 +1,51 @@
-Mif: 981
-Ljorn: 1013 (date of birth rounded to nearest year)
+Ljorn: 948 (date of birth rounded to nearest year)
 
-Year 812
+Year 747
 Haldig Dalsdavu I leads an exploration team down to tarib.
 
-Year 855
+Year 790
 Haldig Dalsdavu I is killed somewhere between Hendril and Tarib. The explorers arrived at Tarib, saying he was killed by daevas.
 
-Year 861
+Year 796
 Haldig Rulvegtur II establishes the Rulvegtur family name, by building their house on a hill. Rulvegtur means hill warrior in Dagsvaldian, because of the amount of shields Haldig II had.
 
-Year 948
+Year 883
 Julfur and Idun are slain the Invasion of Bravosh.
 
-Year 992
+Year 927
 Haldig Dalsdavu I rises as a draugr. However, not many people know about this.
 
-Year 1007
-Mif meets Algord.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Year 1011
+Year 947
 Alovael is born.
 
-Year 1012
+Year 947
 Ljorn is born.
 
-Year 1014
+Year 949
 Yngvildr is born.
 
-Year 1016
+Year 951
 Alf is born.
 
-Year 1019
+Year 954
 Algord finds a mysterious flower in the forest while taking Alovael, and Ljorn for a little 'adventure'.
 
-Year 1023
+Year 958
 While wandering in the forest, Alovael, Gordur and Lalfrel see the draugr Haldig Dalsdavu I walking far away. They weren't able to see who it was, or know that it was Haldig Dalsdavu I. They quickly escaped, saying that they saw an 'evil cloaked man'.
 
-Year 1025
+Year 960
 Ljorn took interest in Swordfighting. He got his sword from the storage room. Alf took interest of a spear.
 
-Year 1031
+Year 966
 Ljorn goes on first adventure to recover a book documenting the history of a lost civilization. Alf goes with him. There were also a couple other people. While looking for this book, a group of 12 draugr attacks the party. Alf gets cut, on the left leg, and Ljorn almost dies.
 During the adventure, Ljorn discovers a tome that teaches the basics of magic, but doesn't read it. Instead, he throws it in the storage room of his home. The adventure took two months.
 After Ljorn returned, Ljorn bought a new sword, and returned the other sword into the storage room.
 
-Year 1031
 A raid group led by Jûmlathnar Elves attacks Argonlav. The family's home nearly gets destroyed. Ljorn wanted to protect his home and make sure it would never get destroyed, so he got the old tome, and taught himself. A few months later, he joined a school of evocation in the City of Dagsvald. While at the academy, he invented a silly game where you chuck wooden beads soaked in spark potion at each other. Being hit with a bead means you're out.
 
-Year 1033
+Year 968
 Ljorn and Alf both travel to Thalmundol (town).
 Ljorn joins Dagsvald's army, while Alf went to some kind of training school. (might change the part with Alf later)
 
@@ -56,7 +53,7 @@ Ljorn learns some more advanced spells, but not very powerful. After some time, 
 
 After the battle ended, Ljorn and Alf both returned home.
 
-Year 1034
+Year 969
 Ljorn decides to go on another adventure, to protect a Hendric city (not the capital city) from a dangerous group of cultists. They were paid 10gp and 1000sp each. He returned four months later. He decides to build a better house for his family, using the best materials available. Along with himself, he paid an additional 10 workers to build the house. He bought a 300gp, 9cm diameter crystal opal orb, as a new arcane focus.
 
-Present year: 1038
+Present year: 973
