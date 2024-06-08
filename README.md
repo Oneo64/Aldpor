@@ -9,4 +9,4 @@ When viewing the secrets of the universe (AldporHistory.txt, MagicSystem.txt, Sp
 
 NOTE: This repository is meant to be read in tab sizes of 4. Any tab size other than 4 will look unformatted (especially character sheets!)
 
-SPELLS: Available spells are listed in Spells.xlsx. Any spell not listed in that file are considered as godly or simply non-existant.
+SPELLS: All available spells are listed in Spells.txt. Any spell not listed in that file are considered non-existant. If you find a spell a character knows but it isn't listed, please submit an issue!
