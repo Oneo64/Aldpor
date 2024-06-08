@@ -15,7 +15,7 @@ Appearance:
 Apparel:
 	Purple surcoat with white symbol of Lûnanyr
 
-	Steel chainmail hauberk
+	Chainmail hauberk
 	Norman nasal helmet lined with gold
 
 	Linen grey tunic
@@ -80,7 +80,7 @@ Languages (sorted by time learned):
 
 Possessions:
 	A spatha
-	A purple kite shield bearing a white symbol of Lûnanyr
+	A purple kite (norman) shield bearing a white symbol of Lûnanyr
 
 Occupications:
 	Fighter
