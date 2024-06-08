@@ -14,24 +14,24 @@ Legend:
  >>> = More than 1 generations
  ~   = Alive around in this range of years
 
-                                                                                                                                                                   [LATHUR FAMILY]--Vorda [F, 4 October 1010]---+
+                                                                                                                                                                    [LATHUR FAMILY]--Vorda [F, 4 October 945]---+
                                                                                                                                                                                                                 |
-                                                                                                                                                                                  +-Lalfrel [F, 28 July 1006]   +>>+-Svan [M, 18 June 1033]
-Haldig Dalsdavu I [800 ~ 850]-+>>>>+-Haldig Rulvegtur II [850 ~ 900]>>+-Julfur [M, 928 - 948]----------+                                           +-Anru [F, 14 November 984]    |                             |
-                                                                                                       |                     [BJOMALDUR FAMILY]--+ |                              +-Gordur [M, 26 May 1007]-----+
-                                                      [ALDAGVA FAMILY]--Ljora [F, 931 - 1001]----------+  +-Idun [F, 958 - 948]                  | +-Fald [M, 4 March 982]-----+>>|
-                                                                                                       |  |                                      | |                           |  +-Iryn [F, 13 August 1008]
-                                                                                                       +>>+-Haldig III [M, 959 - 1035]--------+  +-|-Ynid [F, 10 July 982]-----+
-                                                                                                                                              |    |                       
-                                                                        Svoran Jerdfyr [M, 918 - 985]--+                                      +-+  |                              +-Alovæl [M, 13 January 1012]
-                                                                                                       |>>+-Amja [F, 957 - 1031]----------------+>>+-Algord [M, 26 August 980]-+  |
-                                                                        Fyrel Jerdfyr [F, 920 - 988]---+                                                                       |  +-Ljorn [M, 2 December 1012]
+                                                                                                                                                                                  +-Lalfrel [F, 28 July 941]    +>>+-Svan [M, 18 June 968]
+Haldig Dalsdavu I [800 ~ 785]-+>>>>+-Haldig Rulvegtur II [850 ~ 835]>>+-Julfur [M, 863 - 883]----------+                                          +-Anru [F, 14 November 919]     |                             |
+                                                                                                       |                    [BJOMALDUR FAMILY]--+ |                               +-Gordur [M, 26 May 942]------+
+                                                      [ALDAGVA FAMILY]--Ljora [F, 866 - 936]-----------+  +-Idun [F, 893 - 883]                 | +-Fald [M, 4 March 917]------+>>|
+                                                                                                       |  |                                     | |                            |  +-Iryn [F, 13 August 943]
+                                                                                                       +>>+-Haldig III [M, 894 - 970]--------+  +-|-Ynid [F, 10 July 917]------+
+                                                                                                                                             |    |
+                                                                        Svoran Jerdfyr [M, 853 - 920]--+                                     +-+  |                               +-Alovæl [M, 13 January 947]
+                                                                                                       |>>+-Amja [F, 892 - 966]----------------+>>+-Algord [M, 26 August 915]--+  |
+                                                                        Fyrel Jerdfyr [F, 855 - 923]---+                                                                       |  +-Ljorn [M, 2 December 947]
                                                                                                                                                                                +>>|
-                                                                        Magnod I Galigt [M, 922 - 980]-+>>+-Bjol Galigt [M, 959 - 1029]---------+                              |  +-Yngvild [F, 1 May 1014]
-                                                                                                       |                                        |>>+-Mif [F, 19 September 982]-+  |
-                                                                        Agni Galigt [F, 928 - 994]-----+    Elfreida Galigt [F, 5 February 958]-+  |                              +-Alf [M, 17 August 1016]
+                                                                        Magnod I Galigt [M, 857 - 915]-+>>+-Bjol Galigt [M, 894 - 964]----------+                              |  +-Yngvild [F, 1 May 949]
+                                                                                                       |                                        |>>+-Mif [F, 19 September 917]-+  |
+                                                                        Agni Galigt [F, 863 - 929]-----+    Elfreida Galigt [F, 5 February 893]-+  |                              +-Alf [M, 17 August 951]
                                                                                                                                                    |
-                                                                                                                                                   +-Magnod II Galigt [M, 7 March 979]
+                                                                                                                                                   +-Magnod II Galigt [M, 7 March 914]
 
 
 

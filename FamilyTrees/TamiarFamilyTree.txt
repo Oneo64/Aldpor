@@ -13,19 +13,19 @@ Current people in the Tamiar house (10): Torzus, Geren, Donnobel, Jadet, Hevus, 
 
 
 
-                                                                                                                                       +-Klorvas [M, 24 Feburary 1023]
-                                                                        [THENESIN FAMILY]--+  +-Halevar II [M, 11 March 996]--------+  |
-Halevar [M, 750 - 800]-+>>+-Borthan [M, 941 - 983]---+                                     |  |                                     |>>+-Ireya [F, 5 April 1025]
-                                                     |                                     +--|-Yorwyn [F, 4 October 998]-----------+
-                   Andra Veradoth [M, 940 - 1009]-----+>>+-Torzus [M, 14 November 970]----+   |
-                                                                                         +-+  |                                        +-Jadet [F, 26 September 1017]
-                   Perendar Hatfazer [M, 948 - 1006]-+>>+-Frela [F, 972 - 1037]------------+>>+-Geren [M, 10 January 993]-----------+  |
-                                                     |  |                                                                           |>>+-Hevus [M, 13 August 1018]
- Aovryn [M, 750 - 800]-+>>+-Brelwyn [F, 946 - 1013]--+  +-Azaleia [F, 29 March 978]-+>>[?] +>>+-Donnobel [F, 2 March 990]-----------+  |
-                                                                                           |  |                                        +-Nix [M, 11 June 1019]
-                                                          Barrex Walfiar [M, 966 - 1010]---+  +-Enoraz Walfiar [M, 11 January 992]--+
-                                                                                           |                                        |>>+-Boras Walfiar [M, 7 June 1020]
-                                                          Haidet Walfiar [F, 27 April 962]-+  +-Morya Walfiar [F, 19 September 995]-+
+                                                                                                                                      +-Klorvas [M, 24 Feburary 958]
+                                                                       [THENESIN FAMILY]--+  +-Halevar II [M, 11 March 931]--------+  |
+Halevar [M, 685 - 735]-+>>+-Borthan [M, 876 - 918]--+                                     |  |                                     |>>+-Ireya [F, 5 April 960]
+                                                    |                                     +--|-Yorwyn [F, 4 October 933]-----------+
+                   Andra Veradoth [M, 875 - 944]----+>>+-Torzus [M, 14 November 905]----+   /
+                                                                                        |  |                                           +-Jadet [F, 26 September 952]
+                   Perendar Hatfazer [M, 883 - 941]-+>>+-Frela [F, 907 - 972]-----------+>>+-Geren [M, 10 January 928]--------------+  |
+                                                    |  |                                                                            |>>+-Hevus [M, 13 August 953]
+ Aovryn [M, 685 - 735]-+>>+-Brelwyn [F, 881 - 948]--+  +-Azaleia [F, 29 March 913]-+>>[?]  +>>+-Donnobel [F, 2 March 925]-----------+  |
+                                                                                           |  |                                        +-Nix [M, 11 June 954]
+                                                         Barrex Walfiar [M, 901 - 945]-----+  +-Enoraz Walfiar [M, 11 January 927]--+
+                                                                                           |                                        |>>+-Boras Walfiar [M, 7 June 955]
+                                                         Haidet Walfiar [F, 27 April 897]--+  +-Morya Walfiar [F, 19 September 930]-+
                                                                                               |
                                                                           [BRASSHAND FAMILY]--+
 
