@@ -43,7 +43,7 @@ Skills:
 		History
 		Athletics
 
-	Level:          Fighter 5
+	Level:          Fighter 6
 
 	Strength: 	    14  +2 proficiency
 	Dexerity:       11

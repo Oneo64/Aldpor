@@ -80,7 +80,7 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Wizard 6 / Fighter 1
+	Level:          Wizard 7 / Fighter 1
 
 	Strength: 	    9 	-1
 	Dexerity:       14 	+2
@@ -144,13 +144,13 @@ Relations:
 	Jeiruld Aldorim (a teacher from a school of evocation)
 
 Attacks:
-	Can use sword
+	Can use sword or axe
 	Throws potions, but rarely
 
-	(Level 6, current version) Spells:
+	(Level 7, current version) Spells:
 		Spell points available: 40
 
-		Prepared in orb (max 13):
+		Prepared in orb (max 15):
 			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
 			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Image
@@ -166,6 +166,9 @@ Attacks:
 		
 		Level 3 (6):
 		Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Image, Magic Circle
+
+		Level 4 (2):
+		Arcane Eye, Ice Storm
 
 		Level 7:
 		Plane Shift (twice a day)

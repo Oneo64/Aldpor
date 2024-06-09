@@ -46,7 +46,7 @@ Skills:
 		Survival
 		Animal Handling
 
-	Level:          Druid 6
+	Level:          Druid 7
 
 	Strength: 	    10
 	Dexerity:       15 	+2
@@ -96,10 +96,13 @@ Attacks:
 		Create or Destroy Water, Cure Wounds, Entangle
 
 		Level 2:
-		Barkskin, Gust of Wind
+		Barkskin, Gust of Wind, Animal Messenger
 
 		Level 3:
 		Conjure Animals, Speak with Plants
+
+		Level 4:
+		Conjure Woodland Beings, Control Water
 
 	Circle spells:
 		Level 2:
@@ -107,3 +110,6 @@ Attacks:
 
 		Level 3:
 		Sleet Storm, Slow
+
+		Level 4:
+		Freedom of movement, Ice storm
