@@ -36,17 +36,12 @@ Goal/Motivation (sorted by priority first): Support/protect family, magic
 Personality:
 	Traits:
 		POSITIVE:
-			1. Caring
+			1. Goodhearted
 			2. Observant
-			3. Trustworthy (Loyal and honest)
-
-		NEUTRAL:
-			1. Mysterious
 
 		NEGATIVE:
-			1. Aloof
-			2. Distrusting
-			3. Socially awkward
+			1. Cold
+			2. Reserved
 
 		OTHERS (Not really personality):
 			1. Intelligent (smart, logical)
@@ -103,7 +98,6 @@ Languages (sorted by time learned):
 	Dagsvaldian
 	English*
 	Esrel
-	Ranûdan*
 	Primordial*
 	Draconic*
 
@@ -129,7 +123,7 @@ Possessions:
 	Leather pouch 2:
 		A spellbook (simple leather cover, 150 vellum pages)
 		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
-		An crystal opal orb, 9cm diameter (This is Ljorn's arcane focus)
+		An amber orb, 9cm diameter (This is Ljorn's arcane focus)
 
 		A small jar of ink
 		A quill taken from a goose
