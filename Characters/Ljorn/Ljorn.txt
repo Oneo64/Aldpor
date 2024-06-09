@@ -82,7 +82,7 @@ Skills:
 
 	Level:          Wizard 7 / Fighter 1
 
-	Strength: 	    9 	-1
+	Strength: 	    10
 	Dexerity:       14 	+2
 	Constitution: 	12 	+1
 	Intelligence: 	16	+3  proficiency
