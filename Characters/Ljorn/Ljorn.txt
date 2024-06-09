@@ -12,8 +12,7 @@ Appearance:
 	Fair/light cool skin
 	Shoulder length dark/dirty blond wavy hair (no style)
 	
-	Burn mark on chest (result of magic practice)
-	Scar on right shoulder (result from arrow shot)
+	Scar on left shoulder (result from arrow shot)
 
 Apparel:
 	Brown hooded cloak (wool, semi-circular)
@@ -32,24 +31,22 @@ Apparel:
 	Silver arm ring, on the left wrist
 	Silver circlet
 
-Goal/Motivation (sorted by priority first): Support/protect family, defend kingdom, discover universe
+Goal/Motivation (sorted by priority first): Support/protect family, magic
 
 Personality:
 	Traits:
 		POSITIVE:
-			1. Good-hearted (kind, generous and benevolent)
-			2. Trustworthy (Loyal and honest)
-			3. Observant
-			4. Caring
+			1. Caring
+			2. Observant
+			3. Trustworthy (Loyal and honest)
 
 		NEUTRAL:
 			1. Mysterious
 
 		NEGATIVE:
-			1. Angered easily
-			2. Socially awkward
-			3. Distrusting
-			4. Aloof
+			1. Aloof
+			2. Distrusting
+			3. Socially awkward
 
 		OTHERS (Not really personality):
 			1. Intelligent (smart, logical)
@@ -63,7 +60,7 @@ Personality:
 
 		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
 
-		Calls his phantom steed Lûn (Lûn is a magical horse that appears as a shadowy horse made of black smoke. He also has purple glowing eyes.)
+		Left shoulder is weaker due to arrow injury.
 
 Power:
 	Powerful with magic
@@ -72,7 +69,7 @@ Power:
 
 Skills:
 	Real:
-		Magic (7 years experience)
+		Magic
 		Linguistics
 		Alchemy (potion brewing)
 
