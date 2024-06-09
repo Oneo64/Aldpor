@@ -294,7 +294,6 @@ Spell list:
 		
 		Level 1:
 			Dragonfire
-			Color Spray
 			Detect Magic
 			Disguise Self
 			Expeditious Retreat
@@ -368,7 +367,6 @@ Spell list:
 			Finger of Death
 			Fire Storm
 			Plane Shift
-			Prismatic Spray
 			Teleport
 
 	WIZARD:
