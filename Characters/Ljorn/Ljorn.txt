@@ -27,7 +27,7 @@ Apparel:
 	Two leather pouches (hung on right side of belt, dimensions about 15x30)
 	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
 
-	Silver necklace with Talmundr's symbol
+	Silver necklace with Talmundur's symbol
 	Silver arm ring, on the left wrist
 	Silver circlet
 
@@ -37,10 +37,11 @@ Personality:
 	Traits:
 		POSITIVE:
 			1. Goodhearted
-			2. Observant
+			2. Honest
+			3. Observant
 
 		NEGATIVE:
-			1. Cold
+			1. Appears Cold
 			2. Reserved
 
 		OTHERS (Not really personality):
