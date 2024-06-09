@@ -52,7 +52,7 @@ Skills:
 
 	Alchemist's Supplies
 
-	Level:          Sorcerer 3 / Fighter 1
+	Level:          Sorcerer 2 / Fighter 1
 	
 	Strength: 	    10
 	Dexerity:       14 	+2
@@ -75,12 +75,9 @@ Occupications:
 	Sorcerer
 
 Attacks:
-	(Level 3) Spells:
+	(Level 2) Spells:
 		Cantrips:
-		Ray of Frost, Mending
+		Mage Hand, Mending, Ray of Frost, Shocking Grasp
 		
 		Level 1:
-		Mage Armor, Magic Missile
-
-		Level 2:
-		Darkness, See Invisibility
+		Dragonfire, Mage Armor, Magic Missile
