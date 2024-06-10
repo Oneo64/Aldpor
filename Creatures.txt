@@ -4,14 +4,14 @@ STAT BLOCKS
 
 Monster Habitats:
 	Desert:  Daeva Warrior, Daeva Sorcerer, Fire Elemental
-	Dungeon: Draugr, Ghost
+	Dungeon: Draugr, Skeleton, Ghost
 	Forest:  Gvarth
 	Jungles: Daeva Warrior, Daeva Sorcerer, Gvarth
 	Moors:   Daeva Warrior, Daeva Sorcerer
 	Savanna: Fire Elemental
 	Taiga:   Gvarth, Ice Elemental
 	Tundra:  Gvarth, Ice Elemental
-	Urban:   Draugr, Ghost, Vamerk
+	Urban:   Ghost, Skeleton, Vamerk
 
 
 
@@ -77,6 +77,40 @@ Daeva Sorcerer (large fiend):
 		Rock: Melee Weapon Attack: +4 to hit, reach 1m (3ft), one target. Hit: 5 (1d6 + 1) bludgeoning damage.
 
 		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
+
+
+
+======================================================================================================================================================
+DRAGONS (All dragons are two-legged)
+======================================================================================================================================================
+
+Frost Dragon:
+	Frost dragons are a type of dragon that lives in the most northern or most southern regions of the world. They mostly eat goats or yaks, and they perfer to be alone or with their family.
+
+	Description:
+	Frost dragons has thicker scales, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length.
+
+	They take 40 years to mature, and live up to 170 years. When a dragon matures, their scales are strong enough to repel arrows, but not completely deflect them. These dragons resist poison.
+
+	Their eggs look like opal, exept that the only colors are white, blue and black, and they are about 0.6 meters high. Their scale color is white, and their eyes are blue and black. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 14 meters long from nose to rear, and has a tail 13 meters long, being about 27 meters in total. Their wings spread up to 16 meters in length, and are about 8 meters in width.
+
+	Abilities:
+	At an adult, they can breathe frost up for a couple of seconds at a time which reaches 35 meters, and their frost breath instantly freezes any water and anyone it touches. They can use their claws to climb.
+
+
+
+Fire Dragon:
+	Fire dragons are a type of dragon that mostly lives in the hotter regions of the world. They mostly eat goats or cattle, and they are quite territorial.
+
+	Description:
+	Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
+
+	They take 30 years to mature, and live up to 150 years. When a dragon matures, their scales are just strong enough to repel arrows, but not completely deflect them. These dragons resist poison, and they are immune to burning.
+
+	Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and gold. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
+
+	Abilities:
+	At an adult, they can breathe continuous fire up to 4 or 5 seconds at a time that reaches 30 meters. Their claws can burn like fire when they use it as a weapon and ignite things, and they can also be used to climb.
 
 
 
