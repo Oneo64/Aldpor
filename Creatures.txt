@@ -3,15 +3,15 @@ STAT BLOCKS
 ======================================================================================================================================================
 
 Monster Habitats:
-	Desert:  Daeva Warrior, Daeva Sorcerer, Fire Elemental
-	Dungeon: Draugr, Skeleton, Ghost
-	Forest:  Gvarth
-	Jungles: Daeva Warrior, Daeva Sorcerer, Gvarth
-	Moors:   Daeva Warrior, Daeva Sorcerer
-	Savanna: Fire Elemental
-	Taiga:   Gvarth, Ice Elemental
-	Tundra:  Gvarth, Ice Elemental
-	Urban:   Ghost, Skeleton, Vamerk
+	Desert:    Daeva Warrior, Daeva Sorcerer, Fire Elemental
+	Dungeon:   Draugr, Skeleton, Ghost
+	Forest:    Gvarth
+	Jungles:   Daeva Warrior, Daeva Sorcerer, Gvarth
+	Moors:     Daeva Warrior, Daeva Sorcerer
+	Mountains: Fire Elemental
+	Taiga:     Gvarth, Ice Elemental
+	Tundra:    Gvarth, Ice Elemental
+	Urban:     Ghost, Skeleton, Vamerk
 
 
 
@@ -118,71 +118,31 @@ Fire Dragon:
 ELEMENTALS
 ======================================================================================================================================================
 
-Fire Elemental (medium elemental):
-	Fire elementals are southern natural manifestations of Talmundur, appearing as a floating humanoid torso completely made of fire. These elementals are rare, usually formed by a heart of sulfur and stone being pulled together.
+Fire Elemental:
+	Fire elementals are southern natural manifestations of Talmundur. Fire elementals usually don't care what happens, some even attacking ones who oppose Talmundur. These elementals are rare, usually formed by a heart of sulfur and stone being pulled together by unknown forces. If they were created by magic, then they do not know about Talmundur. Fire elementals generally try to avoid forests or any of the sort, resorting to rocky mountains and deserts.
 
-	Neutral
+	Description:
+		Fire elementals appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots. Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human.
 
-	Armor Class: 10
-	Hit Points:  68 (5d6 + 50)
-	Speed:       fly 30ft
-
-	Strength: 		10
-	Dexerity: 		14  +2
-	Constitution: 	16  +3
-	Intelligence: 	6   -2
-	Wisdom:			10
-	Charisma:		7   -2
-
-	Damage Resistances: bludgeoning, piercing, and slashing from non-magical Attacks
-	Damage Immunities: fire, poison
-	Condition Immunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-	Senses: Darkvision 20m (60ft), Passive Perception 10
-	Languages: Ignan
-	Challenge: 3
-
-	Special Traits:
-		Flames: The fire elemental can enter a creature's space, causing that creature to take 1d8 fire damage per round.
-		Light: The fire elemental sheds light up to 20m (60ft).
-		Squeeze: The fire elemental can enter holes as small as 1 cubic inch.
-
-		Heart: Inside the fire elemental's chest is a fire heart, a mass of sulfur and stone. Each time the fire elemental is struck by a melee weapon, the attacker can choose to make a DC 17 Dexerity saving throw. If they succeed, the fire elemental takes an additional 3d10 necrotic damage.
-		
-		Water weakness: The fire elemental takes 1 cold damage for each oz of water splashed on it, and it will take 1d4 cold damage each round if standing in shallow water. Entering deep water will kill it instantly.
+		Fire elementals are able to speak Primordial, despite not having a mouth.
 
 	Abilities:
-		Slam: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 11 (3d6) fire damage.
+		Because of their fiery body, fire elementals are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
+
+		By striking the heart of the fire elemental, the fire elemental is damaged much greater than simply attacking it's fiery body. Extinguishing the fire of the elemental means that the fire elemental will die.
 
 
 
-Ice Elemental (medium elemental):
-	Ice elementals are northern natural manifestations of Talmundur, appearing as a humanoids completely made of ice. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
+Ice Elemental:
+	Ice elementals are northern natural manifestations of Talmundur. Ice elementals are mostly evil. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
 
-	Neutral
+	Description:
+		Ice elementals looks like a humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can sense warmth from around them, provided that the ice elemental has a line of sight.
 
-	Armor Class: 10
-	Hit Points:  68 (5d6 + 50)
-	Speed:       fly 30ft
-
-	Strength: 		14  +2
-	Dexerity: 		10
-	Constitution: 	16  +3
-	Intelligence: 	8   -2
-	Wisdom:			10
-	Charisma:		7   -2
-
-	Damage Vulnerbilities: bludgeoning, fire
-	Damage Immunities: cold, poison
-	Condition Immunities: exhaustion, paralyzed, poisoned, unconscious
-	Senses: Passive Perception 10
-	Languages: Auran
-	Challenge: 2
-
-	Special Traits:		
-		Water strengthness/weakness: If the frost elemental in water, then it will take 1d12 piercing damage. But if the water is less than 1 foot deep, it will instead gain 1 hit point each round while in water 1ft deep.
+		Ice elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
 
 	Abilities:
-		Slam: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 7 (2d6) bludgeoning damage and 4 (1d6) frost damage.
+		Ice elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
 
 
@@ -191,37 +151,19 @@ FEY
 ======================================================================================================================================================
 
 Gvarth (huge fey):
-	Gvarths are sentient trees that looks like a regular tree, created from normal, living trees by evil fey who believe humanoid races have "ruined" nature, and are basically crusaders to retake the material plane. It travels by having it's roots move in the dirt like milipede legs. Some gvarths may be adorned with plain dark green banners, or carved with sylvan and druidic runes.
+	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
-	Chaotic Evil
+	Description:
+		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Because of this, it is unable to move onto or across hard surfaces such as stone.
 
-	Armor Class: 16 (natural armor)
-	Hit Points:  138 (12d12 + 60)
-	Speed:       30ft
+		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
 
-	Strength: 		22  +6
-	Dexerity: 		10
-	Constitution: 	25  +7
-	Intelligence: 	4   -3
-	Wisdom:			8   -1
-	Charisma:		5   -5
-
-	Damage Vulnerabilities: fire
-	Damage Resistances: bludgeoning, piercing
-	Condition Immunities: blinded, grappled, poisoned, stunned, restrained
-	Senses: Blindsight 20m (60ft), Truesight 100m (300ft)
-	Languages: Can understand Druidic Sylvan, but cannot speak
-	Challenge: 7
-
-	Special Traits:
-		Deaf: The gvarth is unable to hear.
-		Earth Restrictions: The gvarth can only move on dirt, sand and mud.
+		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
 	Abilities:
-		Root Lash: Melee Weapon Attack: +3 to hit, reach 5m (15ft), one target. Hit: 10 (1d6 + 3) slashing damage.
-		Leap: The gvarth picks a spot with 20m (60ft), 10m (30ft) high. The spot cannot contain a creature Large or bigger. The gvarth then leaps out of the ground, and lands there. All creatures where the gvarth lands take 4d10 Bludgeoning damage. If the creature survive, then it is incapacitated until the gvarth moves.
+		The gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
 
-		Multiattack: The gvarth makes two attacks with Root Lash.
+		The gvarth can also leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
 
 
 
@@ -230,99 +172,47 @@ UNDEAD
 ======================================================================================================================================================
 
 Draugr (medium undead):
-	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it returns back into it's dead body and will wake up as a Draugr 50 to 400 years later.
+	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it returns back into it's dead body and will wake up as a draugr 50 to 400 years later.
 
-	Any chaotic alignment
+	Description:
+		Draugrs looks like a zombie, however they have almost the same mental capacity as they had when they died. When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their deathplace and protect their objects. If they were not buried properly, they will not feel bound to their death place, and roam freely.
 
-	Armor Class: 14 (chainmail hauberk)
-	Hit Points:  38 (4d6 + 24)
-	Speed:       30ft
+		If they do roam freely, their moralities are similar to whatever they died with. Otherwise, they would willingly kill to protect their burial place.
 
-	Strength: 		16  +3
-	Dexerity: 		12  +1
-	Constitution: 	18  +4
-	Intelligence: 	10
-	Wisdom:			13  +1
-	Charisma:		17  +3
-
-	Skills: Athletics +10, Intimidation +4
-	Senses: Darkvision 10m (30ft)
-	Languages: The languages it knew in life
-	Challenge: 6
-
-	Special Traits:
-		Undead Nature: The draugr does not require food, water, or rest.
-
-		Immortal: When the draugr dies, it is reduced to a pile of ashes. After 1d4 minutes, the draugr materializes at the spot which it died, and the ashes disappear. The only way to truly kill the draugr is to kill the draugr while it is under the effects of a Bless spell.
-		
 	Abilities:
-		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 14 (1d10 + 8) slashing damage.
-		Arming Sword: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 12 (1d6 + 8) slashing damage.
+		Despite being undead, draugr are able to move at normal speeds or even faster when they are in combat, but they prefer to walk loosely when not. They are also physcially much stronger than the average human, and they can also see in the dark up to around 50 meters.
+
+		Their bodies resist physical damage. Severing their arm, leg, or body means that they can simply touch the severed ends together, and they will fuse back, but will be weaker for a few days. Slicing the head is the only way to temperorarly kill them, in which they will return to walk again a week later.
+
+		It is possible to prevent the draugr from returning by stuffing the severed head of the draugr at it's groin, facing inwards.
 
 
 
 Ghost (medium undead):
 	When the soul of a dead person is unable to cross the Astral Plane to the afterlife and is unable to return back to it's body, it returns back as a ghost.
 
-	Any alignment
+	Description:
+		A ghost appears to be a white smoky visage of itself before they died. Their moralities and mannerisms remain the same.
 
-	Armor Class: 10
-	Hit Points:  38 (4d6 + 24)
-	Speed:       fly 30ft
-
-	Strength: 		6   -2
-	Dexerity: 		12  +1
-	Constitution: 	12  +1
-	Intelligence: 	10
-	Wisdom:			12  +1
-	Charisma:		13  +2
-
-	Damage Resistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non-magical attacks
-	Damage Immunities: cold, necrotic, poison
-	Condition Immunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-	Senses: Darkvision 20m (60ft)
-	Languages: The languages it knew in life
-	Challenge: 1
-
-	Special Traits:
-		Ethereal Sight: The ghost can see what's in the material and ethereal plane at the same time.
-		Undead Nature: The vamerk does not require food, water, or rest.
-		
 	Abilities:
-		Fists: Melee Weapon Attack: +0 to hit, reach 2m (6ft), one target. Hit: 1 bludgeoning damage.
+		Ghosts move by floating in the air. They can move up to 8 meters a second, but they must accelerate to that speed to do so. Their normal moving speed is about 4 meters a second. They are also able to change their clothing to however they like, but their clothing will do nothing to protect them, as they are purely visual.
 
-		Incorporeal: The ghost can decide to become incorporeal and move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. All weapons and armor it is currently using will drop to the ground if the ghost goes incorporeal. The ghost can still take physical damage while incorporeal.
+		Ghosts are unable to do much damage unarmed, so most of them might pick up a weapon, ocasionally with a shield, and even wear armor.
+
+		They can also decide to turn incorporeal and float through objects, however doing so causes all of their equipment to drop to the ground. Similarly, they can travel to the ethereal plane with the same effect of losing their equipment on travel.
 
 
 
 Skeleton (medium undead):
 	A skeleton raised by magic.
 
-	Unaligned
+	Description:
+		The reanimated skeleton of a humanoid. Most skeletons are equipped with a helmet, sometimes with a shield.
 
-	Armor Class: 13 (helmet + shield)
-	Hit Points:  10 (2d6 + 4)
-	Speed:       30ft
+		These skeletons only understand the languages of it's creator, but cannot speak.
 
-	Strength: 		10
-	Dexerity: 		12  +1
-	Constitution: 	14  +2
-	Intelligence: 	6   -2
-	Wisdom:			8   -1
-	Charisma:		5   -3
-
-	Damage Vulnerabilities: bludgeoning
-	Damage Immunities: poison, psychic
-	Condition Immunities: exhaustion, paralyzed, poisoned, unconscious
-	Senses: Darkvision 20m (60ft)
-	Languages: Understands the languages it knew in life but cannot speak
-	Challenge: 1/4
-
-	Special Traits:
-		Undead Nature: The skeleton does not require food, water, or rest.
-		
 	Abilities:
-		Battle Axe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 4 (1d8) bludgeoning damage.
+		These things are dim-witted, and know just enough to use a weapon. They can also see in the dark up to about 20 meters.
 
 
 
