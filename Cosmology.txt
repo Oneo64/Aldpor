@@ -11,7 +11,6 @@ Planes/Realms:
 	Jælheim     = Good afterlife (LG, paradise to good people)
 	Hel         = Bad afterlife (CG, punishment realm to evil people)
 
-	Valragnul   = Plane of demons (CE, The abyss)
 	Furnalfa    = Plane of fey (N, Feywild)
 
 Deities:

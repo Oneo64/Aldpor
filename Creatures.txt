@@ -1,8 +1,11 @@
 Monster Habitats:
 	All: Draugr
 	Desert:  Daeva Warrior, Daeva Sorcerer
-	Jungles: Daeva Warrior, Daeva Sorcerer
+	Forest:  Gvarth
+	Jungles: Daeva Warrior, Daeva Sorcerer, Gvarth
 	Moors:   Daeva Warrior, Daeva Sorcerer
+	Tundra:  Gvarth
+	Urban:   Vamerk
 
 
 Daeva Warrior (large fiend):
@@ -96,7 +99,7 @@ Draugr (medium undead):
 
 
 
-Daskar (medium undead):
+Vamerk (medium undead):
 	Daskars are undead created by magic as servants or guards, usually to guard or secure something. They are capable to using weapons and martial skills, and they are just as intelligent as the average person.
 
 	Unaligned
@@ -121,3 +124,38 @@ Daskar (medium undead):
 
 	Abilities:
 		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 10 (1d10 + 4) slashing damage.
+
+
+
+Gvarth (huge plant):
+	Gvarths are sentient trees that looks like a regular tree, created from normal trees by evil fey who believe humanoid races have "ruined" nature, and are basically crusaders to retake the material plane. It travels by having it's roots move in the dirt like milipede legs. Some gvarths may be adorned with plain dark green banners, or carved with sylvan and druidic runes.
+
+	Chaotic Evil
+
+	Armor Class: 16 (natural armor)
+	Hit Points:  138 (12d12 + 60)
+	Speed:       30ft
+
+	Strength: 		22  +6
+	Dexerity: 		10
+	Constitution: 	25  +7
+	Intelligence: 	4   -3
+	Wisdom:			8   -1
+	Charisma:		5   -5
+
+	Damage Vulnerabilities: Fire
+	Damage Resistances: Bludgeoning, Piercing
+	Condition Immunities: Blinded, Grappled, Poisoned, Stunned, Restrained
+	Senses: Blindsight 20m (60ft), Truesight 100m (300ft)
+	Languages: Can understand Druidic Sylvan, but cannot speak
+	Challenge: 7
+
+	Special Traits:
+		Deaf: The gvarth is unable to hear.
+		Earth Restrictions: The gvarth can only move on dirt, sand and mud.
+
+	Abilities:
+		Root Lash: Melee Weapon Attack: +3 to hit, reach 5m (15ft), one target. Hit: 10 (1d6 + 3) slashing damage.
+		Leap: The gvarth picks a spot with 20m (60ft), 10m (30ft) high. The spot cannot contain a creature Large or bigger. The gvarth then leaps out of the ground, and lands there. All creatures where the gvarth lands take 4d10 Bludgeoning damage. If the creature survive, then it is incapacitated until the gvarth moves.
+
+		Multiattack: The gvarth makes two attacks with Root Lash.
