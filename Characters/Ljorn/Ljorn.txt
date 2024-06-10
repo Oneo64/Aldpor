@@ -147,7 +147,7 @@ Attacks:
 	Can use sword or axe
 	Throws potions, but rarely
 
-	(Level 7, current version) Spells:
+	(Level 7) Spells:
 		Spell points available: 40
 
 		Prepared in orb (max 15):
@@ -164,14 +164,11 @@ Attacks:
 		Level 2 (7):
 		Arcane Lock, Detect Thoughts, Hold Person, Invisibility, Knock, Locate Object, Misty Step
 		
-		Level 3 (6):
-		Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Image, Magic Circle
+		Level 3 (5):
+		Counterspell, Dispel Magic, Lightning Bolt, Major Image, Magic Circle
 
 		Level 4 (2):
-		Arcane Eye, Ice Storm
-
-		Level 7:
-		Plane Shift (twice a day)
+		Arcane Eye, Banishment
 
 Speech: (for some reason, he speaks like this)
 	"Is", "am", and "are" are replaced with "be". (Example: That dog be skinny.)

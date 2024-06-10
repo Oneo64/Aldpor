@@ -39,23 +39,32 @@ An object or creature you choose hovers in the air for the duration. Each round,
 
 Based on the spell level, there are additional bonuses.
 
-You can also use an action to telekinetically apply a sudden force to objects, causing them to fly forward at high speeds. Doing so will instantly end the spell. The damage is determined by the table below.
+You can also use an action to telekinetically apply a sudden force to objects with a command word, causing them to fly forward at high speeds at a creature you choose within range. Doing so will instantly end the spell. The damage is determined by the table below.
 
 	Max objects  Weight/Max size      Level Required    Damage
-	 1            0 - 2 kg    Medium   5                 1d4 Bludgeoning
-	 2            3 - 5 kg    Medium   6                 2d6 Bludgeoning
-	 3            6 - 10 kg   Large    7                 3d8 Bludgeoning
-	 4            11 - 15 kg  Large    8                 4d10 Bludgeoning
-	 5            16 - 20 kg  Huge     9                 5d12 Bludgeoning
-	 6            20+                  Can't be thrown
+	 1            0 - 4 kg    Medium   5                 1d4 Bludgeoning
+	 2            5 - 9 kg    Medium   6                 2d6 Bludgeoning
+	 3            10 - 14 kg  Large    7                 3d8 Bludgeoning
+	 4            15 - 19 kg  Large    8                 4d10 Bludgeoning
+	 5            20 - 25 kg  Huge     9                 5d12 Bludgeoning
+	 6            25+                  Can't be thrown
 
+======================================================================================================================================================
+
+Illusory Script (LVL 1 illusion)
+	Casting time: 1 minute
+	Range: Touch
+	Requirements: V, S, M (a jar of ink mixed with glass shards)
+	Duration: 5 days
+
+You pick a spot on a surface, then trace your finger around that surface. The lines traced on on the surface starts to glow a faint blue glow, which is opaque to invisible depending on the time. You can draw anything, but lines that exceed a 1 meter radius will fade out. You cannot use this spell to draw magic circles, spell scrolls or write in a spellbook. After 4 days have passed the illusory script will start to fade, and a creature will need to make a DC 15 Perception saving throw in order to see the writing or drawing. Creatures with truesight automatically succeeds this saving throw.
 
 
 ======================================================================================================================================================
 ORIGINAL SPELLS:
 ======================================================================================================================================================
 
-Cold Snare (Level 1 conjuration)
+Cold Snare (Level 1 evocation)
 	Casting time: 3 seconds
 	Range: 40m (120ft)
 	Requirements: V, S, M (a handful of a mixure of moss and silver powder, which is consumed on use)
@@ -386,7 +395,6 @@ Spell list:
 			Detect Magic
 			Disguise Self
 			Feather Fall
-			Floating Disk
 			Grease
 			Illusory Script
 			Jump
