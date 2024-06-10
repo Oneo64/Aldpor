@@ -7,7 +7,7 @@ Fireball (LVL 3 evocation)
 	Range: 40m (120ft)
 	Requirements: V, S
 
-A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2.5m (7.5ft) radius is burnt, taking 3d8 Fire. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
+A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2.5m (7.5ft) radius is burnt, taking 4d8 Fire. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
 
 ======================================================================================================================================================
 
@@ -16,7 +16,7 @@ Lightning Bolt (LVL 3 evocation)
 	Range: 100m (300ft)
 	Requirements: V, S
 
-A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 10 Lightning damage.
+A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 15 Lightning damage.
 If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
 
 If the target is wearing plate armor, the damage is instead 2d8 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
