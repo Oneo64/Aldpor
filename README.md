@@ -9,4 +9,6 @@ When viewing the secrets of the universe (AldporHistory.txt, MagicSystem.txt, Sp
 
 NOTE: This repository is meant to be read in tab sizes of 4. Any tab size other than 4 will look unformatted (especially character sheets!)
 
+CREATURES: All available creatures are listed in Creatures.txt. Any creature/monster not listed in that file are considered non-existant (except animals and the races of course). If you find a creature said somewhere and it isn't listed, please submit an issue!
+
 SPELLS: All available spells are listed in Spells.txt. Any spell not listed in that file are considered non-existant. If you find a spell a character knows but it isn't listed, please submit an issue!

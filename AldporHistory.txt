@@ -12,7 +12,7 @@ Settlements/empires/kingdoms:
 		Hendril (Hendric)
 		Dagsvald (Old Hendric - Draco-Dagsvaldian - Dagsvaldian)
 
-	Moon Elf:
+	Elf:
 		Floradoin (Floradish)
 		Glismil (Floradish)
 		Thisalvinan (Ancient Elvish)

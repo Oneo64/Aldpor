@@ -1,12 +1,23 @@
+======================================================================================================================================================
+STAT BLOCKS
+======================================================================================================================================================
+
 Monster Habitats:
-	All: Draugr
-	Desert:  Daeva Warrior, Daeva Sorcerer
+	Desert:  Daeva Warrior, Daeva Sorcerer, Fire Elemental
+	Dungeon: Draugr, Ghost
 	Forest:  Gvarth
 	Jungles: Daeva Warrior, Daeva Sorcerer, Gvarth
 	Moors:   Daeva Warrior, Daeva Sorcerer
-	Tundra:  Gvarth
-	Urban:   Vamerk
+	Savanna: Fire Elemental
+	Taiga:   Gvarth, Ice Elemental
+	Tundra:  Gvarth, Ice Elemental
+	Urban:   Draugr, Ghost, Vamerk
 
+
+
+======================================================================================================================================================
+DEMONS
+======================================================================================================================================================
 
 Daeva Warrior (large fiend):
 	Neutral Evil
@@ -22,6 +33,7 @@ Daeva Warrior (large fiend):
 	Wisdom:			10
 	Charisma:		13  +1
 
+	Skills: Performance +2, Survival +3
 	Skills: Animal Handling +3, Deception +2, Persuation +2, Survival +4
 	Senses: Darkvision 40m (120ft), Passive Perception 12
 	Languages: Abyssal
@@ -52,6 +64,7 @@ Daeva Sorcerer (large fiend):
 	Wisdom:			14  +2
 	Charisma:		15  +2
 
+	Skills: Performance +2, Survival +3
 	Senses: Darkvision 40m (120ft), Passive Perception 12
 	Languages: Abyssal
 	Challenge: 3
@@ -66,6 +79,121 @@ Daeva Sorcerer (large fiend):
 		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
 
 
+
+======================================================================================================================================================
+ELEMENTALS
+======================================================================================================================================================
+
+Fire Elemental (medium elemental):
+	Fire elementals are southern natural manifestations of Talmundur, appearing as a floating humanoid torso completely made of fire. These elementals are rare, usually formed by a heart of sulfur and stone being pulled together.
+
+	Neutral
+
+	Armor Class: 10
+	Hit Points:  68 (5d6 + 50)
+	Speed:       fly 30ft
+
+	Strength: 		10
+	Dexerity: 		14  +2
+	Constitution: 	16  +3
+	Intelligence: 	6   -2
+	Wisdom:			10
+	Charisma:		7   -2
+
+	Damage Resistances: bludgeoning, piercing, and slashing from non-magical Attacks
+	Damage Immunities: fire, poison
+	Condition Immunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+	Senses: Darkvision 20m (60ft), Passive Perception 10
+	Languages: Ignan
+	Challenge: 3
+
+	Special Traits:
+		Flames: The fire elemental can enter a creature's space, causing that creature to take 1d8 fire damage per round.
+		Light: The fire elemental sheds light up to 20m (60ft).
+		Squeeze: The fire elemental can enter holes as small as 1 cubic inch.
+
+		Heart: Inside the fire elemental's chest is a fire heart, a mass of sulfur and stone. Each time the fire elemental is struck by a melee weapon, the attacker can choose to make a DC 17 Dexerity saving throw. If they succeed, the fire elemental takes an additional 3d10 necrotic damage.
+		
+		Water weakness: The fire elemental takes 1 cold damage for each oz of water splashed on it, and it will take 1d4 cold damage each round if standing in shallow water. Entering deep water will kill it instantly.
+
+	Abilities:
+		Slam: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 11 (3d6) fire damage.
+
+
+
+Ice Elemental (medium elemental):
+	Ice elementals are northern natural manifestations of Talmundur, appearing as a humanoids completely made of ice. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
+
+	Neutral
+
+	Armor Class: 10
+	Hit Points:  68 (5d6 + 50)
+	Speed:       fly 30ft
+
+	Strength: 		14  +2
+	Dexerity: 		10
+	Constitution: 	16  +3
+	Intelligence: 	8   -2
+	Wisdom:			10
+	Charisma:		7   -2
+
+	Damage Vulnerbilities: bludgeoning, fire
+	Damage Immunities: cold, poison
+	Condition Immunities: exhaustion, paralyzed, poisoned, unconscious
+	Senses: Passive Perception 10
+	Languages: Auran
+	Challenge: 2
+
+	Special Traits:		
+		Water strengthness/weakness: If the frost elemental in water, then it will take 1d12 piercing damage. But if the water is less than 1 foot deep, it will instead gain 1 hit point each round while in water 1ft deep.
+
+	Abilities:
+		Slam: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 7 (2d6) bludgeoning damage and 4 (1d6) frost damage.
+
+
+
+======================================================================================================================================================
+FEY
+======================================================================================================================================================
+
+Gvarth (huge fey):
+	Gvarths are sentient trees that looks like a regular tree, created from normal, living trees by evil fey who believe humanoid races have "ruined" nature, and are basically crusaders to retake the material plane. It travels by having it's roots move in the dirt like milipede legs. Some gvarths may be adorned with plain dark green banners, or carved with sylvan and druidic runes.
+
+	Chaotic Evil
+
+	Armor Class: 16 (natural armor)
+	Hit Points:  138 (12d12 + 60)
+	Speed:       30ft
+
+	Strength: 		22  +6
+	Dexerity: 		10
+	Constitution: 	25  +7
+	Intelligence: 	4   -3
+	Wisdom:			8   -1
+	Charisma:		5   -5
+
+	Damage Vulnerabilities: fire
+	Damage Resistances: bludgeoning, piercing
+	Condition Immunities: blinded, grappled, poisoned, stunned, restrained
+	Senses: Blindsight 20m (60ft), Truesight 100m (300ft)
+	Languages: Can understand Druidic Sylvan, but cannot speak
+	Challenge: 7
+
+	Special Traits:
+		Deaf: The gvarth is unable to hear.
+		Earth Restrictions: The gvarth can only move on dirt, sand and mud.
+
+	Abilities:
+		Root Lash: Melee Weapon Attack: +3 to hit, reach 5m (15ft), one target. Hit: 10 (1d6 + 3) slashing damage.
+		Leap: The gvarth picks a spot with 20m (60ft), 10m (30ft) high. The spot cannot contain a creature Large or bigger. The gvarth then leaps out of the ground, and lands there. All creatures where the gvarth lands take 4d10 Bludgeoning damage. If the creature survive, then it is incapacitated until the gvarth moves.
+
+		Multiattack: The gvarth makes two attacks with Root Lash.
+
+
+
+======================================================================================================================================================
+UNDEAD
+======================================================================================================================================================
 
 Draugr (medium undead):
 	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it returns back into it's dead body and will wake up as a Draugr 50 to 400 years later.
@@ -89,22 +217,87 @@ Draugr (medium undead):
 	Challenge: 6
 
 	Special Traits:
-		Immortal: When the draugr dies, it is reduced to a pile of ashes. After 1d4 minutes, the draugr materializes at the spot which it died, and the ashes disappear. The only way to truly kill the draugr is to kill the draugr while it is under the effects of a Bless spell.
-
 		Undead Nature: The draugr does not require food, water, or rest.
 
+		Immortal: When the draugr dies, it is reduced to a pile of ashes. After 1d4 minutes, the draugr materializes at the spot which it died, and the ashes disappear. The only way to truly kill the draugr is to kill the draugr while it is under the effects of a Bless spell.
+		
 	Abilities:
 		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 14 (1d10 + 8) slashing damage.
 		Arming Sword: Melee Weapon Attack: +2 to hit, reach 2m (6ft), one target. Hit: 12 (1d6 + 8) slashing damage.
 
 
 
-Vamerk (medium undead):
-	Daskars are undead created by magic as servants or guards, usually to guard or secure something. They are capable to using weapons and martial skills, and they are just as intelligent as the average person.
+Ghost (medium undead):
+	When the soul of a dead person is unable to cross the Astral Plane to the afterlife and is unable to return back to it's body, it returns back as a ghost.
+
+	Any alignment
+
+	Armor Class: 10
+	Hit Points:  38 (4d6 + 24)
+	Speed:       fly 30ft
+
+	Strength: 		6   -2
+	Dexerity: 		12  +1
+	Constitution: 	12  +1
+	Intelligence: 	10
+	Wisdom:			12  +1
+	Charisma:		13  +2
+
+	Damage Resistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from non-magical attacks
+	Damage Immunities: cold, necrotic, poison
+	Condition Immunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+	Senses: Darkvision 20m (60ft)
+	Languages: The languages it knew in life
+	Challenge: 1
+
+	Special Traits:
+		Ethereal Sight: The ghost can see what's in the material and ethereal plane at the same time.
+		Undead Nature: The vamerk does not require food, water, or rest.
+		
+	Abilities:
+		Fists: Melee Weapon Attack: +0 to hit, reach 2m (6ft), one target. Hit: 1 bludgeoning damage.
+
+		Incorporeal: The ghost can decide to become incorporeal and move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. All weapons and armor it is currently using will drop to the ground if the ghost goes incorporeal. The ghost can still take physical damage while incorporeal.
+
+
+
+Skeleton (medium undead):
+	A skeleton raised by magic.
 
 	Unaligned
 
-	Armor Class: 12 (gambeson)
+	Armor Class: 13 (helmet + shield)
+	Hit Points:  10 (2d6 + 4)
+	Speed:       30ft
+
+	Strength: 		10
+	Dexerity: 		12  +1
+	Constitution: 	14  +2
+	Intelligence: 	6   -2
+	Wisdom:			8   -1
+	Charisma:		5   -3
+
+	Damage Vulnerabilities: bludgeoning
+	Damage Immunities: poison, psychic
+	Condition Immunities: exhaustion, paralyzed, poisoned, unconscious
+	Senses: Darkvision 20m (60ft)
+	Languages: Understands the languages it knew in life but cannot speak
+	Challenge: 1/4
+
+	Special Traits:
+		Undead Nature: The skeleton does not require food, water, or rest.
+		
+	Abilities:
+		Battle Axe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 4 (1d8) bludgeoning damage.
+
+
+
+Vamerk (medium undead):
+	Vamerks are undead created by magic as servants or guards, usually to guard or secure something. They are capable to using weapons and martial skills, and they are just as intelligent as the average person.
+
+	Unaligned
+
+	Armor Class: 13 (gambeson)
 	Hit Points:  26 (3d6 + 15)
 	Speed:       30ft
 
@@ -120,73 +313,15 @@ Vamerk (medium undead):
 	Challenge: 3
 
 	Special Traits:
-		Undead Nature: The daskar does not require food, water, or rest.
+		Undead Nature: The vamerk does not require food, water, or rest.
 
 	Abilities:
 		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 10 (1d10 + 4) slashing damage.
 
 
 
-Gvarth (huge plant):
-	Gvarths are sentient trees that looks like a regular tree, created from normal trees by evil fey who believe humanoid races have "ruined" nature, and are basically crusaders to retake the material plane. It travels by having it's roots move in the dirt like milipede legs. Some gvarths may be adorned with plain dark green banners, or carved with sylvan and druidic runes.
+======================================================================================================================================================
+OTHER
+======================================================================================================================================================
 
-	Chaotic Evil
-
-	Armor Class: 16 (natural armor)
-	Hit Points:  138 (12d12 + 60)
-	Speed:       30ft
-
-	Strength: 		22  +6
-	Dexerity: 		10
-	Constitution: 	25  +7
-	Intelligence: 	4   -3
-	Wisdom:			8   -1
-	Charisma:		5   -5
-
-	Damage Vulnerabilities: Fire
-	Damage Resistances: Bludgeoning, Piercing
-	Condition Immunities: Blinded, Grappled, Poisoned, Stunned, Restrained
-	Senses: Blindsight 20m (60ft), Truesight 100m (300ft)
-	Languages: Can understand Druidic Sylvan, but cannot speak
-	Challenge: 7
-
-	Special Traits:
-		Deaf: The gvarth is unable to hear.
-		Earth Restrictions: The gvarth can only move on dirt, sand and mud.
-
-	Abilities:
-		Root Lash: Melee Weapon Attack: +3 to hit, reach 5m (15ft), one target. Hit: 10 (1d6 + 3) slashing damage.
-		Leap: The gvarth picks a spot with 20m (60ft), 10m (30ft) high. The spot cannot contain a creature Large or bigger. The gvarth then leaps out of the ground, and lands there. All creatures where the gvarth lands take 4d10 Bludgeoning damage. If the creature survive, then it is incapacitated until the gvarth moves.
-
-		Multiattack: The gvarth makes two attacks with Root Lash.
-
-
-
-Fire Elemental (medium elemental):
-	Elementals are natural manifestations of Talmundur.
-
-	Neutral
-
-	Armor Class: 10
-	Hit Points:  68 (5d6 + 50)
-	Speed:       30ft
-
-	Strength: 		10
-	Dexerity: 		14  +2
-	Constitution: 	22  +6
-	Intelligence: 	8   -1
-	Wisdom:			12  1
-	Charisma:		18  4
-
-	Damage Vulnerabilities: Fire
-	Damage Resistances: Bludgeoning, Piercing
-	Condition Immunities: Blinded, Grappled, Poisoned, Stunned, Restrained
-	Senses: Darkvision 20m (60ft), Passive Perception 10
-	Languages: Ignan
-	Challenge: 3
-
-	Special Traits:
-		Light: The fire elemental sheds dim light up to 20m (60ft).
-
-	Abilities:
-		Slam: Melee Weapon Attack: +3 to hit, reach 2m (6ft), one target. Hit: 11 (3d6) fire damage.
+Furnalfa:       Dryad, Satyr, Sprite

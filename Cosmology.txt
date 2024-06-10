@@ -1,17 +1,13 @@
-Cosmic structure thingy: Great Tree Model (like yggdrasil)
-
 Names below here will bear the Dagsvaldian name of the thing
 
 Planes/Realms:
-	Aldyrhel    = Plane of fire
-	Feilvaryg   = Plane of water
-	Solmunvaryg = Plane of air
-	Norhel      = Plane of earth
+	Jælheim  = Good afterlife (LG, paradise to good people)
+	Hel      = Bad afterlife (CG, punishment realm to evil people)
 
-	Jælheim     = Good afterlife (LG, paradise to good people)
-	Hel         = Bad afterlife (CG, punishment realm to evil people)
+	Furnalfa = Plane of fey (N, infinite dark lush green forest)
 
-	Furnalfa    = Plane of fey (N, Feywild)
+	Vorasil  = Ethereal plane
+	Maresil  = Astral plane
 
 Deities:
 	Talmundr  = God of Warmth and Cold (N, Tempest, Luck) (Symbol: Upside down Dagsvaldian T rune)
