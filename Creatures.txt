@@ -159,3 +159,34 @@ Gvarth (huge plant):
 		Leap: The gvarth picks a spot with 20m (60ft), 10m (30ft) high. The spot cannot contain a creature Large or bigger. The gvarth then leaps out of the ground, and lands there. All creatures where the gvarth lands take 4d10 Bludgeoning damage. If the creature survive, then it is incapacitated until the gvarth moves.
 
 		Multiattack: The gvarth makes two attacks with Root Lash.
+
+
+
+Fire Elemental (medium elemental):
+	Elementals are natural manifestations of Talmundur.
+
+	Neutral
+
+	Armor Class: 10
+	Hit Points:  68 (5d6 + 50)
+	Speed:       30ft
+
+	Strength: 		10
+	Dexerity: 		14  +2
+	Constitution: 	22  +6
+	Intelligence: 	8   -1
+	Wisdom:			12  1
+	Charisma:		18  4
+
+	Damage Vulnerabilities: Fire
+	Damage Resistances: Bludgeoning, Piercing
+	Condition Immunities: Blinded, Grappled, Poisoned, Stunned, Restrained
+	Senses: Darkvision 20m (60ft), Passive Perception 10
+	Languages: Ignan
+	Challenge: 3
+
+	Special Traits:
+		Light: The fire elemental sheds dim light up to 20m (60ft).
+
+	Abilities:
+		Slam: Melee Weapon Attack: +3 to hit, reach 2m (6ft), one target. Hit: 11 (3d6) fire damage.
