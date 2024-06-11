@@ -5,26 +5,9 @@ Alignment: Neutral
 Ethnicity: Glomish
 Race:      Dwarf
 
-Hometown: Glomdur
+Vrandor is a dwarf from Glomdur. He has long, wavy blond hair, and a long unstyled beard. His eyes are black, and his skin is very pale. He has a brown shawl, and wears a leather nasal helmet, iron breastplate, blue tunic, dark brown pants, and a pair of shoes. he is 135 centimeters tall. His belt has a coin purse, which holds a couple of gold coins and about 30 silver.
 
-Appearance:
-	Long blond hair
-	Long unstyled beard
-
-	Black eyes
-	Very pale skin
-
-Apparel:
-	Brown woolen cloak
-
-	Leather nasal helmet
-
-	Iron breastplate
-	Woolen blue tunic
-	Dark brown pants
-	Leather shoes
-
-	Quiver of iron bolts, worn on left hip
+He has a quiver of iron bolts, and a dwarven crossbow.
 
 Personality:
 	POSITIIVE:
@@ -35,43 +18,8 @@ Personality:
 		1. Pompous
 		2. Messy
 
-Power:
-	Trained with crossbow
+Abilities:
+	Crossbow
+	Stealth
 
-Skills:
-	Real:
-		Arrow shooting
-
-	Game:
-		Athletics
-		Perception
-		Stealth
-
-	Level:          Ranger 3
-
-	Strength: 	    13  +1 proficiency
-	Dexerity:       14  +2 proficiency
-	Constitution: 	12 	+1
-	Intelligence: 	11
-	Wisdom: 	    10
-	Charisma: 	    9   -1
-
-Height: 135cm (4ft 5in)
-Weight: 66kg (146lbs)
-
-Carrying Wealth: 2 gp, 10 sp
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
 	Glomish
-
-Possessions:
-	A dwarvish crossbow
-
-	Small cloth bag: Gold and silver
-
-Occupications:
-	Crossbow archer
-
-Attacks:
-	Can use crossbow
