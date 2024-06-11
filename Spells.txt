@@ -249,6 +249,30 @@ Three darts of blue magic leap from your fingers one after another, homing onto 
 ILLUSION
 ======================================================================================================================================================
 
+Major Illusion (level 3)
+	Casting time: 3 seconds
+	Range:        30 meters
+	Requirements: V, S
+	Duration:     concentration up to 10 minutes
+
+Choose a 10 meter cube of space within range. You can create an illusion of anything in that area, accompanied by appropriate sound, temperature and illumination. You can choose whether it appears natural or not. However, this spell is unable to produce anything intense enough to hurt or damage. You can also choose change the illusion, cause something in the illusion to happen, or move the illusion to any spot you like as long as it is within range.
+
+If you go further than the range, the spell ends.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Minor Illusion (cantrip)
+	Casting time: 3 seconds
+	Range:        30 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minutes
+
+Choose a 2 meter cube of space within range. You can create an illusion of anything in that area, but it is soundless and cannot provide proper temperature and illumination. You can instead cause a sound you have heard before to emit from a point within range, but it cannot be loud enough to rupture ears.
+
+If you go further than the range, the spell ends.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Invisibility (level 2)
 	Casting time: 3 seconds
 	Range:        Touch
@@ -346,6 +370,7 @@ SPELL LIST
 		Cantrips:
 			Fire Bolt
 			Mage Hand
+			Minor Illusion
 
 		Level 1:
 			Cold Snare
@@ -363,8 +388,10 @@ SPELL LIST
 
 		Level 3:
 			Counterspell
+			Dispel Magic
 			Fireball
 			Lightning Bolt
+			Major Illusion
 
 		Level 5:
 			Telekinesis
@@ -373,6 +400,7 @@ SPELL LIST
 		Cantrips:
 			Fire Bolt
 			Mage Hand
+			Minor Illusion
 
 		Level 1:
 			Cold Snare
@@ -395,8 +423,10 @@ SPELL LIST
 
 		Level 3:
 			Counterspell
+			Dispel Magic
 			Fireball
 			Lightning Bolt
+			Major Illusion
 
 		Level 5:
 			Scrying

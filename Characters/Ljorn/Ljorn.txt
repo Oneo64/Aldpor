@@ -44,7 +44,7 @@ Abilities:
 		Prepared in orb:
 			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
-			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Image
+			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Illusion
 
 		Cantrips (4):
 		Fire Bolt, Message, Mage Hand, Prestidigitation
@@ -56,7 +56,7 @@ Abilities:
 		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object, Misty Step
 		
 		Level 3 (5):
-		Counterspell, Dispel Magic, Lightning Bolt, Major Image, Magic Circle
+		Counterspell, Dispel Magic, Lightning Bolt, Major Illusion, Magic Circle
 
 		Level 4 (2):
 		Arcane Eye, Banishment
