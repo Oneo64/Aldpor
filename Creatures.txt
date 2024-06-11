@@ -88,14 +88,18 @@ Frost Dragon:
 	Frost dragons are a type of dragon that lives in the most northern or most southern regions of the world. They mostly eat goats or yaks, and they perfer to be alone or with their family.
 
 	Description:
-	Frost dragons has thicker scales, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length.
+		Frost dragons has thicker scales, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length.
 
-	They take 40 years to mature, and live up to 170 years. When a dragon matures, their scales are strong enough to repel arrows, but not completely deflect them. These dragons resist poison.
+		They take 40 years to mature, and live up to 170 years.
 
-	Their eggs look like opal, exept that the only colors are white, blue and black, and they are about 0.6 meters high. Their scale color is white, and their eyes are blue and black. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 14 meters long from nose to rear, and has a tail 13 meters long, being about 27 meters in total. Their wings spread up to 16 meters in length, and are about 8 meters in width.
+		Their eggs look like opal, exept that the only colors are white, blue and black, and they are about 0.6 meters high. Their scale color is white, and their eyes are blue and black. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 14 meters long from nose to rear, and has a tail 13 meters long, being about 27 meters in total. Their wings spread up to 16 meters in length, and are about 8 meters in width.
 
 	Abilities:
-	At an adult, they can breathe frost up for a couple of seconds at a time which reaches 35 meters, and their frost breath instantly freezes any water and anyone it touches. They can use their claws to climb.
+		At an adult, they can breathe frost up for a couple of seconds at a time which reaches 35 meters, and their frost breath instantly freezes any water and anyone it touches. They can use their claws to climb.
+
+		When a frost dragon matures, their scales are strong enough to repel arrows, but not completely deflect them. These dragons resist poison.
+
+		They are not immune to cold, it's only that they greatly resist it. The only area that is immune to cold are their heads.
 
 
 
@@ -103,14 +107,16 @@ Fire Dragon:
 	Fire dragons are a type of dragon that mostly lives in the hotter regions of the world. They mostly eat goats or cattle, and they are quite territorial.
 
 	Description:
-	Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
+		Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
 
-	They take 30 years to mature, and live up to 150 years. When a dragon matures, their scales are just strong enough to repel arrows, but not completely deflect them. These dragons resist poison, and they are immune to burning.
+		They take 30 years to mature, and live up to 150 years.
 
-	Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and gold. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
+		Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and gold. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
 
 	Abilities:
-	At an adult, they can breathe continuous fire up to 4 or 5 seconds at a time that reaches 30 meters. Their claws can burn like fire when they use it as a weapon and ignite things, and they can also be used to climb.
+		At an adult, they can breathe continuous fire up to 4 or 5 seconds at a time that reaches 30 meters. Their claws can burn like fire when they use it as a weapon and ignite things, and they can also be used to climb.
+
+		When a fire dragon matures, their scales are just strong enough to repel arrows, but not completely deflect them. These dragons resist poison, and they are immune to burning.
 
 
 
@@ -122,11 +128,11 @@ Fire Elemental:
 	Fire elementals are southern natural manifestations of Talmundur. Fire elementals usually don't care what happens, some even attacking ones who oppose Talmundur. These elementals are rare, usually formed by a heart of sulfur and stone being pulled together by unknown forces. If they were created by magic, then they do not know about Talmundur. Fire elementals generally try to avoid forests or any of the sort, resorting to rocky mountains and deserts.
 
 	Description:
-		Fire elementals appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots. Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human.
-
-		Fire elementals are able to speak Primordial, despite not having a mouth.
+		Fire elementals appear as a floating humanoid torso completely made of fire. Their faces only consist of a pair of eyes, which look like darker spots.
 
 	Abilities:
+		Fire elementals are able to fly, moving up to 8 meters a second at maximum, close to the running speed of a human. They are able to speak Primordial, despite not having a mouth.
+
 		Because of their fiery body, fire elementals are able to squeeze into small spaces such as under the door, or go through window frames and cage bars. By touching flammable surfaces, they would ignite the surface willingly or unwillingly.
 
 		By striking the heart of the fire elemental, the fire elemental is damaged much greater than simply attacking it's fiery body. Extinguishing the fire of the elemental means that the fire elemental will die.
@@ -137,12 +143,12 @@ Ice Elemental:
 	Ice elementals are northern natural manifestations of Talmundur. Ice elementals are mostly evil. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
 
 	Description:
-		Ice elementals looks like a humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can sense warmth from around them, provided that the ice elemental has a line of sight.
-
-		Ice elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
+		Ice elementals looks like a humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can see normally.
 
 	Abilities:
 		Ice elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
+
+		Ice elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
 
 
 
@@ -154,16 +160,16 @@ Gvarth (huge fey):
 	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
 	Description:
-		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Because of this, it is unable to move onto or across hard surfaces such as stone.
-
-		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
-
-		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
+		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat.	
 
 	Abilities:
 		The gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
 
-		The gvarth can also leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
+		Gvarths are unable to move onto or across hard surfaces such as stone, but the gvarth can leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
+
+		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
+
+		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
 
 
@@ -184,7 +190,7 @@ Draugr (medium undead):
 
 		Their bodies resist physical damage. Severing their arm, leg, or body means that they can simply touch the severed ends together, and they will fuse back, but will be weaker for a few days. Slicing the head is the only way to temperorarly kill them, in which they will return to walk again a week later.
 
-		It is possible to prevent the draugr from returning by stuffing the severed head of the draugr at it's groin, facing inwards.
+		It is possible to prevent the draugr from returning by stuffing the severed head of the draugr at it's groin, facing inwards. Draugrs can still speak, but their voice sounds raspy and deep.
 
 
 
@@ -204,43 +210,28 @@ Ghost (medium undead):
 
 
 Skeleton (medium undead):
-	A skeleton raised by magic.
+	A skeleton raised by magic, usually as a soldier or guard.
 
 	Description:
 		The reanimated skeleton of a humanoid. Most skeletons are equipped with a helmet, sometimes with a shield.
 
-		These skeletons only understand the languages of it's creator, but cannot speak.
-
 	Abilities:
 		These things are dim-witted, and know just enough to use a weapon. They can also see in the dark up to about 20 meters.
+
+		They only understand the languages of it's creator, but cannot speak.
 
 
 
 Vamerk (medium undead):
-	Vamerks are undead created by magic as servants or guards, usually to guard or secure something. They are capable to using weapons and martial skills, and they are just as intelligent as the average person.
+	Vamerks are undead created reanimated by magic, usually to serve as servants or guards, usually to guard or secure something.
 
-	Unaligned
-
-	Armor Class: 13 (gambeson)
-	Hit Points:  26 (3d6 + 15)
-	Speed:       30ft
-
-	Strength: 		12  +1
-	Dexerity: 		12  +1
-	Constitution: 	14  +2
-	Intelligence: 	14  +2
-	Wisdom:			7   -2
-	Charisma:		5   -3
-
-	Senses: Darkvision 10m (30ft)
-	Languages: Understands the languages it knew in life and the languages it's creator speaks, but cannot speak
-	Challenge: 3
-
-	Special Traits:
-		Undead Nature: The vamerk does not require food, water, or rest.
+	Description:
+		Vamerks appear as a corpse like a zombie.
 
 	Abilities:
-		Longaxe: Melee Weapon Attack: +1 to hit, reach 2m (6ft), one target. Hit: 10 (1d10 + 4) slashing damage.
+		They are capable to using weapons and martial skills. They are just as intelligent as the average person, but are incapable of thought and emotion.
+
+		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells.
 
 
 
