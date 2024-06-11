@@ -5,71 +5,24 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
-Hometown: Minbaslûind, Esrelu
-
-Appearance:
-	Gray eyes
-	Unusually pale cool skin
-	Long flowing white hair
-	Long earlobes
-
-	Slim
-
-Apparel:
-	Gray hooded cloak (woolen)
-	Plain red robes (woolen)
-
-	Leather boots
-	Leather belt
-
-	Flanged mace hung on left side of belt
+Alassös is a Cold Elf from Minbaslûind. He appears as pale, having silvery white hair, gray eyes, with long earlobes. He wears a white cloak, and red robes. He has a belt, and he wears fur boots. He carries a flanged mace with him. He is 178 centimeters tall. He works as a guard.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Friendly
-			2. Calm
+	POSITIVE:
+		1. Friendly
+		2. Calm
 
-		NEUTRAL:
-			1. Flamboyant
+	NEUTRAL:
+		1. Flamboyant
 
-		NEGATIVE:
-			1. Disorganised
+	NEGATIVE:
+		1. Disorganised
 		
-		Optimistic (perspective on the future)
-
-	Specific:
-		None
+	Optimistic (perspective on the future)
 
 Skills:
-	Real:
-		Mace
+	Mace
+	Stealth
 
-	DnD:
-		Thieve's tools
-		Acrobatics
-		Insight
-		Stealth
-
-		Fighting style: Duelling
-
-	Level:          Fighter 5 / Rogue 2
-	Strength: 		13  +1  proficiency
-	Dexerity: 		16  +3
-	Constitution: 	12  +1  proficiency
-	Intelligence: 	10
-	Wisdom: 		14  +2
-	Charisma: 		10
-
-Height: 178cm (5ft 10in)
-
-Languages (sorted by time learned):
 	Esrel
-	Hendric (English)
-
-Possessions:
-	Empty
-
-Occupications:
-	Mace Fighter
-	Hireling (guard)
+	Hendric

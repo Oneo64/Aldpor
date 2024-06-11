@@ -5,117 +5,43 @@ Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Ljorn is a human born in Argonlav. His hair is dark blond, and wavy, which reaches his shoulders. His eyes are dark pale blue, and has fair skin. He wears a woolen cloak, dark purple robes, baggy blue pants, and leather boots. He has a scabbard on his belt, as well as two pouches. He has three pieces of jewelry all made of silver, a circlet, a necklace of Talmundur, and an arm ring which he wears on his left arm.
+Ljorn is a human born in Argonlav. His hair is dark blond, and wavy, which reaches his shoulders. His eyes are dark pale blue, and has fair skin. He wears a woolen cloak, dark purple robes, baggy blue pants, and leather boots. He has a scabbard on his belt, as well as two pouches. He has three pieces of jewelry all made of silver, a circlet, a necklace of Talmundur, and an arm ring which he wears on his left arm. He is 175 centimeters tall.
 
 He has a scar on his left shoulder, resulting in a scar and weakening that arm.
 
-Personality:
-	Traits:
-		POSITIVE:
-			1. Goodhearted
-			2. Honest
-			3. Observant
+Ljorn carries around 5 golden coins and 200 silver in his coin purse.
 
-		NEGATIVE:
-			1. Appears Cold
-			2. Reserved
+Ljorn has knowledge on history for the past thousand years, and he also knows about Furnalfa and Parhrûvaryg.
+
+Personality:
+	POSITIVE:
+		1. Goodhearted
+		2. Honest
+		3. Observant
+
+	NEGATIVE:
+		1. Appears Cold
+		2. Reserved
 		
-		Slightly introverted
-		Realistic (perspective on the future)
+	Slightly introverted
+	Realistic (perspective on the future)
 
 	Specific:
 		Deer meat is his favorite food
 
 Abilities:
-	Magic
 	Alchemy (potion brewing)
 
 	Dagsvaldian
+	Hendric
 	Esrel
 	Primordial
 
 	Swords
 	Axes
 
-	Game:
-		Arcana
-		History
-		Medicine
-		Investigation
-
-	Alchemist's Supplies
-
-	Level:          Wizard 7 / Fighter 1
-
-	Strength: 	    10
-	Dexerity:       14 	+2
-	Constitution: 	12 	+1
-	Intelligence: 	16	+3  proficiency
-	Wisdom: 	    13 	+1  proficiency
-	Charisma: 	    9	-1
-
-Height: 175cm (5ft 9in)
-Weight: 59kg (130lbs)
-
-Carrying Wealth: 5 gp, 240 sp, 220 cp
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
-	Dagsvaldian
-	English*
-	Esrel
-	Primordial*
-	Draconic*
-
-Possessions:
-	A viking sword made of damascus steel (crucible steel)
-	A bearded axe
-
-	Leather pouch:
-		A small jar of linseed oil
-		A drinking horn
-		A waterskin (usually filled with water)
-		A small knife (or seax, used like a fork)
-
-		A small cloth bag with dried venison
-		A small cloth bag with 10 small rocks with similar magical properties as the rocks in his mästermyr chest
-
-		A small vial of Regeneration Potion
-		A small vial of Simple Curing Potion
-
-		5 unlit candles
-		5 unlit torches
-
-	Leather pouch 2:
-		A spellbook (simple leather cover, 150 vellum pages)
-		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
-		An amber orb, 9cm diameter (This is Ljorn's arcane focus)
-
-		A small jar of ink
-		A quill taken from a goose
-		2 blank scrolls of vellum
-		10 sheets of parchment
-		10 sheets of vellum
-
-	Small cloth bag: Gold and silver
-
-Occupications:
-	Evocation Wizard (Evoker)
-	Mercenary/Hireling
-	Traveler
-
-Relations:
-	Rondar Glomunssul (friend, met in a school of evocation)
-	Jeiruld Aldorim (a teacher from a school of evocation)
-
-Attacks:
-	Can use sword or axe
-	Throws potions, but rarely
-
-	(Level 7) Spells:
-		Spell points available: 40
-
-		Prepared in orb (max 15):
+	Magic:
+		Prepared in orb:
 			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
 			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Image
@@ -135,23 +61,29 @@ Attacks:
 		Level 4 (2):
 		Arcane Eye, Banishment
 
-Speech: (for some reason, he speaks like this)
-	"Is", "am", and "are" are replaced with "be". (Example: That dog be skinny.)
-	"It" is replaced with "That"
-	"Yes" is replaced with "Ja"
-	"Can" is replaced with "Able"
 
-	He says "not" like:
-		I not like dirt
-		It not be a cart
-		(and so on and so forth)
+Possessions:
+	Leather pouch:
+		A small jar of oil
+		A drinking horn
+		A waterskin
+		A small seax
 
-	Examples:
-		Today's weather be really nice, ja? It not very windy.
+		A small cloth bag with dried venison
 
-Day Plan:
-	Get up (obviously)
-	Eat breakfast
-	Check for weeds in farm
-	Chop some firewood and bring it back
-	Go to library and study for a few hours
+		A small vial of Regeneration Potion
+		A small vial of Simple Curing Potion
+
+		5 unlit candles
+		5 unlit torches
+
+	Leather pouch 2:
+		A spellbook (simple leather cover, 150 vellum pages)
+		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
+		An amber orb, 9cm diameter (This is Ljorn's arcane focus)
+
+		A small jar of ink
+		A quill
+		2 blank scrolls of vellum
+		10 sheets of parchment
+		10 sheets of vellum

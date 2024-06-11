@@ -1,19 +1,20 @@
 Names below here will bear the Dagsvaldian name of the thing
 
 Planes/Realms:
-	Talygva  = Material plane
+	Talygva = Material plane
 
-	Jælheim  = Good afterlife (LG, paradise to good people)
-	Hel      = Bad afterlife (CG, punishment realm to evil people)
+	Jælheim     = Good afterlife (LG, paradise to good people)
+	Hel         = Bad afterlife (CG, punishment realm to evil people)
 
-	Furnalfa = Plane of fey (N, infinite dark lush green forest)
+	Furnalfa    = Realm of fey and pure nature (N, infinite dark lush green forest)
 
 Dimensions:
-	Vorasil  = Ethereal plane
-	Maresil  = Astral plane
+	Vorasil     = Ethereal plane
+	Maresil     = Astral plane
+	Parhrûvaryg = Plane of magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth hundreds of gold)
 
 Deities:
-	Talmundr  = God of Warmth and Cold (N, Tempest, Luck) (Symbol: Upside down Dagsvaldian T rune)
+	Talmundur = God of Warmth and Cold (N, Tempest, Luck) (Symbol: Upside down Dagsvaldian T rune)
 	Lûnanyr   = God of Life and Death (LG, Order, Life, Death)
 	Jalfar    = God of Creation (NG, Order, War, Creation, Destruction, Change)
 	Parhrûgi  = God of Magic (N, Order, Knowledge, Arcana)

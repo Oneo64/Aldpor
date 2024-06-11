@@ -23,15 +23,15 @@ Settlements/empires/kingdoms:
 		Esrelu (Old Ranûdan - Old Esrel - Esrel)
 
 	Dwarf:
-		Baan (Primordial Banodic)
+		Baan (Primordial)
 		Banir (Old Banodic)
 		Banod (Old Banodic - Banodic)
-		Glomdur (Old Banodic - Glomdish)
+		Glomdur (Old Banodic - Glomish)
 		Mornesvid (Old Banodic - Mornesvian)
 
 
 Before 2000 BCE
-Baan existed a few hundred years before. They were the first dwarvish settlement, and they spoke Primordial Banodic, which is one of the first dwarvish languages.
+Baan existed a few hundred years before. They were the first dwarvish settlement, and they spoke Primordial.
 Floradoin existed only a few decades, which is small compared to Baan. They spoke Floradish.
 
 2000
