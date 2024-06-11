@@ -1,127 +1,176 @@
 ======================================================================================================================================================
-OVERRIDES:
+CONJURATION
 ======================================================================================================================================================
 
-Fireball (LVL 3 evocation)
-	Casting time: Instant
-	Range: 40m (120ft)
-	Requirements: V, S
-
-A streak of orange is shot at a ridiculous speed towards a point you choose. The point then explodes in a ball of fire. Everything in a 2.5m (7.5ft) radius is burnt, taking 4d8 Fire. Everything flammable is set on fire. Pieces of wood thinner than 0.1 meters (0.3 foot, or 3.6 inches) is destroyed, and glass is cracked.
-
-======================================================================================================================================================
-
-Lightning Bolt (LVL 3 evocation)
-	Casting time: Instant
-	Range: 100m (300ft)
-	Requirements: V, S
-
-A bolt of bright pale blue of lightning connects your hand and a target you choose within range. The target takes 1d8 + 15 Lightning damage.
-If the target is farther than 20m (60ft), it has a chance to miss, and strike nearby things. The chance is done below. When you roll a dice to determine if you miss, if the dice lands on a 1, you miss. Otherwise, you hit.
-
-If the target is wearing plate armor, the damage is instead 2d8 Lightning damage. If the target is wearing any kind of metal armor, the Armor Class for that armor is ignored.
-
-Chance to strike something else:
-Distance       Chance
- 20m+ (60ft)    d12 (8.3%)
- 50m+ (150ft)   d6  (16.7%)
- 80m+ (240ft)   d4  (25%)
-
-======================================================================================================================================================
-
-Telekinesis (LVL 5 transmutation)
+Mage Hand (cantrip)
 	Casting time: 3 seconds
-	Range: 20m (60ft)
-	Requirements: V, S
-	Duration: Concentration up to 1 minute
+	Range:        15 meters
+	Requirements: V, S, M (your hand that must be alive)
 
-An object or creature you choose hovers in the air for the duration. Each round, you can move the creature up to 10m (30ft), or approximately 1.6 m/s. When the spell ends, the object or creature is dropped.
+A white spectral hand pops out of your hand. You can make this hand fly in a direction at a speed of 2 meters a second. The hand mimics the rotational movement of your hand and fingers. The hand can move only 20 kilograms of force. Trying to move objects heavier than this causes the spell to end.
 
-Based on the spell level, there are additional bonuses.
+======================================================================================================================================================
+Misty Step (level 1)
+	Casting time: instantaneous
+	Range:        15 meters
+	Requirements: V
 
-You can also use an action to telekinetically apply a sudden force to objects with a command word, causing them to fly forward at high speeds at a creature you choose within range. Doing so will instantly end the spell. The damage is determined by the table below.
-
-	Max objects  Weight/Max size      Level Required    Damage
-	 1            0 - 4 kg    Medium   5                 1d4 Bludgeoning
-	 2            5 - 9 kg    Medium   6                 2d6 Bludgeoning
-	 3            10 - 14 kg  Large    7                 3d8 Bludgeoning
-	 4            15 - 19 kg  Large    8                 4d10 Bludgeoning
-	 5            20 - 25 kg  Huge     9                 5d12 Bludgeoning
-	 6            25+                  Can't be thrown
+You dimensionally jump towards a location you can see within range.
 
 ======================================================================================================================================================
 
-Illusory Script (LVL 1 illusion)
-	Casting time: 1 minute
-	Range: Touch
-	Requirements: V, S, M (a jar of ink mixed with glass shards)
-	Duration: 5 days
-
-You pick a spot on a surface, then trace your finger around that surface. The lines traced on on the surface starts to glow a faint blue glow, which is opaque to invisible depending on the time. You can draw anything, but lines that exceed a 1 meter radius will fade out. You cannot use this spell to draw magic circles, spell scrolls or write in a spellbook. After 4 days have passed the illusory script will start to fade, and a creature will need to make a DC 15 Perception saving throw in order to see the writing or drawing. Creatures with truesight automatically succeeds this saving throw.
-
-
-======================================================================================================================================================
-ORIGINAL SPELLS:
-======================================================================================================================================================
-
-Cold Snare (Level 1 evocation)
+Poison Spray (cantrip)
 	Casting time: 3 seconds
-	Range: 40m (120ft)
+	Range:        10 meters
+	Requirements: V, S
+
+A puff of poisonous cloud shoots out of your hand.
+
+======================================================================================================================================================
+
+Control Plant (level 4)
+	Casting time: 6 seconds
+	Range:        2 meters
+	Requirements: V, S
+	Duration:     5 minutes
+
+A normal plant of your choosing that isn't a tree and you can see pops out of the ground. It's roots are it's legs, and it's branches are it's arms. The plant is under your control for the duration. Once the spell ends, if the plant is still on ground, the plant roots itself back on the spot. Otherwise, the plant dies.
+
+You can command it to perform one of the following: Attack a target, restrain a target, fetch an object, or interact with an object.
+
+
+
+======================================================================================================================================================
+EVOCATION
+======================================================================================================================================================
+
+Cold Snare (level 1)
+	Casting time: 3 seconds
+	Range:        40 meters
 	Requirements: V, S, M (a handful of a mixure of moss and silver powder, which is consumed on use)
 	Duration: 5 minutes
 
-A mote of frost shoots out of your hand, striking a target you choose. The target takes 1d6 Cold damage. Every 30 seconds, the target must make a DC 5 Constitution saving throw, or take 1d4 Cold damage. Constructs are unaffected by this spell and it's affect. Alternatively, you can target a point in space. The mote of frost instead strikes the ground, which spreads out in a 3 meter radius (6ft). Any creature that moves in this space must make a DC 10 Dexterity saving throw, or fall prone. Any creature that is prone while inside this space, will take 1d4 frost damage each round.
-
-At higher levels:
-If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d6, and the damage over time increases by 1d4.
-If you strike the ground, then the radius of which it spreads increases by 2 meters (6ft), and the damage increases by 1d4 for every spell level above 2nd.
+A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing. If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts.
 
 ======================================================================================================================================================
 
-Dragonfire (Level 1 evocation)
+Dragonfire (level 1)
 	Casting time: 3 seconds
-	Range: 10m cone (30ft)
+	Range:        10 meters
 	Requirements: V, S
 
-A burst of fire shoots out of your palm in a cone. Every creature in the cone takes 2d6 Fire Damage.
-
-At higher levels:
-If you strike a creature, then for each spell level above 2nd level, the initial damage increases by 1d6.
+A burst of fire shoots out of your palm in a cone.
 
 ======================================================================================================================================================
 
-Major Teleportation (LVL 9 conjuration)
-	Casting time: 5 minutes
-	Range: Touch
-	Requirements: V, S, M (4 chalks worth at least 20gp, 11 ambers worth at least 50gp, and 8 black opal marbles worth at least 30gp each. All of these are consumed on use.)
+Fireball (level 3)
+	Casting time: 3 seconds
+	Range:        40 meters
+	Requirements: V, S
 
-You draw a great 5m (15ft) radius circle on the ground, using the chalks and ambers. You can pick a location on any plane, or world, to teleport to. All creatures in the circle are transported to the set location.
-
-You can also decide to draw a smaller circle, 2m (10ft) radius. If you decide to use a smaller circle, you will instead use up 2 chalks, 5 ambers and 4 black opals, and you instead use a level 8th spell slot.
-
-You can also decide to draw a smaller circle, 1m (3ft) diameter. If you decide to use this, you will instead use up a chalk, 2 ambers and require no black opals, and you instead use a level 6th spell slot. Using this size, you cannot teleport to a different world.
-
-In order to teleport to a location using this spell that targets the same world, you must know what the location looks like.
-
-You will appear off course, as this spell is intended to long range travel.
-
-	Same world:
-	d4  Distance
-	 1   On target
-	 2   0.5 km (0.3 mi)
-	 3   1   km (0.6 mi)
-	 4   1.5 km (0.9 mi)
-
-	Different world:
-	d4  Distance
-	 1   1 km (0.6 mi)
-	 2   2 km (1.2 mi)
-	 3   3 km (1.8 mi)
-	 4   4 km (2.5 mi)
+A streak of orange light flashes from your pointing finger, causing the impact point to burst into a ball of fire in a 3 meter radius.
 
 ======================================================================================================================================================
+
+Fire Bolt (cantrip)
+	Casting time: 3 seconds
+	Range:        40 meters
+	Requirements: V, S
+
+A bolt of fire shoots out of your pointing finger.
+
+======================================================================================================================================================
+
+Lightning Bolt (level 3)
+	Casting time: 3 seconds
+	Range:        100 meters
+	Requirements: V, S
+
+A bolt of bright pale blue of lightning connects your pointing finger to a point you are pointing at. Armor has almost no protection against this spell.
+
+
+
+======================================================================================================================================================
+ILLUSION
+======================================================================================================================================================
+
+Illusory Script (level 1)
+	Casting time: 1 minute
+	Range:        Touch
+	Requirements: V, S, M (a jar of ink mixed with glass shards)
+	Duration:     5 days
+
+The user picks a spot on a surface, then traces their finger around that surface. The lines traced on on the surface starts to glow a faint blue glow, which is opaque to invisible depending on the time. Lines that exceed a 1 meter radius will fade out. After four days, the spell will fade out until the fifth day, which will be completely gone.
+
+
+
+======================================================================================================================================================
+TRANSMUTATION
+======================================================================================================================================================
+
+Telekinesis (level 5)
+	Casting time: 3 seconds
+	Range:        40 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+An object or creature the user chooses hovers in the air for the duration. The target must be 200 kilograms or lower. The user can make the object or creature float in a direction at a speed of 2 meters a second. For every level this spell is cast above the fifth level, the user can levitate one additional object, or creature.
+
+If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
+
+
 
 Spell list:
+	CLERIC:
+		
+
+	DRUID:
+		Cantrips:
+			Poison Spray
+
+		Level 1:
+			Misty Step
+
+		Level 4:
+			Control Plant
+
+	SORCERER:
+		Cantrips:
+			Fire Bolt
+			Mage Hand
+
+		Level 1:
+			Cold Snare
+			Dragonfire
+			Misty Step
+
+		Level 3:
+			Fireball
+			Lightning Bolt
+
+		Level 5:
+			Telekinesis
+
+	WIZARD:
+		Cantrips:
+			Fire Bolt
+			Mage Hand
+
+		Level 1:
+			Cold Snare
+			Dragonfire
+			Illusory Script
+			Misty Step
+
+		Level 3:
+			Fireball
+			Lightning Bolt
+
+		Level 5:
+			Telekinesis
+
+
+DnD spell list:
 	CLERIC:
 		Cantrips:
 			Guidance
