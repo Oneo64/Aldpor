@@ -5,7 +5,7 @@ Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Mif is a human from Argonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and some leather boots. She is 163 centimeters tall.
+Mif is a human from Argonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and boots. She is 163 centimeters tall.
 
 Personality:
 	POSITIVE:
@@ -21,7 +21,7 @@ Personality:
 	Specific:
 		Talks to animals when feeling bored
 
-Skills:
+Abilities:
 	Alchemy (potion brewing)
 
 	Dagsvaldian

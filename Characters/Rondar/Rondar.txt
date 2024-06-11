@@ -5,92 +5,27 @@ Alignment: Lawful Good
 Ethnicity: Human
 Race:      Dagsvaldian
 
-Hometown: Argonlav, Dagsvald
-
-Appearance:
-	Green eyes
-	Fair/light cool skin
-
-	Dark/dirty blond straight hair, braided into two in front, each braid held together with an iron band
-
-	Face:
-		Medium eyebrows
-		Almond eyes
-		Diamond head
-		Straight thin nose
-		Vertical forehead
-
-Apparel:
-	Brown hooded cloak (wool, semi-circular, hood is not pointed)
-
-	Woolen blue robes, with a thick yellow line from the collar down the end
-	
-	Leather boots
-	Leather belt, with all sorts of pouches and bags (on waist not hip, loose part of belt hanging down to below crotch)
-
-	Golden circlet, engraved with northern runes
+Rondar is a wizard from Argonlav. He has dark blond hair, braided into two in the front. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears a brown cloak, blue robes, a belt, and a pair of boots. He wears a golden circlet.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Warm
-			2. Creative
-			3. Intelligent (smart, logical)
+	POSITIVE:
+		1. Warm
+		2. Creative
 
-		NEGATIVE:
-			1. Distrusting
-			2. Regimental
+	NEGATIVE:
+		1. Distrusting
+		2. Regimental
 		
-		Ambivert, leaning introvert
-		Realistic (perspective on the future)
+	Ambivert, leaning introvert
+	Realistic (perspective on the future)
 
-	Specific:
-		He has a warm voice.
-		Has a norvunic accent
+Abilities:
+	Magic
+	Taglharpe
+	Alchemy (potion brewing)
+	Medical things
 
-Power:
-	Very powerful with magic
-	Average with physical
-
-Skills:
-	Real:
-		Magic
-		Can play lyre
-		Alchemy (potion brewing)
-		Medical things
-
-	Game:
-		Arcana
-		History
-		Medicine
-		Investigation
-
-	Alchemist's Supplies
-
-	Level:			Wizard 7
-
-	Strength: 		10
-	Dexerity: 		13  +2
-	Constitution: 	15  +2
-	Intelligence: 	16  +3  proficiency
-	Wisdom: 		11      proficiency
-	Charisma: 		14  +2
-
-Height: 177cm (5ft 10in)
-Weight: 62kg (137lbs)
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
 	Dagsvaldian
 	English
 	Esrel
-	Draconic*
-	Primal Norvic* (half extinct language)
-
-Occupications:
-	Wizard
-	Adventurer
-
-Relations:
-	Ljorn Rulvegtur (friend, met in a school of evocation)
-	Jeiruld Aldorim (a teacher from a school of evocation)
+	Primal Norvic

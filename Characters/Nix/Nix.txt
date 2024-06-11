@@ -5,77 +5,29 @@ Alignment: Chaotic Good
 Ethnicity: Hendric
 Race:      Human
 
-Hometown: Bantusea, Hendril
+Nix is a sorcerer born in Bantusea, Hendril. He has short dark brown hair, tanned skin, and brown eyes. he wears a black tunic, grey pants, a belt, and shoes. He carries a spear, and has a sheathed dagger on his belt. He also has a coin purse. He is 173 centimeters tall.
 
-Appearance:
-	Dark brown eyes
-	Fair/light cool skin
-	Short dark brown straight hair
-
-Apparel:
-	Linen black tunic, verticically striped with reddish orange, each stripe about 8 cm thick
-	Linen dark gray pants
-
-	Leather shoes
-	Leather belt
-
-	Spear mounted on back
-	Sheathed dagger on belt
-
-	Leather pouch (hung on left side of belt)
-	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
+When Nix uses magic, his eyes will start to glow like fire.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Good-hearted (kind, generous and benevolent)
-			2. Brave (bold, daring, courageous)
+	POSITIVE:
+		1. Goodhearted
+		2. Brave
+		3. Bold
 
-		NEGATIVE:
-			1. Overprotective
-			2. Prideful
+	NEGATIVE:
+		1. Overprotective
+		2. Prideful
 		
-		Optimistic
+	Optimistic
 
-	Others:
-		If he uses magic, his eyes start to glow a fiery color
+Abilities:
+	Sorcery Magic
+	Medical skills
 
-Skills:
-	Real:
-		Sorcery Magic
+	Hendric
 
-	DnD additional skills:
-		Medicine
-		Investigation
-		Intimidation
-		Persuation
-
-	Alchemist's Supplies
-
-	Level:          Sorcerer 2 / Fighter 1
-	
-	Strength: 	    10
-	Dexerity:       14 	+2
-	Constitution: 	14 	+2  proficiency
-	Intelligence: 	11
-	Wisdom: 	    9 	-1
-	Charisma: 	    16	+3  proficiency
-
-Height: 173cm (5ft 8in)
-Weight: 56kg (123lbs)
-
-Carrying Wealth: 80 sp, 75 cp
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
-	English
-	Draconic
-
-Occupications:
-	Sorcerer
-
-Attacks:
-	(Level 2) Spells:
+	Sorcery:
 		Cantrips:
 		Mage Hand, Mending, Ray of Frost, Shocking Grasp
 		

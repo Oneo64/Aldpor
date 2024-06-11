@@ -5,7 +5,7 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
-Hometown: Vesesvala, Esrelu
+Saelri is a druid from Vesesvala. She has vibrant green eyes, pale skin, and golden hair. Like all cold elves, her earlobes are long. She has a white cloak, wears dark aqua robes, a belt, and a pair of shoes.
 
 Appearance:
 	Green eyes

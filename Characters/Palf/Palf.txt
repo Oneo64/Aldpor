@@ -5,76 +5,17 @@ Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race: Human
 
-Hometown: Thurnin City, Dagsvald
-
-Appearance:
-	Blue eyes
-	Fair/light cool skin
-	Long black hair
-
-Apparel:
-	Silk black hooded cloak
-
-	Vibrant red surcoat
-	Chainmail hauberk
-
-	Golden circlet
-	Silver necklace with Talmundr's symbol
-	Silver arm rings on both arms
-	Two silver arm rings one on each arm
-
-	Linen black tunic
-	Linen black baggy pants
-
-	Leather boots
-	Leather ring belt
-	Leather scabbard
-
-	Cloth bag (holds coins)
+Palf is the king of Dagsvald, born in the inner fortress of Thuryngard Ring Fortress. He has blue eyes, fair skin, and has long, wavy black hair. He wears a silk black cloak, a vibrant red surcoat, a hauberk, black tunic, baggy black pants, a belt, and a pair of boots. He wears a golden circlet, a silver necklace of Talmundur, a silver arm ring on both arms, and a silver ring on both hands. He has a scabbard, which has a viking sword. He is 180 centimeters tall.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. 
+	POSITIVE:
+		1. Thoughtful
 
-		NEGATIVE:
-			1. Cruel
+	NEGATIVE:
+		1. Cruel
 
-	Specific:
+Abilities:
+	Sword
 
-Power:
-	Expert with sword and shield
-
-Skills:
-	Real:
-		Geirkal Swordfighting
-
-	Game:
-		Persuation
-		History
-
-	Level:          Fighter 4
-	
-	Strength: 	    13 	+1
-	Dexerity:       13 	+1 proficiency
-	Constitution: 	12  +1
-	Intelligence: 	14  +2
-	Wisdom: 	    14 	+2
-	Charisma: 	    13	+1
-
-Height: 180cm (5ft 11in)
-Weight: 74kg (163lbs)
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
 	Dagsvaldian
-	English*
-
-Possessions:
-	A viking sword
-
-Occupications:
-	King of Dagsvald
-
-Attacks:
-	Can use sword
+	English

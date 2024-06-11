@@ -1,82 +1,37 @@
-Jorvas Beogor
+Jorvas Belgnor
 Male
 Age: 323 (born 648, jan 3)
 Alignment: Chaotic Neutral
 Ethnicity: Old Hendric
 Race:      Draugr (Human)
 
-Hometown: ???, Hendril
+Jorvas was a human, born in 648 AD in Hendril. He and 3 other nobles traveled north with a group of men, but was killed in battle by bandits. Later, he returned as a draugr, and now resides inside his tomb. Like all corpses, Jorvas has old, black-green skin, saturated yellow eyes, and has long black hair. He is 183 centimeters tall.
 
-Appearance:
-	Gray dull eyes
-	Pale yellow skin
-	Bald
+He wears a migration period helmet, lined with brass and lead. He also wears a hauberk, blue gambeson, brown pants, a belt and a pair of shoes. He also has a red scabbard containing a spatha.
 
-Apparel:
-	Migration period helmet, lined with brass and lead
-
-	Chainmail Hauberk, over gambeson
-	Blue gambeson
-	Brown pants
-
-	Leather shoes
-	Leather belt
-
-	Scabbard at front of chest, slightly left
+Like all draugr, his voice is raspy and deep.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Careful
-			2. Mindful
-			3. Restless
-			4. Stoic
+	POSITIVE:
+		1. Careful
+		2. Mindful
+		3. Restless
+		4. Stoic
 
-		NEGATIVE:
-			1. Judgemental
-			2. Unfriendly
-			3. Cruel
+	NEGATIVE:
+		1. Judgemental
+		2. Unfriendly
+		3. Cruel
 		
-		Realistic (perspective on the future)
+	Realistic (perspective on the future)
 
-	Specific:
-		Has a norvunic accent
-		Voice is deep and raspy, like a zombie
+Abilities:
+	Sword
+	Magic
 
-Skills:
-	Real:
-		Spearfighting
-		Swordfighting
-		Longaxe
-
-	Game:
-		Athletics
-		Insight
-		Perception
-
-	Level: 			Fighter 8 / Wizard 3
-
-	Strength: 		18  +4  proficiency
-	Dexerity: 		13  +1  proficiency
-	Constitution: 	20  +5
-	Intelligence: 	12  +1
-	Wisdom: 		14  +2
-	Charisma: 		16  +3
-
-Height: 183cm (6ft 0in)
-Weight: 78kg (172lbs)
-
-Languages (sorted by time learned):
 	Draco-Dagsvaldian
 	Old Esrel
 
-Occupications:
-	Warrior
-	Jarl
-
-Magic:
-	Cantrips: Ray of Frost
-	Level 1: Dragonfire, Arcane Lock, Knock
-	Level 2: Locate Object (use on will, no spell slots required), Misty Step
-
-	Special: When death, he turns into ash which will form back into him again. He cannot feel pain, cannot be mind controlled, immune to phsychic damage, and is immune to sickness and disease.
+	Magic:
+		Level 1: Dragonfire, Arcane Lock, Knock
+		Level 2: Locate Object, Misty Step

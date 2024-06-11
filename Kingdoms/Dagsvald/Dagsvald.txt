@@ -23,7 +23,7 @@ Towns in Thuryngard:
 	Vilsnagur
 
 Castles:
-	Thuryngard (Capital)
+	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ulfalvik
 	Halgrid
 	Ynfrunar
