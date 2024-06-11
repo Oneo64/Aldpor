@@ -19,64 +19,23 @@ Monster Habitats:
 DEMONS
 ======================================================================================================================================================
 
-Daeva Warrior (large fiend):
-	Neutral Evil
+Daeva (large fiend):
+	A daeva is a demon, found mostly in hot regions. They are said to be people who have escaped from Hel.
 
-	Armor Class: 14 (lamellar armor)
-	Hit Points:  45 (6d8 + 18)
-	Speed:       30ft
+	Appearance:
+		A daeva appaers as a large humanoid. Their skin can be any vibrant color. Daevas have the tusks of a boat, and has the short horns of a goat, or the long curled horns of a sheep. They are mostly flat-faced. Their eyes appear to be normal, exept the whites of their eyes are actually yellow. They are mostly active during the night.
 
-	Strength: 		14  +2
-	Dexerity: 		12  +1
-	Constitution: 	14  +2
-	Intelligence: 	10
-	Wisdom:			10
-	Charisma:		13  +1
-
-	Skills: Performance +2, Survival +3
-	Skills: Animal Handling +3, Deception +2, Persuation +2, Survival +4
-	Senses: Darkvision 40m (120ft), Passive Perception 12
-	Languages: Abyssal
-	Challenge: 3
-
-	Special Traits:
-		Night Dweller: When it is day, the daeva deal 2 less damage, and take 2 more damage, and it's Passive Perception becomes 8.
+		Daevas tend to wear only a skirt.
 
 	Abilities:
-		Scimitar: Melee Weapon Attack: +3 to hit, reach 2m (6ft), one target. Hit: 9 (1d6 + 5) slashing damage.
-		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
+		Daevas are stonger than normal men. They mostly favor the scimitar, using iron to make them.
+		Daevas are also able to consume the corpse of a human or elf, healing itself in the process.
 
-		Multiattack: The daeva makes two attacks with it's scimitar. 
+		Some daevas are able to use an innate magic, who can give a sleeping enemy they can see a nightmare. These daevas are usually the leaders of their group, if they are in one.
 
+		When daevas are in daylight, they feel weak, and cannot see, or hear as good. But their peak strength come from the night.
 
-
-Daeva Sorcerer (large fiend):
-	Neutral Evil
-
-	Armor Class: 10
-	Hit Points:  45 (6d8 + 18)
-	Speed:       30ft
-
-	Strength: 		12  +1
-	Dexerity: 		13  +1
-	Constitution: 	12  +1
-	Intelligence: 	12  +1
-	Wisdom:			14  +2
-	Charisma:		15  +2
-
-	Skills: Performance +2, Survival +3
-	Senses: Darkvision 40m (120ft), Passive Perception 12
-	Languages: Abyssal
-	Challenge: 3
-
-	Special Traits:
-		Night Dweller: When it is day, the daeva deal 2 less damage, and take 2 more damage, and it's Passive Perception becomes 8.
-
-	Abilities:
-		Nightmare: The daeva targets one creature it can see, that isn't undead or a construct, and is asleep. The creature is given a horrific nightmare, and the creature takes 1d8 + 4 necrotic damage.
-		Rock: Melee Weapon Attack: +4 to hit, reach 1m (3ft), one target. Hit: 5 (1d6 + 1) bludgeoning damage.
-
-		Eat: The daeva consumes a corpse of a human or elf it is standing on. The daeva regains 2d6 hit points.
+		Daevas speak Abyssal, and they mostly live in small groups, which mostly ranges from 3 to 20 members.
 
 
 

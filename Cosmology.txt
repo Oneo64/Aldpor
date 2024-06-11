@@ -1,11 +1,14 @@
 Names below here will bear the Dagsvaldian name of the thing
 
 Planes/Realms:
+	Talygva  = Material plane
+
 	Jælheim  = Good afterlife (LG, paradise to good people)
 	Hel      = Bad afterlife (CG, punishment realm to evil people)
 
 	Furnalfa = Plane of fey (N, infinite dark lush green forest)
 
+Dimensions:
 	Vorasil  = Ethereal plane
 	Maresil  = Astral plane
 
