@@ -2,25 +2,14 @@ Eilfror Eralmid
 Male
 Age: 33 (born 940, april 2)
 Alignment: Neutral
+Ethnicity: Dagsvaldian
+Race:      Human
 
-Skills:
-	Level:         Fighter 7
-	
-	Strength: 	   14  +2
-	Dexerity: 	   13  +1
-	Constitution:  15  +2
-	Intelligence:  13  +1
-	Wisdom: 	   15  +2
-	Charisma: 	   16  +3
+Eilfror is the current Jarl of Ulfalvik Castle.
 
-Languages (sorted by time learned):
+Abilities:
+	Longaxe
+
 	Dagsvaldian
 	Esrel
 	English
-
-Possessions:
-	Black round shield, with a white vegvisir
-	Dane axe
-
-Occupications:
-	Jarl of Ulfalvik

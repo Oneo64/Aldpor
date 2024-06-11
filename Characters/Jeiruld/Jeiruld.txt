@@ -5,85 +5,38 @@ Alignment: Lawful Neutral
 Ethnicity: Hendric
 Race:      Human
 
-Hometown: Forthias, Hendril
+Jeiruld is a wizard from Dagsvald. He was born in Forthias, Hendril, but he later traveled to Dagsvald, and opened an arcane evocation school called Academy of Aldorim, and is the current headmaster.
 
-Appearance:
-	Dark brown eyes
-	Fair/light cool skin
-	Bald
+He is a human, old and balding. He has dark brown eyes. He wears a black silk cloak, dark red robes, a leather belt, and a pair of leather boots. He also wears a golden circlet, and two silver rings on his left land. The front of his robes has two large pockes on the chest and leg part, holding things like spell components, papers, or scrolls. He is 170 centimeters tall.
 
-Apparel:
-	Black silk hooded cloak
-
-	Woolen dark red robes (ankle length)
-	Four large pockets on upper part of robes
-
-	Leather boots
-	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
-
-	Leather pouch (hung on right side of belt, dimensions about 15x30)
-	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
-
-	Gold circlet
-	Silver rings on index and middle finger on left hand
+Jeiruld is very intelligent and wise, knowing many spells, ancient items, and history that goes back over two thousand years.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Observant
-			2. Analytical
+	POSITIVE:
+		1. Observant
+		2. Analytical
 
-		NEUTRAL:
-			1. Mysterious
+	NEUTRAL:
+		1. Mysterious
 
-		NEGATIVE:
-			1. Slightly wrathful
-			2. Aloof
+	NEGATIVE:
+		1. Slightly wrathful
+		2. Aloof
 
-		OTHERS (Not really personality):
-			1. Intelligent (smart, logical)
-			2. Wise
+Abilities:
+	Magic
+	Alchemy (potion brewing)
+	Astrology
 
-Power:
-	Master of Magic
-
-Skills:
-	Real:
-		Magic
-		Linguistics
-		Alchemy (potion brewing)
-		Astrology
-
-	Alchemist's Supplies
-
-	Level:          Wizard 10
-	
-	Strength: 	    10
-	Dexerity:       13 	+1
-	Constitution: 	14 	+2
-	Intelligence: 	18	+4  proficiency
-	Wisdom: 	    16 	+3  proficiency
-	Charisma: 	    12	+1
-
-Height: 170cm (5ft 7in)
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
-	English
+	Hendric
 	Esrel
 	Dagsvaldian
-	Ranudan
-	Draconic*
-	Primordial*
-	Infernal (or abyssal)*
+	Ranûdan
+	Primordial
+	Abyssal
 
-Occupications:
-	Wizard
-	Teacher, headmaster of Academy of Aldorim
-
-Attacks:
-	(Level 10) Spells:
-		Cantrips:
+	Magic:
+		Cantrips (5):
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		
 		Level 1 (9):

@@ -5,23 +5,11 @@ Alignment: Chaotic Neutral
 Ethnicity: Banodic
 Race:      Dwarf
 
-Hometown: Banod
+Mod is a dwarf from Banod. He has blood red hair, and a beard braided into one, clamped by a silver clasp. His eyes are red, and his skin is pale and slightly dark. He wears a nasal helmet, black capelet, bronze hauberk, black shirt, baggy blue pants, and leather shoes. He also wears a leather belt, which has a coin purse attached. He is 130 centimeters tall.
 
-Appearance:
-	Long blood red hair
-	Beard braided into one, clamped by a silver clasp
+Mod carries an engraved war hammer, and a bronze shield carved in Banodic that says "Balkrosdi-mod", meaning "Mod's Shield", "balkros" meaning "shield" and "di" meaning "of".
 
-	Vibrant red eyes
-	Very pale skin
-
-Apparel:
-	Bronze nasal helmet (imagine norman nasal helmet, but the nose piece is longer and wider)
-	Bronze chainmail hauberk, the bottom split into 6 instead of four (A piece of chainmail covering front and back side of both legs, and a piece covering each side)
-
-	Black capelet
-	Black linen shirt
-	Dark blue baggy pants
-	Leather shoes
+His coin purse contains about 20 gold and 40 silver.
 
 Personality:
 	POSITIIVE:
@@ -32,44 +20,7 @@ Personality:
 		1. Reckless
 		2. Pompous
 
-Power:
-	Trained with warhammer
+Abilities:
+	War Hammer
 
-Skills:
-	Real:
-		Dwarvish Weaponbashing
-
-	Game:
-		History
-		Athletics
-
-	Level:          Fighter 6
-
-	Strength: 	    14  +2 proficiency
-	Dexerity:       11
-	Constitution: 	14 	+2 proficiency
-	Intelligence: 	10
-	Wisdom: 	    8 	-1
-	Charisma: 	    12	+1
-
-Height: 130cm (4ft 3in)
-Weight: 64kg (141lbs)
-
-Carrying Wealth: 20 gp, 40 sp
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
 	Banodic
-
-Possessions:
-	A war hammer without a pointy tip
-	A bronze buckler with the words "Balkrosdi-mod" carved on it's front (meaning "Mod's Shield" in Banodic, "balkros" = shield, "di" = of, "mod" = this guy's name)
-
-	Small cloth bag: Gold and silver
-
-Occupications:
-	Fighter
-
-Attacks:
-	Can use warhammer
-	Can use shield (shield bash)

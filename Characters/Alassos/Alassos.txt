@@ -20,7 +20,7 @@ Personality:
 		
 	Optimistic (perspective on the future)
 
-Skills:
+Abilities:
 	Mace
 	Stealth
 
