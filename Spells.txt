@@ -10,6 +10,7 @@ Mage Hand (cantrip)
 A white spectral hand pops out of your hand. You can make this hand fly in a direction at a speed of 2 meters a second. The hand mimics the rotational movement of your hand and fingers. The hand can move only 20 kilograms of force. Trying to move objects heavier than this causes the spell to end.
 
 ======================================================================================================================================================
+
 Misty Step (level 1)
 	Casting time: instantaneous
 	Range:        15 meters
@@ -68,6 +69,15 @@ A mote of burning frost shoots out of your hand. If it hits a creature, for the 
 
 ======================================================================================================================================================
 
+Cure Wounds (level 1)
+	Casting time: 3 seconds
+	Range:        Touch
+	Requirements: V, S
+
+You touch a creature. You can choose up to 3 wounds or one broken limb/bone to heal, and all small cuts are automatically healed. Severed limbs cannot be grown back, but will grow skin over the wound and ease pain if chosen as a wound.
+
+======================================================================================================================================================
+
 Dragonfire (level 1)
 	Casting time: 3 seconds
 	Range:        10 meters
@@ -122,21 +132,33 @@ The user picks a spot on a surface, then traces their finger around that surface
 TRANSMUTATION
 ======================================================================================================================================================
 
+Feather Fall (level 1)
+	Casting time: 3 seconds
+	Range:        10 meters
+	Requirements: V, S, M (a quill)
+	Duration:     concentration up to 20 seconds
+
+An object or creature you choose start to fall at a slower rate, and will not take fall damage.
+
+======================================================================================================================================================
+
 Telekinesis (level 5)
 	Casting time: 3 seconds
 	Range:        40 meters
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
-An object or creature the user chooses hovers in the air for the duration. The target must be 200 kilograms or lower. The user can make the object or creature float in a direction at a speed of 2 meters a second. For every level this spell is cast above the fifth level, the user can levitate one additional object, or creature.
+An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters a second. For every level this spell is cast above the fifth level, you can levitate one additional object, or creature.
 
 If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
 
 
-
-Spell list:
+======================================================================================================================================================
+SPELL LIST
+======================================================================================================================================================
 	CLERIC:
 		Level 1:
+			Cure Wounds
 			Detect Magic
 
 	DRUID:
@@ -144,6 +166,7 @@ Spell list:
 			Poison Spray
 
 		Level 1:
+			Cure Wounds
 			Detect Magic
 			Misty Step
 
@@ -177,6 +200,7 @@ Spell list:
 			Cold Snare
 			Detect Magic
 			Dragonfire
+			Feather Fall
 			Illusory Script
 			Misty Step
 
@@ -187,6 +211,7 @@ Spell list:
 		Level 5:
 			Telekinesis
 
+======================================================================================================================================================
 
 DnD spell list:
 	CLERIC:
