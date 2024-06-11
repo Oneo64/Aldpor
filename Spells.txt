@@ -41,6 +41,20 @@ You can command it to perform one of the following: Attack a target, restrain a 
 
 
 ======================================================================================================================================================
+CONJURATION
+======================================================================================================================================================
+
+Detect Magic (level 1)
+	Casting time: instantaneous
+	Range:        100 meters
+	Requirements: V, S
+	Duration:     concentration up to 10 minutes
+
+You chant the incantation of this spell. While chanting, only you can see areas of high magical activity which will appear to glow, and you can tell what type of magic it is.
+
+
+
+======================================================================================================================================================
 EVOCATION
 ======================================================================================================================================================
 
@@ -122,13 +136,15 @@ If the target is moved farther than 20 meters, the spell starts to get weaker, a
 
 Spell list:
 	CLERIC:
-		
+		Level 1:
+			Detect Magic
 
 	DRUID:
 		Cantrips:
 			Poison Spray
 
 		Level 1:
+			Detect Magic
 			Misty Step
 
 		Level 4:
@@ -141,6 +157,7 @@ Spell list:
 
 		Level 1:
 			Cold Snare
+			Detect Magic
 			Dragonfire
 			Misty Step
 
@@ -158,6 +175,7 @@ Spell list:
 
 		Level 1:
 			Cold Snare
+			Detect Magic
 			Dragonfire
 			Illusory Script
 			Misty Step
