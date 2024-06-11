@@ -50,10 +50,10 @@ Abilities:
 		Fire Bolt, Message, Mage Hand, Prestidigitation
 		
 		Level 1 (8):
-		Cold Snare, Detect Magic, Feather Fall, Illusory Script, Mage Armor, Magic Missile, Protection from E/G, Shield
+		Cold Snare, Detect Magic, Feather Fall, Illusory Script, Mage Armor, Magic Missile, Shield
 		
 		Level 2 (7):
-		Arcane Lock, Detect Thoughts, Hold Person, Invisibility, Knock, Locate Object, Misty Step
+		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object, Misty Step
 		
 		Level 3 (5):
 		Counterspell, Dispel Magic, Lightning Bolt, Major Image, Magic Circle
