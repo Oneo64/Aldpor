@@ -5,93 +5,28 @@ Alignment: Lawful Good
 Ethnicity: Aodesvic
 Race: Celestial Human Hybrid
 
-Hometown: Pendlas Mus, Aodesvu
+Vielthori is a celestial human aligned with Lûnanyr, born in Pendlas Mus. She has vibrant green eyes, fair skin and long, light blond hair. She wears a purple surcoat bearing Lûnanyr's symbol, a hauberk, a nasal helmet lined with gold, a grey tunic, brown pants, a belt, and a pair of boots. She also has a scabbard on her belt. She is 160 centimeters tall.
 
-Appearance:
-	Vibrant green eyes
-	Fair/light cool skin
-	Long light blond hair
+She carries a spatha, and a purple kite shield similar to a norman one.
 
-Apparel:
-	Purple surcoat with white symbol of Lûnanyr
-
-	Chainmail hauberk
-	Norman nasal helmet lined with gold
-
-	Linen grey tunic
-	Linen brown pants
-
-	Leather boots
-	Leather ring belt
-	Leather scabbard (on left side of hip, pointed down)
-
-Goal (sorted by priority first): "Protect" the world and the cycle of life from undeath
+Her goal is to "protect" the world and the cycle of life from undeath. She despises all types of necromancy unless it is only used to heal.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Friendly
-			2. Assertive
-			3. Generous
+	POSITIVE:
+		1. Friendly
+		2. Assertive
+		3. Generous
 
-		NEGATIVE:
-			1. Purist
-			2. Meddlesome
-			3. Overcritical
+	NEGATIVE:
+		1. Purist
+		2. Meddlesome
 
-	Specific:
-		She despises any necromancy that does anything else other than heal
+Abilities:
+	Barohin Swordfighting
 
-		Religion: Devoted to Lûnanyr
-
-Power:
-	Average with magic
-	Expert with sword and shield
-
-	Darkvision up to 3 meters (9ft)
-
-Skills:
-	Real:
-		Magic (1 year experience)
-		Barohin Swordfighting
-
-	Game:
-		Religion
-		Persuation
-
-	Level:          Cleric 1 / Fighter 2
-	
-	Strength: 	    8 	-1
-	Dexerity:       13 	+1
-	Constitution: 	12  +1
-	Intelligence: 	10
-	Wisdom: 	    14 	+2 proficiency
-	Charisma: 	    14	+2 proficiency
-
-Height: 160cm (5ft 3in)
-Weight: 50kg (110lbs)
-
-Carrying Wealth: 2 gp, 30 sp, 50 cp
-
-(English is also called hendric, * = not fluent)
-Languages (sorted by time learned):
 	Aodesvic
 	English
 
-Possessions:
-	A spatha
-	A purple kite (norman) shield bearing a white symbol of Lûnanyr
-
-Occupications:
-	Fighter
-	Cleric (Lûnanyr)
-
-Attacks:
-	Can use sword and shield
-
-	(Level 1 Cleric) Spells:
-		Spell points available: 4
-
-		Prepared:
-			Cantrips: Mending, Light
-			Level 1: Bless, Cure Wounds, Detect Evil and Good, Guiding Bolt
+	Cleric Magic:
+		Cantrips: Mending, Light
+		Level 1: Bless, Cure Wounds, Detect Evil and Good

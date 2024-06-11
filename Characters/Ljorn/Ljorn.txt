@@ -40,7 +40,7 @@ Abilities:
 	Swords
 	Axes
 
-	Magic:
+	Arcane Magic:
 		Prepared in orb:
 			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step

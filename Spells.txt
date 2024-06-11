@@ -248,7 +248,6 @@ Spell list:
 		Level 3:
 			Conjure Animals
 			Dispel Magic
-			Plant Growth
 			Sleet Storm
 			Speak with Plants
 			Water Walk

@@ -5,93 +5,42 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
-Saelri is a druid from Vesesvala. She has vibrant green eyes, pale skin, and golden hair. Like all cold elves, her earlobes are long. She has a white cloak, wears dark aqua robes, a belt, and a pair of shoes.
+Saelri is a druid from Vesesvala. She has vibrant green eyes, pale skin, and golden hair. Like all cold elves, her earlobes are long. She has a white cloak, wears dark aqua robes, a belt, and a pair of shoes. She has a sheathed dagger on her belt, and a pouch. She also has a coin purse, carrying a few gold and about 200 silver.
 
-Appearance:
-	Green eyes
-	Light light skin
-	Long golden hair
+Saelri is immune to all poison and disease, due to druidic practices. She also knows about Furnalfa.
 
-Apparel:
-	White hooded cloak
-	Woolen dark green robes with slight blue hue
-
-	Leather shoes
-	Leather belt
-
-	Sheathed dagger on belt
-
-	Leather pouch (hung on left side of belt)
-	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
+She carries around a pine wood staff, tipped with a small amber orb.
 
 Personality:
-	Traits:
-		POSITIVE:
-			1. Helpful
-			2. Patient
+	POSITIVE:
+		1. Helpful
+		2. Patient
 
-		NEGATIVE:
-			1. Extravagent
-			2. Disorganised
+	NEGATIVE:
+		1. Extravagent
+		2. Disorganised
 
-		Realistic view of future
+	Realistic view of future
 
-Skills:
-	Real:
-		Druidic Magic
+Abilities:
+	Druidic Magic
+	Medical things
+	Animal handling
 
-	Game:
-		Medicine
-		Nature
-		Survival
-		Animal Handling
-
-	Level:          Druid 7
-
-	Strength: 	    10
-	Dexerity:       15 	+2
-	Constitution: 	13 	+1
-	Intelligence: 	12	+1  proficiency
-	Wisdom: 	    16 	+3  proficiency
-	Charisma: 	    9	-1
-
-	Immune to poison and disease
+	Esrel
+	Druidic
+	Sylvan
+	Hendric
 
 	Wild Shape animals:
 		Brown bear (combat)
 		Cat (stealth)
 		Elk (travel)
 
-Carrying Wealth: 3 gp, 370 sp, 100 cp
+	Druidic Magic:
+		Cantrips known:
+		Druidcraft, Resistance, Shillelagh
 
-*=not fluent
-Languages (sorted by time learned):
-	Esrel
-	English
-	Ranûdan
-	Druidic
-	Sylvan*
-
-Possessions:
-	A staff made of pine wood, with a small amber orb (5 cm diameter) on the tip as an arcane focus
-	A small knife (or seax, used like a fork. it is currently sheathed on the belt)
-
-	Leather pouch:
-		A quill taken from a goose
-		10 sheets of parchment
-		10 sheets of vellum
-		3 blank scrolls
-		2 scrolls of incantations written in Esrel
-		A drinking horn
-		A waterskin (usually filled with water)
-
-Occupications:
-	Druid
-
-Attacks:
-	Cantrips known: Druidcraft, Resistance, Shillelagh
-
-	Prepared:
 		Level 1:
 		Create or Destroy Water, Cure Wounds, Entangle
 
@@ -104,12 +53,12 @@ Attacks:
 		Level 4:
 		Conjure Woodland Beings, Control Water
 
-	Circle spells:
-		Level 2:
-		Hold Person, Spike Growth
-
-		Level 3:
-		Sleet Storm, Slow
-
-		Level 4:
-		Freedom of movement, Ice storm
+Possessions:
+	Leather pouch:
+		A quill
+		10 sheets of parchment
+		10 sheets of vellum
+		3 blank scrolls
+		2 scrolls of incantations written in Esrel
+		A drinking horn
+		A waterskin

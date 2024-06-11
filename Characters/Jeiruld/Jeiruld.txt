@@ -35,7 +35,7 @@ Abilities:
 	Primordial
 	Abyssal
 
-	Magic:
+	Arcane Magic:
 		Cantrips (5):
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		

@@ -24,9 +24,6 @@ Abilities:
 	Dagsvaldian
 	Esrel
 
-Height: 172cm (5ft 8in)
-Weight: 65kg (143lbs)
-
 Possessions:
 	Leather pouch:
 		Drinking horn
