@@ -5,33 +5,9 @@ Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Hometown: Argonlav, Dagsvald
+Ljorn is a human born in Argonlav. His hair is dark blond, and wavy, which reaches his shoulders. His eyes are dark pale blue, and has fair skin. He wears a woolen cloak, dark purple robes, baggy blue pants, and leather boots. He has a scabbard on his belt, as well as two pouches. He has three pieces of jewelry all made of silver, a circlet, a necklace of Talmundur, and an arm ring which he wears on his left arm.
 
-Appearance:
-	Dark blue eyes
-	Fair/light cool skin
-	Shoulder length dark/dirty blond wavy hair (no style)
-	
-	Scar on left shoulder (result from arrow shot)
-
-Apparel:
-	Brown hooded cloak (wool, semi-circular)
-
-	Woolen dark purple robes (goes down to the middle of the shins, loose for flexibility while riding horse or sitting down)
-	Linen blue baggy pants
-
-	Leather boots
-	Leather ring belt
-	Leather scabbard (on left side of hip, pointed down)
-
-	Two leather pouches (hung on right side of belt, dimensions about 15x30)
-	Small cloth bag (hung on the right side of belt, to the left of the leather pouch. holds coins)
-
-	Silver necklace with Talmundur's symbol
-	Silver arm ring, on the left wrist
-	Silver circlet
-
-Goal/Motivation (sorted by priority first): Support/protect family, magic
+He has a scar on his left shoulder, resulting in a scar and weakening that arm.
 
 Personality:
 	Traits:
@@ -43,34 +19,23 @@ Personality:
 		NEGATIVE:
 			1. Appears Cold
 			2. Reserved
-
-		OTHERS (Not really personality):
-			1. Intelligent (smart, logical)
 		
 		Slightly introverted
 		Realistic (perspective on the future)
 
 	Specific:
-		Has a Dagsvaldian accent, speaks broken english
 		Deer meat is his favorite food
 
-		He likes to collect weird rocks, and likes to buy worthless trinkets and turn them into magical contraptions.
+Abilities:
+	Magic
+	Alchemy (potion brewing)
 
-		Left shoulder is weaker due to arrow injury.
+	Dagsvaldian
+	Esrel
+	Primordial
 
-Power:
-	Powerful with magic
-	Below average with physical
-	Above average with sword
-
-Skills:
-	Real:
-		Magic
-		Linguistics
-		Alchemy (potion brewing)
-
-		Swords
-		Axes
+	Swords
+	Axes
 
 	Game:
 		Arcana

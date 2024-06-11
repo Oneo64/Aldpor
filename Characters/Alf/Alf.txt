@@ -5,97 +5,35 @@ Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Hometown: Argonlav, Dagsvald
+Alf is a human born in Argonlav. He has fair skin which is slightly tanned, dark blue eyes, and brown hair that goes all the way down to his armpits. He wears a dark blue shawl, a chainmail hauberk, and a dark green tunic. He has a leather pouch and a bearded axe on his belt, and he wears leather boots on his feet. He is 172 centimeters tall. He works as a spear trainer.
 
-Appearance:
-	Dark blue eyes
-	Fair/light cool skin
-	Armpit-length brown hair, with two parts of hair hanging on both sides of head
-
-	Face:
-		Medium eyebrows
-		Hooded eyes
-		Oval head
-		Straight thin nose
-		Vertical forehead
-
-Apparel:
-	Gjermundbu Helmet when fighting
-
-	Dark blue cape
-	Chainmail Hauberk, over linen robes
-	Linen dark green robes (goes down to the middle of the shins)
-
-	Leather boots
-	Leather belt (on waist not hip, loose part of belt hanging down to below crotch)
-
-	Leather pouch (hung on left side of belt, dimensions about 15x30)
-
-	Spear on back
-	Bearded axe hung on belt
-	Round shield, with a black vegvisir painted over it
+He has a spear, and a white round shield with a black symbol similar to a vegvisir pained on it.
 
 Personality:
 	Traits:
 		POSITIVE:
-			1. Kind
-			2. Thoughtful (imaginative)
-			3. Careful
-
-		NEUTRAL:
-			1. Competitive
+			1. Careful
+			2. Competitive
 
 		NEGATIVE:
-			1. Unfriendly
-			2. Distrusting
+			1. Impulsive
 		
 		Optimistic (perspective on the future)
-		
-	Specific:
-		None
 
-Skills:
-	Real:
-		Spearfighting
-
-	Game:
-		Survival
-		Perception
-		Athletics
-		Intimidation
-
-	Level:          Fighter 6
-
-	Strength: 		14  +2
-	Dexerity: 		15  +2  proficiency
-	Constitution: 	16  +3  proficiency
-	Intelligence: 	11
-	Wisdom: 		13  +1
-	Charisma: 		14  +2
+Abilities:
+	Spearfighting
+	Dagsvaldian
+	Esrel
 
 Height: 172cm (5ft 8in)
 Weight: 65kg (143lbs)
 
-Languages (sorted by time learned):
-	Dagsvaldian
-	Esrel
-
 Possessions:
-	A spear
-	A bearded axe
-	A white shield painted with a black vegvisir
-
 	Leather pouch:
 		Drinking horn
-		Straw doll (don't ask me why)
 		Linen bag of nuts and raisins
 
 		6 unlit torches
 		A waterskin
 
 		15 meters of rope stuffed in the pouch
-
-Occupications:
-	Mercenary
-	Spear Fighter
-	Spear Trainer
