@@ -1,8 +1,8 @@
 ======================================================================================================================================================
 GENERAL APPEARANCE
 ======================================================================================================================================================
-Forceful magic appears as blue (examples: pure magical force used to damage, magic shields meant to block and take hits more than once)
-Soft magic appears white (examples: shields that )
+Forceful magic appears as faint blue (examples: pure magical force used to damage, magic shields meant to block and take hits more than once)
+Soft magic appears faint white (examples: shields that )
 
 
 
@@ -76,7 +76,7 @@ The chosen type cannot physically enter or leave the circle, or mentally effect 
 Shield (level 1)
 	Casting time: instantaneous
 	Range:        N/A
-	Requirements: V, M (your fist that must be alive)
+	Requirements: V, S
 	Duration:     concentration up to 30 seconds
 
 A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a second, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
@@ -90,9 +90,9 @@ CONJURATION
 Mage Hand (cantrip)
 	Casting time: 3 seconds
 	Range:        15 meters
-	Requirements: V, S, M (your hand that must be alive)
+	Requirements: V, S
 
-A white spectral hand pops out of your hand. You can make this hand fly in any direction at a speed of 2 meters a second. The hand mimics the rotational movement of your hand and fingers, except it cannot move too fast. The hand can move only 20 kilograms of force. Trying to move objects heavier than 20 kilograms, or pushing something against a thing heaver than 20 kilograms causes the spell to end.
+A white spectral hand pops out of your hand. You can make this hand fly in any direction at a speed of 2 meters per second. The hand mimics the rotational movement of your hand and fingers, except it cannot move too fast. The hand can move only 20 kilograms of force. Trying to move objects heavier than 20 kilograms, or pushing something against a thing heaver than 20 kilograms causes the spell to end.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -112,11 +112,37 @@ Poison Spray (cantrip)
 
 A puff of poisonous cloud shoots out of your hand.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Banishment (level 4)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S, M (a crystal ball at least 5 centimeters in diameter made of amber)
+	Duration:     concentration up to 1 minute
+
+A creature you can see that is alive within range is banished to it's home plane. If the target is native to the current plane, then sent to a demiplane instead.
+
+If the target is sent to a demiplane, then it is incapacitated, and remains there until the spell ends.
+
+If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
+
 
 
 ======================================================================================================================================================
 DIVINATION
 ======================================================================================================================================================
+
+Arcane Eye (level 4)
+	Casting time: instantaneous
+	Range:        100 meters
+	Requirements: V, M (a crystal ball at least 5 centimeters in diameter made of labadorite)
+	Duration:     concentration up to 1 hour
+
+You chant the incantation of this spell. While chanting, you can see though a magical eye that you created by casting this spell. You can choose to move or turn this magical eye in any direction you like. The eye moves at a speed of 4 meters per second.
+
+While this spell is active, your eyes must be closed. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Detect Magic (level 1)
 	Casting time: instantaneous
@@ -151,7 +177,7 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 Scrying (level 5)
 	Casting time: 10 seconds
 	Range:        infinite
-	Requirements: V, S, M (a crystal ball at least 5 centimeters in diameter made of labadorite)
+	Requirements: V, M (a crystal ball at least 5 centimeters in diameter made of labadorite)
 	Duration:     concentration up to 10 minutes
 
 Choose a specific creature in which you know it's appearance, or nature and mannerisms. The spell creates an invisible sensor in which you can see and hear through, and you can move the sensor anywhere instantly within 4 meters. If the creature moves, then the sensor will move with it, staying in it's location relatively to the creature (doesn't rotate with creature), ensuring it stays within 4 meters from it.
@@ -314,10 +340,28 @@ You can command it to perform one of the following: Attack a target, restrain a 
 Feather Fall (level 1)
 	Casting time: 3 seconds
 	Range:        10 meters
-	Requirements: V, S, M (a quill)
+	Requirements: V, S
 	Duration:     concentration up to 20 seconds
 
 An object or creature you choose start to fall at a slower rate, and will not take fall damage.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prestidigitation (cantrip)
+	Casting time: instantaneous
+	Range:        10 meters
+	Requirements: V
+	Duration:     1 hour
+
+You can choose one of the following effects to happen:
+	- A small illusory trinket appears on your hand for 10 seconds.
+	- An instantaneously faint, short sound happens at a point within range, such as wind, sound of glass shattering, footsteps, or voices.
+	- A 20 centimeter cube of any non-living material is flavoured, warmed, or chilled.
+	- An object of material is instantaneously cleansed or soiled.
+	- A candle, campfire, or a spot of flammable material is instantaneously lit or extinguished.
+	- A small mark or symbol appears on a surface for the duration.
+
+You can have 3 of it's non-instantaneous effects active at a time. If you create another non-instantaneous effect but already have 3 effects active, the oldest effect fades out. You can also choose to remove an effect.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -327,7 +371,7 @@ Telekinesis (level 5)
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
-An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters a second. For every level this spell is cast above the fifth level, you can levitate one additional object, or creature.
+An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second. For every level this spell is cast above the fifth level, you can levitate one additional object, or creature.
 
 If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
 
@@ -371,6 +415,7 @@ SPELL LIST
 			Fire Bolt
 			Mage Hand
 			Minor Illusion
+			Prestidigitation
 
 		Level 1:
 			Cold Snare
@@ -393,6 +438,10 @@ SPELL LIST
 			Lightning Bolt
 			Major Illusion
 
+		Level 4:
+			Arcane Eye
+			Banishment
+
 		Level 5:
 			Telekinesis
 
@@ -401,6 +450,7 @@ SPELL LIST
 			Fire Bolt
 			Mage Hand
 			Minor Illusion
+			Prestidigitation
 
 		Level 1:
 			Cold Snare
@@ -428,375 +478,10 @@ SPELL LIST
 			Lightning Bolt
 			Major Illusion
 
-		Level 5:
-			Scrying
-			Telekinesis
-
-======================================================================================================================================================
-
-DnD spell list:
-	CLERIC:
-		Cantrips:
-			Guidance
-			Light
-			Mending
-			Resistance
-			Sacred Flame
-			Spare the Dying
-			Thaumaturgy
-
-		Level 1:
-			Bane
-			Bless
-			Command
-			Create or Destroy Water
-			Cure Wounds
-			Detect Evil and Good
-			Detect Magic
-			Detect Poison and Disease
-			Inflict Wounds
-			Protection from Evil and Good
-			Purify Food and Drink
-			Shield of Faith
-		
-		Level 2:
-			Aid
-			Enhance Ability
-			Gentle Repose
-			Hold Person
-			Lesser Restoration
-			Locate Object
-			Prayer of Healing
-			Protection from Poison
-			Silence
-			Spiritual Weapon
-			Warding Bond
-
-		Level 3:
-			Animate Dead
-			Beacon of Hope
-			Bestow Curse
-			Daylight
-			Dispel Magic
-			Glyph of Warding
-			Magic Circle
-			Remove Curse
-			Revivify
-			Sending
-			Speak with Dead
-			Spirit Guardians
-			Tongues
-			Water Walk
-
-		Level 4:
-			Banishment
-			Control Water
-			Death Ward
-			Divination
-			Locate Creature
-			Stone Shape
-		
-		Level 5:
-			Commune
-			Contagion
-			Dispel Evil and Good
-			Greater Restoration
-			Hallow
-			Raise Dead
-			Scrying
-		
-		Level 6:
-			Blade Barrier
-			Create Undead
-			Find the Path
-			Harm
-			Heal
-			Planar Ally
-			True Seeing
-			Word of Recall
-
-		Level 7:
-			Conjure Celestial
-			Divine Word
-			Etherealness
-			Plane Shift
-			Regenerate
-			Resurrection
-			Symbol
-
-	DRUID:
-		Cantrips:
-			Druidcraft
-			Guidance
-			Mending
-			Poison Spray
-			Shillelagh
-		
-		Level 1:
-			Animal Friendship
-			Create or Destroy Water
-			Cure Wounds
-			Detect Magic
-			Detect Poison and Disease
-			Entangle
-			Jump
-			Longstrider
-			Purify Food and Drink
-			Speak with Animals
-
-		Level 2:
-			Animal Messenger
-			Barkskin
-			Darkvision
-			Enhance Ability
-			Gust of Wind
-			Hold Person
-			Lesser Restoration
-			Locate Animals or Plants
-			Locate Object
-			Moonbeam
-			Protection from Poison
-			Spike Growth
-
-		Level 3:
-			Conjure Animals
-			Dispel Magic
-			Sleet Storm
-			Speak with Plants
-			Water Walk
-		
-		Level 4:
-			Blight
-			Conjure Minor Elementals
-			Conjure Woodland Beings
-			Control Water
-			Dominate Beast
-			Ice Storm
-			Locate Creature
-			Polymorph
-			Stone Shape
-
-		Level 5:
-			Awaken
-			Commune with Nature
-			Conjure Elemental
-			Contagion
-			Greater Restoration
-			Mass Cure Wounds
-			Scrying
-			Tree Stride
-
-		Level 6:
-			Conjure Fey
-			Find the Path
-			Heal
-			Move Earth
-			Sunbeam
-			Transport via Plants
-			Wall of Thorns
-			Wind Walk
-
-		Level 7:
-			Mirage Arcane
-			Plane Shift
-			Regenerate
-
-	SORCERER:
-		Cantrips:
-			Cold Snare
-			Fire Bolt
-			Mage Hand
-			Mending
-			Message
-			Minor Illusion
-			Prestidigitation
-			Ray of Frost
-			Shocking Grasp
-		
-		Level 1:
-			Dragonfire
-			Detect Magic
-			Disguise Self
-			Expeditious Retreat
-			Feather Fall
-			Jump
-			Mage Armor
-			Magic Missile
-			Shield
-			Thunderwave
-		
-		Level 2:
-			Alter Self
-			Blur
-			Darkness
-			Darkvision
-			Detect Thoughts
-			Enhance Ability
-			Gust of Wind
-			Hold Person
-			Invisibility
-			Knock
-			Mirror Image
-			Misty Step
-			Scorching Ray
-			See Invisibility
-			Suggestion
-		
-		Level 3:
-			Blink
-			Counterspell
-			Dispel Magic
-			Fireball
-			Fly
-			Gaseous Form
-			Lightning Bolt
-			Major Image
-			Sleet Storm
-			Slow
-			Water Walk
-		
-		Level 4:
-			Banishment
-			Blight
-			Dimension Door
-			Dominate Beast
-			Ice Storm
-			Polymorph
-			Stoneskin
-			Wall of Fire
-		
-		Level 5:
-			Animate Objects
-			Cone of Cold
-			Dominate Person
-			Hold Monster
-			Seeming
-			Telekinesis
-			Teleportation Circle
-		
-		Level 6:
-			Chain Lightning
-			Circle of Death
-			Disintegrate
-			Globe of Invulnerability
-			Move Earth
-			Sunbeam
-			True Seeing
-		
-		Level 7:
-			Etherealness
-			Finger of Death
-			Fire Storm
-			Plane Shift
-			Teleport
-
-	WIZARD:
-		Cantrips:
-			Cold Snare
-			Fire Bolt
-			Mage Hand
-			Mending
-			Message
-			Minor Illusion
-			Prestidigitation
-			Ray of Frost
-			Shocking Grasp
-	
-		Level 1:
-			Dragonfire
-			Detect Magic
-			Disguise Self
-			Feather Fall
-			Grease
-			Illusory Script
-			Jump
-			Longstrider
-			Mage Armor
-			Magic Missile
-			Protection from Evil and Good
-			Shield
-			Unseen Servant
-		
-		Level 2:
-			Arcane Lock
-			Blur
-			Darkness
-			Detect Thoughts
-			Gentle Repose
-			Gust of Wind
-			Hold Person
-			Invisibility
-			Knock
-			Locate Object
-			Magic Weapon
-			Misty Step
-			Ray of Enfeeblement
-			Scorching Ray
-			See Invisibility
-			Suggestion
-		
-		Level 3:
-			Animate Dead
-			Bestow Curse
-			Blink
-			Counterspell
-			Dispel Magic
-			Fireball
-			Fly
-			Gaseous Form
-			Glyph of Warding
-			Lightning Bolt
-			Magic Circle
-			Major Image
-			Remove Curse
-			Sending
-			Sleet Storm
-			Slow
-		
 		Level 4:
 			Arcane Eye
 			Banishment
-			Blight
-			Conjure Minor Elementals
-			Control Water
-			Dimension Door
-			Fabricate
-			Ice Storm
-			Locate Creature
-			Polymorph
-			Stone Shape
-		
+
 		Level 5:
-			Animate Objects
-			Arcane Hand
-			Cone of Cold
-			Conjure Elemental
-			Dominate Person
-			Dream
-			Hold Monster
-			Modify Memory
 			Scrying
 			Telekinesis
-			Teleportation Circle
-			Wall of Force
-
-		Level 6:
-			Chain Lightning
-			Circle of Death
-			Contingency
-			Create Undead
-			Disintegrate
-			Globe of Invulnerability
-			Move Earth
-			Programmed Illusion
-			Sunbeam
-			True Seeing
-
-		Level 7:
-			Arcane Sword
-			Etherealness
-			Finger of Death
-			Plane Shift
-			Project Image
-			Symbol
-			Teleport
