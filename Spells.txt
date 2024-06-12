@@ -73,6 +73,15 @@ The chosen type cannot physically enter or leave the circle, or mentally effect 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Lesser Restoration (level 2)
+	Casting time: 30 seconds
+	Range:        Touch
+	Requirements: V, S
+
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Shield (level 1)
 	Casting time: instantaneous
 	Range:        N/A
@@ -86,6 +95,49 @@ A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a 
 ======================================================================================================================================================
 CONJURATION
 ======================================================================================================================================================
+
+Banishment (level 4)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S, M (a crystal ball at least 5 centimeters in diameter made of amber)
+	Duration:     concentration up to 1 minute
+
+A creature you can see that is alive within range is banished to it's home plane. If the target is native to the current plane, then sent to a demiplane instead.
+
+If the target is sent to a demiplane, then it is incapacitated, and remains there until the spell ends.
+
+If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conjure Animals (level 3)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 hour
+
+You summon fey spirits that appear in a space you choose withing range. You have 8 points to spend, you can summon:
+	- Bear:   8 points
+	- Moose:  8 points
+	- Elk:    6 points
+	- Fox:    4 points
+	- Wolf:   4 points
+	- Deer:   1 point
+	- Hare:   1 point
+
+The animals summoned are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will defend themselves from hostility.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entangle (level 1)
+	Casting time: 6 seconds
+	Range:        30 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minutes
+
+Choose a 5 meter radius of area you can see within range. Vines and plants sprout from the ground in that area, turning it into difficult terrain. If there was a creature in that area when you cast it, that creature is restrained by the vines and plants.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mage Hand (cantrip)
 	Casting time: 3 seconds
@@ -111,20 +163,6 @@ Poison Spray (cantrip)
 	Requirements: V, S
 
 A puff of poisonous cloud shoots out of your hand.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Banishment (level 4)
-	Casting time: 6 seconds
-	Range:        20 meters
-	Requirements: V, S, M (a crystal ball at least 5 centimeters in diameter made of amber)
-	Duration:     concentration up to 1 minute
-
-A creature you can see that is alive within range is banished to it's home plane. If the target is native to the current plane, then sent to a demiplane instead.
-
-If the target is sent to a demiplane, then it is incapacitated, and remains there until the spell ends.
-
-If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
 
 
 
@@ -191,6 +229,21 @@ You can also choose a location you remember in place of the creature, but you ca
 ======================================================================================================================================================
 ENCHANTMENT
 ======================================================================================================================================================
+
+Animal Messenger (level 2)
+	Casting time: 20 seconds
+	Range:        10 meters
+	Requirements: V, S, M (a handful of animal food corresponding to the animal picked)
+	Duration:     1 day
+
+Choose a creature that is capable of speech such as a crow, raven, or parrot. Speak a message less than 25 words. You then specify a location you have seen, and a general appearance of the recipient. The animal then sets out to the specified location to deliver the message. If it's a flying creature, then the range covers 80 kilometers a day, or 40 kilometers for other animals.
+
+When the animal finds a recipent, it stops somewhere within 3 meters of the recipent, and it speaks the message the way they would say it. For example, a crow sent to say a message will sound like a crow speaking.
+
+If the animal dies, then the spell ends.
+If the spell ends before the animal can find a recipent, the animal resumes it's life, unless it died.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hold Person (level 2)
 	Casting time: 6 seconds
@@ -325,6 +378,16 @@ The user picks a spot on a surface, then traces their finger around that surface
 TRANSMUTATION
 ======================================================================================================================================================
 
+Barkskin (level 2)
+	Casting time: 3 seconds
+	Range:        Touch
+	Requirements: V, S, M (bark of any hardwood tree which is consumed on use)
+	Duration:     concentration up to 30 minutes
+
+A living creature you touch is granted skin hard as the barks of trees. Their skin starts to look exactly like the bit of bark used as the material component.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Control Plant (level 4)
 	Casting time: 6 seconds
 	Range:        2 meters
@@ -334,6 +397,18 @@ Control Plant (level 4)
 A normal plant of your choosing that isn't a tree and you can see pops out of the ground. It's roots are it's legs, and it's branches are it's arms. The plant is under your control for the duration. Once the spell ends, if the plant is still on ground, the plant roots itself back on the spot. Otherwise, the plant dies.
 
 You can command it to perform one of the following: Attack a target, restrain a target, fetch an object, or interact with an object.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Control Water (level 4)
+	Casting time: instantaneous
+	Range:        100 meters
+	Requirements: V, S
+	Duration:     concentration up to 10 minutes
+
+Choose a body of water up to 20 meter cube of water you can see within range. You can choose any of the actions:
+	- The body of water flows freely in any direction you want given it sticks to a surface, which can flow up to 4 meters per second. For example, you could make water flow up a wall and across the ceiling, but you can't make the water fly into the air.
+	- The body of water splashes in any direction you choose exept up and down.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -390,7 +465,11 @@ SPELL LIST
 
 		Level 2:
 			Detect Thoughts
+			Lesser Restoration
 			Locate Object
+
+		Level 4:
+			Control Water
 
 		Level 5:
 			Scrying
@@ -402,13 +481,21 @@ SPELL LIST
 		Level 1:
 			Cure Wounds
 			Detect Magic
+			Entangle
 
 		Level 2:
+			Animal Messenger
+			Barkskin
 			Detect Thoughts
 			Misty Step
+			Lesser Restoration
+
+		Level 3:
+			Conjure Animals
 
 		Level 4:
 			Control Plant
+			Control Water
 
 	SORCERER:
 		Cantrips:
@@ -441,6 +528,7 @@ SPELL LIST
 		Level 4:
 			Arcane Eye
 			Banishment
+			Control Water
 
 		Level 5:
 			Telekinesis
@@ -481,6 +569,7 @@ SPELL LIST
 		Level 4:
 			Arcane Eye
 			Banishment
+			Control Water
 
 		Level 5:
 			Scrying

@@ -36,16 +36,17 @@ Abilities:
 		Brown bear (combat)
 		Cat (stealth)
 		Elk (travel)
+		Raven (flight)
 
 	Druidic Magic:
 		Cantrips known:
 		Druidcraft, Resistance, Shillelagh
 
 		Level 1:
-		Create or Destroy Water, Cure Wounds, Entangle
+		Cure Wounds, Entangle
 
 		Level 2:
-		Barkskin, Gust of Wind, Animal Messenger
+		Barkskin, Animal Messenger
 
 		Level 3:
 		Conjure Animals, Speak with Plants
