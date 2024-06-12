@@ -32,5 +32,8 @@ Abilities:
 	English
 
 	Cleric Magic:
-		Cantrips: Mending, Light
-		Level 1: Bless, Cure Wounds, Detect Evil and Good
+		Cantrips:
+		Mending
+
+		Level 1:
+		Bless, Cure Wounds, Detect Evil and Good

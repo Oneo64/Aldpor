@@ -44,16 +44,16 @@ Abilities:
 
 	Druidic Magic:
 		Cantrips known:
-		Poison Spray, Shillelagh
+		Druidcraft, Poison Spray, Shillelagh
 
 		Level 1:
 		Cure Wounds, Entangle
 
 		Level 2:
-		Animal Messenger, Barkskin
+		Animal Messenger, Barkskin, Moonbeam
 
 		Level 3:
-		Conjure Animals, Moonbeam
+		Conjure Animals, Travel by Tree
 
 		Level 4:
 		Conjure Woodland Beings, Control Water

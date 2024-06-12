@@ -187,6 +187,17 @@ Poison Spray (cantrip)
 
 A puff of poisonous cloud shoots out of your hand.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Travel by Tree (level 3)
+	Casting time: 6 seconds
+	Range:        300 meters
+	Requirements: V, S
+
+You touch a tree that is wider than you, and specify a destination. You are then engulfed by the tree's trunk, and is transported to a tree of the same type and size nearest to your destination specified, then you are pushed out of the destination tree's trunk. You can bring an additional creature medium or smaller, or an object you can carry.
+
+If the spell cannot find a tree of the same type and size within range, the spell does nothing. If the nearest tree found is farther than where you currently are, the spell does nothing.
+
 
 
 ======================================================================================================================================================
@@ -202,6 +213,16 @@ Arcane Eye (level 4)
 You chant the incantation of this spell. While chanting, you can see though a magical eye that you created by casting this spell. You can choose to move or turn this magical eye in any direction you like. The eye moves at a speed of 4 meters per second.
 
 While this spell is active, your eyes must be closed. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Detect Evil and Good (level 1)
+	Casting time: instantaneous
+	Range:        100 meters
+	Requirements: V, S
+	Duration:     concentration up to 10 minutes
+
+For the duration, you know any celestial or fiendish creature around you, and you also know where it is located.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -265,6 +286,26 @@ When the animal finds a recipent, it stops somewhere within 3 meters of the reci
 
 If the animal dies, then the spell ends.
 If the spell ends before the animal can find a recipent, the animal resumes it's life, unless it died.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bless (level 1)
+	Casting time: 3 seconds
+	Range:        10 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+Three creatures you can see within range are blessed. They are approximately 30% physically stronger, more immune to disease, and have more willpower. They will also repel undead and fiends if they aren't one.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bane (level 1)
+	Casting time: 3 seconds
+	Range:        10 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+Three creatures you can see within range are baned. They are approximately 30% physically weaker, less immune to disease, and have less willpower.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -347,13 +388,13 @@ Three darts of blue magic leap from your fingers one after another, homing onto 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Moonbeam (level 3)
+Moonbeam (level 2)
 	Casting time: 3 seconds
 	Range:        40 meters
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
-A thin beam of moonlight shines from your palm like a laser until the end of this spell's duration.
+A thin beam of scorching moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form.
 
 
 
@@ -445,6 +486,21 @@ Choose a body of water up to 20 meter cube of water you can see within range. Yo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Druidcraft (cantrip)
+	Casting time: instantaneous
+	Range:        10 meters
+	Requirements: V
+	Duration:     1 hour
+
+You can choose one of the following effects to happen:
+	- You recieve mental information on how the weather will be like for the next 24 hours.
+	- You instantly make flower blossom, a seed pod open, or a leaf bud bloom.
+	- An instantaneously faint, short sound happens at a point within range, such as a puff of wind, chirp of a bird, rustle of bushes, or the faint odor of a skunk.
+
+You can have 3 of it's non-instantaneous effects active at a time. If you create another non-instantaneous effect but already have 3 effects active, the oldest effect fades out. You can also choose to remove an effect.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Feather Fall (level 1)
 	Casting time: 3 seconds
 	Range:        10 meters
@@ -452,6 +508,15 @@ Feather Fall (level 1)
 	Duration:     concentration up to 20 seconds
 
 An object or creature you choose start to fall at a slower rate, and will not take fall damage.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mending (cantrip)
+	Casting time: instantaneous
+	Range:        Touch
+	Requirements: V, S, M (two lodestones)
+
+You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece seperately.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -463,7 +528,7 @@ Prestidigitation (cantrip)
 
 You can choose one of the following effects to happen:
 	- A small illusory trinket appears on your hand for 10 seconds.
-	- An instantaneously faint, short sound happens at a point within range, such as wind, sound of glass shattering, footsteps, or voices.
+	- An instantaneously faint, short sound happens at a point within range, such as a puff of wind, sound of glass shattering, footsteps, or voices.
 	- A 20 centimeter cube of any non-living material is flavoured, warmed, or chilled.
 	- An object of material is instantaneously cleansed or soiled.
 	- A candle, campfire, or a spot of flammable material is instantaneously lit or extinguished.
@@ -499,8 +564,14 @@ If the target is moved farther than 20 meters, the spell starts to get weaker, a
 SPELL LIST
 ======================================================================================================================================================
 	CLERIC:
+		Cantrips:
+			Mending
+
 		Level 1:
+			Bane
+			Bless
 			Cure Wounds
+			Detect Evil and Good
 			Detect Magic
 			Locate Object
 			Mage Armor
@@ -519,7 +590,10 @@ SPELL LIST
 
 	DRUID:
 		Cantrips:
+			Druidcraft
+			Mending
 			Poison Spray
+			Shillelagh
 
 		Level 1:
 			Cure Wounds
@@ -531,11 +605,12 @@ SPELL LIST
 			Barkskin
 			Detect Thoughts
 			Misty Step
+			Moonbeam
 			Lesser Restoration
 
 		Level 3:
 			Conjure Animals
-			Moonbeam
+			Travel by Tree
 
 		Level 4:
 			Conjure Woodland Beings
@@ -546,6 +621,7 @@ SPELL LIST
 		Cantrips:
 			Fire Bolt
 			Mage Hand
+			Mending
 			Minor Illusion
 			Prestidigitation
 
@@ -582,6 +658,7 @@ SPELL LIST
 		Cantrips:
 			Fire Bolt
 			Mage Hand
+			Mending
 			Minor Illusion
 			Prestidigitation
 
