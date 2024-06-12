@@ -40,16 +40,16 @@ Abilities:
 		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
 		
 		Level 1 (9):
-		Cold Snare, Detect Magic, Disguise Self, Feather Fall, Mage Armor, Magic Missile, Shield, Unseen Servant, Floating Disk
+		Cold Snare, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Shield
 		
 		Level 2 (7):
-		Detect Thoughts, Invisibility, Arcane Lock, Knock, Hold Person, Locate Object
+		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object
 		
 		Level 3 (6):
-		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Image, Remove Curse
+		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Illusion, Remove Curse
 		
 		Level 4 (6):
-		Arcane Eye, Blight, Control Water, Dimension Door, Fabricate, Polymorph
+		Arcane Eye, Banishment, Blight, Control Water, Polymorph
 		
 		Level 5 (4):
-		Plane Shift, Teleportation Circle, Telekinesis, Scrying
+		Telekinesis, Scrying

@@ -449,6 +449,19 @@ The user picks a spot on a surface, then traces their finger around that surface
 
 
 ======================================================================================================================================================
+NECROMANCY
+======================================================================================================================================================
+
+Blight (level 4)
+	Casting time: 3 seconds
+	Range:        20 meters
+	Requirements: V, S
+
+Necromantic energy washes over a living creature you point at, instantly draining a portion of it's vitality. Magical plants and trees are weak to this spell, and non-magical plants instantly shrivel up and die.
+
+
+
+======================================================================================================================================================
 TRANSMUTATION
 ======================================================================================================================================================
 
@@ -517,6 +530,16 @@ Mending (cantrip)
 	Requirements: V, S, M (two lodestones)
 
 You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece seperately.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Polymorph (level 4)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 hour
+
+Choose a living creature you can see within range. You then turn that creature into an animal you have physically seen for the duration. The mentality of the creature will match it's new form, but it remains it's morality.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -613,9 +636,11 @@ SPELL LIST
 			Travel by Tree
 
 		Level 4:
+			Blight
 			Conjure Woodland Beings
 			Control Plant
 			Control Water
+			Polymorph
 
 	SORCERER:
 		Cantrips:
@@ -649,9 +674,11 @@ SPELL LIST
 		Level 4:
 			Arcane Eye
 			Banishment
+			Blight
 			Control Water
 
 		Level 5:
+			Scrying
 			Telekinesis
 
 	WIZARD:
@@ -691,7 +718,9 @@ SPELL LIST
 		Level 4:
 			Arcane Eye
 			Banishment
+			Blight
 			Control Water
+			Polymorph
 
 		Level 5:
 			Scrying
