@@ -13,6 +13,10 @@ Ljorn carries around 5 golden coins and 200 silver in his coin purse.
 
 Ljorn has knowledge on history for the past thousand years, and he also knows about Furnalfa and Parhrûvaryg.
 
+Weapons:
+	Crucible steel viking sword
+	Bearded axe
+
 Personality:
 	POSITIVE:
 		1. Goodhearted

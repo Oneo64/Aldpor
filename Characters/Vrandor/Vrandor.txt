@@ -7,7 +7,10 @@ Race:      Dwarf
 
 Vrandor is a dwarf from Glomdur. He has long, wavy blond hair, and a long unstyled beard. His eyes are black, and his skin is very pale. He has a brown shawl, and wears a leather nasal helmet, iron breastplate, blue tunic, dark brown pants, and a pair of shoes. he is 135 centimeters tall. His belt has a coin purse, which holds a couple of gold coins and about 30 silver.
 
-He has a quiver of iron bolts, and a dwarven crossbow.
+He has a quiver of bolts, and a dwarven crossbow.
+
+Weapons:
+	Dwarven crossbow
 
 Personality:
 	POSITIIVE:

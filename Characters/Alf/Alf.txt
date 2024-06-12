@@ -9,6 +9,10 @@ Alf is a human born in Argonlav. He has fair skin which is slightly tanned, dark
 
 He has a spear, and a white round shield with a black symbol similar to a vegvisir pained on it.
 
+Weapons:
+	Spear
+	Round shield
+
 Personality:
 	POSITIVE:
 		1. Careful

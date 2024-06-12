@@ -11,6 +11,10 @@ Saelri is immune to all poison and disease, due to druidic practices. She also k
 
 She carries around a pine wood staff, tipped with a small amber orb.
 
+Weapons:
+	Pine wood staff tipped with small amber orb
+	Dagger
+
 Personality:
 	POSITIVE:
 		1. Helpful
@@ -40,16 +44,16 @@ Abilities:
 
 	Druidic Magic:
 		Cantrips known:
-		Druidcraft, Resistance, Shillelagh
+		Poison Spray, Shillelagh
 
 		Level 1:
 		Cure Wounds, Entangle
 
 		Level 2:
-		Barkskin, Animal Messenger
+		Animal Messenger, Barkskin
 
 		Level 3:
-		Conjure Animals, Speak with Plants
+		Conjure Animals, Moonbeam
 
 		Level 4:
 		Conjure Woodland Beings, Control Water

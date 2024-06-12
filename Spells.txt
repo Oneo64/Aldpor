@@ -12,7 +12,7 @@ ABJURATION
 
 Arcane Lock (level 2)
 	Casting time: instantaneous
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S
 	Duration:     lasts until lock breaks or dispelled
 
@@ -24,7 +24,7 @@ You can also set a password, which must be spoken to the lock. If the password i
 
 Arcane Unlock (level 2)
 	Casting time: instantaneous
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S
 
 An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked, then you must cast this spell again to unlock it. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
@@ -51,7 +51,7 @@ Choose a creature, an object, or a magical effect in range that you can see. If 
 
 Mage Armor (level 1)
 	Casting time: 10 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S, M (a handful of cobweb)
 	Duration:     1 hour
 
@@ -61,7 +61,7 @@ A blue mist forms around the body of a creature you touch, which will cause them
 
 Magic Circle (level 3)
 	Casting time: 20 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S, M (a chalk and glass powder which the spell consumes)
 	Duration:     1 hour
 
@@ -75,7 +75,7 @@ The chosen type cannot physically enter or leave the circle, or mentally effect 
 
 Lesser Restoration (level 2)
 	Casting time: 30 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
@@ -117,15 +117,38 @@ Conjure Animals (level 3)
 	Duration:     concentration up to 1 hour
 
 You summon fey spirits that appear in a space you choose withing range. You have 8 points to spend, you can summon:
-	- Bear:   8 points
-	- Moose:  8 points
-	- Elk:    6 points
-	- Fox:    4 points
-	- Wolf:   4 points
-	- Deer:   1 point
-	- Hare:   1 point
+	- Bear:       8 points
+	- Moose:      8 points
+	- Elk:        6 points
+	- Fox:        4 points
+	- Wolf:       4 points
+	- Hawk/Eagle: 4 points
+	- Boar/Pig:   2 points
+	- Deer:       1 point
+	- Hare:       1 point
+	- Crow/Raven: 1 point
 
 The animals summoned are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will defend themselves from hostility.
+
+If a fey spirit summoned by this spell dies, it disappears in a puff of lively green mist.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conjure Woodland Beings (level 4)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 hour
+
+You summon fey creatures that appear in a space you choose withing range. You have 8 points to spend, you can summon:
+	- Centaur: 4 points
+	- Dryad:   4 points
+	- Satyr:   2 points
+	- Sprite:  1 points
+
+The animals summoned are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will defend themselves from hostility.
+
+If a fey summoned by this spell dies, it disappears in a puff of lively green mist.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -271,7 +294,7 @@ A mote of burning frost shoots out of your hand. If it hits a creature, for the 
 
 Cure Wounds (level 1)
 	Casting time: 3 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S
 
 You touch a creature. You can choose up to 3 wounds or one broken limb/bone to heal, and all small cuts are automatically healed. Severed limbs cannot be grown back, but will grow skin over the wound and ease pain if chosen as a wound.
@@ -322,6 +345,16 @@ Magic Missiles (level 1)
 
 Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. For each level you cast this spell above the first level, one additional missile pops out.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Moonbeam (level 3)
+	Casting time: 3 seconds
+	Range:        40 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+A thin beam of moonlight shines from your palm like a laser until the end of this spell's duration.
+
 
 
 ======================================================================================================================================================
@@ -354,7 +387,7 @@ If you go further than the range, the spell ends.
 
 Invisibility (level 2)
 	Casting time: 3 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S
 	Duration:     concentration up to 10 minutes
 
@@ -366,7 +399,7 @@ If the creature picks up any item, or wears anything extra, the additional objec
 
 Illusory Script (level 1)
 	Casting time: 1 minute
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S, M (a jar of ink mixed with glass shards)
 	Duration:     5 days
 
@@ -380,7 +413,7 @@ TRANSMUTATION
 
 Barkskin (level 2)
 	Casting time: 3 seconds
-	Range:        Touch
+	Range:        touch
 	Requirements: V, S, M (bark of any hardwood tree which is consumed on use)
 	Duration:     concentration up to 30 minutes
 
@@ -440,6 +473,16 @@ You can have 3 of it's non-instantaneous effects active at a time. If you create
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Shillelagh (cantrip)
+	Casting time: 3 seconds
+	Range:        touch
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+A wooden object such as a staff, club, or even a wood plank you touch is imbued with the power of nature, giving it a soft green aura. For the duration, each forceful strike of the object produces a green flash, and whatever it hits suffers a brief poisonous sting that does not actually poison the target struck.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Telekinesis (level 5)
 	Casting time: 3 seconds
 	Range:        40 meters
@@ -492,8 +535,10 @@ SPELL LIST
 
 		Level 3:
 			Conjure Animals
+			Moonbeam
 
 		Level 4:
+			Conjure Woodland Beings
 			Control Plant
 			Control Water
 

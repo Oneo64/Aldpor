@@ -11,6 +11,10 @@ Mod carries an engraved war hammer, and a bronze shield carved in Banodic that s
 
 His coin purse contains about 20 gold and 40 silver.
 
+Weapons:
+	War hammer
+	Bronze shield carved with Banodic runes
+
 Personality:
 	POSITIIVE:
 		1. Sharing

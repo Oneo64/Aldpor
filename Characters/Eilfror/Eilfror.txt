@@ -7,6 +7,9 @@ Race:      Human
 
 Eilfror is the current Jarl of Ulfalvik Castle.
 
+Weapons:
+	Longaxe
+
 Abilities:
 	Longaxe
 
