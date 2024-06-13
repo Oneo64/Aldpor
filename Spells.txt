@@ -211,7 +211,7 @@ You then draw a rune on a wooden surface such as a tree, a wooden sign etc, in w
 	- Helm of Awe: A target in range that can see this rune gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
 	- Fright:      A target in range that can see this rune is frightened for the next five minutes.
 	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
-	- Shielding:   This rune has 5 charges. A projectile that enters the range of this spell is blocked by a white shimmering shield, using up one use. When all charges are expended, the rune fades and is non-magical.
+	- Shielding:   This rune has 5 charges. When a projectile enter the range of this spell, and there is empty space between the rune and the projectile, it is blocked by a white shimmering shield, using up one use. When all charges are expended, the rune fades and is non-magical.
 
 The rune's magic will be active until the drawing is destroyed, or dispelled.
 
