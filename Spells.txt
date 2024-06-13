@@ -207,10 +207,11 @@ Greater Runic Staves (level 4)
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a rune on the surface. You can choose one of the effects to apply:
+You then draw a rune on the surface, which glows slightly red. You can choose one of the effects to apply:
 	- Helm of Awe: A target in range that can see this rune gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
 	- Fright:      A target in range that can see this rune is frightened for the next five minutes.
 	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
+	- Shielding:   This rune has 5 charges. A projectile that enters the range of this spell is blocked by a white shimmering shield, using up one use. When all charges are expended, the rune fades and is non-magical.
 
 The rune's magic will be active until the drawing is destroyed, or dispelled.
 
@@ -224,7 +225,7 @@ Lesser Runic Staves (level 2)
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a rune on the surface. You can choose one of the effects to apply:
+You then draw a rune on the surface, which glows slightly red. You can choose one of the effects to apply:
 	- Gapaldur: A target in range is physically stronger when bare-handed.
 	- Vegvisir: A target in range is unbothered by difficult terrain for the next 24 hours.
 
