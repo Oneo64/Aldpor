@@ -3,15 +3,17 @@ STAT BLOCKS
 ======================================================================================================================================================
 
 Monster Habitats:
-	Desert:    Daeva Warrior, Daeva Sorcerer, Fire Elemental
-	Dungeon:   Draugr, Skeleton, Ghost
-	Forest:    Gvarth
-	Jungles:   Daeva Warrior, Daeva Sorcerer, Gvarth
-	Moors:     Daeva Warrior, Daeva Sorcerer
-	Mountains: Fire Elemental
-	Taiga:     Gvarth, Ice Elemental
-	Tundra:    Gvarth, Ice Elemental
-	Urban:     Ghost, Skeleton, Vamerk
+	Desert:          Daeva Warrior, Daeva Sorcerer, Fire Dragon, Fire Elemental
+	Dungeon:         Draugr, Ghost, Skeleton, Vamerk
+	Forest:          Centaur, Gvarth, Satyr
+	Furnalfa:        Centaur, Dryad, Gvarth, Satyr, Sprite
+	Jungles:         Daeva Warrior, Daeva Sorcerer, Gvarth
+	Moors:           Daeva Warrior, Daeva Sorcerer, Fire Dragon
+	Snowy Mountains: Frost Dragon, Ice Elemental
+	Mountains:       Fire Elemental, Frost Dragon
+	Taiga:           Frost Dragon, Ice Elemental
+	Tundra:          Frost Dragon, Ice Elemental
+	Urban:           Ghost
 
 
 
@@ -123,6 +125,30 @@ FEY
 Fey are natural inhabitants of Furnalfa, realm of pure nature.
 ======================================================================================================================================================
 
+Centaur (medium fey):
+	A centaur is a half man half horse found in Furnalfa and Talygva (material plane). They live in groups, small kingdoms, or the such.
+
+	Description:
+		A centaur is a hybrid, with the upper body of a human and the lower body of a horse.
+		
+		Centaurs matures by 20, and lives up to 150 years old.
+
+	Abilities:
+		Centaurs that live in or came from Furnalfa speak Druidic and Sylvan. If they came from Talygva, they might speak Druidic, Heirfgrian, Sylvan, Vatakish, any elvish variant, or a combination of the five.
+
+Dryad (medium fey):
+	Dryads are native to Furnalfa.
+
+	Description:
+		A dryad appears to be a beautiful woman that is completely green. She radiates green mist from every part of her body.
+
+		Dryads matures by 20, and lives up to 300 years old.
+
+	Abilities:
+		A dryad is able to unlimitedly carve all types of runic staves and perform the spells Druidcraft, Entangle, Seidur and Shillelagh. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to Talygva (material plane), and from Talygva to Furnalfa.
+
+		Dryads are able to speak Druidic, and Sylvan.
+
 Gvarth (huge fey):
 	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
@@ -139,6 +165,30 @@ Gvarth (huge fey):
 		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
 		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
+
+Satyr (medium fey):
+	A satyr is a goatman found in Furnalfa, and rarely, Talygva (material plane). They are more like nomads, and they travel in small groups of about 20 satyrs.
+
+	Description:
+		A satyr is a goatman, with the body of a human and the legs of a goat. They also have goat horns.
+		
+		Satyrs matures by 20, and lives up to 100 years old.
+
+	Abilities:
+		Satyrs are able to speak Sylvan.
+
+Sprite (tiny fey):
+	A sprite is a small humanoid found in sprite communities and villages in Furnalfa.
+
+	Description:
+		A sprite appears to be a small snow elf of wood variant, being wood-skinned and mostly brown haired.
+
+		Sprites matures by 5, and lives up to 30 years old.
+
+	Abilities:
+		A sprite is able to turn invisible, and they can know a creature's emotional state and moralities by touching them.
+
+		Sprites are able to speak Sylvan.
 
 
 
@@ -203,11 +253,3 @@ Vamerk (medium undead):
 		They are capable to using weapons and martial skills. They are just as intelligent as the average person, but are incapable of thought and emotion.
 
 		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells.
-
-
-
-======================================================================================================================================================
-OTHER
-======================================================================================================================================================
-
-Furnalfa:       Dryad, Satyr, Sprite
