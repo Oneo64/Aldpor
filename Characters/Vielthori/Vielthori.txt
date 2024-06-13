@@ -36,4 +36,4 @@ Abilities:
 		Mending, Wash of Radiance
 
 		Level 1:
-		Bless, Cure Wounds, Detect Evil and Good
+		Cure Wounds, Detect Evil and Good, Seidur

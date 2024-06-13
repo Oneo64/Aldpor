@@ -47,10 +47,10 @@ Abilities:
 		Druidcraft, Poison Spray, Shillelagh
 
 		Level 1:
-		Cure Wounds, Entangle
+		Cure Wounds, Entangle, Seidur
 
 		Level 2:
-		Animal Messenger, Barkskin, Moonbeam
+		Animal Messenger, Moonbeam, Lesser Runic Staves
 
 		Level 3:
 		Conjure Animals, Travel by Tree

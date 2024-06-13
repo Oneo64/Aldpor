@@ -207,7 +207,7 @@ Greater Runic Staves (level 4)
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a rune on the surface, which glows slightly red. You can choose one of the effects to apply:
+You then draw a rune on a wooden surface such as a tree, a wooden sign etc, in which the rune glows slightly red. You can choose one of the effects to apply:
 	- Helm of Awe: A target in range that can see this rune gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
 	- Fright:      A target in range that can see this rune is frightened for the next five minutes.
 	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
@@ -225,7 +225,7 @@ Lesser Runic Staves (level 2)
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a rune on the surface, which glows slightly red. You can choose one of the effects to apply:
+You then draw a rune on a wooden surface such as a tree, a wooden sign etc, in which the rune glows slightly red. You can choose one of the effects to apply:
 	- Gapaldur: A target in range is physically stronger when bare-handed.
 	- Vegvisir: A target in range is unbothered by difficult terrain for the next 24 hours.
 
@@ -349,9 +349,10 @@ Seidur (level 1)
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
 	- You know if the target will be lucky or unlucky over the next week.
-	- You give the target a slight boost of physical and mental strength for the duration. The target cannot be affected by this spell for the next week.
+	- The target gains slight physical and mental strength, and is stronger against disease for the duration.
+	- The target loses slight physical and mental strength, and is weaker against disease for the duration.
 
-The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing.
+The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targetted by another seidur spell again for the next week.
 
 
 
@@ -371,26 +372,6 @@ When the animal finds a recipent, it stops somewhere within 3 meters of the reci
 
 If the animal dies, then the spell ends.
 If the spell ends before the animal can find a recipent, the animal resumes it's life, unless it died.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Bless (level 1)
-	Casting time: 3 seconds
-	Range:        10 meters
-	Requirements: V, S
-	Duration:     concentration up to 1 minute
-
-Three creatures you can see within range are blessed. They are approximately 30% physically stronger, more immune to disease, and have more willpower. They will also repel undead and fiends if they aren't one.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Bane (level 1)
-	Casting time: 3 seconds
-	Range:        10 meters
-	Requirements: V, S
-	Duration:     concentration up to 1 minute
-
-Three creatures you can see within range are baned. They are approximately 30% physically weaker, less immune to disease, and have less willpower.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -726,8 +707,6 @@ SPELL LIST
 			Wash of Radiance
 
 		Level 1:
-			Bane
-			Bless
 			Cure Wounds
 			Detect Evil and Good
 			Detect Magic
@@ -768,6 +747,7 @@ SPELL LIST
 			Cure Wounds
 			Detect Magic
 			Entangle
+			Seidur
 
 		Level 2:
 			Animal Messenger
@@ -777,6 +757,7 @@ SPELL LIST
 			Misty Step
 			Moonbeam
 			Lesser Restoration
+			Lesser Runic Staves
 
 		Level 3:
 			Conjure Animals
@@ -787,6 +768,7 @@ SPELL LIST
 			Conjure Woodland Beings
 			Control Plant
 			Control Water
+			Greater Runic Staves
 			Polymorph
 
 		Level 5:
