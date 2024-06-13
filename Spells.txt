@@ -199,6 +199,39 @@ Choose a 5 meter radius of area you can see within range. Vines and plants sprou
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Greater Runic Staves (level 4)
+	Casting time: 20 seconds
+	Range:        20 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
+	Duration:     until dispelled
+
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
+
+You then draw a rune on the surface. You can choose one of the effects to apply:
+	- Helm of Awe: A target in range that can see this rune gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
+	- Fright:      A target in range that can see this rune is frightened for the next five minutes.
+	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
+
+The rune's magic will be active until the drawing is destroyed, or dispelled.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lesser Runic Staves (level 2)
+	Casting time: 20 seconds
+	Range:        20 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
+	Duration:     until dispelled
+
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
+
+You then draw a rune on the surface. You can choose one of the effects to apply:
+	- Gapaldur: A target in range is physically stronger when bare-handed.
+	- Vegvisir: A target in range is unbothered by difficult terrain for the next 24 hours.
+
+The rune's magic will be active until the drawing is destroyed, or dispelled.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Mage Hand (cantrip)
 	Casting time: 3 seconds
 	Range:        15 meters
@@ -290,24 +323,6 @@ Locate Object (level 2)
 	Duration:     concentration up to 10 minutes
 
 Choose an object in which you know it's appearance, or nature. While chanting, you can sense the direction of where this object is, how far it is, and the direction it's moving if it is.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Runic Staves (level 2)
-	Casting time: 20 seconds
-	Range:        20 meters
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
-	Duration:     until dispelled
-
-You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
-
-You then draw a rune on the surface. You can choose one of the effects to apply:
-	- Helm of Awe: A target in range that can see this rune gains a slight boost to their strength and durability, and they will feel more confident for the next hour.
-	- Fright:      A target in range that can see this rune feels uneasy and unsettling about their surroundings for the next minute.
-	- Vegvisir:    A target in range repels dirt as if waterproof for the next 24 hourss.
-	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
-
-The rune's magic will be active until the drawing is destroyed, or dispelled.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -723,8 +738,8 @@ SPELL LIST
 		Level 2:
 			Detect Thoughts
 			Lesser Restoration
+			Lesser Runic Staves
 			Locate Object
-			Runic Staves
 
 		Level 3:
 			Dispel Magic
@@ -733,7 +748,9 @@ SPELL LIST
 			Sulfur Rain
 
 		Level 4:
+			Banishment
 			Control Water
+			Greater Runic Staves
 
 		Level 5:
 			Greater Restoration
