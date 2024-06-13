@@ -420,7 +420,7 @@ A continuous blast of fire sprays out of your palm in a cone.
 
 Fireball (level 3)
 	Casting time: 3 seconds
-	Range:        40 meters
+	Range:        50 meters
 	Requirements: V, S
 
 A streak of orange light flashes from your pointing finger, causing the impact point to burst into a ball of fire in a 3 meter radius.
@@ -438,7 +438,7 @@ A bolt of fire shoots out of your pointing finger.
 
 Ice Storm (level 4)
 	Casting time: 6 seconds
-	Range:        40 meters
+	Range:        50 meters
 	Requirements: V, S
 
 An area you can see within range rains down a burst of heavy hail in a 5 meter radius.
@@ -447,10 +447,10 @@ An area you can see within range rains down a burst of heavy hail in a 5 meter r
 
 Lightning Bolt (level 3)
 	Casting time: 3 seconds
-	Range:        100 meters
+	Range:        50 meters
 	Requirements: V, S
 
-A bolt of bright pale blue of lightning connects your pointing finger to a point you are pointing at. Armor has almost no protection against this spell.
+A bolt of bright pale blue of lightning connects your pointing finger to a point you are pointing at. Armor has almost no protection against this spell, and creatures drenched in water take more damage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -465,7 +465,7 @@ Three darts of blue magic leap from your fingers one after another, homing onto 
 
 Moonbeam (level 2)
 	Casting time: 3 seconds
-	Range:        40 meters
+	Range:        50 meters
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
@@ -475,7 +475,7 @@ A thin beam of scorching moonlight shines from your palm until the end of this s
 
 Sulfur Rain (level 3)
 	Casting time: 6 seconds
-	Range:        40 meters
+	Range:        50 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
 
 An area you can see within range rains down a burst of sulfur about the size of hailstones in a 5 meter radius. The sulfurs explode in a fiery shower of sparks.
