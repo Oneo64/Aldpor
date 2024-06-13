@@ -66,7 +66,6 @@ Abilities:
 		Level 4 (3):
 		Animate Object, Arcane Eye, Banishment
 
-
 Possessions:
 	Leather pouch:
 		A small jar of oil
