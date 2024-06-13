@@ -293,6 +293,19 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Rune Write (level 5)
+	Casting time: 20 seconds
+	Range:        touch
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
+	Duration:     until dispelled
+
+Choose a rune from below, which will have these effects:
+	- Intimidation: A creature that can see this rune clearly is frightened.
+
+The rune's magic will be active until it is destroyed, or dispelled.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Scrying (level 5)
 	Casting time: 10 seconds
 	Range:        infinite
@@ -304,6 +317,20 @@ Choose a specific creature in which you know it's appearance, or nature and mann
 While this spell is active, your eyes must be closed, and you are deaf. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
 
 You can also choose a location you remember in place of the creature, but you cannot move the magical sensor.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Seidur (level 2)
+	Casting time: 10 seconds
+	Range:        100 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use)
+	Duration:     1 day
+
+You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
+	- You know if the target will be lucky or unlucky over the next week.
+	- You boost the target's physical and mental strength. The target cannot be affected by this spell for the next week.
+
+The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing.
 
 
 
@@ -523,6 +550,18 @@ Blight (level 4)
 
 Necromantic energy washes over a living creature you point at, instantly draining a portion of it's vitality. Magical plants and trees are weak to this spell, and non-magical plants instantly shrivel up and die.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Speak with Dead (level 3)
+	Casting time: 6 seconds
+	Range:        10 meters
+	Requirements: V, S
+	Duration:     10 minutes
+
+You target one humanoid corpse that had thought and emotional capability before it died. The corpse comes alive, and you can ask the corpse 5 questions. When five questions have been asked, the spell ends.
+
+When the spell ends, the corpse returns to it's dead state.
+
 
 
 ======================================================================================================================================================
@@ -679,10 +718,12 @@ SPELL LIST
 			Detect Thoughts
 			Lesser Restoration
 			Locate Object
+			Seidur
 
 		Level 3:
 			Dispel Magic
 			Magic Cirlce
+			Speak with Dead
 			Sulfur Rain
 
 		Level 4:
@@ -690,6 +731,7 @@ SPELL LIST
 
 		Level 5:
 			Greater Restoration
+			Rune Write
 			Scrying
 
 	DRUID:
