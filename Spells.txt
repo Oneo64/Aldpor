@@ -535,7 +535,7 @@ Animate Object (level 4)
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
-Choose an ordinary object you can see within range. The object must be a size of medium or smaller, and must resemble a creature that you know it's nature before. The target comes to life for the duration, and you can issue mental commands to the target. The animated object will defend itself against hostility.
+Choose an ordinary object you can see within range. The object must be a size of large or smaller, and must resemble a creature that you know it's nature before. The target comes to life for the duration, and you can issue mental commands to the target. The animated object will defend itself against hostility.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
