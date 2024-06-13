@@ -49,6 +49,18 @@ Choose a creature, an object, or a magical effect in range that you can see. If 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Greater Restoration (level 5)
+	Casting time: 30 seconds
+	Range:        touch
+	Requirements: V, S
+
+You touch a creature. You can perform one action:
+	- End a curse on the target, including the attunement to a cursed item if so.
+	- End an effect that has made the target physically or mentally weaker.
+	- Remove or repel something that has charmed or possessed the target.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Mage Armor (level 1)
 	Casting time: 10 seconds
 	Range:        touch
@@ -67,9 +79,19 @@ Magic Circle (level 3)
 
 You use a chalk to draw a magic circle of 3 meters radius on the ground, then sprinkle glass powder over the entire circle. Then you speak the incantation of this spell. The circle starts to glow blue.
 
-Choose one of the following: celestials, demons, elementals, fey, undead.
+Choose one of the following: celestials, fiends, elementals, fey, undead.
 
 The chosen type cannot physically enter or leave the circle, or mentally effect those on the other side.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Protection from Evil and Good (level 1)
+	Casting time: 3 seconds
+	Range:        touch
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Lûnanyr or Hirulfyr which is consumed on use)
+	Duration:     concentration up tp 10 minutes
+
+Until the spell ends, a target you touch is immune to charming or possession from the following creatures: celestials, fiends, fey. If the target is already charmed or possessed, then the target is able to break out.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,10 +135,10 @@ If the target is sent back to it's home plane, then if the spell ends before the
 Conjure Animals (level 3)
 	Casting time: 6 seconds
 	Range:        20 meters
-	Requirements: V, S
+	Requirements: V, S, M (carved figures that has the basic appearance of the animals to conjure)
 	Duration:     concentration up to 1 hour
 
-You summon fey spirits that appear in a space you choose withing range. You have 8 points to spend, you can summon:
+You conjure animals that appear in a space you choose withing range. You have 8 points to spend, you can conjure:
 	- Bear:       8 points
 	- Moose:      8 points
 	- Elk:        6 points
@@ -128,9 +150,24 @@ You summon fey spirits that appear in a space you choose withing range. You have
 	- Hare:       1 point
 	- Crow/Raven: 1 point
 
-The animals summoned are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will defend themselves from hostility.
+The conjured animals are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
 
-If a fey spirit summoned by this spell dies, it disappears in a puff of lively green mist.
+If an animal conjured by this spell dies, it disappears in a puff of lively green mist.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conjure Elementals (level 4)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 hour
+
+You conjure elementals that appear in a space you choose withing range. You can conjure:
+	- One or two fire elementals
+	- One or two ice elementals
+	- One fire elemental and one ice elemental
+
+The conjured elementals are friendly to you and anyone you choose, and you can verbally command them to do actions. They will automatically defend themselves from hostility.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,15 +177,15 @@ Conjure Woodland Beings (level 4)
 	Requirements: V, S
 	Duration:     concentration up to 1 hour
 
-You summon fey creatures that appear in a space you choose withing range. You have 8 points to spend, you can summon:
+You conjure fey creatures that appear in a space you choose withing range. You have 8 points to spend, you can conjure:
 	- Centaur: 4 points
 	- Dryad:   4 points
 	- Satyr:   2 points
 	- Sprite:  1 points
 
-The animals summoned are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will defend themselves from hostility.
+The conjured fey are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
 
-If a fey summoned by this spell dies, it disappears in a puff of lively green mist.
+If a fey conjured by this spell dies, it disappears in a puff of lively green mist.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -222,7 +259,7 @@ Detect Evil and Good (level 1)
 	Requirements: V, S
 	Duration:     concentration up to 10 minutes
 
-For the duration, you know any celestial or fiendish creature around you, and you also know where it is located.
+For the duration, you know any celestial, fiend, or fey creature around you, and you also know where it is located.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -370,6 +407,15 @@ A bolt of fire shoots out of your pointing finger.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Ice Storm (level 4)
+	Casting time: 6 seconds
+	Range:        40 meters
+	Requirements: V, S
+
+An area you can see within range rains down a burst of heavy hail in a 5 meter radius.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Lightning Bolt (level 3)
 	Casting time: 3 seconds
 	Range:        100 meters
@@ -395,6 +441,24 @@ Moonbeam (level 2)
 	Duration:     concentration up to 1 minute
 
 A thin beam of scorching moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sulfur Rain (level 3)
+	Casting time: 6 seconds
+	Range:        40 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
+
+An area you can see within range rains down a burst of sulfur about the size of hailstones in a 5 meter radius. The sulfurs explode in a fiery shower of sparks.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Wash of Radiance (cantrip)
+	Casting time: instantaneous
+	Range:        20 meters
+	Requirements: V, S
+
+A faint wave of sunlight shoots out of your palm and briefly engulfs a target you can see within range in burning light.
 
 
 
@@ -464,6 +528,16 @@ Necromantic energy washes over a living creature you point at, instantly drainin
 ======================================================================================================================================================
 TRANSMUTATION
 ======================================================================================================================================================
+
+Animate Object (level 4)
+	Casting time: 10 seconds
+	Range:        60 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 minute
+
+Choose an ordinary object you can see within range that resembles a creature that you know it's nature before. The target comes to life for the duration, and you can issue mental commands to the target. The animated object will defend itself against hostility.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Barkskin (level 2)
 	Casting time: 3 seconds
@@ -589,6 +663,7 @@ SPELL LIST
 	CLERIC:
 		Cantrips:
 			Mending
+			Wash of Radiance
 
 		Level 1:
 			Bane
@@ -598,17 +673,23 @@ SPELL LIST
 			Detect Magic
 			Locate Object
 			Mage Armor
-			Shield
+			Protection from Evil and Good
 
 		Level 2:
 			Detect Thoughts
 			Lesser Restoration
 			Locate Object
 
+		Level 3:
+			Dispel Magic
+			Magic Cirlce
+			Sulfur Rain
+
 		Level 4:
 			Control Water
 
 		Level 5:
+			Greater Restoration
 			Scrying
 
 	DRUID:
@@ -627,6 +708,7 @@ SPELL LIST
 			Animal Messenger
 			Barkskin
 			Detect Thoughts
+			Hold Person
 			Misty Step
 			Moonbeam
 			Lesser Restoration
@@ -642,6 +724,9 @@ SPELL LIST
 			Control Water
 			Polymorph
 
+		Level 5:
+			Greater Restoration
+
 	SORCERER:
 		Cantrips:
 			Fire Bolt
@@ -655,12 +740,12 @@ SPELL LIST
 			Detect Magic
 			Dragonfire
 			Feather Fall
+			Illusory Script
 			Mage Armor
 			Magic Missile
 			Shield
 
 		Level 2:
-			Detect Thoughts
 			Invisibility
 			Misty Step
 
@@ -672,10 +757,14 @@ SPELL LIST
 			Major Illusion
 
 		Level 4:
+			Animate Object
 			Arcane Eye
 			Banishment
 			Blight
+			Conjure Elementals
 			Control Water
+			Ice Storm
+			Polymorph
 
 		Level 5:
 			Scrying
@@ -691,12 +780,13 @@ SPELL LIST
 
 		Level 1:
 			Cold Snare
+			Detect Evil and Good
 			Detect Magic
 			Feather Fall
 			Illusory Script
 			Mage Armor
-			Magic Circle
 			Magic Missile
+			Protection from Evil and Good
 			Shield
 
 		Level 2:
@@ -713,13 +803,17 @@ SPELL LIST
 			Dispel Magic
 			Fireball
 			Lightning Bolt
+			Magic Circle
 			Major Illusion
 
 		Level 4:
+			Animate Object
 			Arcane Eye
 			Banishment
 			Blight
+			Conjure Elementals
 			Control Water
+			Ice Storm
 			Polymorph
 
 		Level 5:

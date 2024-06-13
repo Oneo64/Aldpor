@@ -33,7 +33,7 @@ Abilities:
 
 	Cleric Magic:
 		Cantrips:
-		Mending
+		Mending, Wash of Radiance
 
 		Level 1:
 		Bless, Cure Wounds, Detect Evil and Good
