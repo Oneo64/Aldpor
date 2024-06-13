@@ -45,10 +45,11 @@ Abilities:
 	Axes
 
 	Arcane Magic:
-		Prepared in orb:
+		Inside orb:
 			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
 			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
-			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Illusion
+			Level 3: Counterspell, Lightning Bolt, Major Illusion
+			Level 4: Animate Object
 
 		Cantrips (4):
 		Fire Bolt, Message, Mage Hand, Prestidigitation
@@ -62,8 +63,8 @@ Abilities:
 		Level 3 (5):
 		Counterspell, Dispel Magic, Lightning Bolt, Major Illusion, Magic Circle
 
-		Level 4 (2):
-		Arcane Eye, Banishment
+		Level 4 (3):
+		Animate Object, Arcane Eye, Banishment
 
 
 Possessions:
