@@ -293,16 +293,21 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Rune Write (level 5)
+Runic Staves (level 2)
 	Casting time: 20 seconds
-	Range:        touch
+	Range:        20 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
 	Duration:     until dispelled
 
-Choose a rune from below, which will have these effects:
-	- Intimidation: A creature that can see this rune clearly is frightened.
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-The rune's magic will be active until it is destroyed, or dispelled.
+You then draw a rune on the surface. You can choose one of the effects to apply:
+	- Helm of Awe: A target in range that can see this rune gains a slight boost to their strength and durability, and they will feel more confident for the next hour.
+	- Fright:      A target in range that can see this rune feels uneasy and unsettling about their surroundings for the next minute.
+	- Vegvisir:    A target in range repels dirt as if waterproof for the next 24 hourss.
+	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
+
+The rune's magic will be active until the drawing is destroyed, or dispelled.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -320,15 +325,15 @@ You can also choose a location you remember in place of the creature, but you ca
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Seidur (level 2)
-	Casting time: 10 seconds
-	Range:        100 meters
+Seidur (level 1)
+	Casting time: 30 seconds
+	Range:        infinite
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use)
 	Duration:     1 day
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
 	- You know if the target will be lucky or unlucky over the next week.
-	- You boost the target's physical and mental strength. The target cannot be affected by this spell for the next week.
+	- You give the target a slight boost of physical and mental strength for the duration. The target cannot be affected by this spell for the next week.
 
 The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing.
 
@@ -713,12 +718,13 @@ SPELL LIST
 			Locate Object
 			Mage Armor
 			Protection from Evil and Good
+			Seidur
 
 		Level 2:
 			Detect Thoughts
 			Lesser Restoration
 			Locate Object
-			Seidur
+			Runic Staves
 
 		Level 3:
 			Dispel Magic
@@ -731,7 +737,6 @@ SPELL LIST
 
 		Level 5:
 			Greater Restoration
-			Rune Write
 			Scrying
 
 	DRUID:
