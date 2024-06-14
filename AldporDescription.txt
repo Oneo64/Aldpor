@@ -76,7 +76,7 @@ Kingdoms:
 	Mornesvid (dwarves, speaks Mornesvian, main city on high hill, magocracy) (culture = scottish)
 	Banod (dwarves, speaks Banodic, culture = slavic, elected diarchy) (pronounced as baanod)
 
-	Vatakond (centaurs, speaks Vetakondian, culture = vatakish, magocracy)
+	Vatakond (centaurs, speaks Vatakish, culture = vatakish, magocracy)
 	Heirfgria (centaurs, speaks Heirfgrian, culture = heirfgrian, magocracy)
 
 	Neshozic Empire (orcs, speaks Neshozic, culture = neshozic, noocracy)

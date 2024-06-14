@@ -9,8 +9,9 @@ Ruler: Aodovash
 
 Villages:
 	Brustashar
+	Fiytharna
+	Gaodum Mus
 	Pendlas Mus
-	Fiythargaon
 
 Cities:
 	Yūsathu Gandathu

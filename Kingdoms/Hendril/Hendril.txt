@@ -7,10 +7,10 @@ Main languages: Hendric (English)
 Ruler: Taevus
 
 Towns:
-	Gellervail
 	Bantusea
-	Orfalan
 	Forthias
+	Gellervail
+	Zenixras
 
 Cities:
 	Jollantil (main place)
@@ -18,7 +18,8 @@ Cities:
 
 Fortresses:
 	Gavalor
-	Hedrolhal
+	Haedroval
+	Woparias
 
 Jollantil: Jollantil is a city built against a mountain cliff, with a wall surrounding it. Example:
 
