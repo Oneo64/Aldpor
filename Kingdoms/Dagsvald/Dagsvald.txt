@@ -26,7 +26,7 @@ Castles:
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ulfalvik
 	Halgrid
-	Ynfrunar
+	Ynfrûnar
 	Galundegt
 
 Dagsvald Castle: This castle is a large ring fortress made of stone, built on the top of a hill. The diameter is approximately 120 meters, and the buildings inside are made of stone instead of wood. The castle is then surrounded with a second curtain wall, which is about 6 meters high. This wall is much farther from the ring fortress, which can fit a few towns.
