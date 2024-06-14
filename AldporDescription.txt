@@ -67,7 +67,7 @@ Kingdoms:
 	Tarib (humans, speaks Taribian, culture = persian, aristocracy)
 
 	Esrelu (cold elves, speaks Esrel, culture = norse-elvish, noocracy)
-	Ranûdel (moon elves, speaks Ranûdan, culture = elvish, geniocracy)
+	Rànûdel (moon elves, speaks Rànûdan, culture = elvish, geniocracy)
 	Jûmlathnar (moon elves, speaks Ranûdan, culture = elvish, aristocracy) (pronounced as yoomlaanaar)
 	Vuntarla (cold elves, speaks Dagsvaldian + Esrel, culture = norse, absolute monarchy)
 	Aodesvu (moon elves, speaks Aodesvic, culture = elvish, constitutional monarchy)

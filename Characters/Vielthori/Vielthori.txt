@@ -29,7 +29,7 @@ Abilities:
 	Barohin Swordfighting
 
 	Aodesvic
-	English
+	Hendric
 
 	Cleric Magic:
 		Cantrips:

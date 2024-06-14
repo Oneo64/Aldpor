@@ -26,5 +26,5 @@ Abilities:
 	Acrobatics
 	Stealth
 
-	Ranûdan
+	Rànûdan
 	Hendric

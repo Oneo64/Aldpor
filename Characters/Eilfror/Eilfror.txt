@@ -15,4 +15,4 @@ Abilities:
 
 	Dagsvaldian
 	Esrel
-	English
+	Hendric

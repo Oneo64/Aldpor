@@ -25,6 +25,7 @@ Personality:
 
 Abilities:
 	Spearfighting
+	
 	Dagsvaldian
 	Esrel
 

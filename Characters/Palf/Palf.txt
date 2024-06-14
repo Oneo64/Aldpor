@@ -21,4 +21,4 @@ Abilities:
 	Sword
 
 	Dagsvaldian
-	English
+	Hendric
