@@ -9,12 +9,10 @@ Ruler: Ildiyre (gal)
 
 Villages:
 	Irbalûind
-	Yrfrostiru
-	Pelassel
 	Vesesvala
 	Minbaslûind
-	Fleriydöl
 
-Castles (stone):
-	Krinvriydan (main castle thingy)
+Castles:
 	Hathössali
+
+Hathössali: This castle is a large ring fortress made of stone, built on top of a small circular hill about 5 meters above the ground. This hill is surrounded by wooden spikes that protrude outwards. The diameter is approximately 80 meters, and the buildings inside are made of stone instead of wood.
