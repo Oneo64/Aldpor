@@ -96,11 +96,6 @@ Trainers:
 	Uncommon: Sword, Longaxe, Magic academies Level 1-5
 	Rare: Magic academies Level 6-10
 
-Kingdom sizes:
-	Small:  1 Town   + 3 Villages
-	Medium: 1 City   + 2 Towns + 10 Villages
-	Large:  2 Cities + 4 Towns + 20 Villages
-
 Average household (about 14 people):
 	age 1-20  x5
 	age 21-40 x4
@@ -108,9 +103,10 @@ Average household (about 14 people):
 	age 61+   x2
 
 Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
-	Village: About 30 houses (common crafters and shops) Population: 30 x 14 = 420   people
-	Town: About 100 houses (uncommon crafters and shops) Population: 100 x 14 = 1400 people
-	City: About 300 houses (rare crafters and shops)     Population: 300 x 14 = 4200 people
+	Village:  200  people (common crafters and shops)
+	Town:     2000 people (uncommon crafters and shops)
+	City:     6000 people (rare crafters and shops)
+	Fortress: 70  people (1 ruler + 9 ruler's family + 20 guards + 40 garrisoned soldiers)
 
 Lifespans:
 	Human = 70

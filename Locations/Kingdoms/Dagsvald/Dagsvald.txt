@@ -21,12 +21,14 @@ Towns in Thuryngard:
 	Kagindet
 	Vilsnagur
 
-Castles:
+Castles/Fortresses:
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ynfrûnar
 	Galundegt
 
-Thuryngard: This castle is a large ring fortress made of stone, built on the top of a hill. The diameter is approximately 120 meters, and the buildings inside are made of stone instead of wood. The castle is then surrounded with a second curtain wall, which is about 6 meters high. This wall is much farther from the ring fortress, which can fit a few towns.
+Thuryngard: This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Thalmundol, Kagindet, and Vilsnagur. The diameter is approximately 120 meters, and the buildings inside are made of stone instead of wood. The castle is then surrounded with a second curtain wall, which is about 6 meters high. This wall is much farther from the ring fortress, which can fit a few towns.
+
+Ynfrûnar and Galundegt: These fortresses are small stone fortresses about 30x30 meters in size.
 
 In the 'ring', there is a large longhouse built with mostly stone, except for the roof and the top 'triangle' wall part of the roof. This is where the king resides. The ring of the castle is generally reserved for only the king, his family, guards, soldiers, nobles and slaves (criminals serving a sentence).
 

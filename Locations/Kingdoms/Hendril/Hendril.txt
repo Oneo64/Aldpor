@@ -22,6 +22,7 @@ Fortresses:
 	Woparias
 
 Jollantil: Jollantil is a city built against a mountain cliff, with a wall surrounding it. Example:
+Gavalor, Haedroval and Woparias: These fortresses are small stone fortresses about 30x30 meters in size.
 
 
 W = Wall, C = Cliff face
