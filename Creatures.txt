@@ -46,7 +46,7 @@ Daeva (large fiend):
 ======================================================================================================================================================
 DRAGONS
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Dragons are two-legged creatures with a body length of over 20 meters, and spew fire or whatever type of dragon they are. These dragons are rare, and they perfer to live in forests, mountains, or near the ocean. They cannot speak, unlike dragons from other fantasy.
+Dragons are two-legged two-winged creatures with a body length of over 20 meters, and spew fire or whatever type of dragon they are. These dragons are rare, and they perfer to live in forests, mountains, or near the ocean. They cannot speak, unlike dragons from other fantasy.
 ======================================================================================================================================================
 
 Frost Dragon:

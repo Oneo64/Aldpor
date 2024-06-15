@@ -1,4 +1,7 @@
-RANDOM FORESTS:
+RANDOM LOCATIONS:
+
+Desert surrounding Tarib:
+This desert is a hot desert.
 
 Forests near Argonlav and under Esrelu, and west of Glomdur:
 These forests are made up of two areas. The northern area is a coniferous forest of tall pines, and some firs and spruces, and the bottom half is a mixed coniferous forest. The bottom half is about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
@@ -6,16 +9,19 @@ These forests are made up of two areas. The northern area is a coniferous forest
 Forests diagnally across the continent and surrounding Mornesvid:
 These forests are mixed forests.
 
+Mountains in the very north:
+These mountains are tall mountains covered in snow.
 
 
-KNOWN FORESTS:
+
+KNOWN LOCATIONS:
 
 Forests of Rànûdel:
 The Forests of Rànûdel is a very hilly forest in the west, and not very hilly in the east, consisting of only tall pines. There isn't much undergrowth. Mists with a blue hue surround this area, which seems to be bright, giving the sky a glowy look.
 This forest contains the first two moon shrines, the Shrine of Lûn and the Shrine of Vel.
 
 Sölshaef Forest and the taiga north of Mornesvid:
-These forests are snowy coniferous forests. This forest contains the last moon shrine, the Shrine of Aan.
+These forests are snowy coniferous forests.
 
 Heirfgrian Forest:
-This forest is a dark redwood forest. The main inhabitants are Heirgrian centaurs.
+This forest is a dark redwood forest. The main inhabitants are Heirgrian centaurs. This forest contains the last moon shrine, the Shrine of Aan.
