@@ -379,6 +379,16 @@ If the spell ends before the animal can find a recipent, the animal resumes it's
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Feign Death (level 3)
+	Casting time: 3 seconds
+	Range:        touch
+	Requirements: V, S
+	Duration:     1 hour
+
+A creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage exept those that target the mind or soul.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hold Person (level 2)
 	Casting time: 6 seconds
 	Range:        20 meters
@@ -765,6 +775,7 @@ SPELL LIST
 
 		Level 3:
 			Conjure Animals
+			Feign Death
 			Travel by Tree
 
 		Level 4:
@@ -852,6 +863,7 @@ SPELL LIST
 		Level 3:
 			Counterspell
 			Dispel Magic
+			Feign Death
 			Fireball
 			Lightning Bolt
 			Magic Circle
