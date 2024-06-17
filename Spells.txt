@@ -20,6 +20,8 @@ An object with a lock is magically locked, and feels oddly cold. Objects large e
 
 You can also set a password, which must be spoken to the lock. If the password is correct, the spell is inactive for 1 minute, or until the door is shut again.
 
+If used to lock, then this spell creates a quick flash of light originating from inside the lock, and a sharp crack sound. If the password is said correctly, the lock only makes a soft bang.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Arcane Unlock (level 2)
@@ -28,6 +30,8 @@ Arcane Unlock (level 2)
 	Requirements: V, S
 
 An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked, then you must cast this spell again to unlock it. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
+
+This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
