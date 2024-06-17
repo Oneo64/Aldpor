@@ -3,11 +3,20 @@ RANDOM LOCATIONS:
 Desert surrounding Tarib:
 This desert is a hot desert.
 
-Forests near Argonlav and under Esrelu, and west of Glomdur:
-These forests are made up of two areas. The northern area is a coniferous forest of tall pines, and some firs and spruces, and the bottom half is a mixed coniferous forest. The bottom half is about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
+Forests above Hendril:
+These forests have two parts. The northern part is a bright redwood forest, with little undergrowth, and the southern part is a bright birch forest.
 
 Forests diagnally across the continent and surrounding Mornesvid:
 These forests are mixed forests.
+
+Forests near Argonlav and under Esrelu, and west of Glomdur:
+These forests are made up of two areas. The northern area and the part west of Glomdur is a dark coniferous forest of tall pines, and some firs and spruces, and the bottom half is a mixed coniferous forest. The bottom half is a bright coniferous forest with about 50% firs with heavy undergrowth, and 50% tall pines and firs with moderate undergrowth.
+
+Forests on the western island:
+In the north is a coniferous forest, at the sides are mixed forests, and at the bottom is an oak and beech forest.
+
+Forests surrounding Aodesvu:
+This forest is a beech and oak forest.
 
 Mountains in the very north:
 These mountains are tall mountains covered in snow.
@@ -28,3 +37,7 @@ These forests are snowy coniferous forests.
 
 Heirfgrian Forest:
 This forest is a dark redwood forest. The main inhabitants are Heirgrian centaurs. This forest contains the last moon shrine, the Shrine of Aan.
+
+Moon Shrines:
+These shrines are made of large, light limestone bricks, taking up about a 8 meter square of space and being about 20 meters tall, with a large bell placed at the top of each shrine made of their corresponding moon.
+The shrine of Lûn uses silver, the Shrine of Vel uses antimony, and the Shrine of Aan uses brass.
