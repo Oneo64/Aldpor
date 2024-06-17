@@ -13,7 +13,8 @@ Weapons:
 
 Personality:
 	POSITIVE:
-		1. Playful
+		1. Calm
+		2. Playful
 
 	NEGATIVE:
 		2. Reserved

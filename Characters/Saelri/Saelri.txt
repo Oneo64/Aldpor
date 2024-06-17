@@ -17,8 +17,9 @@ Weapons:
 
 Personality:
 	POSITIVE:
-		1. Helpful
-		2. Patient
+		1. Calm
+		2. Helpful
+		3. Patient
 
 	NEGATIVE:
 		1. Extravagent
