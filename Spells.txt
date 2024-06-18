@@ -134,6 +134,8 @@ If the target is sent to a demiplane, then it is incapacitated, and remains ther
 
 If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
 
+When the target is banished, it disappears with a subtle flash of light and a popping noise.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Conjure Animals (level 3)
