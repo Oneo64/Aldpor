@@ -38,7 +38,7 @@ Appearance of each race:
 		Moon Elves (190cm, 55kg):
 			Can easily scale and avoid obstacles.
 
-			Skin: Very light purple, or very light blue.
+			Skin: Very light/pale blue to a darker very light/pale blue.
 			Hair: Dark purple, or white.
 			Eyes: Blue, gray, or purple.
 			Ears are pointed.
@@ -63,22 +63,22 @@ Appearance of each race:
 Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
 
 Kingdoms:
-	Hendril (humans, speaks Hendric, culture = roman, elected autocracy)
-	Dagsvald (humans, speaks Dagsvaldian, culture = norse, feudal absolute monarchy)
-	Tarib (humans, speaks Taribian, culture = persian, aristocracy)
+	Hendril (humans, speaks Hendric, culture = central men, elected autocracy)
+	Dagsvald (humans, speaks Dagsvaldian, culture = dagsvaldian, feudal absolute monarchy)
+	Tarib (humans, speaks Taribian, culture = taribian, aristocracy)
 
-	Esrelu (cold elves, speaks Esrel, culture = norse-elvish, noocracy)
-	Rànûdel (moon elves, speaks Rànûdan, culture = elvish, geniocracy)
-	Jûmlathnar (moon elves, speaks Ranûdan, culture = elvish, aristocracy) (pronounced as yoomlaanaar)
-	Vuntarla (cold elves, speaks Dagsvaldian + Esrel, culture = norse, absolute monarchy)
-	Aodesvu (moon elves, speaks Aodesvic, culture = elvish, constitutional monarchy)
+	Esrelu (cold elves, speaks Esrel, culture = cold elf, noocracy)
+	Rànûdel (moon elves, speaks Rànûdan, culture = moon elf, geniocracy)
+	Jûmlathnar (moon elves, speaks Ranûdan, culture = moon elf, aristocracy) (pronounced as yoomlaanaar)
+	Vuntarla (cold elves, speaks Dagsvaldian + Esrel, culture = dagsvaldian, absolute monarchy)
+	Aodesvu (moon elves, speaks Aodesvic, culture = central men, constitutional monarchy)
 
-	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = slavic, elected diarchy)
-	Mornesvid (dwarves, speaks Mornesvian, main city on high hill, magocracy) (culture = scottish)
-	Banod (dwarves, speaks Banodic, culture = slavic, elected diarchy) (pronounced as baanod)
+	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = banodic, elected diarchy)
+	Mornesvid (dwarves, speaks Mornesvian, main city on high hill, magocracy) (culture = mornesvidian)
+	Banod (dwarves, speaks Banodic, culture = banodic, elected diarchy) (pronounced as baanod)
 
-	Vatakond (centaurs, speaks Vatakish, culture = vatakish, magocracy)
-	Heirfgria (centaurs, speaks Heirfgrian, culture = heirfgrian, magocracy)
+	Vatakond (centaurs, speaks Vatakish, culture = centaur, magocracy)
+	Heirfgria (centaurs, speaks Heirfgrian, culture = centaur, magocracy)
 
 	Neshozic Empire (orcs, speaks Neshozic, culture = neshozic, noocracy)
 
