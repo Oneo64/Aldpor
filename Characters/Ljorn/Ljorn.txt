@@ -32,6 +32,7 @@ Personality:
 
 	Specific:
 		Deer meat is his favorite food
+		Has heavy Dagsvaldian accent
 
 Abilities:
 	Alchemy (potion brewing)
@@ -91,3 +92,10 @@ Possessions:
 		2 blank scrolls of vellum
 		10 sheets of parchment
 		10 sheets of vellum
+
+Speech pattern:
+	Replace "is", "am", "are" with "be".
+	Replace "can" with "able".
+
+	Replace "can't" with "not".
+	Replace any "n't" with "not".
