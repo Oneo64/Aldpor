@@ -44,6 +44,7 @@ Item Materials:
 	Wool:     5 cp
 
 	Wood:     5 cp
+	Quality wood: 1sp
 
 	Copper:   3 sp
 	Bronze:   4 sp
@@ -78,6 +79,8 @@ Weapons and armor (multipliers, gemstones are below. engraving, or fancy pattern
 	Trident:          handle x10, head x20 (15gp, steel = 30gp)
 	Round Shield:     shield x16, leather rim x10, paint (see dye, ignore if undyed) x5, round thingy in the middle x5 (undyed = 4gp 3sp)
 	Buckler:          shield x10
+
+	Bow: arch x20, string 2sp
 
 	Whip: 2gp
 
