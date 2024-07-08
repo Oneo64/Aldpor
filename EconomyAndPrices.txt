@@ -11,7 +11,7 @@ Average family wealth per social class (Personal wealth average divide by 4):
 	Low class (peasants, serfs, slaves): family: 20 sp  + 20 cp              || personal: 5 sp   + 5 cp
 	Middle class (karls):                family: 100 sp + 100 cp             || personal: 25 sp  + 25 cp
 	--WEALTHY/RICH BORDER---------------------------------------------------------------------------------------------
-	High class (wealthy people, mayors): family: 15 gp  + 1000 sp  + 1000 cp || personal: 4 gp   + 250 sp  + 250 cp
+	High class (wealthy people, mayors): family: 20 gp  + 1000 sp  + 1000 cp || personal: 5 gp   + 250 sp  + 250 cp
 	Very High class (jarls, lords):      family: 100 gp + 5000 sp  + 5000 cp || personal: 25 gp  + 1250 sp + 1250 cp
 	Most High class (kings and royals):  family: 500 gp + 10000 sp + 5000 cp || personal: 125 gp + 2500 cp + 1250 cp
 
@@ -192,23 +192,23 @@ Symbols (use the item materials table above, use same rules for engraving):
 	Key:               x5
 
 
-Formula: volume in cm3 * density * 0.5 * price
+Formula: volume in cm3 * 0.1 * price
 Gemstones (per 10 carats):
-	Ruby:         8 gp Transparent deep red crystal
-	Black opal:   8 gp Translucent black stone with spots of green, blue, and red
+	Ruby:         4 gp Transparent deep red crystal
+	Black opal:   4 gp Translucent black stone with spots of green, blue, and red
 
-	Emerald:      4 gp Transparent deep green crystal
-	Sapphire:     4 gp Transparent blue to light blue crystal
+	Emerald:      2 gp Transparent deep green crystal
+	Sapphire:     2 gp Transparent blue to light blue crystal
 
-	Fire opal:    2 gp Translucent black stone with spots of green, blue, and red
+	Fire opal:    1 gp Translucent black stone with spots of green, blue, and red
 
-	Crystal Opal: 7 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-	Labadorite:   7 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
+	Crystal Opal: 3 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
+	Labadorite:   2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
 
-	White Opal:   2 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-	Amethyst:     2 sp Transparent deep purple crystal
+	White Opal:   1 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
+	Amethyst:     1 sp Transparent deep purple crystal
 
-	Jade:         2 sp Opaque pale green stone with streaks of light gree
-	Amber:        2 sp Transparent gold stone
+	Jade:         1 sp Opaque pale green stone with streaks of light gree
+	Amber:        1 sp Transparent gold stone
 
 	Malachite:    1 sp Opaque pale dark green stone with swirls

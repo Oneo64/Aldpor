@@ -85,13 +85,12 @@ Possessions:
 	Leather pouch 2:
 		A spellbook (simple leather cover, 150 vellum pages)
 		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
-		An amber orb, 9cm diameter (This is Ljorn's arcane focus)
+		A wooden orb, 8 cm diameter (This is Ljorn's arcane focus)
 
 		A small jar of ink
 		A quill
 		2 blank scrolls of vellum
-		10 sheets of parchment
-		10 sheets of vellum
+		Sheets of parchment and vellum
 
 Speech pattern:
 	Replace "is", "am", "are" with "be".
