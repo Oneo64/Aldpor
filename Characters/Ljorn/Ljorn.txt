@@ -70,7 +70,7 @@ Abilities:
 Possessions:
 	Leather pouch:
 		A small jar of oil
-		A drinking horn
+		A drinking horn decorated with iron
 		A waterskin
 		A small seax
 
