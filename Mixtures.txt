@@ -39,8 +39,8 @@ Regeneration Potion
 Curing Potion
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
-	Effect:     It will kill diseases, viruses, fungi, sicknesses, amoebas and parasites.
-	Downside:   Weakens you, makes you feel tired and sleepy if used a lot.
+	Effect:     It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poison etc.
+	Downside:   Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	Components: Three duck feather, handful of dirt (any type of soil except sand and clay), and a handful of small pieces of wood (or wood chips, or wood powder).
 
 Spark Potion
