@@ -61,8 +61,8 @@ Abilities:
 		Level 2 (7):
 		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object, Misty Step
 		
-		Level 3 (6):
-		Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Illusion, Magic Circle
+		Level 3 (7):
+		Animate Dead, Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Illusion, Magic Circle
 
 		Level 4 (3):
 		Animate Object, Arcane Eye, Banishment

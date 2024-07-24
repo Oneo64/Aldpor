@@ -561,6 +561,17 @@ The user picks a spot on a surface, then traces their finger around that surface
 NECROMANCY
 ======================================================================================================================================================
 
+Animate Dead (level 3)
+	Casting time: 1 minute
+	Range:        10 meters
+	Requirements: V, S, M (a piece of onyx)
+
+A corpse you can see within range that has a size of large or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least half of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
+
+For every level above 4th the spell is cast, you can include an additional corpse/bone pile. If cast with a 5 level and you choose a corpse, you raise a vamerk instead.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Blight (level 4)
 	Casting time: 3 seconds
 	Range:        20 meters

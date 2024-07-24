@@ -201,6 +201,7 @@ Gemstones (per 10 carats):
 	Sapphire:     2 gp Transparent blue to light blue crystal
 
 	Fire opal:    1 gp Translucent black stone with spots of green, blue, and red
+	Onyx:         1 gp Opaque black crystal
 
 	Crystal Opal: 3 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
 	Labadorite:   2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
