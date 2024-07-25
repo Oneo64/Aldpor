@@ -479,6 +479,16 @@ Three darts of blue magic leap from your fingers one after another, homing onto 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Message (cantrip)
+	Casting time: instantaneous
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     concentration up to 10 seconds
+
+Pick a creature you can see within range. You whisper a message, and only that creature and you can hear your voice. The target hears your voice as if they are very close to you.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Moonbeam (level 2)
 	Casting time: 3 seconds
 	Range:        50 meters
@@ -807,6 +817,7 @@ SPELL LIST
 			Fire Bolt
 			Mage Hand
 			Mending
+			Message
 			Minor Illusion
 			Prestidigitation
 
@@ -850,6 +861,7 @@ SPELL LIST
 			Fire Bolt
 			Mage Hand
 			Mending
+			Message
 			Minor Illusion
 			Prestidigitation
 
