@@ -17,10 +17,10 @@ Settlements/empires/kingdoms:
 		Glismil (Floradish)
 		Thisalvinan (Ancient Elvish)
 		Thisalvinan II (Ancient Elvish)
-		Ranuladaen (Old Ranûdan)
-		Ranûdel (Old Ranûdan - Ranûdan)
-		Amatil (Old Ranûdan - Amatilish)
-		Esrelu (Old Ranûdan - Old Esrel - Esrel)
+		Rànûladaen (Old Rànûdan)
+		Rànûdel (Old Rànûdan - Rànûdan)
+		Aodesvu (Old Rànûdan - Aodesvic)
+		Esrelu (Old Rànûdan - Old Esrel - Esrel)
 
 	Dwarf:
 		Baan (Primordial)
