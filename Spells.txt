@@ -691,7 +691,7 @@ Polymorph (level 4)
 	Requirements: V, S
 	Duration:     concentration up to 1 hour
 
-Choose a living creature you can see within range. You then turn that creature into an animal you have physically seen for the duration. The mentality of the creature will match it's new form, but it remains it's morality.
+Choose a living creature you can see within range. You then turn that creature into an animal you have physically seen and studied/worked with for the duration. Common animals like sheep, cattle, or wolf are easy to do, but lesser known animals like horses, big cats and bears are harder. The mentality of the creature will match it's new form, but it remains it's morality.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
