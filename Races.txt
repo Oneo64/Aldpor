@@ -1,50 +1,123 @@
-Races found in my world:
+======================================================================================================================================================
+Dwarf
+======================================================================================================================================================
 
-Ranastar:
-	Ranastars are literally just animals that stand on their hind legs, created by natural manifestations of Lûnanyr. When a person is obsessed with nature and they mate with someone else, the offspring has a 10% chance to be a ranastar. Ranastars born this way will appear normal, but will begin transformation almost immedietely. The transformation takes up to a year.
+General body features and personality traits:
+	Most are humourous and like to play pranks.
+	Hair grows slightly faster than normal.
 
-	Most ranastars will run away from home and live in the wild, or stay sheltered at home. This is because they feel out of place, the commonfolk shame, or depise them for their appearance. However, certain variants are not treated as harshly, such as the bear. Because of this, the shamed and despised often develop a hatred, or anger for intelligent beings and the certain variants said before.
+	Height: Average is 110 centimeters.
+	Weight: Average is 60 kilograms.
 
-	Classes: Barbarians, fighters, rogues, druids, and sorcerers are most common, while everything else are rare.
+Variant 1 (red metals: copper, brass, and bronze):
+	Skin: Very light grayed skin.
+	Hair: Red, or actually red (more like maroon or blood color).
+	Eyes: Black, brown, golden yellow, orange, or red.
 
-	Advantages:
-		Camoflauge - You have an option to use an action to blend in foliage near by. Detection requires a DC 12 Wisdom saving throw.
+Variant 2 (jewelry and rock: copper, brass, and bronze):
+	Skin: Very light grayed skin.
+	Hair: Blond, red, brown.
+	Eyes: Black, brown, blue, green, golden yellow, gray.
 
-	Disadvantages:
-		Bow Incompatibility - You are unable to use any kind of bow. Crossbows are the only exception.
-		Magic Incompatibility - You are unable to cast any non-druid and any non-sorcerer spell with the (S)omatic component.
+Favoured weaponry:
+	War hammers
+	Crossbows
 
-	Variants/Overrides: (min stat increase up to 3)
-		Bear:
-			Alignments - Lawful, Neutral
-			Ability Score Increase - Dex -1, Con +2, Wis +1
-			Cold Resistance - You have resistance against Cold and Piercing damage.
-			Fur Color - Brown (brown bears), Black (black bears), White (polar bears)
-			Natural Weapons - Claws: 2d6 Slashing
 
-		Bobcat:
-			Alignments - Neutral, Chaotic
-			Ability Score Increase - Dex +2, Int -1, Chr +1
-			Cold Resistance - You have resistance against cold damage.
-			Natural Weapons - Claws: 2d4 Slashing
-			Enhanced Sight - You have Darkvision up to 30ft.
-			Fur Color - Brown (forest bobcats), Burlap (southern bobcats), White (snowy bobcats)
-			High Jumping - You can jump straight up 10ft.
 
-		Rat:
-			Alignments - Lawful, Neutral
-			Ability Score Increase - Str -1, Dex +3, Int +1, Chr -1
-			Fur Color - Black, Brown, Gray, Yellow, White
-			Proper Fingers - You are able to use bows, and spells with the (S)omatic component.
+======================================================================================================================================================
+Elf
+======================================================================================================================================================
 
-		Fox:
-			Alignments - Lawful, Neutral
-			Fur Color - Gray (southern foxes), Orange + Red (forest foxes), White (arctic foxes)
-			Cold Resistance - You have resistance against cold damage.
-			Ability Score Increase - Dex +2, Int -1, Chr +1
+General body features and personality traits:
+	Eyes are pupil-less.
+	Most are calm and reserved.
 
-		Wolf:
-			Alignment - Lawful, Neutral, Chaotic
-			Ability Score Increase - Dex +2, Int -1, Chr +1
-			Cold Resistance - You have resistance against cold damage.
-			Fur Color - Orange + Red (dire wolves), Gray (gray wolves), White (snow wolves)
+	Hair grows at normal rate, facial hair grows slower, no armpit hair or body hair.
+
+Cold Elf:
+	Abilities:
+		Has natural darkvision up to 10 meters.
+
+	Body features:
+		Height: Average is 170 centimeters.
+		Weight: Average is 55 kilograms.
+
+		Earlobes are long.
+
+	Variant 1 (Snow):
+		Skin: Very light skin, or very pale blue skin.
+		Hair: Black, blond, brown, white, or golden yellow.
+		Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
+
+	Variant 2 (Wood):
+		Skin: Brown (like wood).
+		Hair: Black, brown, or white.
+		Eyes: Black, brown, green, golden yellow, red, or orange.
+
+	Favoured weaponry:
+		Spears
+		Bows
+		Flanged maces
+
+Moon Elf:
+	Abilities:
+		Keen sense of balance
+
+	Body features:
+		Height: Average is 190 centimeters.
+		Weight: Average is 55 kilograms.
+
+		Ears are pointed, and close to the head. The tip of the ears generally end at mid-forehead, and doesn't go back farther than the back of the head.
+
+	Skin: Very light/pale blue to a darker very light/pale blue.
+	Hair: Dark purple, or white.
+	Eyes: Blue, gray, or purple.
+
+	Favoured weaponry:
+		Bows
+		Curved swords
+
+
+
+======================================================================================================================================================
+MAN
+======================================================================================================================================================
+
+Skin: Ranges from brown to bright skin.
+Hair: Black, blond, red, or brown.
+Eyes: Black, brown, green, blue, or gray.
+
+Favoured weaponry:
+	Spears
+	Axes
+	Swords
+	Bows
+
+
+
+======================================================================================================================================================
+TROLL
+======================================================================================================================================================
+
+General body features and personality traits:
+	Doesn't like company of other humanoid races.
+	Lives in small groups, usually a tribe.
+
+	Beady eyes.
+	Noses are very big, and are flat.
+
+	Wears mostly browns, and wears wood. Doesn't like metal or synthetic materials.
+
+	Stronger than usual, but pretty stupid.
+
+	Height: Average is 190 centimeters.
+	Weight: Average is 110 kilograms.
+
+Favoured weaponry:
+	Stone spears
+	Bows using stone arrows
+
+Skin: Light gray to dark gray skin.
+Hair: Black.
+Eyes: Black, brown, green, blue, golden yellow, orange, or red.

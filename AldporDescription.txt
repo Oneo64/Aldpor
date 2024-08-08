@@ -12,53 +12,7 @@ Dwarves have multiple kings. Each king usually handles a part of the kingdom, li
 
 Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right? (still new technology can be developed, but they will likely be lost due to thieves and bandits) (technology will develop until the highest point of technology is comparable to earth's 12th or 13th century or something like that)
 
-Appearance of each race:
-	Human (175cm, 60kg):
-		Stats: INT +1, CHR +1
 
-		Skin: Ranges from brown to bright skin.
-		Hair: Black, blond, red or brown.
-		Eyes: Black, brown, green, blue or gray.
-
-	Dwarves (110cm, 60kg):
-		Resists all physical damage other than bludgeoning.
-
-		Stats: STR +1, CON +1
-
-		Skin: Very light skin.
-		Hair: Blond, red, or actually red (more like maroon).
-		Eyes: Black, brown, green, golden yellow, orange, or red.
-
-	Elves: (Elves only grow head hair):
-		Dominant traits: Calm
-		Leadership not as good as other humanoid races.
-
-		Stats: DEX +1, INT +1, WIS +1, CHR -1
-
-		Moon Elves (190cm, 55kg):
-			Can easily scale and avoid obstacles.
-
-			Skin: Very light/pale blue to a darker very light/pale blue.
-			Hair: Dark purple, or white.
-			Eyes: Blue, gray, or purple.
-			Ears are pointed.
-
-		Cold Elves (170cm, 55kg):
-			Resists the cold, darkvision up to 5 meters.
-
-			Variant 1 (Snow):
-				Skin: Very light skin, or very pale blue skin.
-				Hair: Black, blond, brown, white, or golden yellow.
-				Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
-
-			Variant 2 (Wood):
-				Skin: Brown (like wood).
-				Hair: Black, brown, or white.
-				Eyes: Black, brown, green, golden yellow, red, or orange.
-
-			Earlobes are longer.
-
-	Half-elves are called elfmen.
 
 Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
 
