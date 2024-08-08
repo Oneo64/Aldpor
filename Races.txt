@@ -19,10 +19,6 @@ Variant 2 (jewelry and rock: copper, brass, and bronze):
 	Hair: Blond, red, brown.
 	Eyes: Black, brown, blue, green, golden yellow, gray.
 
-Favoured weaponry:
-	War hammers
-	Crossbows
-
 
 
 ======================================================================================================================================================
@@ -55,11 +51,6 @@ Cold Elf:
 		Hair: Black, brown, or white.
 		Eyes: Black, brown, green, golden yellow, red, or orange.
 
-	Favoured weaponry:
-		Spears
-		Bows
-		Flanged maces
-
 Moon Elf:
 	Abilities:
 		Keen sense of balance
@@ -74,10 +65,6 @@ Moon Elf:
 	Hair: Dark purple, or white.
 	Eyes: Blue, gray, or purple.
 
-	Favoured weaponry:
-		Bows
-		Curved swords
-
 
 
 ======================================================================================================================================================
@@ -87,12 +74,6 @@ MAN
 Skin: Ranges from brown to bright skin.
 Hair: Black, blond, red, or brown.
 Eyes: Black, brown, green, blue, or gray.
-
-Favoured weaponry:
-	Spears
-	Axes
-	Swords
-	Bows
 
 
 
@@ -113,10 +94,6 @@ General body features and personality traits:
 
 	Height: Average is 190 centimeters.
 	Weight: Average is 110 kilograms.
-
-Favoured weaponry:
-	Stone spears
-	Bows using stone arrows
 
 Skin: Light gray to dark gray skin.
 Hair: Black.
