@@ -8,6 +8,8 @@ Planes/Realms:
 
 	Furnalfa    = Realm of fey and pure nature (N, infinite dark lush green forest)
 
+	Sotvaryg    = Plane of Earth and Stone
+
 Dimensions:
 	Vorasil     = Ethereal plane
 	Maresil     = Astral plane
