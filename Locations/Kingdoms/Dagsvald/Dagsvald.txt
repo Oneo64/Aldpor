@@ -26,11 +26,18 @@ Castles/Fortresses:
 	Ynfrünar
 	Galundegt
 
-Thuryngard: This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Thalmundol, Kagindet, and Vilsnagur. The diameter is approximately 120 meters, and the buildings inside are made of stone instead of wood. The castle is then surrounded with a second curtain wall, which is about 6 meters high. This wall is much farther from the ring fortress, which can fit a few towns.
+Thuryngard: This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Thalmundol, Kagindet, and Vilsnagur. The outer wall has a diameter of about 300 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
+The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood. 
+
+The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle.
+
+The walls are about 6 meters high.
+
+In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, soldiers, and nobles).
+
+
 
 Ynfrûnar and Galundegt: These fortresses are small stone fortresses about 30x30 meters in size.
-
-In the 'ring', there is a large longhouse built with mostly stone, except for the roof and the top 'triangle' wall part of the roof. This is where the king resides. The ring of the castle is generally reserved for only the king, his family, guards, soldiers, nobles and slaves (criminals serving a sentence).
 
 Coins: Each gold or silver coin could be engraved with a symbol of the following:
 	Lûnanyr's symbol (silver only)
