@@ -17,7 +17,7 @@ Weapons:
 	Crucible steel suontaka viking sword
 	Bearded axe
 
-Personality:
+Personality/Behaviour:
 	POSITIVE:
 		1. Goodhearted
 		2. Honest
@@ -34,8 +34,11 @@ Personality:
 		Deer meat is his favorite food
 		Has heavy Dagsvaldian accent
 
+		Ljorn doesn't like getting himself involved in things that aren't related to him
+
 Abilities:
 	Alchemy (potion brewing)
+	Drawing
 
 	Dagsvaldian
 	Hendric
@@ -83,7 +86,7 @@ Possessions:
 		5 unlit torches
 
 	Leather pouch 2:
-		A spellbook (simple leather cover, 150 vellum pages)
+		A spellbook (simple leather cover, 150 vellum pages, filled with spells, potions, and illustrations of components)
 		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
 		A wooden orb, 8 cm diameter (This is Ljorn's arcane focus)
 
