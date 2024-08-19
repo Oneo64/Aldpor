@@ -55,7 +55,7 @@ Frost Dragon:
 	Description:
 		Frost dragons has thicker scales, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length.
 
-		They take 40 years to mature, and live up to 170 years.
+		They take 40 years to mature, and live up to 300 years.
 
 		Their eggs look like opal, exept that the only colors are white, blue and black, and they are about 0.6 meters high. Their scale color is white, and their eyes are blue and black. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 14 meters long from nose to rear, and has a tail 13 meters long, being about 27 meters in total. Their wings spread up to 16 meters in length, and are about 8 meters in width.
 
@@ -74,7 +74,7 @@ Fire Dragon:
 	Description:
 		Fire dragons are mostly have a slim sort of body, with their proportions longer than other dragons. Their necks are about 2 meters, shorter than frost dragons.
 
-		They take 30 years to mature, and live up to 150 years.
+		They take 30 years to mature, and live up to 250 years.
 
 		Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and gold. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
 
