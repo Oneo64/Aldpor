@@ -27,6 +27,7 @@ Abilities:
 	Magic
 	Alchemy (potion brewing)
 	Astrology and astronomy
+	Drawing
 
 	Hendric
 	Esrel

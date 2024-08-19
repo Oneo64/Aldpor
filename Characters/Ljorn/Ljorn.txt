@@ -35,6 +35,9 @@ Personality/Behaviour:
 		Has heavy Dagsvaldian accent
 
 		Ljorn doesn't like getting himself involved in things that aren't related to him
+		Ljorn speaks English as if he's speaking Dagsvaldian relexed into English
+
+		Reads and studies magic in free time
 
 Abilities:
 	Alchemy (potion brewing)
@@ -94,10 +97,3 @@ Possessions:
 		A quill
 		2 blank scrolls of vellum
 		Sheets of parchment and vellum
-
-Speech pattern:
-	Replace "is", "am", "are" with "be".
-	Replace "can" with "able".
-
-	Replace "can't" with "not".
-	Replace any "n't" with "not".

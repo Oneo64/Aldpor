@@ -1,13 +1,19 @@
 Pronounciation:
 a = aa
-û = oo
+æ = aai
 
 u = uh (say 'oo' if at back of word)
+û = oo
 
-æ = aai
-ei = ey
-i- or -i = ee
-i = short i (as in live)
 e = eh
+ei = ey
+
+i = short i (as in live)
+i- or -i = ee
 
 y = ee
+
+dj = j
+dr = say it with a hard d, like d + r instead of the normal 'j' sound in english
+djja = ja with normal 'j' sound in english
+djje = je with normal 'e' sound in english
