@@ -13,8 +13,8 @@ i- or -i = ee
 
 y = ee
 
-dj = j
 dr = say it with a hard d, like d + r instead of the normal 'j' sound in english
 djr = say 'dr' as in normal english
+djj = j
 djja = ja with normal 'j' sound in english
 djje = je with normal 'e' sound in english
