@@ -2,7 +2,7 @@
 GENERAL APPEARANCE
 ======================================================================================================================================================
 Forceful magic appears as faint blue (examples: pure magical force used to damage, magic shields meant to block and take hits more than once)
-Soft magic appears faint white (examples: shields that )
+Soft magic appears faint white (examples: shields that only appear briefly)
 
 
 
@@ -244,7 +244,7 @@ Mage Hand (cantrip)
 	Range:        15 meters
 	Requirements: V, S
 
-A white spectral hand pops out of your hand. You can make this hand fly in any direction at a speed of 2 meters per second. The hand mimics the rotational movement of your hand and fingers, except it cannot move too fast. The hand can move only 20 kilograms of force. Trying to move objects heavier than 20 kilograms, or pushing something against a thing heaver than 20 kilograms causes the spell to end.
+A half-invisible, shimmering white hand pops out of your hand. You can make this hand fly in any direction at a speed of 2 meters per second. The hand mimics the rotational movement of your hand and fingers, except it cannot move too fast. The hand can move only 20 kilograms of force. Trying to move objects heavier than 20 kilograms, or pushing something against a thing heaver than 20 kilograms causes the spell to end.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -24,7 +24,7 @@ Personality/Behaviour:
 		3. Observant
 
 	NEGATIVE:
-		1. Appears Cold
+		1. Appears Cold (Half-expressionless)
 		2. Reserved
 		
 	Slightly introverted
