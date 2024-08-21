@@ -14,7 +14,7 @@ Common:
 		Mornesvian
 
 	Mix:
-		Aodesvic (Ranûdan + Hendric)
+		Aodesvic (Rànûdan + Hendric)
 
 Uncommon:
 	Daevas/Orcs:
@@ -27,11 +27,6 @@ Exotic:
 	Primordial
 	Primordial Dwarven
 	Old Banodic
-
-	Old Hendric
-	Draco-Dagsvaldian
-	Old Esrel
-	Old Ranûdan
 
 	Floradish
 	Old Haearic
