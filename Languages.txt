@@ -6,7 +6,7 @@ Common:
 
 	Elves:
 		Esrel (Cold Elvish)
-		Ranûdan (Moon Elvish)
+		Rànûdan (Moon Elvish)
 
 	Dwarves:
 		Glomish
@@ -17,7 +17,7 @@ Common:
 		Aodesvic (Ranûdan + Hendric)
 
 Uncommon:
-	Daevas:
+	Daevas/Orcs:
 		Neshozic
 
 	Centaurs:
@@ -25,12 +25,26 @@ Uncommon:
 
 Exotic:
 	Primordial
-	Draconic
-	Abyssal
-
 	Primordial Dwarven
+	Old Banodic
 
 	Old Hendric
 	Draco-Dagsvaldian
 	Old Esrel
 	Old Ranûdan
+
+	Floradish
+	Old Haearic
+	Haearic
+	Borusdaliandurish
+	Old Zarapibian
+	Zarapibian
+	Old Taribian
+	Grutorian
+	Galabrian
+	Old Hendric
+	Primal Dagsvaldian
+
+	Ancient Elvish
+	Old Rànûdan
+	Old Esrel

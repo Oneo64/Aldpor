@@ -10,7 +10,7 @@ Settlements/empires/kingdoms:
 		Galabrus (Grutorian - Galabrian)
 		Hendrala (Old Hendric)
 		Hendril (Hendric)
-		Dagsvald (Old Hendric - Draco-Dagsvaldian - Dagsvaldian)
+		Dagsvald (Old Hendric - Primal Dagsvaldian - Dagsvaldian)
 
 	Elf:
 		Floradoin (Floradish)
@@ -24,9 +24,9 @@ Settlements/empires/kingdoms:
 
 	Dwarf:
 		Baan (Primordial)
-		Banir (Old Banodic)
-		Banod (Old Banodic - Banodic)
-		Glomdur (Old Banodic - Glomish)
+		Banir (Primordial - Primordial Dwarven)
+		Banod (Primordial Dwarven - Banodic)
+		Glomdur (Primordial Dwarven - Old Banodic - Glomish)
 		Mornesvid (Old Banodic - Mornesvian)
 
 
@@ -41,7 +41,7 @@ Glismil is formed.
 Haear is formed. The main language of Haear was Floradish. Floradoin collapsed due to an invasion of earth and stone elementals, which were coming from a different plane. A month later, a group travelled to a fortress located in a massive cavern known as Krivsbort Stone Fortress. They entered the fortress, and destroyed the portal that lead the elementals to the material plane.
 
 1770
-Glismil collapses. Azudengo, the current king of Haear at this time, took advantage of this and took over the remains of Glismil. Baan was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings.
+Glismil collapses. Azudengo, the current king of Haear at this time, took advantage of this and took over the remains of Glismil. Baan was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
 
 1800
 Kingdom of Thisalvinan is created, named after it's founder. Floradish was transformed to Ancient Elvish, and Old Haearic. The Kingdom of Thisalvinan spoke Ancient Elvsh, while Haear spoke Old Haearic.
