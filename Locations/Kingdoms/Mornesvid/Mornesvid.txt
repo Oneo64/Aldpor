@@ -1,5 +1,5 @@
 Government: Magocracy
-Race Majority: Dwarf
+Race Majority: Dwarf (mostly jewelry variants)
 Culture type: Scottish
 
 Main languages: Mornesvian
