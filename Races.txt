@@ -43,7 +43,7 @@ Cold Elf:
 
 	Variant 1 (Snow):
 		Skin: Very light skin, or very pale blue skin.
-		Hair: Blond, brown, white, or golden.
+		Hair: Black, blond, brown, white, or golden.
 		Eyes: Brown, green, blue, gray, light yellow, or golden.
 
 	Variant 2 (Wood):
