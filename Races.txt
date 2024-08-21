@@ -10,14 +10,14 @@ General body features and personality traits:
 	Weight: Average is 60 kilograms.
 
 Variant 1 (red metals: copper, brass, and bronze):
-	Skin: Very light grayed skin.
+	Skin: Very light grayed skin, or very pale skin.
 	Hair: Red, or actually red (more like maroon or blood color).
-	Eyes: Black, brown, golden yellow, orange, or red.
+	Eyes: Brown, golden, orange, or red.
 
 Variant 2 (jewelry and rock: copper, brass, and bronze):
-	Skin: Very light grayed skin.
+	Skin: Very light grayed skin, or very pale skin.
 	Hair: Blond, red, brown.
-	Eyes: Black, brown, blue, green, golden yellow, gray.
+	Eyes: Blue, green, golden, gray.
 
 
 
@@ -43,13 +43,13 @@ Cold Elf:
 
 	Variant 1 (Snow):
 		Skin: Very light skin, or very pale blue skin.
-		Hair: Black, blond, brown, white, or golden yellow.
-		Eyes: Black, brown, green, blue, gray, light yellow, or golden yellow.
+		Hair: Blond, brown, white, or golden.
+		Eyes: Brown, green, blue, gray, light yellow, or golden.
 
 	Variant 2 (Wood):
 		Skin: Brown (like wood).
 		Hair: Black, brown, or white.
-		Eyes: Black, brown, green, golden yellow, red, or orange.
+		Eyes: Black, brown, green, golden, red, or orange.
 
 Moon Elf:
 	Abilities:
@@ -97,4 +97,4 @@ General body features and personality traits:
 
 Skin: Light gray to dark gray skin.
 Hair: Black.
-Eyes: Black, brown, green, blue, golden yellow, orange, or red.
+Eyes: Black, brown, green, blue, golden, orange, or red.
