@@ -18,6 +18,25 @@ Monster Habitats:
 
 
 ======================================================================================================================================================
+CONSTRUCTS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Constructs are made from magic.
+======================================================================================================================================================
+
+Golem:
+	Golems appear as a medium humanoid.
+
+	Appearance:
+		Golems are medium humanoids that are made of soil, dirt, or sand. They cannot be clay, stone or pebble because they are too heavy to be animated.
+
+	Abilities:
+		Golems can use weapons, but are incapable of thought or emotion. They understand all languages their creator spoke when the golem was made, and will follow only the commands of the creator plus anyone the creator has permitted.
+
+		Golems memory are very short, and can only remember anything that happened in the past ten minutes except for commands, who their creator is, and who the creator has permitted command of the golem.
+
+
+
+======================================================================================================================================================
 DEMONS
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Demons are never created on the material plane, and they are either souls who escaped Hel to the material plane, or manifestations of pure evil.
