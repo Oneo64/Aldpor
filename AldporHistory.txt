@@ -10,7 +10,7 @@ Settlements/empires/kingdoms:
 		Galabrus (Grutorian - Galabrian)
 		Hendrala (Old Hendric)
 		Hendril (Hendric)
-		Dagsvald (Old Hendric - Primal Dagsvaldian - Dagsvaldian)
+		Dagsvald (Galabrian & Old Banodic - Primal Dagsvaldian - Dagsvaldian)
 
 	Elf:
 		Floradoin (Floradish)
@@ -25,7 +25,7 @@ Settlements/empires/kingdoms:
 	Dwarf:
 		Baan (Primordial)
 		Banir (Primordial - Primordial Dwarven)
-		Banod (Primordial Dwarven - Banodic)
+		Banod (Primordial Dwarven - Old Banodic - Banodic)
 		Glomdur (Primordial Dwarven - Old Banodic - Glomish)
 		Mornesvid (Old Banodic - Mornesvian)
 
@@ -89,7 +89,7 @@ A group of explorers from Zerapib decided to travel north, to where current day 
 Zarapib collapsed, and Tarib rose, taking over it's remains.
 
 360
-Grutorus fully became a kingdom. In the Kingdom of Thisalvinan II, a group of explorers went to where current day Ranûdel is, and put down a new Kingdom, named Ranuladaen.
+Grutorus fully became a kingdom. In the Kingdom of Thisalvinan II, a group of explorers went to where current day Ranûdel is, and put down a new Kingdom, named Rànûladaen.
 
  ^
  |
@@ -103,10 +103,11 @@ AD
 Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Hendrala.
 
 20
-A group of explorers from Ranuladaen traveled north, and established Esrelu and Vuntarla.
+A group of explorers from Rànûladaen traveled north, and established Esrelu and Vuntarla.
 
 170
-Ranuladaen was renamed to Ranûdel. Some moon elves did not like the change, so they went and created a kingdom called Amatil, located a few ten kilometers away from Ranûdel.
+Rànûladaen was renamed to Rànûdel. Some moon elves did not like the change, so they went and created a kingdom called Aodesvu.
+A large group of explorers from Galabrus traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
 
 350
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
@@ -122,16 +123,13 @@ Jûmlaanar is created.
 
 560
 The King of Jûmlaanar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
-A large group of explorers from Hendril traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
+The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
+They established Thalanol.
 
 650
-The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
-They established Turinus.
+Thalanol became Thalmundol.
 
 <Second Age of Peace START>
-
-750
-Over time, the language of the travelers changed, influenced by Esrel. Turnius became Thalanol, then to Thalmundol.
 
 780
 From the settlement Thalmundol, Dagsvald rises.
