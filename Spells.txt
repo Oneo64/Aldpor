@@ -1,6 +1,7 @@
 ======================================================================================================================================================
 CLASSES
 ======================================================================================================================================================
+
 Minor magic:
 	- Magic that doesn't require much study (little to no knowledge of a target)
 	- Less than 4 days of study and practice to learn
@@ -70,7 +71,7 @@ Counterspell (basic)
 	Range:        40 meters
 	Requirements: V
 
-With a word or two, you can interrupt basic and minor spell concentration of a creature you can see in range. Major spell concentration is very hard to break.
+With a word or two, you can interrupt basic and minor spell concentration of a creature you can see in range. More practice and experience with using this spell can turn it's class into major or powerful, and can counter any spell that has a class of your counterspell's class or lower. At powerful, the counterspell can counter almost every magic.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
