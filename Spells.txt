@@ -1,18 +1,34 @@
 ======================================================================================================================================================
-GENERAL APPEARANCE
-======================================================================================================================================================
-Forceful magic appears as faint blue (examples: pure magical force used to damage, magic shields meant to block and take hits more than once)
-Soft magic appears faint white (examples: shields that only appear briefly)
-
-
-
-======================================================================================================================================================
 CLASSES
 ======================================================================================================================================================
-Minor magic: Magic that doesn't require much study (little to no knowledge of a target) (less than 4 days of study and practice)
-Basic magic: Magic that requires a moderate amount of study (brief to some knowledge of a target) (less than 2 weeks of study and practice)
-Major magic: Magic that require a lot of study (biologist/scientist level knowledge of a target) (less than 1 month of study and practice)
-Powerful magic: Magic that is very powerful (probably the same as major magic plus maybe some philosophical things) (more than 1 month of study and practice)
+Minor magic:
+	- Magic that doesn't require much study (little to no knowledge of a target)
+	- Less than 4 days of study and practice to learn
+	- Most attacks equivalent to a punch - a few punches, does little damage to wood shields, safe behind one
+	- Pure magical force is faintly visible, colored white
+	- Can be cast indefinitely
+
+Basic magic:
+	- Magic that requires a moderate amount of study (brief to some knowledge of a target)
+	- 4 days - 2 weeks of study and practice to learn
+	- Most attacks equivalent to a weapon's hit to the chest, does some damage to wood shields, probably safe behind one
+	- Pure magical force is faintly visible, colored white or blue
+	- Can be cast indefinitely
+
+Major magic:
+	- Magic that require a lot of study (biologist/scientist level knowledge of a target)
+	- 2 weeks - 1 month of study and practice to learn
+	- Most attacks equivalent to two weapon's hit to the chest, does lots of damage to shields, probably best not to try and block with a shield
+	- Pure magical force is colored blue
+	- Can be cast 6 times before resting
+
+Powerful magic:
+	- Magic that is very powerful (probably the same as major magic plus maybe some philosophical things)
+	- More than 1 month of study and practice to learn
+	- Most attacks could one hit or two hit humanoid races, could possible just obliterate wooden shields, just don't get hit and you're fine
+	- Pure magical force is very visible, colored blue
+	- Can be cast 3 times before resting
+
 
 Study (in the spell description if it says so) means something you have brief experience/knowledge (like how we know dogs wag their tails as sign of happiness) unless the spell description says otherwise. If the "brief" knowledge is a creature or animate thing, then you must also have basic knowledge of it's anatomy (something like how cows have 4 stomachs or parts of stomach).
 
@@ -448,7 +464,7 @@ Fire Bolt (basic)
 	Range:        40 meters
 	Requirements: V, S
 
-A bolt of fire shoots out of your pointing finger.
+A bolt of fire shoots out of your pointing finger, and bursts into a little puff of fire on impact.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
