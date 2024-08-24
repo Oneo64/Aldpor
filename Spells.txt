@@ -79,7 +79,7 @@ Dispel Magic (major)
 	Range:        40 meters
 	Requirements: V, S
 
-Choose a creature, an object, or a magical effect in range that you can see. If you chose a creature or object, all magical effects placed on it are dispelled. If it is a magical effect, then that magical effect is dispelled. If the magical effect is the 4th level or above, then this spell must be cast with a level equal or greater than the magical effect in order to dispel it. 
+Choose a creature, an object, or a magical effect that's class is major or lower in range that you can see. If you chose a creature or object, all magical effects placed on it are dispelled. If it is a magical effect, then that magical effect is dispelled.
 In order to use this spell, you must have studied the same school of magic before, and have some knowledge on it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -491,7 +491,7 @@ Magic Missiles (basic)
 	Range:        40 meters
 	Requirements: V, S
 
-Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. For each level you cast this spell above the first level, one additional missile pops out.
+Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. If you can cast this spell with a higher class, major gets you 5 missiles and powerful gets you 7 missiles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -594,7 +594,7 @@ Animate Dead (major)
 
 A corpse you can see within range that has a size of large or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least half of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
 
-For every level above 4th the spell is cast, you can include an additional corpse/bone pile. If cast with a 5 level and you choose a corpse, you raise a vamerk instead.
+If you cast this at it's empowered version (you also need to have studied and practiced the empowered version too), you raise a vamerk instead if you chose a corpse.
 
 In order to use this spell, you must have extensively studied the anatomy of the corpse.
 
@@ -743,7 +743,7 @@ Telekinesis (major)
 	Requirements: V, S
 	Duration:     concentration up to 1 minute
 
-An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second. For every level this spell is cast above the fifth level, you can levitate one additional object, or creature.
+An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second.
 
 If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
 
