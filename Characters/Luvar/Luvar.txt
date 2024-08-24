@@ -21,15 +21,13 @@ Abilities:
 	Rànûdan
 
 	Druidic magic:
-		Cantrips:
-		Druidcraft
+		Minor:
+			Druidcraft
+			Lesser Runic Staves
+			Seidur
 
-		Level 1:
-		Seidur
+		Basic:
+			Lesser Restoration
 
-		Level 2:
-		Lesser Restoration
-		Lesser Runic Staves
-
-		Level 2:
-		Greater Runic Staves
+		Major:
+			Greater Runic Staves

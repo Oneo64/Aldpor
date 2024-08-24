@@ -36,5 +36,8 @@ Abilities:
 	Old Esrel
 
 	Magic:
-		Level 1: Dragonfire, Arcane Lock, Arcane Unlock
-		Level 2: Locate Object, Misty Step
+		Basic:
+			Arcane Lock, Arcane Unlock
+			Dragonfire
+			Locate Object
+			Misty Step

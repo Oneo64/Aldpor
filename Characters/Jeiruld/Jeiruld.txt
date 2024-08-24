@@ -37,20 +37,33 @@ Abilities:
 	Abyssal
 
 	Arcane Magic:
-		Cantrips (5):
-		Fire Bolt, Message, Minor Illusion, Mage Hand, Prestidigitation
-		
-		Level 1 (9):
-		Cold Snare, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Shield
-		
-		Level 2 (7):
-		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object
-		
-		Level 3 (6):
-		Counterspell, Dispel Magic, Fireball, Lightning Bolt, Major Illusion, Remove Curse
-		
-		Level 4 (6):
-		Arcane Eye, Banishment, Blight, Control Water, Polymorph
-		
-		Level 5 (4):
-		Telekinesis, Scrying
+		Minor:
+			Lesser Runic Staves
+			Mage Hand, Message, Minor Illusion
+			Prestidigitation
+			Seidur
+
+		Basic:
+			Arcane Lock, Arcane Unlock
+			Cold Snare, Counterspell
+			Detect Magic, Detect Thoughts, Dispel Magic
+			Feather Fall
+			Hold Person
+			Invisibility
+			Mage Armor, Magic Missiles, Misty Step
+			Shield
+
+		Major:
+			Arcane Eye
+			Control Water
+			Fireball
+			Greater Runic Staves
+			Locate Object, Lightning Bolt
+			Major Illusion
+			Polymorph
+			Remove Curse
+			Scrying
+			Telekinesis
+
+		Powerful:
+			Banishment, Blight

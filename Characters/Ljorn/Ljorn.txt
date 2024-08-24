@@ -52,26 +52,27 @@ Abilities:
 	Axes
 
 	Arcane Magic:
-		Inside orb:
-			Level 1: Cold Snare, Feather Fall, Mage Armor, Magic Missile, Shield
-			Level 2: Detect Thoughts, Invisibility, Hold Person, Misty Step
-			Level 3: Counterspell, Feign Death, Lightning Bolt, Major Illusion
-			Level 4: Animate Object
+		Minor:
+			Illusory Script
+			Lesser Runic Staves
+			Mage Hand, Message
+			Prestidigitation
+			Seidur
 
-		Cantrips (4):
-		Fire Bolt, Message, Mage Hand, Prestidigitation
-		
-		Level 1 (7):
-		Cold Snare, Detect Magic, Feather Fall, Illusory Script, Mage Armor, Magic Missile, Shield
-		
-		Level 2 (7):
-		Arcane Lock, Arcane Unlock, Detect Thoughts, Hold Person, Invisibility, Locate Object, Misty Step
-		
-		Level 3 (7):
-		Animate Dead, Counterspell, Dispel Magic, Feign Death, Lightning Bolt, Major Illusion, Magic Circle
+		Basic:
+			Arcane Lock, Arcane Unlock
+			Cold Snare, Counterspell
+			Detect Magic, Detect Thoughts
+			Feather Fall, Feign Death
+			Hold Person
+			Invisibility
+			Mage Armor, Magic Missiles, Misty Step
+			Shield
 
-		Level 4 (3):
-		Animate Object, Arcane Eye, Banishment
+		Major:
+			Animate Dead
+			Lightning Bolt
+			Major Illusion, Magic Circle
 
 Possessions:
 	Leather pouch:
