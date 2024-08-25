@@ -11,6 +11,7 @@ He has a spear, and a white round shield with a black symbol similar to a vegvis
 
 Weapons:
 	Spear
+	Seax
 	Round shield
 
 Personality:
@@ -33,6 +34,7 @@ Possessions:
 	Leather pouch:
 		Drinking horn
 		Linen bag of nuts and raisins
+		Seax
 
 		6 unlit torches
 		A waterskin
