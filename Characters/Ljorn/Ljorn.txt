@@ -79,9 +79,6 @@ Possessions:
 		A small jar of oil
 		A drinking horn decorated with iron
 		A waterskin
-		A small seax
-
-		A small cloth bag with dried venison
 
 		A small vial of Regeneration Potion
 		A small vial of Simple Curing Potion
