@@ -3,10 +3,10 @@ RANDOM LOCATIONS:
 Desert surrounding Tarib:
 This desert is a hot desert.
 
-Forests above Hendril:
-These forests have two parts. The northern part is a bright redwood forest, with little undergrowth, and the southern part is a bright birch forest.
+Forests above Hendril, surrounding Woparias and Zenixras (Hendric Forests):
+These forests are a bright redwood forest, with little undergrowth.
 
-Forests diagnally across the continent and surrounding Mornesvid:
+Forests south of Banod (the two bloches one directly south and one directly east of Banod) and the one surrounding Mornesvid (Dwarven Forests):
 These forests are mixed forests.
 
 Forests near Argonlav and under Esrelu, and west of Glomdur:
