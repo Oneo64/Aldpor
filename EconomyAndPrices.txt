@@ -192,8 +192,7 @@ Symbols (use the item materials table above, use same rules for engraving):
 	Key:               x5
 
 
-Formula: volume in cm3 * 0.1 * price
-Gemstones (per 10 carats):
+Gemstones (per 2 carats):
 	Ruby:         4 gp Transparent deep red crystal
 	Black opal:   4 gp Translucent black stone with spots of green, blue, and red
 
