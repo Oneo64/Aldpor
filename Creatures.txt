@@ -3,17 +3,24 @@ STAT BLOCKS
 ======================================================================================================================================================
 
 Monster Habitats:
-	Desert:          Daeva, Fire Dragon, Fire Elemental
-	Dungeon:         Draugr, Ghost, Skeleton, Vamerk
-	Forest:          Centaur, Gvarth, Satyr
-	Furnalfa:        Centaur, Dryad, Gvarth, Satyr, Sprite
-	Jungles:         Daeva, Gvarth
-	Moors:           Daeva, Fire Dragon
-	Snowy Mountains: Frost Dragon, Ice Elemental
-	Mountains:       Fire Elemental, Frost Dragon
-	Taiga:           Frost Dragon, Ice Elemental
-	Tundra:          Frost Dragon, Ice Elemental
-	Urban:           Ghost
+	Dungeon:							Draugr, Ghost, Skeleton, Vamerk, Zombie
+
+	Desert:								Daeva, Fire Dragon, Fire Elemental
+
+	Mountains:							Fire Elemental, Frost Dragon
+	Snowy Mountains:					Frost Dragon, Ice Elemental
+
+	All Forests:						Centaur, Gvarth, Satyr
+	Jungles:							Daeva, Gvarth	
+	Northern Dagsvaldian Forests: 		Troll
+	Southern Dagsvaldian Forests:		Troll (less frequent)
+	Tundra/Snowfield:					Frost Dragon, Ice Elemental
+	Snowy taiga, Solshaef Forest:		Frost Dragon, Ice Elemental
+
+	Urban:								Ghost, Golem
+
+	Furnalfa:							Centaur, Dryad, Gvarth, Satyr, Sprite
+	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
 
 
 
