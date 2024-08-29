@@ -1,4 +1,9 @@
 Locations\References\Structures\Hendril.png
-	Name: Olevy
+	Username: Olevy
 	Link to user: https://fr.wikipedia.org/wiki/Utilisateur:Olevy
 	Link to file: https://commons.wikimedia.org/wiki/File:Maquette_de_J%C3%A9rusalem.jpg
+
+Locations\References\Structures\House in Pendlas Mus.jpg
+	Username: Flickr upload bot (file doesn't exist on flickr anymore)
+	Link to user: https://commons.wikimedia.org/wiki/User:Flickr_upload_bot (made by Bryan, user link: https://commons.wikimedia.org/wiki/User:Bryan)
+	Link to file: https://commons.wikimedia.org/wiki/File:Squatter's_Cabin_Sequoia_National_Park.jpg (uploaded from http://flickr.com/photo/13422016@N07/2937878503)
