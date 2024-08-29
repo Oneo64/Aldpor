@@ -1,6 +1,6 @@
 Government: Constitutional Monarchy
 Race Majority: Moon Elf, Elfmen
-Culture type: Elvish
+Culture type: Elvish + Roman
 
 Main language: Aodesvic
 Other languages: Rànûdan
@@ -15,3 +15,5 @@ Villages:
 
 Cities:
 	Yūsathu Gandathu
+
+Yūsathu Gandathu looks like a roman city built on a hill. The hill is surrounded by forest like all other Aodesvic settlements, and it has a wooden wall 8 meters high that surrounds the city.
