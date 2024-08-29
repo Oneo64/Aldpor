@@ -9,4 +9,6 @@ Ruler: King Sûvisgarn
 Cities:
 	Vuntarla
 
-Vuntarla is a tiny castle that holds a town, perched on a high hill near the ocean.
+Vuntarla is a tiny castle that holds a town, perched on a high hill near the ocean. It is about 80 meters in width and height, and it's walls are 5 meters high and 4 meters thick, and are filled with earth, with no covering above, so the floor of the walls is grass. To get up to the walls, there is a slope made of earth inside the castle which lead up to the walls. The walls are also slightly on an angle so the stones used to build the walls don't collapse. The houses inside are made of wood, and the main "keep" is just a viking longhouse, surrounded by an inner curtain wall, made of wood.
+
+Houses follow the same style as Dagsvald, but instead of turf roofs, the roofs are made of wood.
