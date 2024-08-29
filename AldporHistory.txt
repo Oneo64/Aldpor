@@ -32,19 +32,20 @@ Settlements/empires/kingdoms:
 		Aodesvu (Old Rànûdan - Aodesvic)										(170 AD - Present day)
 
 	Dwarf:
-		Baln (Primordial)
-		Kiliidhuuk (Primordial)
-		Banir (Primordial - Primordial Dwarven)
-		Banod (Primordial Dwarven - Old Banodic - Banodic)
-		Glomdur (Primordial Dwarven - Old Banodic - Glomish)
-		Mornesvid (Old Banodic - Mornesvian)
+		Baln (Primordial)														(Before 2000 BCE - 1770 BCE, became Banir)
+		Kiliidhuuk (Primordial)													(1540 BCE - 1120 BCE)
+		Banir (Primordial - Primordial Dwarven)									(1770 BCE - 1140 BCE)
+		Banod (Primordial Dwarven - Old Banodic - Banodic)						(1140 BCE - Present day)
+		Glomdur (Primordial Dwarven - Old Banodic - Glomish)					(335 AD - Present day)
+		Mornesvid (Old Banodic - Mornesvian)									(350 AD - Present day)
 
 	Centaur:
-		Linklontinda (Sylvian) (~3500 BCE)
-		Inglinimpara (Sylvendric) (1930 BCE)
-		Hathklosh (Sylvendric) (2000 BCE - 1800 BCE)
-		Heirfgria (Sylvendric)
-		Vatakond (Sylvendric)
+		Linklontinda (Sylvian)													(~3500 BCE)
+		Hathklosh (Sylvendric)													(2000 BCE - 1800 BCE)
+		Inglinimpara (Sylvendric)												(1930 BCE - 900 BCE)
+		Shaefklimper (Sylvendric)												(830 BCE - 200 BCE)
+		Heirfgria (Sylvendric)													(50 AD - Present day)
+		Vatakond (Sylvendric)													(220 AD - Present day)
 
 
 Some time around 3500 BCE
@@ -59,13 +60,13 @@ Glienedràem is formed. Hathklosh rises in the Heirfgrian Forest.
 
 1930 BCE
 Haear is formed. Floraindelen collapsed due to an invasion of earth and stone elementals, which were coming from a different plane. A month later, a group travelled to a fortress located in a massive cavern known as Krikihbolg Stone Fortress. They entered the fortress, and destroyed the portal that lead the elementals to the material plane.
-Inginimpara is also formed where Heirfgria is now.
+Inglinimpara is also formed where Heirfgria is now.
 
 1800 BCE
-Inginimpara starts a conquest, known as the Inginimparian Conquest. They first target Hathklosh, and won.
+Inglinimpara starts a conquest, known as the Inglinimparan Conquest. They first target Hathklosh, and won.
 
 1770 BCE
-Glienedràem collapses, from the Inginimparan Conquest. Anzudengot, the current king of Haear at this time, took advantage of this and took over the remains of Glienedràem. Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
+Glienedràem collapses, from the Inglinimparan Conquest. Anzudengot, the current king of Haear at this time, took advantage of this and took over the remains of Glienedràem. Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
 
 1800 BCE
 Kingdom of Thissalfiran is created, named after it's founder. The Kingdom of Thissalfiran spoke Ancient Elvsh.
@@ -78,12 +79,16 @@ Banir collapsed, due to an economy problem. The people moved west, appointing a 
 
 1120 BCE
 Haear collapses. Borusdalis, and Veilodin rises from Haear. The Kingdom of Thissalfiran attacked Borusdalis, destroying it. Refugees fled to Veilodin, while some went east, forming Borusdaliandur.
-Kiliidhuuk collapsed from a centaur conquest.
+Kiliidhuuk collapsed from the Inglinimparan Conquest.
 
 910 BCE
-Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. 
+Borusdaliandur formed a peace treaty with Veilodin. Borusdaliandur was lead by a sorcerer named Borusdagl. Inglinimpara tried to attack Veilodin, but were intercepted by Borusdaliandur's army. Inglinimpara lost. Borusdaliandur then attacked what was originally Kiliidhuuk, destroying it.
 
-<First Age of Peace>
+900 BCE
+Borusdaliandur and Veilodin decided to invade Inglinimpara, and took it over.
+
+830 BCE
+Shaefklimper rises in the Heirfgrian Forest.
 
 740 BCE
 A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Suprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
@@ -119,6 +124,9 @@ Zarapib collapsed, and Tarib rose, taking over it's remains.
 360 BCE
 Grutorus fully became a kingdom. In the Kingdom of Thissalfiran II, a group of explorers went to where current day Ranûdel is, and put down a new Kingdom, named Rànûladàen.
 
+200 BCE
+Shaefklimper collapsed.
+
  ^
  |
 BCE
@@ -133,9 +141,18 @@ Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galab
 20 AD
 A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla.
 
+50 AD
+Heirfgria is created. A group of centaurs traveled north.
+
+55 AD
+The group of travellers settled in what is now Vatakond.
+
 170 AD
 Rànûladàen was renamed to Rànûdel. Some moon elves did not like the change, so they went and created a kingdom called Aodesvu.
 A large group of explorers from Galabrus traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
+
+220 AD
+The centaur settlement transforms into Vatakond.
 
 350 AD
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
