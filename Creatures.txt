@@ -186,7 +186,7 @@ Centaur (medium fey):
 		Centaurs matures by 20, and lives up to 150 years old.
 
 	Abilities:
-		Centaurs that live in or came from Furnalfa speak Druidic and Sylvan. If they came from Talygva, they might speak Druidic, Heirfgrian, Sylvan, Vatakish, any elvish variant, or a combination of the five.
+		Centaurs that live in or came from Furnalfa speak Druidic and Sylvan. If they came from Talygva, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
 
 Dryad (medium fey):
 	Dryads are native to Furnalfa.
