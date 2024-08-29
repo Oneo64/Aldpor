@@ -1,9 +1,21 @@
+LICENSES
+	CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/2.0/deed.en
+	CC BY-SA 2.0: https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
 Locations\References\Structures\Hendril.png
+	License: CC BY-SA 3.0
 	Username: Olevy
 	Link to user: https://fr.wikipedia.org/wiki/Utilisateur:Olevy
 	Link to file: https://commons.wikimedia.org/wiki/File:Maquette_de_J%C3%A9rusalem.jpg
 
+Locations\References\Structures\Banodic House (Overground).png
+	License: CC BY-SA 3.0
+	Username: Mercy
+	Link to user: https://commons.wikimedia.org/wiki/User:Mercy
+	Link to file: https://commons.wikimedia.org/wiki/File:Landa_-_Viking_house_4.JPG
+
 Locations\References\Structures\House in Pendlas Mus.jpg
+	License: CC BY-SA 2.0
 	Username: Flickr upload bot (file doesn't exist on flickr anymore)
 	Link to user: https://commons.wikimedia.org/wiki/User:Flickr_upload_bot (made by Bryan, user link: https://commons.wikimedia.org/wiki/User:Bryan)
 	Link to file: https://commons.wikimedia.org/wiki/File:Squatter's_Cabin_Sequoia_National_Park.jpg (uploaded from http://flickr.com/photo/13422016@N07/2937878503)
