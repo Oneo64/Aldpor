@@ -16,7 +16,11 @@ Cities:
 
 Rànûdel is located inside the Forest of Ranûdel.
 
-Emeröreslu is built around a karst, which is about 70 meters high. There is a large town built around this karst, which is around the same size of every district in Dagsvald combined. A wooden wall is built around this town, which is about 10 meters high. No towers or other fortifications are built on this wall, because the watchers and lookouts are primarily on the stairs/pathway that lead upwards to the palace.
+Qwalu Dasin and Pûsa Dasin are built along the coast of the forest, while Talithtom is built in a lower, flatter part of the forest where it isn't as mountainous and jagged as the other areas.
+
+
+
+Emeröreslu is built around a karst on the top of a hill, and is about 70 meters high from the top of the hill to the top of the karst. The hill area which isn't jagged allows for a large town built around this karst, which is around the same size of every district in Dagsvald combined. A wooden wall is built around this town, which is about 10 meters high. No towers or other fortifications are built on this wall, because the watchers and lookouts are primarily on the stairs/pathway that lead upwards to the palace.
 
 There is wooden railing around the top of the karst, to prevent people from falling off.
 
@@ -30,7 +34,7 @@ The first floor of the one on the right is the kitchens and storage, while the s
 The building on the left are for palace guards, archers (they are also the lookouts), and guests. There are about fifteen guards and ten lookouts.
 
 Uniforms:
-	Soldier: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear.
+	Soldier: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a norman-style kite shield.
 
 	Palace Guard: A palace guard would have an aqua gambeson, a light gray tabard with Rànûdan's flag on it, brown tunic, brown pants, and leather shoes. Their weapon is a ji halberd (the double crescent variant instead of one)
 
