@@ -14,6 +14,24 @@ Villages:
 Cities:
 	Emeröreslu
 
-Ranûdel is located inside the Forest of Ranûdel.
+Rànûdel is located inside the Forest of Ranûdel.
 
-Emeröreslu is built on three giant trees over 100 meters high. (Subjected to be changed in future, do not take it seriously because Emeröreslu is a plainly stupid idea) Each tree holds a circular wooden floor supported by the large branches of the trees, with bridges connecting each floor. At this height, it is very windy. The wood of the wooden floor and each tree is resistant to fire, and any fires that do catch fire will go out after several seconds.
+Emeröreslu is built around a karst, which is about 70 meters high. There is a large town built around this karst, which is around the same size of every district in Dagsvald combined. A wooden wall is built around this town, which is about 10 meters high. No towers or other fortifications are built on this wall, because the watchers and lookouts are primarily on the stairs/pathway that lead upwards to the palace.
+
+There is wooden railing around the top of the karst, to prevent people from falling off.
+
+The palace is the top of the karst. The main building is a circular wooden structure about 25 meters in diameter, with a thatched conic roof. This building is three floors high. The first floor is the throne room and two long tables, that can fit 12 people each (6 on each side). The throne also has a smaller table for the king when there is a feast/banquet. The two long tables are at the side, so there is a direct path to the throne. The throne is set on an elevated platform with stairs that lead up to it. To the right side is a staircase that is built against the wall. On the second floor are the rooms for the king and his family, and on the third floor is storage space.
+
+A banquet can hold at most 24 people, excluding the king and queen.
+
+Two smaller circular buildings are built on the left and right side of the main building. They have two floors, with a conical thatched roof like the main building.
+
+The first floor of the one on the right is the kitchens and storage, while the second floor are space for servants. There are ten servants who live here.
+The building on the left are for palace guards, archers (they are also the lookouts), and guests. There are about fifteen guards and ten lookouts.
+
+Uniforms:
+	Soldier: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear.
+
+	Palace Guard: A palace guard would have an aqua gambeson, a light gray tabard with Rànûdan's flag on it, brown tunic, brown pants, and leather shoes. Their weapon is a ji halberd (the double crescent variant instead of one)
+
+	Archer/Lookout: An archer would have an aqua gambeson, a light gray tabard with Rànûdan's flag on it, brown tunic, brown pants, and leather shoes. Their weapon is a spear, and a yew longbow with obsidian arrows.
