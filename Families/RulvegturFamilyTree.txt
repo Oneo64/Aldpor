@@ -9,9 +9,13 @@ Land:
         Beds and chests line each side of the wall.
         In the front middle, there is a large hearth, and an iron pot above it. There is a smaller hearth at the back of the longhouse, and a long table.
 
+    Another longhouse, which is also in Argonlav.
+        This longhouse has three farms. One at the back, and two to the right. It has a shed to the left side, which houses some chickens.
+
 ---------------------------------------------------------------
 
-Current people in the Rulvegtur house (13): Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn, Gordur, Vorda, Svan
+Current people in the longhouse with the farms and fence (10): Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn
+Current people in the longhouse with the three farms (3): Gordur, Vorda, Svan
 
 Legend:
  >>  = 1 generation
