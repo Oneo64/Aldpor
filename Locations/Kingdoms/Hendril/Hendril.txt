@@ -26,7 +26,6 @@ Gavalor, Haedroval and Woparias: These fortresses are small stone fortresses abo
 
 Houses are in the style of middle eastern houses, specifically Jerusalem during the 1st century, but the walls are built using common gray stone instead of sandstone/limestone. (Despite whatever the reference image show, don't consider that as the layout of the city, as it only needs to depict however the houses should look like.)
 
-
 W = Wall, C = Cliff face
 
                C
@@ -40,3 +39,8 @@ W              C
   WW           C
     WWWWWWWWWWWC
                C
+
+Uniforms:
+	Soldier: A soldier would have a leather nasal helmet, white tunic, gray pants, and leather shoes. Their weapon is a spear and a norman-style kite shield.
+
+	Palace Guard: A palace guard would have an iron nasal helmet, a yellow surcoat, a hauberk, and a red tunic. Their weapon is a spear and a norman-style kite shield.
