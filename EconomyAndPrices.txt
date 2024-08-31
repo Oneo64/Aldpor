@@ -203,7 +203,7 @@ Gemstones (per 2 carats):
 	Onyx:         1 gp Opaque black crystal
 
 	Crystal Opal: 3 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-	Labadorite:   2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
+	Labradorite:   2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
 
 	White Opal:   1 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
 	Amethyst:     1 sp Transparent deep purple crystal
