@@ -36,7 +36,7 @@ Settlements/empires/kingdoms:
 		Kiliidhuuk (Primordial)													(1540 BCE - 1120 BCE)
 		Banir (Primordial - Primordial Dwarven)									(1770 BCE - 1140 BCE)
 		Banod (Primordial Dwarven - Old Banodic - Banodic)						(1140 BCE - Present day)
-		Glomdur (Primordial Dwarven - Old Banodic - Glomish)					(335 AD - Present day)
+		Glomdur (Primordial Dwarven - Old Banodic - Banodic)					(335 AD - Present day)
 		Mornesvid (Old Banodic - Mornesvian)									(350 AD - Present day)
 
 	Centaur:
