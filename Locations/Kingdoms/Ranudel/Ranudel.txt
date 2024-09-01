@@ -51,5 +51,5 @@ UNIFORMS
 ======================================================================================================================================================
 
 Soldier: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a norman-style kite shield.
-Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one)
+Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one).
 Archer/Lookout: An archer would have an aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a yew longbow with obsidian arrows.
