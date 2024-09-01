@@ -1,6 +1,7 @@
 Government: Elected Diarchy
 Race Majority: Dwarf (red metals and jewelry variants)
 Culture type: Slavic
+Population: 20,000 in villages, 10,000 in the city, ~30,000 people in total
 
 Main languages: Glomish
 Other languages: Banodic
@@ -11,12 +12,32 @@ Rulers (guys):
 	Borog (Rules military, and war)
 	Thand (Major King, rules everything)
 
+Important villages (about 200 settlements, average population 100):
+	Bazam Azarmogsie (200 people)
+
+
+
+======================================================================================================================================================
+CITY OF GLOMDUR
+======================================================================================================================================================
+
 The city of Glomdur is built on a mountain cliff, with a long stone staircase leading up to the entrance. Each house is carved into the stone, with it's doorway leading outside the cliff. Because of unfortunate placement, the shadow of the mountain makes it very dark in the morning, so torches are placed along the staircase and in front of houses.
 
 The outside of Glomdur looks like a bunch of staircases and curtain walls that hug the cliff face, with windows and wooden walls that lead into the houses inside.
 
 
-Uniforms:
-	Soldiers: A leather nasal helmet, and a dark gray tunic. Their weapon is a spear, and a wooden buckler.
 
-	Archers: A leather nasal helmet, and a dark gray tunic. Their weapon is a crossbow, with iron-headed bolts.
+======================================================================================================================================================
+MILITARY
+======================================================================================================================================================
+
+Glomdur has around 2200 people in their army, 10 in each settlement, and 200 in Glomdur. Each settlement has around 10 guards, and Glomdur has 80 guards.
+
+
+
+======================================================================================================================================================
+UNIFORMS
+======================================================================================================================================================
+
+Soldiers: A leather nasal helmet, and a dark gray tunic. Their weapon is a spear, and a wooden buckler.
+Archers: A leather nasal helmet, and a dark gray tunic. Their weapon is a crossbow, with iron-headed bolts.

@@ -1,26 +1,42 @@
 Government: Constitutional Monarchy
 Race Majority: Moon Elf, Elfmen
 Culture type: Elvish + Roman
+Population: 4000 in villages/towns, 30,000 people in Yūsathu Gandathu, 34,000 in total
 
 Main language: Aodesvic
 Other languages: Rànûdan
 
 Ruler: Aodovash
 
-Villages:
+Important villages, about 20 settlemtns with an average population of 200 people each:
 	Brustashar
 	Fiytharna
 	Gaodum Mus
 	Pendlas Mus
 
 Cities:
-	Yūsathu Gandathu
-
-Yūsathu Gandathu looks like a middle eastern city built on a hill, with it's houses in a similar manner to Hendril. The hill is surrounded by forest like all other Aodesvic settlements, and it has a wooden wall 8 meters high that surrounds the city.
-
-Pendlas Mus: Pendlas mus is a small town surrounded by a wall completely made of 10 meters high. Houses are made of wood instead of stone, and has a roof unlike Hendric houses. The roofs are made of wooden boards. There is no sort of defensive structure on the wall. Just outside the town and off the road that leads into it is just thick forests.
+	Yūsathu Gandathu (30,000 people, including 500 soldiers and 100 guards)
 
 
 
-Uniforms:
-	Soldiers and guards: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a spear, and a norman kite shield.
+======================================================================================================================================================
+YŪSATHU GANDATHU
+======================================================================================================================================================
+
+Yūsathu Gandathu looks like a middle eastern city built on a hill, with it's houses in a similar manner to Hendril. The hill is surrounded by forest like all other Aodesvic settlements, and it has a wooden wall 8 meters high that surrounds the city. The city is about two thirds the size of Jollantil.
+
+
+
+======================================================================================================================================================
+PENDLAS MUS
+======================================================================================================================================================
+
+Pendlas mus is a small town surrounded by a wall completely made of 10 meters high. Houses are made of wood instead of stone, and has a roof unlike Hendric houses. The roofs are made of wooden boards. There is no sort of defensive structure on the wall. Just outside the town and off the road that leads into it is just thick forests. Pendlas Mus, unlike other villages, has a wall, and they have 20 guards.
+
+
+
+======================================================================================================================================================
+UNIFORMS
+======================================================================================================================================================
+
+Soldiers and guards: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a spear, and a norman kite shield.

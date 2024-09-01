@@ -1,6 +1,7 @@
 Government: Elected Diarchy
 Race Majority: Dwarf (red metals and jewelry variants)
 Culture type: Slavic
+Population: ~2300 people
 
 Main languages: Banodic
 
@@ -9,11 +10,36 @@ Rulers (guys):
 	Norad (Rules military, the law, criminal punishment)
 	Yarandin (Major King, rules everything)
 
+Castles/fortresses:
+	Banod
+	Dakuutaz
+
+
+
+======================================================================================================================================================
+BANOD (Castle)
+======================================================================================================================================================
+
 The castle of Banod is a fortress built on a peak on a steep, snowy mountain. It's outer walls are made of stone, while the structures inside are wooden. The main entrance is a road up the mountain with some carved stairs on the steep parts. The castle also extends down into the ground about 30 meters, making extra space. The underground is basically a second district, full of markets, shops, inns, and taverns, and other services, because it doesn't get snowy there in the winter. The houses underground are also made of the stones mined from digging the underground. If you follow the path down the undergound, and turn right (which is the other side of the castle), and keep walking, you eventually end up at the end of the road which has a large hole out of the mountain. The side has some wooden boards to protect people from falling out and down the mountain, with small thin windows to allow some sort of ventilation. (think Edinburgh Castle, but it's surrounded by lower mountains and the houses inside are made of wood)
 
 Houses are mostly similar to a small viking cabin, with turf roofs. Houses built underground are made with thatched roofs instead.
 
+The population of Banod is 2000 people, and they have around 50 people as guards.
+
+Banod doesn't have additional settlements or villages other than Dakuutaz.
 
 
-Uniforms:
-	Soldiers and guards: A gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
+
+======================================================================================================================================================
+DAKUUTAZ
+======================================================================================================================================================
+
+Dakuutaz is a fortress built on top of a nearby peak, and also uses stone walls and has the same height as Banod. Dakuutaz holds 300 soldiers.
+
+
+
+======================================================================================================================================================
+UNIFORMS
+======================================================================================================================================================
+
+Soldiers and guards: An iron-only coppergate helmet, chainmail hauberk, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.

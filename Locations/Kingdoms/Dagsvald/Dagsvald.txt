@@ -1,32 +1,40 @@
 Government: Feudal Absolute Monarchy
 Race Majority: Human
 Culture type: Norse
+Population: 40,000 in settlements, 1000 in fortresses, 1500 in Thuryngard, ~42,500 people in total
 
 Main languages: Dagsvaldian
 Other languages: Esrel
 
 Ruler: Palf Thoskar II
 
-Villages:
-	Argonlav (100 people)
-	Baserdol
-	Elkvin
-	Lismerlav
+Important villages, (400 settlements, average 100 people each village):
+	Argonlav (150 people)
+	Baserdol (100 people)
+	Elkvin (50 people)
+	Lismerlav (150 people)
 
 Cities:
-	Thuryngard
+	Thuryngard (1500 people, including 30 guards, 15 king's guards)
 
 Towns in Thuryngard:
-	Thalmundol
-	Kagindet
-	Vilsnagur
+	Thalmundol (600 people)
+	Kagindet (500 people)
+	Vilsnagur (400 people)
 
-Castles/Fortresses:
+Important castles/Fortresses (about 20 in total):
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ynfrünar
-	Galundegt
+	Antulreg
+	Düangurdol
 
-Thuryngard: This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Thalmundol, Kagindet, and Vilsnagur. The outer wall has a diameter of about 300 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
+
+
+======================================================================================================================================================
+THURYNGARD RING FORTRESS
+======================================================================================================================================================
+
+This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Thalmundol, Kagindet, and Vilsnagur. The outer wall has a diameter of about 500 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
 The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood.
 
 The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high. Outside the outer walls, are surrounded by a boreal forest.
@@ -35,15 +43,24 @@ In the inner ring, there is a large longhouse built with mostly stone, except fo
 
 
 
-Ynfrûnar and Galundegt: These fortresses are small stone fortresses about 30x30 meters in size.
+======================================================================================================================================================
+MILITARY
+======================================================================================================================================================
 
-Coins: Each gold or silver coin could be engraved with a symbol of the following:
-	Lûnanyr's symbol (silver only)
-	Sword
-	Dagsvaldian "T" rune (symbolizes Talmundr)
-	Vegvisir
-	Small circle of Dagsvaldian runes that translate into a word or phrase such as "magic", "light", "destiny", "mighty", "draugr repeller", "gold", or "silver"
+Dagsvald has around 2000 men in their army, but most live in their homes.
 
 
 
-Uniforms: Don't be naked, don't be stupid, and have a weapon and you're in.
+======================================================================================================================================================
+OTHER FORTRESSES
+======================================================================================================================================================
+
+These fortresses are small stone fortresses about 30x30 meters in size, and each houses about 20 soldiers.
+
+
+
+======================================================================================================================================================
+UNIFORMS
+======================================================================================================================================================
+
+Don't be naked, don't be stupid, and have a weapon and you're in.
