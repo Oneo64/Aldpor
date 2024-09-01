@@ -10,6 +10,7 @@ Common:
 
 	Dwarves:
 		Banodic
+		Glomish
 		Mornesvian
 
 	Mix:
