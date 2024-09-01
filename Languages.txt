@@ -9,7 +9,6 @@ Common:
 		Rànûdan (Moon Elvish)
 
 	Dwarves:
-		Glomish
 		Banodic
 		Mornesvian
 
