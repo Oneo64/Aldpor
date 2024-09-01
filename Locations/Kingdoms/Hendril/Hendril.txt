@@ -40,7 +40,9 @@ W              C
     WWWWWWWWWWWC
                C
 
-Uniforms:
-	Soldier: A soldier would have a leather nasal helmet, white tunic, gray pants, and leather shoes. Their weapon is a spear and a norman-style kite shield.
 
-	Palace Guard: A palace guard would have an iron nasal helmet, a yellow surcoat, a hauberk, and a red tunic. Their weapon is a spear and a norman-style kite shield.
+
+Uniforms:
+	Soldier: A soldier would have a leather nasal helmet, white tunic, gray pants, will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+
+	Palace Guard: A palace guard would have an iron nasal helmet, yellow surcoat, hauberk, red tunic, and will provide shoes if needed. Their weapon is a spear and a norman kite shield.
