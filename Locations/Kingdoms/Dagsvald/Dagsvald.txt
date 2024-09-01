@@ -1,7 +1,7 @@
 Government: Feudal Absolute Monarchy
 Race Majority: Human
 Culture type: Norse
-Population: 40,000 in settlements, 1000 in fortresses, 1500 in Thuryngard, ~42,500 people in total
+Population: 40,000 in settlements, 200 in fortresses, 1500 in Thuryngard, ~41,700 people in total
 
 Main languages: Dagsvaldian
 Other languages: Esrel
@@ -15,14 +15,14 @@ Important villages, (400 settlements, average 100 people each village):
 	Lismerlav (150 people)
 
 Cities:
-	Thuryngard (1500 people, including 30 guards, 15 king's guards)
+	Thuryngard (1500 people, including 20 guards patrolling the walls, 20 patrolling the town, 10 lookouts, and 15 king's guards)
 
 Towns in Thuryngard:
 	Thalmundol (600 people)
 	Kagindet (500 people)
 	Vilsnagur (400 people)
 
-Important castles/Fortresses (about 20 in total):
+Important castles/Fortresses (about 10 in total, 10 guards and 10 servants in each fortress other than Thuryngard):
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ynfrünar
 	Antulreg
@@ -39,7 +39,9 @@ The inner wall is approximately 100 meters. There are three buildings inside, wh
 
 The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high. Outside the outer walls, are surrounded by a boreal forest.
 
-In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, soldiers, and nobles).
+In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, and nobles).
+
+There are 20 guards patrolling the outer ring, 20 guards patrolling the towns, 10 archers/lookouts, and 15 king's guards. There are also to watch towers with thatched roofs, 10 meters up instead of 6. To get up there is a ladder at the back of the watch towers, and each tower is stationed one archer.
 
 
 
@@ -55,7 +57,7 @@ Dagsvald has around 2000 men in their army, but most live in their homes.
 OTHER FORTRESSES
 ======================================================================================================================================================
 
-These fortresses are small stone fortresses about 30x30 meters in size, and each houses about 20 soldiers.
+These fortresses are smaller ring fortresses about 100 meters in diameter.
 
 
 
