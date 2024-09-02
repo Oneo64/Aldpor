@@ -19,13 +19,16 @@ Obviously, water is required, and it is strictly water. Any kind of liquid that 
 
 Catalysts:
 A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
-A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst. The catalyst must also be completely submerged in the liquid to work.
+A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst. The catalyst must also be completely submerged in the liquid to work. If the catalyst is magical water, it works as the water required to make the potion.
 
 Here are a list of catalyst examples:
 	The snow, or foliage where an intense magical battle happened.
 	The foliage near a magical creatures' lair.
 	The grass from a magic academy's training grounds.
-	The water from an ancient magical well. (These catalysts can also be the water required.)
+	The water from an ancient magical well.
+	Water attuned to a god or moon.
+
+	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
 
 
 

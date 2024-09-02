@@ -487,6 +487,15 @@ A bolt of bright pale blue of lightning connects your pointing finger to a point
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Sparks (basic)
+	Casting time: 3 seconds
+	Range:        20 meters
+	Requirements: V, S
+
+A thin bolt of pale blue of lightning connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Magic Missiles (basic)
 	Casting time: instantaneous
 	Range:        40 meters
