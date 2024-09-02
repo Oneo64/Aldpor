@@ -9,18 +9,20 @@ Weapons:
 		Quarterstaff
 		Sickle
 		Spear
-		Star Glising* (1d8 piercing)
+		Star glising* (1d8 piercing)
 
 	Martial Melee:
-		Arming Sword
+		Arming sword
 		Battle axe
 		Longaxe (dane axe) (use greataxe stats, damage is 1d10 slashing instead)
+		Monk's spade
+		Pike
+		Saber
 		Scimitar
 		Shortsword
 		Trident
-		Warhammer
+		War hammer
 		Whip
-		Pike
 
 	Simple Ranged Weapons:
 		Crossbow, light (invented 400 AD)
@@ -38,11 +40,12 @@ Weapons:
 			Studded Leather
 
 		Medium:
-			Hide
-			Chainmail Hauberk
-			Scale Mail
 			Breastplate
+			Byrnie
 			Half Plate
+			Hauberk
+			Hide
+			Scale Mail
 
 		Heavy:
 			Lamellar (14, stealth disadvantage)
