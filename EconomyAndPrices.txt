@@ -8,15 +8,15 @@ Wealth: For personal wealth, divide by 2 and round down, or convert to cp, divid
 Gold: Gold is equal to 10 silver, as you see above. However, gold coins are rare, so only the wealthy have some.
 
 Average family wealth per social class (Personal wealth average divide by 4):
-	Low class (peasants, serfs, slaves): family: 20 sp  + 20 cp              || personal: 5 sp   + 5 cp
-	Middle class (karls):                family: 100 sp + 100 cp             || personal: 25 sp  + 25 cp
+	Low class (peasants, serfs, slaves): family: 4 sp  + 5 cp
+	Middle class (karls):                family: 10 sp + 10 cp
 	--WEALTHY/RICH BORDER---------------------------------------------------------------------------------------------
-	High class (wealthy people, mayors): family: 20 gp  + 1000 sp  + 1000 cp || personal: 5 gp   + 250 sp  + 250 cp
-	Very High class (jarls, lords):      family: 100 gp + 5000 sp  + 5000 cp || personal: 25 gp  + 1250 sp + 1250 cp
-	Most High class (kings and royals):  family: 500 gp + 10000 sp + 5000 cp || personal: 125 gp + 2500 cp + 1250 cp
+	High class (wealthy people, mayors): family: 5 gp  + 100 sp  + 100 cp
+	Very High class (jarls, lords):      family: 10 gp + 500 sp  + 500 cp
+	Most High class (kings and royals):  family: 20 gp + 1000 sp + 500 cp
 
-Skilled Hireling:    5 sp/day
-Unskilled Hireling:  2 sp/day
+Skilled Hireling:    3 sp/day (guards, palace guards, healer, merchant, etc)
+Unskilled Hireling:  1 sp/day (farmers)
 
 Any carved piece is counted outside of the multiplier, and price goes up by 5x.
 Example: walls multiplier x5, but 1 is carved. the walls cost 1gp each.
@@ -38,109 +38,124 @@ Structures (wall multiplier, floor multiplier, roof multiplier):
 	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
 
 Item Materials:
-	Leather:  1 sp
 	Silk:     2 sp
-	Linen:    5 cp
-	Wool:     5 cp
 
-	Wood:     5 cp
-	Quality wood: 1sp
+	Wool:     2 cp
+	Linen:    4 cp
+	Fur/Hide: 5 cp
+	Leather:  6 cp
 
-	Copper:   3 sp
-	Bronze:   4 sp
-	Brass:    4 sp
+	Low quality wood:            2 cp
+	Medium/Average quality wood: 5 cp
+	High quality wood:           1 sp
 
-	Iron:     4 sp
-	Steel:    6 sp
-	Damascus: 8 sp
+	Iron:				2 sp
+	Steel:				3 sp
+	Damascus/Crucible:	1 gp
 
-	Silver:   1 gp
-	Gold:     10 gp
-	Sword handle (Iron wrapped with leather): 2 sp
+	Copper:				3 sp
+	Bronze:				4 sp
+	Brass:				4 sp
+	Silver:				5 sp
+	Gold:				1 gp
 
-Cloth Dyes (pale | saturated, you multiply this by the area of the fabric):
-	Cheap (earthly colors, shades):   1 cp | 2 cp
-	Somewhat expensive (warm colors): 1 sp | 2 sp
-	Expensive (cool colors):          3 sp | 6 sp
+Cloth Dyes (for each clothing dyed):
+	Cheap (earthly colors, greens, yellows, shades):	1 sp | 2 sp
+	Somewhat expensive (reds, blues): 					2 sp | 8 sp
+	Expensive (purples):								5 sp | 5 gp
 
 *default prices are assuming they are made of iron*
-Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2.):
-	Arming Sword:     handle x2, crossguard + blade x20
-	Shortsword:       handle x2, crossguard + blade x12
-	Scimitar:         handle x3, crossguard + blade x20
-	Bearded Axe:      handle x5, head x6 (3gp 2sp 5cp)
-	Longaxe/Dane axe: handle x8, head x10 (5gp 4sp)
-	Star Glising:     handle x5, head x18 (11gp 5sp, similar to a morning star, instead of the head is made of spikes that protrude out of the tip like a sea urchin)
-	Mace:             handle x5, head x15 (10gp)
-	War Hammer:       (small) handle x6, head x6 (3gp 3sp) | (large) handle x10, head x7 (4sp)
-	Spear:            handle x10, head x3 (2gp)
-	Pike:             handle x16, head x5 (3gp 3sp)
-	Staff:            handle x6 (3sp)
-	Trident:          handle x10, head x20 (15gp, steel = 30gp)
-	Round Shield:     shield x16, leather rim x10, paint (see dye, ignore if undyed) x5, round thingy in the middle x5 (undyed = 4gp 3sp)
-	Buckler:          shield x10
+Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2. magical properties multiplies it by 2 seperately.):
+	Arming Sword:     blade  x10
+	Spatha:           blade  x8
+	Suontaka:         pommel and crossguard x 5, blade x15 (if going with an iron one that is engraved (with bronze crossguard), it would cost 40 sp + 30 sp = 70 silver)
+	Shortsword:       blade  x6
+	Scimitar/Saber:   blade  x12
 
-	Bow: arch x20, string 2sp
+	Bearded Axe:      shaft x2,   head x5
+	Axe:              shaft x2,   head x4
+	Longaxe/Dane axe: shaft x4,   head x10
+	Star Glising:     shaft x3,   head x15
+	Flanged Mace:     shaft x3,   head x12
+	Blunt Mace:       shaft x3,   head x7
+	War Hammer:       shaft x3,   head x7
+	Spear:            shaft x7,   head x6
+	Pike:             shaft x10,  head x6
+	Quarterstaff:     shaft x6
+	Trident:          shaft x6,   head x20
+	Round Shield:     shield x10, paint (see dye, ignore if undyed) x5
+	Buckler:          shield x5
 
-	Whip: 2gp
+	Bow:              arch x30, string 4 sp
 
-	Fancy patterns: multipliers + 3gp
-	Tunic/Pants:    area x10
-	Robes:          area x15
-	Dress:          area x20
+	Whip:             2 gp
 
-	Gambeson:       area x30
-	Lamellar:       area x30 (warning: does not come with undergarment)
-	Mail Hauberk:   area x50
+	Embroidery:        plus 3 sp
+	
+	Basic clothing:
+		Pants:        area x20
 
-	Necklace:       necklace x10
-	Arm ring:       thing x10
-	Ring:           ring x5
-	Circlet:        circlet x20
+		Tunics underneath
+
+		Mid-thigh:    area x20
+		Knee:         area x25
+		Mid-calf:     area x30
+		Ankles:       area x35
+
+	Gambeson:          area x30
+	Lamellar:          area x30, metal things x5
+	Mail Shirt/Byrnie: chain links x20    
+	Mail Hauberk:      chain links x30
+
+	Amulet/pendant (not the entire necklace, just the small piece): metal/gemstone x4
+	Ring:           metal x1
+	Circlet:        metal x5
+	Arm ring:       metal x5 (engravings already calculated in)
 
 	*measured in diameters
-	Orb (large,  >=9 cm): gems x60
-	Orb (medium, >=6 cm): gems x40
-	Orb (small,  >=4 cm): gems x30
-	Marble (<4cm):        gems x10
+	Orb (large,  >=9 cm): material x12
+	Orb (medium, >=6 cm): material x9
+	Orb (small,  >=4 cm): material x6
+	Marble (<4cm):        material x4
+	Bead (<2cm):          material x2
 
 * If a food isn't common in the area, it's price increases by 1.5.
 Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
-	Watermelon:             1 sp
-	Pumpkin:                1 sp
-	Squash:                 8 cp
-	Any Fruit:              6 cp
-	Carrot:                 4 cp
-	Lettuce:                4 cp
-	Cabbage:                3 cp
-	Potato:                 3 cp
-	Onion:                  3 cp
+	Watermelon:               1 sp
+	Pumpkin:                  1 sp
+	Squash:                   8 cp
+	Any Fruit:                6 cp
+	Carrot:                   4 cp
+	Lettuce:                  4 cp
+	Cabbage:                  3 cp
+	Potato:                   3 cp
+	Onion:                    3 cp
 
-	50 Blueberries:         1 sp (50 berries = 1 bowl)
-	50 Raspberries:         3 sp (50 berries = 1 bowl)
-	10 Strawberries:        3 sp
+	50 Blueberries:           1 sp (50 berries = 1 bowl)
+	50 Raspberries:           3 sp (50 berries = 1 bowl)
+	10 Strawberries:          3 sp
 
 	* Each sack can hold up to 30 of any vegetable, fruit, meat, or egg.
 
-	1 Sack of Wheat:        4 sp
-	1 Sack of Wheat Flour:  6 sp (can make 10 loaves)
-	1 Sack of Rye:          4 sp
-	1 Sack of Rye Flour:    6 sp (can make 10 loaves)
-	1 Sack of Barley:       4 sp
-	1 Sack of Barley Flour: 6 sp (can make 10 loaves)
+	1 Sack of Wheat:          4 sp
+	1 Sack of Wheat Flour:    5 sp (can make 10 loaves)
+	1 Sack of Rye:            4 sp
+	1 Sack of Rye Flour:      5 sp (can make 10 loaves)
+	1 Sack of Barley:         4 sp
+	1 Sack of Barley Flour:   5 sp (can make 10 loaves)
 
-	1 Sack of Oat:          4 sp (100 servings, 12 lb)
-	1 Sack of Rice:         4 sp (100 servings, 12 lb)
+	1 Sack of Oat:            4 sp (100 servings, 12 lb)
+	1 Sack of Rice:           4 sp (100 servings, 12 lb)
 
-	Loaf of wheat bread:    6 cp
-	Loaf of rye bread:      7 cp
+	Loaf of wheat bread:      5 cp
+	Loaf of rye bread:        5 cp
 
-	Goat:                   5 sp
-	Cattle:                 5 sp
-	Sheep:                  5 sp
-	Pig:                    3 sp
-	Chicken:                2 sp
-	Duck:                   2 sp
+	Cattle:                   1 gp
+	Goat:                     5 sp
+	Sheep:                    5 sp
+	Pig:                      3 sp
+	Chicken:                  2 sp
+	Duck:                     2 sp
 
 	EVERYTHING IN HERE IS PER POUND
 	  Deer/Vension:           5 cp
@@ -151,45 +166,37 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	  Fish (meat):            2 cp
 	EVERYTHING IN HERE IS PER POUND
 
-	Chicken egg:            5 cp
-	Duck egg:               5 cp
+	Chicken egg:              1 cp
+	Duck egg:                 1 cp
 
-	Cheese wheel:           3 sp
+	Cheese wheel:             3 sp
 
-	Common spice (jar):     3 sp
-	Rare spice (jar):       8 sp
-	Salt (jar):             5 cp
+	Common spice (jar):       3 sp
+	Rare spice (jar):         6 sp
+	Salt (jar):               5 cp
 
-	Mead:         5 sp
+	Bottle of Mead:           2 sp
+	Bottle of Cheap Wine:     6 cp
+	Bottle of Expensive Wine: 4 sp
 
-	Cheap Wine:             5 cp
-	Expensive Wine:         3 sp
+	10x10cm Silk:             2 sp
+	10x10cm Wool (fabric):    2 cp
+	10x10cm Linen:            4 cp
+	10x10cm Fur/Hide:         5 cp
+	10x10cm Leather:          6 cp
 
-	10x10cm Silk:           1 sp
-	10x10cm Leather:        5 cp
-	10x10cm Linen:          3 cp
+	1 Sack of Wool (raw):     1 sp + 5 cp
 
-	10x10cm Wool (fabric):  3 cp
+	Sheet (parchment):        2 cp
+	Sheet (vellum):           6 cp
 
-	1 Sack of Wool (raw):   1 sp + 5 cp
+	Scroll (parchment):       2 sp
+	Scroll (vellum):          6 sp
 
-	Sheet (parchment)       2 cp
-	Sheet (vellum)          6 cp
-
-	Scroll (parchment)      2 sp
-	Scroll (vellum)         6 sp
-
-	Spell Scroll (LVL 1)    15 gp
-	Spell Scroll (LVL 2)    30 gp
-	Spell Scroll (LVL 3)    60 gp
-	Spell Scroll (LVL 4)    90 gp
-	Spell Scroll (LVL 5)    130 gp
-	Spell Scroll (LVL 6)    160 gp
-
-
-Symbols (use the item materials table above, use same rules for engraving):
-	Norvunic "T" Rune: x5
-	Key:               x5
+	Spell Scroll (minor):     1 gp
+	Spell Scroll (basic):     2 gp
+	Spell Scroll (major):     5 gp
+	Spell Scroll (powerful):  10 gp
 
 
 Gemstones (per 2 carats):
@@ -203,7 +210,7 @@ Gemstones (per 2 carats):
 	Onyx:         1 gp Opaque black crystal
 
 	Crystal Opal: 3 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
-	Labradorite:   2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
+	Labradorite:  2 sp Translucent dark blue/purple with black to dark brown cracks, and some parts gold
 
 	White Opal:   1 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
 	Amethyst:     1 sp Transparent deep purple crystal
