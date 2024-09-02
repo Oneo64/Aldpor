@@ -16,8 +16,8 @@ Dimensions:
 	Parhrûvaryg = Plane of magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth hundreds of gold)
 
 Deities:
-	Talmundur = God of Warmth and Cold (N, Tempest, Luck) (Symbol: Upside down Dagsvaldian T rune)
-	Lûnanyr   = God of Life and Death (LG, Order, Life, Death)
-	Jalfar    = God of Creation (NG, Order, War, Creation, Destruction, Change)
-	Parhrûgi  = God of Magic (N, Order, Knowledge, Arcana)
-	Hirulfyr  = God of Emotions (CN, Life, Trickery)
+	Talmundur = God of Nature, Tempest and Luck (Neutral, Tempest) (Symbol: Upside down Dagsvaldian T rune)
+	Lûnanyr   = God of Life, Death, and Nature (Lawful Good, Order, Life, Death)
+	Jalfar    = God of Creation (Neutral Good, Order, War, Creation, Destruction, Change)
+	Parhrûgi  = God of Magic (Neutral, Order, Knowledge, Arcana)
+	Hirulfyr  = God of Emotions (Chaotic Neutral, Life, Trickery)

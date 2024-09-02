@@ -1,6 +1,6 @@
 Moon:
-	Aan, yellow moon
+	An,  yellow moon (looks like Io)
 	Lûn, white moon
 	Vel, blue moon
 
-	Once every few decades, Aan rubs past on Lûn's surface, causing a bright flash and some meteors.
+	Once every few decades, Aan rubs past on Lûn's surface, causing a bright flash and some small meteors.
