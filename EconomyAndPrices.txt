@@ -3,19 +3,18 @@ Currencies:
 	sp = 0.1 gp, 10 cp
 	cp = 0.01 gp, 0.1 sp
 
-Wealth: For personal wealth, divide by 2 and round down, or convert to cp, divide by three and round down. Middle class isn't exactly poor, but average.
-
 Gold: Gold is equal to 10 silver, as you see above. However, gold coins are rare, so only the wealthy have some.
 
-Average family wealth per social class (Personal wealth average divide by 4):
-	Low class (peasants, serfs, slaves): family: 4 sp  + 5 cp
-	Middle class (karls):                family: 10 sp + 10 cp
+Average family wealth per social class (Personal wealth average divide by 4, silver and copper only):
+	Low class (peasants, serfs, slaves): family: 5 sp  + 5 cp
+	Middle class (middle-class):         family: 20 sp + 20 cp
 	--WEALTHY/RICH BORDER---------------------------------------------------------------------------------------------
-	High class (wealthy people, mayors): family: 5 gp  + 100 sp  + 100 cp
-	Very High class (jarls, lords):      family: 10 gp + 500 sp  + 500 cp
-	Most High class (kings and royals):  family: 20 gp + 1000 sp + 500 cp
+	Moderately wealthy:                  family: 20 gp  + 100 sp  + 100 cp
+	Wealthy:                             family: 30 gp  + 200 sp  + 100 cp
+	Very wealthy (mayors, hersirs):      family: 40 gp  + 400 sp  + 100 cp
+	Highest class (jarls, lords):        family: 100 gp + 1000 sp + 500 cp
 
-Skilled Hireling:    3 sp/day (guards, palace guards, healer, merchant, etc)
+Skilled Hireling:    3 sp/day (guards, palace guards, healer, merchant, building, etc)
 Unskilled Hireling:  1 sp/day (farmers)
 
 Any carved piece is counted outside of the multiplier, and price goes up by 5x.
@@ -23,19 +22,20 @@ Example: walls multiplier x5, but 1 is carved. the walls cost 1gp each.
 Example: walls cost: (1gp x 5) + carved piece: (1gp x 5)
 
 Building Materials:
-	Okay quality log: 5 sp
-	High quality log: 1 gp
-	Stone:	          2 gp
-	Leather:          2 sp
+	Okay quality log: 2 sp
+	High quality log: 4 sp
+	Stone:	          5 sp
+	Leather:          1 sp
 	Thatch:           1 sp
+	Turf:             2 sp
 
 	No floor:         ignore floor
 
 Structures (wall multiplier, floor multiplier, roof multiplier):
-	Small house: walls x10   floors x0   roof x5
-	Longhouse:   walls x30   floors x10  roof x15  labor x8  ((basic: 42gp + 5sp) or (high quality: 102gp + 5sp) + 11gp + 2sp)
-	Keep:        walls x100  floors x30  roof x20  labor x20 (500gp + 90gp + 10gp + (1sp x 20 x 300 = 6000sp = 600gp) = 1200gp)
-	Castle:      walls x300  floors x50  roof x25  labor x50 (1500gp + 150gp + 125sp + (1sp x 50 x 1500 = 75000sp = 7500gp) ~= 9162gp)
+	Small house: walls x10   floors x5   roof x5
+	Longhouse:   walls x30   floors x10  roof x15  labor x8
+
+	Castle/Ring Fortress: walls x200  labor x50  (just the fortress walls, not the inside)
 
 Item Materials:
 	Silk:     2 sp
