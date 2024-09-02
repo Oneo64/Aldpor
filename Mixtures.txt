@@ -26,6 +26,7 @@ Here are a list of catalyst examples:
 	The foliage near a magical creatures' lair.
 	The grass from a magic academy's training grounds.
 	The water from an ancient magical well.
+	The core of a slain elemental.
 	Water attuned to a god or moon.
 
 	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
