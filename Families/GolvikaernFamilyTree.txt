@@ -9,10 +9,15 @@ Land:
 
 
 
- [GOLHÆRN FAMILY]--Vond [M, 895 - 958]-------------+
+ [GOLVIKÆRN FAMILY]--Vond [M, 895 - 958]-----------+
                                                    |                               +-Verdan [M, 6 May 946]
  [ALDAGVA FAMILY]--Ifnild [F, 896 - 966]-----------+>>+-Paldur [M, 2 May 922]---+  |
                                                                                 |>>+-Rondar [M, 23 July 948]
  [JONDIAN FAMILY]--Horin Jondian [M, 30 March 901]-+>>+-Ysda [F, 12 August 924]-+  |
                                                    |                               +-Byrnda [F, 27 June 949]
  [HÆNURDAN FAMILY]--Gerd Jondian [F, 898 - 962]----+
+
+
+
+Notes:
+    Horin Jondian is from Hendril
