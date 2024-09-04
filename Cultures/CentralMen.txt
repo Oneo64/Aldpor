@@ -1,6 +1,7 @@
 Base "aesthetic" or whatever: Roman to Migration Period
 
 Preferred weapons:
+	Longbow
 	Flanged mace
 	Spatha
 	Spear

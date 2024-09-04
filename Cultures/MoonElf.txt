@@ -1,11 +1,11 @@
 Preferred weapons:
-	Bow (preferrably longbows)
-	Obsidian-tipped arrows
-	Spear
-	Ji
+	All bows
 	Guandao (only for the wealthy)
+	Ji
 	Monk's spade (only for the wealthy)
+	Obsidian-tipped arrows
 	Sabers (Liuyuedao)
+	Spear
 
 Preferred metals:
 	Crucible steel

@@ -2,9 +2,11 @@ Base "aesthetic" or whatever: Norse
 
 Preferred weapons:
 	Atgeir
+	Axe
 	Longaxe
+	Longbow (self bow, no recurving)
 	Spear
-	Viking/Frankish sword
+	Viking/Frankish swords
 
 Preferred metals:
 	Crucible steel

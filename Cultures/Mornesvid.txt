@@ -1,6 +1,7 @@
 Base "aesthetic" or whatever: Scottish
 
 Preferred weapons:
-	Crossbow
-	War hammer
+	Axe
+	Light crossbow
 	Shortsword
+	War hammer

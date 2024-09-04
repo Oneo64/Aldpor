@@ -1,7 +1,8 @@
 Preferred weapons:
-	Bow (preferrably longbows)
-	Scimitar
+	Light Crossbow
+	Liuyuedao
 	Spatha
+	Spear
 
 Preferred metals:
 	Crucible steel

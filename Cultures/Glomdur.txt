@@ -1,6 +1,7 @@
 Base "aesthetic" or whatever: Slavic
 
 Preferred weapons:
-	Crossbow
-	War hammer
+	Axe
+	Light Crossbow
 	Shortsword
+	War hammer

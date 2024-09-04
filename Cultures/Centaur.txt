@@ -1,6 +1,7 @@
 Preferred weapons:
-	Bow (preferrably normal bows or shortbows)
-	Crossbow
+	Longaxe
+	Longbow (self bow, no recurving)
+	Light Crossbow
 	Obsidian-tipped arrows
 	Scimitar
 
