@@ -25,15 +25,15 @@ Uncommon:
 
 Exotic:
 	Primordial
+	Sylvan
+	Abyssal
+
 	Primordial Dwarven
 	Old Banodic
 
-	Floradish
-	Old Haearic
 	Haearic
+	Borian
 	Borusdaliandurish
-	Old Zarapibian
-	Zarapibian
 	Old Taribian
 	Grutorian
 	Galabrian

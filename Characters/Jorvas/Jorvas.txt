@@ -1,17 +1,18 @@
-Jorvas Belgnor
+Jorvas Bylgzolem
 Male
 Age: 451 (born 522, jan 3)
 Alignment: Chaotic Neutral
-Ethnicity: Old Hendric
+Ethnicity: Galabrus
 Race:      Draugr (Human)
 
-Jorvas was a human, born in 648 AD in Hendril. He and 3 other nobles traveled north with a group of men, but was killed in battle by bandits. Later, he returned as a draugr, and now resides inside his tomb. Like all corpses, Jorvas has old, black-green skin, saturated yellow eyes, and has long black hair. He is 183 centimeters tall.
+Jorvas was a human, born in 522 AD in Hendril. He and 3 other nobles traveled north with a group of men, but was killed in battle by bandits. Later, he returned as a draugr, and now resides inside his tomb. Like all corpses, Jorvas has old, black-green skin, saturated yellow eyes, and has long black hair. He is 183 centimeters tall.
 
-He wears a migration period helmet, lined with brass and lead. He also wears a hauberk, blue gambeson, brown pants, a belt and a pair of shoes. He also has a red scabbard containing a spatha.
+He wears a migration period helmet, lined with brass and lead. He also wears a hauberk, blue gambeson, brown pants, a belt and a pair of shoes. He also has a red scabbard containing a spatha, and a round shield.
 
 Like all draugr, his voice is raspy and deep.
 
 Weapons:
+	Round Shield
 	Spatha
 
 Personality:
@@ -32,7 +33,7 @@ Abilities:
 	Sword
 	Magic
 
-	Draco-Dagsvaldian
+	Primal Dagsvaldian
 	Old Esrel
 
 	Magic:

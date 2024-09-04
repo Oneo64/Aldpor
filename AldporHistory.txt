@@ -4,42 +4,43 @@ Language key:
 
 Settlements/empires/kingdoms:
 	Human:
-		Haear (Haearic)															(1930 BCE - 1120 BCE)
+		Haear (Haearic)															(1930 BCE - 1120 BCE)								(Haearic)
 
-		Borusdalis (Haearic - Borian)											(1120 BCE, less than a couple of decades)
-		Veilodin (Borian)														(1120 BCE - 680 BCE)
-		Borusdaliandur (Borian - Borusdaliandurish)								(1120 BCE - 650 BCE)
+		Borusdalis (Haearic)													(1120 BCE, less than a couple of decades)			(Haearic)
+		Veilodin (Haearic - Borian)												(1120 BCE - 680 BCE)								(Haearic: 1120 BCE to 900 BCE, Borian: 900 BCE to 680 BCE)
+		Borusdaliandur (Haearic - Borusdaliandurish)							(1120 BCE - 650 BCE)								(Haearic: 1120 BCE to 850 BCE, Borusdaliandur: 850 BCE to 650 BCE)
 
-		Zarapib (Borian - Old Zarapibian - Zarapibian)							(650 BCE - 640 BCE)
+		Zarapib (Borian - Old Taribian)											(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
-		Grutorus (Old Zarapibian - Grutorian)									(490 BCE - 0 AD, became Grutorus and Hendrala)
-		Galabrus (Grutorian - Galabrian)										(0 AD - 350 AD)
-		Hendrala (Old Hendric)													(0 AD - 410 AD, became Hendril)
+		Grutorus (Old Taribian - Grutorian)										(490 BCE - 0 AD, became Grutorus and Hendrala)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to 0 AD)
+		Galabrus (Grutorian - Galabrian)										(0 AD - 350 AD)										(Grutorian: 0 AD to 170 AD, Galabrian: 170 AD to 350 AD)
+		Hendrala (Old Hendric)													(0 AD - 410 AD, became Hendril)						(Old Hendric)
 
-		Tarib (Zarapibian - Old Taribian - Taribian)							(450 BCE - Present day)
-		Hendril (Hendric)														(410 AD - Present day)
-		Dagsvald (Galabrian & Old Banodic - Primal Dagsvaldian - Dagsvaldian)	(780 AD - Present day)
+		Tarib (Old Taribian - Taribian)											(450 BCE - Present day)								(Old Taribian: 450 BCE to 670 AD, Taribian: 670 AD to Present)
+		Hendril (Old Hendric - Hendric)											(410 AD - Present day)								(Old Hendric: 410 AD to 720 AD, Hendric: 720 AD to Present)
+		Dagsvald (Galabrian & Old Banodic - Primal Dagsvaldian - Dagsvaldian)	(780 AD - Present day)	(Galabrian: 780 AD to 800 AD, Primal Dagsvaldian: 800 AD to 830 AD, Dagsvaldian: 830 AD to Present)
 
 	Elf:
-		Floraindelen (Ancient Elvish)											(Some time around Baln's rise, only a few decades)
-		Glienedràem (Ancient Elvish)											(2000 BCE - 1770 BCE)
-		Thissalfiran (Ancient Elvish)											(1880 BCE - 520 BCE, became Thissalfiran II)
-		Thissalfiran II (Ancient Elvish)										(520 BCE - ???, disappeared off the face of the earth)
-		Rànûladàen (Old Rànûdan)												(360 BCE - 170 AD, renamed to Rànûdel)
-		Rànûdel (Old Rànûdan - Rànûdan)											(170 AD - Present day, more accurately 360 BCE - Present day)
+		Floraindelen (Ancient Elvish)											(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
+		Glienedràem (Ancient Elvish)											(2000 BCE - 1770 BCE)								(Ancient Elvish)
+		Thissalfiran (Ancient Elvish)											(1880 BCE - 520 BCE, became Thissalfiran II)		(Ancient Elvish)
+		Thissalfiran II (Ancient Elvish)										(520 BCE - disappeared off the face of the earth)	(Ancient Elvish)
 
-		Esrelu (Old Rànûdan - Old Esrel - Esrel)								(20 AD - Present day)
-		Aodesvu (Old Rànûdan - Aodesvic)										(170 AD - Present day)
+		Rànûladàen (Old Rànûdan)												(360 BCE - 170 AD, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to 10 AD, Old Rànûdan: 10 AD to 400 AD)
+		Rànûdel (Old Rànûdan - Rànûdan)											(170 AD - Present day, or 360 BCE - Present day)	(Old Rànûdan: 10 AD to 400 AD, Rànûdan: 400 AD to Present)
+
+		Esrelu (Old Rànûdan - Old Esrel - Esrel)								(20 AD - Present day)								(Old Rànûdan: 20 AD to 50 AD, Old Esrel: 50 AD to 540 AD, Esrel: 540 AD to Present)
+		Aodesvu (Old Rànûdan - Aodesvic)										(170 AD - Present day)								(Old Rànûdan: 170 AD to 780 AD, Aodesvic: 780 AD to Present)
 
 	Dwarf:
-		Baln (Primordial)														(Before 2000 BCE - 1770 BCE, became Banir)
-		Kiliidhuuk (Primordial)													(1540 BCE - 1120 BCE)
-		Banir (Primordial - Primordial Dwarven)									(1770 BCE - 1140 BCE)
-		Banod (Primordial Dwarven - Old Banodic - Banodic)						(1140 BCE - Present day)
-		Glomdur (Old Banodic - Glomish)											(335 AD - Present day)
-		Mornesvid (Old Banodic - Mornesvian)									(350 AD - Present day)
+		Baln (Primordial)														(Before 2000 BCE - 1770 BCE, became Banir)		(Primordial)
+		Kiliidhuuk (Primordial)													(1540 BCE - 1120 BCE)							(Primordial)
+		Banir (Primordial - Primordial Dwarven)									(1770 BCE - 1140 BCE)							(Primordial: 1770 BCE to 1440 BCE, Primordial Dwarven: 1440 to 1140 BCE)
+		Banod (Primordial Dwarven - Old Banodic - Banodic)						(1140 BCE - Present day)	(Primordial Dwarven: 1140 to 830 BCE, Old Banodic: 830 BCE to 0 AD, Banodic: 0 AD - Present)
+		Glomdur (Old Banodic - Banodic)											(335 AD - Present day)		(Old Banodic: 335 BCE to 0 AD, Banodic: 0 AD - Present)
+		Mornesvid (Old Banodic - Mornesvian)									(350 AD - Present day)		(Old Banodic: 350 BCE to 30 AD, Mornesvian: 30 AD - Present)
 
-	Centaur:
+	Centaur (Sylvendric: 2000 BCE - Present):
 		Linklontinda (Sylvian)													(~3500 BCE)
 		Hathklosh (Sylvendric)													(2000 BCE - 1800 BCE)
 		Inglinimpara (Sylvendric)												(1930 BCE - 900 BCE)
@@ -135,7 +136,7 @@ AD
  |
  v
 
-0 AD
+Exactly 0 AD
 Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Hendrala.
 
 20 AD
@@ -168,10 +169,12 @@ Jûmlaanar is created.
 Exactly 548 AD
 A large group of explorers from Galabrus traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
 
-560 AD
-The King of Jûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
+Exactly 550 AD
 The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
 They established Thalanol.
+
+560 AD
+The King of Jûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
 650 AD
 Thalanol became Thalmundol.
