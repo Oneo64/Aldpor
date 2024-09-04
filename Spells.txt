@@ -318,6 +318,15 @@ While this spell is active, your eyes must be closed. A creature that can see in
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Detect Evil and Good (basic)
+	Casting time: instantaneous
+	Range:        100 meters
+	Requirements: V, S
+
+You pick a target you can see withing range. You can see wether that target is good, or evil. The target can be anything, from creatures to mere items.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Detect Magic (basic)
 	Casting time: instantaneous
 	Range:        100 meters
