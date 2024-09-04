@@ -812,6 +812,7 @@ SPELL LIST
 			Misty Step
 			Shield
 			Shillelagh
+			Sparks
 
 		MAJOR MAGIC:
 			Arcane Eye
@@ -855,6 +856,7 @@ SPELL LIST
 			Mending
 			Misty Step
 			Shield
+			Sparks
 
 		MAJOR MAGIC:
 			Conjure Elementals
@@ -897,6 +899,7 @@ SPELL LIST
 			Mending
 			Misty Step
 			Shield
+			Sparks
 
 		MAJOR MAGIC:
 			Animate Dead

@@ -1,6 +1,8 @@
 Behaviour patterns:
 	Very few trolls are born/made to have high intelligence and wisdom. These trolls usually become the leaders/one of the commanders of their tribe. Only nobles/leaders wear wood armor because it's hard to get wood and make armor like that. Some inferior trolls may make armor by taking sticks and brances, and tying them together with dried grass.
 
+	The wiser trolls may be more likeley to become druids or wizards than warriors, however they will only be able to learn the minor or basic tier of spells.
+
 Preferred weapons:
 	Stone/obsidian spears
 	Stone/obsidian war hammers
