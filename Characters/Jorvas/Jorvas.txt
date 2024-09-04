@@ -33,7 +33,7 @@ Abilities:
 	Sword
 	Magic
 
-	Primal Dagsvaldian
+	Galabric
 	Old Esrel
 
 	Magic:

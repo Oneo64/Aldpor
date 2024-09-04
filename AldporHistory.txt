@@ -13,12 +13,12 @@ Settlements/empires/kingdoms:
 		Zarapib (Borian - Old Taribian)											(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
 		Grutorus (Old Taribian - Grutorian)										(490 BCE - 0 AD, became Grutorus and Hendrala)		(Old Taribian: 490 BCE to 220 BCE, Grutorian: 220 BCE to 0 AD)
-		Galabrus (Grutorian - Galabrian)										(0 AD - 350 AD)										(Grutorian: 0 AD to 170 AD, Galabrian: 170 AD to 350 AD)
+		Galabrus (Grutorian - Galabric)											(0 AD - 350 AD)										(Grutorian: 0 AD to 170 AD, Galabric: 170 AD to 350 AD)
 		Hendrala (Old Hendric)													(0 AD - 410 AD, became Hendril)						(Old Hendric)
 
 		Tarib (Old Taribian - Taribian)											(450 BCE - Present day)								(Old Taribian: 450 BCE to 670 AD, Taribian: 670 AD to Present)
 		Hendril (Old Hendric - Hendric)											(410 AD - Present day)								(Old Hendric: 410 AD to 720 AD, Hendric: 720 AD to Present)
-		Dagsvald (Galabrian & Old Banodic - Primal Dagsvaldian - Dagsvaldian)	(780 AD - Present day)	(Galabrian: 780 AD to 800 AD, Primal Dagsvaldian: 800 AD to 830 AD, Dagsvaldian: 830 AD to Present)
+		Dagsvald (Galabric - Primal Dagsvaldian - Dagsvaldian)					(780 AD - Present day)	(Galabric: 640 AD to 710 AD, Primal Dagsvaldian: 710 AD to 810 AD, Dagsvaldian: 810 AD to Present)
 
 	Elf:
 		Floraindelen (Ancient Elvish)											(Some time around Baln's rise, only a few decades)	(Ancient Elvish)
@@ -29,7 +29,7 @@ Settlements/empires/kingdoms:
 		Rànûladàen (Old Rànûdan)												(360 BCE - 170 AD, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to 10 AD, Old Rànûdan: 10 AD to 400 AD)
 		Rànûdel (Old Rànûdan - Rànûdan)											(170 AD - Present day, or 360 BCE - Present day)	(Old Rànûdan: 10 AD to 400 AD, Rànûdan: 400 AD to Present)
 
-		Esrelu (Old Rànûdan - Old Esrel - Esrel)								(20 AD - Present day)								(Old Rànûdan: 20 AD to 50 AD, Old Esrel: 50 AD to 540 AD, Esrel: 540 AD to Present)
+		Esrelu (Old Rànûdan - Old Esrel - Esrel)								(20 AD - Present day)								(Old Rànûdan: 20 AD to 50 AD, Old Esrel: 50 AD to 600 AD, Esrel: 600 AD to Present)
 		Aodesvu (Old Rànûdan - Aodesvic)										(170 AD - Present day)								(Old Rànûdan: 170 AD to 780 AD, Aodesvic: 780 AD to Present)
 
 	Dwarf:
@@ -167,7 +167,7 @@ Hendrala went under revolution, becoming current day Hendril.
 Jûmlaanar is created.
 
 Exactly 548 AD
-A large group of explorers from Galabrus traveled up north, due to inflation (mines were invaded by fire elementals). It was led by Bentolus, Garaldor, Jorvas and Muntin.
+A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Jorvas and Muntin.
 
 Exactly 550 AD
 The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
@@ -176,18 +176,16 @@ They established Thalanol.
 560 AD
 The King of Jûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
-650 AD
+600 AD
 Thalanol became Thalmundol.
 
-<Second Age of Peace START>
-
-780 AD
+640 AD
 From the settlement Thalmundol, Dagsvald rises.
-
-<Second Age of Peace END>
+<Second Age of Peace START>
 
 870 AD
 Dagsvald invades Andragz, Vatakrond, ending second age of peace. Andragz was successfully captured.
+<Second Age of Peace END>
 
 875 AD
 Jûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Jûmlathnar only took resources.
