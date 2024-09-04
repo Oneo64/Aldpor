@@ -26,7 +26,7 @@ Personality:
 	Optimistic
 
 Abilities:
-	Sorcery Magic
+	Sorcery Magic (Little training no experience)
 	Medical skills
 
 	Hendric
