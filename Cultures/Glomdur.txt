@@ -5,3 +5,10 @@ Preferred weapons:
 	Light Crossbow
 	Shortsword
 	War hammer
+
+Preferred materials:
+	Brass
+	Bronze
+	Flint (fletching)
+	Gold
+	Iron

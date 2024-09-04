@@ -43,4 +43,4 @@ UNIFORMS
 ======================================================================================================================================================
 
 Soldiers, guards: Don't be naked, don't be stupid, and have a weapon and you're in, although you must wear a simple wood bead necklace.
-Hathössali guards: An iron nasal helmet, a chainmail hauberk, a wood bead necklace like the one for the soldiers, and will provide a flanged mace.
+Hathössali guards: An iron nasal helmet, a chainmail hauberk, a blue viking cloak, a wood bead necklace like the one for the soldiers (must be wearing on top of cloak), and will provide a flanged mace, longbow (self bow), and flint-headed arrows.

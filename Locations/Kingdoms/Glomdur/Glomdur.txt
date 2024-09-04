@@ -40,4 +40,4 @@ UNIFORMS
 ======================================================================================================================================================
 
 Soldiers: A leather nasal helmet, and a dark gray tunic. Their weapon is a spear, and a wooden buckler.
-Archers: A leather nasal helmet, and a dark gray tunic. Their weapon is a crossbow, with iron-headed bolts.
+Archers/Guards: A leather nasal helmet, and a dark gray tunic. Their weapon is a crossbow, with flint-headed bolts.

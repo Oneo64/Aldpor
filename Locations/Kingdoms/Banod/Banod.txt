@@ -24,7 +24,7 @@ The castle of Banod is a fortress built on a peak on a steep, snowy mountain. It
 
 Houses are mostly similar to a small viking cabin, with turf roofs. Houses built underground are made with thatched roofs instead.
 
-The population of Banod is 2000 people, and they have around 50 people as guards.
+The population of Banod is 2000 people, and they have around 40 people as guards, and 5 for lookouts. Lookouts will patrol the walls.
 
 Banod doesn't have additional settlements or villages other than Dakuutaz.
 
@@ -34,7 +34,7 @@ Banod doesn't have additional settlements or villages other than Dakuutaz.
 DAKUUTAZ
 ======================================================================================================================================================
 
-Dakuutaz is a fortress built on top of a nearby peak, and also uses stone walls and has the same height as Banod. Dakuutaz holds 300 soldiers.
+Dakuutaz is a fortress built on top of a nearby peak, and also uses stone walls and has the same height as Banod. Dakuutaz holds 300 soldiers, 10 guards, and 5 lookouts. Lookouts will patrol the walls.
 
 
 
@@ -42,4 +42,5 @@ Dakuutaz is a fortress built on top of a nearby peak, and also uses stone walls 
 UNIFORMS
 ======================================================================================================================================================
 
-Soldiers and guards: An iron-only coppergate helmet, chainmail hauberk, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
+Soldiers/Guards: An iron-only coppergate helmet, chainmail hauberk, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
+Archers/Lookouts: An iron-only coppergate helmet, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a crossbow, with iron-headed arrows.

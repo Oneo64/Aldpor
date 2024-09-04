@@ -20,6 +20,8 @@ Vuntarla is a tiny castle that holds a town, perched on a high hill near the oce
 
 Houses follow the same style as Dagsvald.
 
+Guards live in their homes.
+
 
 
 ======================================================================================================================================================

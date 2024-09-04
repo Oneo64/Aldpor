@@ -42,7 +42,13 @@ Two smaller circular buildings are built on the left and right side of the main 
 
 On the bottom, houses are usually single floored. Some houses may be two floored, but no more than that. Some houses are built on the way up to the karst, which are usually the houses of nobles.
 
-Emeröreslu has 200 soldiers, and 25 guards. Each village has around 5 guards.
+
+
+======================================================================================================================================================
+MILITARY
+======================================================================================================================================================
+
+Emeröreslu has 200 soldiers, and 25 guards. Each village has around 5 guards. Soldiers live in their homes.
 
 
 
@@ -52,4 +58,4 @@ UNIFORMS
 
 Soldier: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a norman-style kite shield.
 Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one).
-Archer/Lookout: An archer would have an aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a yew longbow with obsidian arrows.
+Archer/Lookout: An archer would have an aqua gambeson, light gray surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a longbow (self bow) with obsidian-headed arrows.

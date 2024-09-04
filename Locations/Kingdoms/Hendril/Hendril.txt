@@ -33,8 +33,6 @@ Gavalor, Haedroval and Woparias: These fortresses are small stone fortresses abo
 
 Houses are in the style of middle eastern houses, specifically Jerusalem during the 1st century, but the walls are built using common gray stone instead of sandstone/limestone. (Despite whatever the reference image show, don't consider that as the layout of the city, as it only needs to depict however the houses should look like.)
 
-Hendril has 2500 men in their army, about 40 in each fortress, 1200 in Jollantil and 700 in Virot.
-
 W = Wall, C = Cliff face
 
                C
@@ -52,8 +50,17 @@ W              C
 
 
 ======================================================================================================================================================
+MILITARY
+======================================================================================================================================================
+
+Hendril has 2500 men in their army, about 40 in each fortress, 1200 in Jollantil and 700 in Virot. Soldiers live in their garrisons.
+
+
+
+======================================================================================================================================================
 UNIFORMS
 ======================================================================================================================================================
 
-Soldier: A soldier would have a leather nasal helmet, white tunic, gray pants, will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+Spearmen/Guard: A spearman would have a leather nasal helmet, white tunic, gray pants, will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+Archer/Lookout: An archer would have a leather nasal helmet, white tunic, gray pants, will provide shoes if needed. Their weapon is a longbow, flint-headed arrows, and a knife.
 Palace Guard: A palace guard would have an iron nasal helmet, yellow surcoat, hauberk, red tunic, and will provide shoes if needed. Their weapon is a spear and a norman kite shield.

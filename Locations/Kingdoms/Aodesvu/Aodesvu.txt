@@ -36,7 +36,17 @@ Pendlas mus is a small town surrounded by a wall completely made of 10 meters hi
 
 
 ======================================================================================================================================================
+MILITARY
+======================================================================================================================================================
+
+Aodesvu has 500 men in their army, and each village has around 10 guards. Soldiers and guards live in their garrisons.
+
+
+
+======================================================================================================================================================
 UNIFORMS
 ======================================================================================================================================================
 
-Soldiers and guards: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a spear, and a norman kite shield.
+Soldiers/Guards: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a spear, and a norman kite shield.
+Archers: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a bow, with flint-headed arrows.
+Lookouts: An orange tunic, black surcoat, will provide shoes if needed. Their weapon is a crossbow, with flint-headed bolts.

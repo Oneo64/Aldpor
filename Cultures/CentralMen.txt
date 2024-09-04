@@ -7,8 +7,7 @@ Preferred weapons:
 	Spear
 
 Preferred metals:
-	Brass
-	Bronze
+	Flint (fletching)
 	Gold
 	Iron
 	Silver

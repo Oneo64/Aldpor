@@ -6,9 +6,9 @@ Preferred weapons:
 	Scimitar
 
 Preferred metals:
+	Flint (fletching)
 	Iron
 	Silver
-	Steel
 
 Gems, gemstones and crystals:
 	Crystal/White opal - Associated with Lûn, and believed to be associated with Lûnanyr and life

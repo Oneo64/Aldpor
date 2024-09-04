@@ -10,6 +10,7 @@ Preferred weapons:
 
 Preferred metals:
 	Crucible steel
+	Flint (fletching)
 	Gold
 	Iron
 	Silver
