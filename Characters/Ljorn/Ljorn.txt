@@ -85,6 +85,8 @@ Possessions:
 			A small vial of Regeneration Potion
 			A small vial of Simple Curing Potion
 
+			A small cloth bag with a few pieces of dried venison
+
 		Leather pouch 2:
 			A spellbook (simple leather cover, 12x17 cm, 100 vellum pages, filled with spells, potions, and illustrations of components)
 
