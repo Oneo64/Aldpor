@@ -19,7 +19,7 @@ Basic magic:
 Major magic:
 	- Magic that require a lot of study (biologist/scientist level knowledge of a target)
 	- 2 weeks - 1 month of study and practice to learn
-	- Most attacks equivalent to two weapon's hit to the chest, does lots of damage to shields, probably best not to try and block with a shield
+	- Most attacks equivalent to three weapon's hit to the chest, does lots of damage to shields, probably best not to try and block with a shield
 	- Pure magical force is colored blue
 	- Can be cast 6 times before resting
 
