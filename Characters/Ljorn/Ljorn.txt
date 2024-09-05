@@ -65,10 +65,10 @@ Abilities:
 			Cold Snare, Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall, Feign Death
-			Hold Person
 			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
 			Shield
+			Sparks
 
 		Major:
 			Animate Dead

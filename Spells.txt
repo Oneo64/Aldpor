@@ -814,7 +814,6 @@ SPELL LIST
 			Detect Evil and Good
 			Detect Thoughts
 			Feign Death
-			Hold Person
 			Lesser Restoration
 			Mending
 			Moonbeam
@@ -832,6 +831,7 @@ SPELL LIST
 			Control Water
 			Greater Restoration
 			Greater Runic Staves
+			Hold person
 			Ice Storm
 			Locate Object
 			Lightning Bolt
@@ -901,7 +901,6 @@ SPELL LIST
 			Feather Fall
 			Feign Death
 			Fire Bolt
-			Hold Person
 			Invisibility
 			Mage Armor
 			Magic Missile
@@ -918,6 +917,7 @@ SPELL LIST
 			Dispel Magic
 			Fireball
 			Greater Runic Staves
+			Hold person
 			Ice Storm
 			Locate Object
 			Lightning Bolt
