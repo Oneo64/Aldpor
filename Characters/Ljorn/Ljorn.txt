@@ -40,7 +40,7 @@ Personality/Behaviour:
 		Reads and studies magic in free time
 
 Abilities:
-	Magic (7 years experience)
+	Magic (7 years practice, 1 year training, one experience which is a battle)
 	Alchemy (potion brewing)
 	Drawing
 
@@ -49,8 +49,8 @@ Abilities:
 	Esrel
 	Primordial
 
-	Swords (6 years experience)
-	Axes (4 years experience)
+	Swords (6 years practice/experience)
+	Axes (4 years practice)
 
 	Arcane Magic:
 		Minor:
