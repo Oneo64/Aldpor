@@ -40,7 +40,7 @@ Personality/Behaviour:
 		Reads and studies magic in free time
 
 Abilities:
-	Magic (7 years practice, 1 year training, one experience which is a battle)
+	Magic (7 years practice, which a year is training, and experience which is a battle)
 	Alchemy (potion brewing)
 	Drawing
 
