@@ -5,7 +5,7 @@ Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Ljorn is a wizard from Argonlav. His hair is dark blond, and wavy, which reaches to his shoulders. His eyes are hooded, downturned and are dark pale blue, and has fair skin. He wears a woolen brown cloak held by a brooch, a long blue calf length tunic, baggy brown pants, a belt and a pair of boots. He has a baldric carrying a scabbard with a 5-lobed viking sword on his belt, and his belt carries two leather pouches. He wears a cloth strap around his head to keep his hair back, and he wears a necklace of Talmundur's symbol (silver) with a bunch of labradorite beads (10 to be precise). He is 178 (5' 10") centimeters tall.
+Ljorn is a wizard from Argonlav. His hair is dark blond, and wavy, which reaches to his shoulders. His eyes are hooded, downturned and are dark pale blue, and has fair skin. He wears a woolen brown cloak held by a brooch, a long blue calf length tunic, baggy brown pants, a belt and a pair of boots. He has a baldric carrying a scabbard with a 5-lobed viking sword on his belt, and his belt carries two leather pouches. Under the baldric he carries a small seax, and an 7 cm wooden orb in diameter. He wears a cloth strap around his head to keep his hair back, and he wears a necklace of Talmundur's symbol (silver) with a bunch of labradorite beads (10 to be precise). He is 178 (5' 10") centimeters tall.
 
 He has a scar on his left shoulder, resulting in a scar and weakening that arm.
 
@@ -76,23 +76,18 @@ Abilities:
 			Major Illusion, Magic Circle
 
 Possessions:
-	Front pouch:
+	Front pouch (12x17x5 cm):
 		A small jar of oil
-		A drinking horn decorated with iron
-		A waterskin
+		A small jar of ink
+		A quill with a wooden casing
 
 		A small vial of Regeneration Potion
 		A small vial of Simple Curing Potion
 
-		5 unlit candles
-		5 unlit torches
-
 	Leather pouch 2:
-		A spellbook (simple leather cover, 150 vellum pages, filled with spells, potions, and illustrations of components)
-		A journal, documenting Ljorn's adventures and discoveries, written in Dagsvaldian
-		A wooden orb, 8 cm diameter (This is Ljorn's arcane focus)
+		A spellbook (simple leather cover, 12x17 cm, 100 vellum pages, filled with spells, potions, and illustrations of components)
 
-		A small jar of ink
-		A quill
-		2 blank scrolls of vellum
+		5 unlit candles (10 cm long, 1 cm diameter)
+		A small stone lamp
+		
 		Sheets of parchment and vellum
