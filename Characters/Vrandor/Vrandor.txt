@@ -25,4 +25,4 @@ Abilities:
 	Crossbow
 	Stealth
 
-	Glomish
+	Banodic

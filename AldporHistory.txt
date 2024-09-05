@@ -174,7 +174,7 @@ The large group of explorers unknowingly enterd the territory of a large bandit 
 They established Thalanol.
 
 560 AD
-The King of Jûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
+The King of Yûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
 
 600 AD
 Thalanol became Thalmundol.
@@ -184,25 +184,35 @@ From the settlement Thalmundol, Dagsvald rises.
 <Second Age of Peace START>
 
 870 AD
-Dagsvald invades Andragz, Vatakrond, ending second age of peace. Andragz was successfully captured.
+Centaurs were spotted scouting Dagsvald.
 <Second Age of Peace END>
 
-875 AD
-Jûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Jûmlathnar only took resources.
-
-880 AD
-Dagsvald invades Bravosh, Vatakond. This was also successful.
-
 RECENT (All below are in exact years)
+
+905 AD
+Dagsvald invades Antaragen, Vatakrond. Antaragen was successfully captured. They turned it into an outpost.
+Yûmlathnar launches assault upon Glomdur, bringing chaos. Glomdur barely survives due to not having much defense experience, and only because Yûmlathnar only took resources.
+
+911 AD
+Dagsvald launches a raid on Bravogen, Vatakond. This was also successful. Yûmlathnar offered help to Vatakrond, who did accept.
 
 918 AD
 Vatakond attacks Bantusea. Borthan Tamiar died, shot in the head with an arrow by invading centaurs. The centaurs' attack was unsuccessful, and retreated.
 
+919 AD
+Gardorus, the king of Hendril at the time, knew of this and he launched an attack on Ainattor, Vatakond. Ainattor was destroyed.
+
 955 AD
-Dagsvald declares war on Jûmlathnar. They launch an invasion on Jûmlathnar, which was unsuccessful. Jûmlathnar offered help to Vatakrond, who did accept.
+Dagsvald launches an invasion on Yûmlathnar, which was unsuccessful.
+
+960 AD
+Yûmlathnar travels up and attacks Sölenzâeth, Esrelu. Sölenzâeth was almost ruined, but recovered after many months.
 
 962 AD
-Vatakond tries again, and they surprise attack Bantusea. The attack was partially successfull, half the town destroyed.
+Yûmlathnar surprise attacks Bantusea. The attack was partially successfull, half the town destroyed. Hendril sent an army to Vatakond, but was intercepted by Vatakond's forces, and were flanked by Yûmlathnar's army mid-battle. Hendril's army retreated.
 
-966 AD
-Jûmlathnar raids Algonlav, which was kind of successful, even though they retreated without destroying half the village.
+968 AD
+Vatakond raids Argonlav, which was kind of successful, even though they retreated without destroying half the village.
+
+972 AD
+Dagsvald and Esrelu sends an army to attack Ilimathil, Yûmlathnar, and pillaged it.
