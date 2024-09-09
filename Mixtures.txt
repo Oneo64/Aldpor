@@ -1,4 +1,4 @@
-To brew a potion, you add water, and a catalyst, along with it's ingredients. You will then need to shake the potion up for at least a few seconds. You could also boil it, but this will take an hour. You can then enhance the effects by leaving it boiling for a few hours, which will increase it's potency by about 25 percent.
+To brew a potion, you add water, and a catalyst, along with it's ingredients. You will then need to shake the potion up for at least a few seconds. You could also boil it, but this will take an hour. You can then enhance the effects by leaving it boiling for a few hours, which will increase it's potency by about 25 percent. After all that let it sit for at least 6 hours for the ingredients to dissolve before using. If it was boiled, 3 hours would be sufficient. Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
 
 You can also soak wood, cloth, sand, dirt, powder, or food in potion to give them potion effects.
 Soaking times:
@@ -33,13 +33,6 @@ Here are a list of catalyst examples:
 
 
 
-Regeneration Potion
-	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work. Can be also drinked, to heal any damaged organs.
-	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
-	Downside:   Can cause cancer if used too much.
-	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.
-
 Curing Potion
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
@@ -47,12 +40,15 @@ Curing Potion
 	Downside:   Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	Components: Three duck feather, handful of dirt (any type of soil except sand and clay), and a handful of small pieces of wood (or wood chips, or wood powder).
 
-Spark Potion
-	Appearance: The potion is a orange liquid.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
-	Components: Handful of sulfur powder, pinch of sand, pinch of iron power, pinch of rust, two pinches of rusted iron powder (ignore iron powder and rust if used).
-	Brewing:    Let it boil over 80c, for three hours.
+
+
+Darkvision Potion:
+	Appearance: The potion is completely black with some glowing streaks of blue.
+	Usage:      Drink.
+	Effect:     Lets you see in the dark.
+	Components: Chopped bits of fermented moonshroom, and a handful of moss.
+
+
 
 Energy potion:
 	Appearance: The potion is a pale green slop.
@@ -60,11 +56,33 @@ Energy potion:
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it. Drinking this also lets you restore some spell slots. (Pretend that the spell's level are points. You have 4 points to spend on spell slots. You can also drink more, and depending on how much you drink, you gain more slots. You can save these points to spend later on, but they disappear after a short rest.)
 	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
 
+
+
+Regeneration Potion
+	Appearance: The potion is a pale honey-colored liquid.
+	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work. Can be also drinked, to heal any damaged organs.
+	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
+	Downside:   Can cause cancer if used too much.
+	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.
+
+
+
 Sickening Potion:
 	Appearance: The potion is a half clear pale brown liquid.
 	Usage:      Somehow get it into the body.
 	Effect:     Makes target feel sick. Symptoms: Dizziness, and nausea.
 	Components: A picked tail of a rat, and a cockroach wing.
+
+
+
+Sparkfire Potion
+	Appearance: The potion is a orange liquid.
+	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
+	Components: Handful of sulfur powder, pinch of sand, pinch of iron power, pinch of rust, two pinches of rusted iron powder (ignore iron powder and rust if used).
+	Brewing:    Let it boil over 80c, for three hours.
+
+
 
 Waterbreathing Potion:
 	Appearance: The potion is a clear liquid.
