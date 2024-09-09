@@ -1,4 +1,4 @@
-Creature Habitats:
+Creature Habitats (if an animal isn't present here, then they will follow their real-life habitats):
 	Dungeon:							Draugr, Ghost, Skeleton, Vamerk, Zombie
 
 	Desert:								Daeva, Fire Dragon, Fire Elemental
@@ -6,13 +6,12 @@ Creature Habitats:
 	Mountains:							Fire Elemental, Frost Dragon
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
-	All Forests:						Centaur, Gvarth, Satyr
+	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr (rare)
 	Jungles:							Daeva	
-	Northern Dagsvaldian Forests: 		Troll
-	Southern Dagsvaldian Forests:		Troll (less frequent)
-	Tundra/Snowfield:					Frost Dragon, Ice Elemental
-	Snowy taiga, Solshaef Forest:		Frost Dragon, Ice Elemental
-	Forests of Rànûdel:					Glimmering Moth
+	Northern Dagsvaldian Forests: 		Crow, Owl, Raven, Troll
+	Southern Dagsvaldian Forests:		Crow, Owl, Raven, Troll (less frequent)
+	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
+	Forests of Rànûdel:					Glimmering Moth, Owl
 
 	Urban:								Ghost, Golem
 
@@ -86,7 +85,7 @@ Daeva (large fiend):
 ======================================================================================================================================================
 DRAGONS
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Dragons are two-legged two-winged creatures with a body length of over 20 meters, and spew fire or whatever type of dragon they are. These dragons are rare, and they perfer to live in forests, mountains, or near the ocean. They cannot speak, unlike dragons from other fantasy.
+Dragons are rare two-legged two-winged creatures with a body length of over 20 meters, and spew fire or whatever type of dragon they are. These dragons are rare, and they perfer to live in forests, mountains, or near the ocean. They cannot speak, unlike dragons from other fantasy. There are only about 500 dragons in the world.
 ======================================================================================================================================================
 
 Frost Dragon:
