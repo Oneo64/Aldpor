@@ -1,0 +1,29 @@
+Habitats:
+	Jungles:							Jadeblossom
+	Aodesvic Forests:					Jadeblossom
+	Hendric Forests:					Jadeblossom
+	Forests of Rànûdel:					Amethyst Gorbry, Jadeblossom, Moonshroom
+	Heirfgrian Forest:					Jadeblossom, Moonshroom
+
+	Furnalfa:							Jadeblossom
+
+
+
+======================================================================================================================================================
+FUNGI
+======================================================================================================================================================
+
+Moonshroom:
+	A moonshroom is a small mushroom that can grow up to 10 centimeters. It is colored aqua, with small darker "ripples", resembling the surface of a moon.
+
+
+
+======================================================================================================================================================
+PLANTS AND HERBS
+======================================================================================================================================================
+
+Amethyst Gorbry:
+	Amethyst Gorbries are a rare bush. Their flowers are a mix of blue and pink, but their fruits are clear and purple, in the shape of a rhombicosidodecahedron. Sometimes at night, they might emit a very faint glow.
+
+Jadeblossom:
+	Jadeblossoms are a bush. Their leaves are long and pointed like bamboo leaves, and their flowers are green with darker swirls, and resemble jade or malachite.
