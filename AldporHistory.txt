@@ -8,7 +8,7 @@ Settlements/empires/kingdoms:
 
 		Borusdalis (Haearic)													(1120 BCE, less than a couple of decades)			(Haearic)
 		Veilodin (Haearic - Borian)												(1120 BCE - 680 BCE)								(Haearic: 1120 BCE to 900 BCE, Borian: 900 BCE to 680 BCE)
-		Borusdaliandur (Haearic - Borusdaliandurish)							(1120 BCE - 650 BCE)								(Haearic: 1120 BCE to 850 BCE, Borusdaliandur: 850 BCE to 650 BCE)
+		Borusdaliandur (Haearic - Borusdaliandurish)							(1120 BCE - 650 BCE)								(Haearic: 1120 BCE to 850 BCE, Borusdaliandurish: 850 BCE to 650 BCE)
 
 		Zarapib (Borian - Old Taribian)											(650 BCE - 450 BCE)									(Borian: 650 BCE to 500 BCE, Old Taribian: 500 BCE to 450 BCE)
 
