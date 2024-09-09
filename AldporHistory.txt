@@ -29,6 +29,8 @@ Settlements/empires/kingdoms:
 		Rànûladàen (Old Rànûdan)												(360 BCE - 170 AD, renamed to Rànûdel)				(Ancient Elvish: 360 BCE to 10 AD, Old Rànûdan: 10 AD to 400 AD)
 		Rànûdel (Old Rànûdan - Rànûdan)											(170 AD - Present day, or 360 BCE - Present day)	(Old Rànûdan: 10 AD to 400 AD, Rànûdan: 400 AD to Present)
 
+		Yûmlathnar (Rànûdan)													(??? - Present day)
+
 		Esrelu (Old Rànûdan - Old Esrel - Esrel)								(20 AD - Present day)								(Old Rànûdan: 20 AD to 50 AD, Old Esrel: 50 AD to 600 AD, Esrel: 600 AD to Present)
 		Aodesvu (Old Rànûdan - Aodesvic)										(170 AD - Present day)								(Old Rànûdan: 170 AD to 780 AD, Aodesvic: 780 AD to Present)
 
