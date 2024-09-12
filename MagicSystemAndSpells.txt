@@ -581,10 +581,10 @@ ILLUSION
 Major Illusion (major)
 	Casting time: 3 seconds
 	Range:        40 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
-Choose a 5 meter cube of space within range. You can create an illusion of anything in that area, accompanied by appropriate sound, temperature, smell and illumination. You can choose whether it appears natural or not. However, this spell is unable to produce anything intense enough to hurt or damage, such as blinding light, deafening noise, or a sickening smell, or a temperature that burns. You can also choose change the illusion, cause something in the illusion to happen, or move the illusion to any spot you like as long as it is within range.
+Choose a 5 meter cube of space within range. As you chant, you can create an illusion of anything in that area, accompanied by appropriate sound, temperature, smell and illumination. You can choose whether it appears natural or not. However, this spell is unable to produce anything intense enough to hurt or damage, such as blinding light, deafening noise, or a sickening smell, or a temperature that burns. You can also choose change the illusion, cause something in the illusion to happen, or move the illusion to any spot you like as long as it is within range.
 
 If you go further than the range, the spell ends.
 
@@ -593,10 +593,10 @@ If you go further than the range, the spell ends.
 Minor Illusion (minor)
 	Casting time: 3 seconds
 	Range:        40 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 1 minutes
 
-Choose a 2 meter cube of space within range. You can create an illusion of anything in that area, but it is soundless and cannot provide proper temperature and illumination. You can instead cause a sound you have heard before to emit from a point within range, but it cannot be loud enough to rupture ears.
+Choose a 2 meter cube of space within range. As you chant, you can create an illusion of anything in that area, but it is soundless and cannot provide proper temperature and illumination. You can instead cause a sound you have heard before to emit from a point within range, but it cannot be loud enough to rupture ears.
 
 If you go further than the range, the spell ends.
 
