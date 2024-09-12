@@ -331,7 +331,7 @@ DIVINATION
 Arcane Eye (major)
 	Casting time: instantaneous
 	Range:        100 meters
-	Requirements: V, M (piece of labadorite with a volume of at least 20cm3)
+	Requirements: V, M (piece of labradorite with a volume of at least 20cm3)
 	Duration:     concentration up to 1 hour
 
 You chant the incantation of this spell. While chanting, you can see though a magical eye that you created by casting this spell. You can choose to move or turn this magical eye in any direction you like, but the eye cannot go through solid objects. The eye moves at a speed of 4 meters per second, and fits in holes at least 1 square inch.
@@ -382,7 +382,7 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 Scrying (major)
 	Casting time: 10 seconds
 	Range:        infinite
-	Requirements: V, M (piece of labadorite with a volume of at least 20cm3)
+	Requirements: V, M (piece of labradorite with a volume of at least 20cm3)
 	Duration:     concentration up to 10 minutes
 
 Choose a specific creature in which you know it's appearance, or nature and mannerisms. The spell creates an invisible sensor in which you can see and hear through, and you can move the sensor anywhere instantly within 4 meters. If the creature moves, then the sensor will move with it, staying in it's location relatively to the creature (doesn't rotate with creature), ensuring it stays within 4 meters from it.
