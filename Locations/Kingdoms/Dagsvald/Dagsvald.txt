@@ -6,7 +6,7 @@ Population: 40,000 in settlements, 200 in fortresses, 1500 in Thuryngard, ~41,70
 Main languages: Dagsvaldian
 Other languages: Esrel
 
-Ruler: Palf Thoskar II
+Ruler: Palfar Thoskar II
 
 Important villages, (400 settlements, average 100 people each village):
 	Argonlav (150 people, under Antulreg)
