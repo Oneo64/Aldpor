@@ -1,4 +1,25 @@
 ======================================================================================================================================================
+OVERVIEW
+======================================================================================================================================================
+
+Druidic magic is basically wizard magic without study and using fey's magic instead of directly accessing the Plane of Magic.
+Seer magic is when you take the essence of any god other than Parhrügi to make magic.
+Sorcery is when you can make simple magic happen by whim.
+Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing guestures, and holding materials.
+
+Wizards have a lot of spells, but unlike druids, seers, and sorcerers, they must 'weave' the spells before speaking the incantation.
+
+Sorcerers can ignore the Verbal and Material components ONLY for spells marked as 'basic' or 'minor'.
+
+Components:
+	V = Verbal
+	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder)
+	SG = Somatic gesture (simply pointing, touching, reaching, etc)
+	M = Material
+
+
+
+======================================================================================================================================================
 CLASSES
 ======================================================================================================================================================
 
@@ -33,7 +54,7 @@ Powerful magic:
 
 Study (in the spell description if it says so) means something you have brief experience/knowledge (like how we know dogs wag their tails as sign of happiness) unless the spell description says otherwise. If the "brief" knowledge is a creature or animate thing, then you must also have basic knowledge of it's anatomy (something like how cows have 4 stomachs or parts of stomach).
 
-Druids are not required to study extensively for spells like Magic Circle or Protection from Evil and Good.
+Druids and Sorcerers are not required to study extensively for spells like Magic Circle or Protection from Evil and Good.
 
 
 
@@ -44,7 +65,7 @@ ABJURATION
 Arcane Lock (basic)
 	Casting time: instantaneous
 	Range:        touch
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     lasts until lock breaks or dispelled
 
 An object with a lock is magically locked, and feels oddly cold. Objects large enough such as castle gates, portcullis or the door of a giant cannot be locked. You can also set a password, which must be spoken to the lock. If the password is correct, the spell is inactive for 1 minute, or until the door is shut again.
@@ -57,7 +78,7 @@ In order to use this spell, you must know how the same type of lock you are goin
 Arcane Unlock (basic)
 	Casting time: instantaneous
 	Range:        touch
-	Requirements: V, S
+	Requirements: V, SG
 
 An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked, then you must cast this spell again to unlock it. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
 
@@ -143,7 +164,7 @@ You touch a creature and can end either one disease or poison afflicting it. You
 Shield (basic)
 	Casting time: instantaneous
 	Range:        N/A
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 30 seconds
 
 A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a second, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
@@ -276,7 +297,7 @@ In order to draw a stave, you must have studied either some Primordial, Druidic,
 Mage Hand (minor)
 	Casting time: 3 seconds
 	Range:        15 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 A half-invisible, shimmering white hand pops out of your hand. You can make this hand fly in any direction at a speed of 2 meters per second. The hand mimics the rotational movement of your hand and fingers, except it cannot move too fast. The hand can move only 20 kilograms of force. Trying to move objects heavier than 20 kilograms, or pushing something against a thing heaver than 20 kilograms causes the spell to end.
 
@@ -294,7 +315,7 @@ You dimensionally jump towards a location you can see within range.
 Travel by Tree (major)
 	Casting time: 6 seconds
 	Range:        300 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 You touch a tree that is wider than you, and specify a destination. You are then engulfed by the tree's trunk, and is transported to a tree of the same type and size nearest to your destination specified, then you are pushed out of the destination tree's trunk. You can bring an additional creature medium or smaller, or an object you can carry.
 
@@ -321,7 +342,7 @@ While this spell is active, your eyes must be closed. A creature that can see in
 Detect Evil and Good (basic)
 	Casting time: instantaneous
 	Range:        100 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 You pick a target you can see withing range. You can see wether that target is good, or evil. The target can be anything, from creatures to mere items.
 
@@ -330,7 +351,7 @@ You pick a target you can see withing range. You can see wether that target is g
 Detect Magic (basic)
 	Casting time: instantaneous
 	Range:        100 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
 You chant the incantation of this spell. While chanting, only you can see areas of high magical activity which will appear to glow, and you can tell what type of magic it is. In order to use this spell, you must have studied the same school of magic before, and have some knowledge on it.
@@ -340,7 +361,7 @@ You chant the incantation of this spell. While chanting, only you can see areas 
 Detect Thoughts (basic)
 	Casting time: instantaneous
 	Range:        5 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
 For the duration, you recieve mental information of the current thoughts, intentions and emotions of a creature you can see. If the target doesn't have consciousness (such as an animal), you only recieve mental information of their intentions and emotions. You can switch creatures, but this requires effort and only the very skilled people can do this. In order to use this spell, you must have studied some anatomy of whatever creature's mind you are trying to read. No study is required if the target is the same species/race as you.
@@ -350,7 +371,7 @@ For the duration, you recieve mental information of the current thoughts, intent
 Locate Object (major)
 	Casting time: 30 seconds
 	Range:        1000 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
 Choose an object in which you know it's appearance, or nature. While chanting, you can sense the direction of where this object is, how far it is, and the direction it's moving if it is.
@@ -395,7 +416,7 @@ ENCHANTMENT
 Animal Messenger (basic)
 	Casting time: 20 seconds
 	Range:        10 meters
-	Requirements: V, S, M (a handful of animal food corresponding to the animal picked)
+	Requirements: V, SG, M (a handful of animal food corresponding to the animal picked)
 	Duration:     1 day
 
 Choose a creature that is capable of speech such as a crow, raven, or parrot. Speak a message less than 25 words. You then specify a location you have seen, and a general appearance of the recipient. The animal then sets out to the specified location to deliver the message. If it's a flying creature, then the range covers 80 kilometers a day, or 40 kilometers for other animals.
@@ -410,7 +431,7 @@ If the spell ends before the animal can find a recipent, the animal resumes it's
 Feign Death (basic)
 	Casting time: 3 seconds
 	Range:        touch
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     1 hour
 
 A creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage exept those that target the mind or soul.
@@ -453,7 +474,7 @@ You touch a creature. You can choose up to 3 wounds or one broken limb/bone to h
 Dragonfire (basic)
 	Casting time: instantaneous
 	Range:        10 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 seconds
 
 A continuous blast of fire sprays out of your palm in a cone.
@@ -499,7 +520,7 @@ A bolt of bright pale blue of lightning connects your pointing finger to a point
 Sparks (basic)
 	Casting time: 3 seconds
 	Range:        20 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 A thin bolt of pale blue of lightning connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
 
@@ -508,7 +529,7 @@ A thin bolt of pale blue of lightning connects your pointing finger to a point y
 Magic Missiles (basic)
 	Casting time: instantaneous
 	Range:        40 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. If you can cast this spell with a higher class, major gets you 5 missiles and powerful gets you 7 missiles.
 
@@ -517,7 +538,7 @@ Three darts of blue magic leap from your fingers one after another, homing onto 
 Message (minor)
 	Casting time: instantaneous
 	Range:        20 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 10 seconds
 
 Pick a creature you can see within range. You whisper a message, and only that creature and you can hear your voice. The target hears your voice as if they are very close to you. In order to use this spell, you must know the location of their ears (and rotation too).
@@ -527,7 +548,7 @@ Pick a creature you can see within range. You whisper a message, and only that c
 Moonbeam (basic)
 	Casting time: 3 seconds
 	Range:        50 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
 A thin beam of scorching moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form.
@@ -546,7 +567,7 @@ An area you can see within range rains down a burst of sulfur about the size of 
 Wash of Radiance (basic)
 	Casting time: instantaneous
 	Range:        20 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 A faint wave of sunlight shoots out of your palm and briefly engulfs a target you can see within range in burning light.
 
@@ -700,7 +721,7 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 Feather Fall (minor)
 	Casting time: 3 seconds
 	Range:        10 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 20 seconds
 
 An object or creature you choose start to fall at a slower rate, and will not take fall damage.
@@ -710,7 +731,7 @@ An object or creature you choose start to fall at a slower rate, and will not ta
 Mending (basic)
 	Casting time: instantaneous
 	Range:        Touch
-	Requirements: V, S, M (two lodestones)
+	Requirements: V, SG, M (two lodestones)
 
 You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece seperately. You cannot mend any metal, stone, or anything harder/denser than that.
 
@@ -747,7 +768,7 @@ You can have 3 of it's non-instantaneous effects active at a time. If you create
 Shillelagh (basic)
 	Casting time: 3 seconds
 	Range:        touch
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
 A wooden object such as a staff, club, or even a wood plank you touch is imbued with the power of nature, giving it a soft green aura. For the duration, each forceful strike of the object produces a green flash, and whatever it hits suffers a brief poisonous sting that does not actually poison the target struck.
@@ -759,7 +780,7 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 Telekinesis (major)
 	Casting time: 3 seconds
 	Range:        40 meters
-	Requirements: V, S
+	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
 An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second.
