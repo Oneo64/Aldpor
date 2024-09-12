@@ -58,6 +58,14 @@ Energy potion
 
 
 
+Potion of Mage Armor
+	Appearance: The potion is a blue liquid that glows in the dark.
+	Usage:      Drink.
+	Effect:     Gives the effects of Mage Armor.
+	Components: Two amethyst gorbries, and a handful of cobweb.
+
+
+
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
 	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work. Can be also drinked, to heal any damaged organs.

@@ -75,7 +75,7 @@ Lifespans:
 	Cold Elf = 130
 	Orc = 60
 
-Available Classes:
+Available Classes (if converted to DnD):
 	Fighter classes (No magic involved):
 		Barbarian (Let rage power you and use pure strength and brutality to kill)
 		Fighter (Practice some sort of martial arts using a melee weapon or with bare fists)
