@@ -401,8 +401,8 @@ Seidur (minor)
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
 	- You know if the target will be lucky or unlucky over the next week.
-	- The target gains slight physical and mental strength, and is stronger against disease for the duration.
-	- The target loses slight physical and mental strength, and is weaker against disease for the duration.
+	- You make your target a little luckier, giving them slight physical and mental strength, and is stronger against disease for the duration.
+	- You make your target a little unluckier, taking slight physical and mental strength, and is weaker against disease for the duration.
 
 The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targetted by another seidur spell again for the next week.
 
