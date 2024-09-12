@@ -5,7 +5,7 @@ Alignment: Neutral
 Ethnicity: Ranûdan
 Race:      Moon Elf
 
-Sasöl is a moon elf from Emeröreslu. He has light blue skin, and purple hair down to the shoulders. His eyes are gray, and his ears are long and pointed. He wears a dark aqua gambeson, deer hide pants, simple leather bracers, a belt, and a pair of boots. He also has a plain silver circlet, a quiver on his hip filled with obsidian tipped arrows, and a longbow with a twisting pattern. He is 190 centimeters tall.
+Sasöl is a moon elf from Emeröreslu. He has light blue skin, and purple hair down to the shoulders. His eyes are gray and pupiless, and his ears are long and pointed. He wears a dark aqua gambeson, deer hide pants, simple leather bracers, a belt, and a pair of boots. He also has a plain silver circlet, a quiver on his hip filled with obsidian tipped arrows, and a longbow with a twisting pattern. He is 190 centimeters tall.
 
 Weapons:
 	Longbow

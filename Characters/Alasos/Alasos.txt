@@ -5,7 +5,7 @@ Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
 
-Alasös is a Cold Elf from Minbaslûind. He appears as having pale skin, having silvery white hair, gray eyes, with long earlobes. He wears a white cloak, and a long red tunic. He has a belt, and he wears fur boots. He carries a flanged mace with him. He is 178 centimeters tall. He works as a guard.
+Alasös is a Cold Elf from Minbaslûind. He appears as having pale skin, having silvery white hair, gray pupiless eyes, with long earlobes. He wears a white cloak, and a long red tunic. He has a belt, and he wears fur boots. He carries a flanged mace with him. He is 178 centimeters tall. He works as a guard.
 
 Weapons:
 	Flanged mace
