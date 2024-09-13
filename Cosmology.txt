@@ -13,7 +13,7 @@ Planes/Realms:
 Dimensions:
 	Vorasil     = Ethereal plane
 	Maresil     = Astral plane
-	Parhrûvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth hundreds of gold)
+	Parhrüvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth hundreds of gold)
 
 Deities:
 	Talmundur = God of Nature, Tempest and Luck (Neutral, Tempest) (Symbol: Upside down Dagsvaldian T rune)

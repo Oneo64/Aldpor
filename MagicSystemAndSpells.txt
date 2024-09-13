@@ -146,7 +146,7 @@ The chosen type cannot physically enter or leave the circle, or mentally effect 
 Protection from Evil and Good (major)
 	Casting time: 3 seconds
 	Range:        touch
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Lûnanyr or Hirulfyr which is consumed on use)
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Lünanyr or Hirulfyr which is consumed on use)
 	Duration:     concentration up tp 10 minutes
 
 Until the spell ends, a target you touch is immune to charming or possession from any of the following creatures you have studied before: celestials, fiends, fey. If the target is already charmed or possessed, then the target is able to break out.
@@ -260,12 +260,12 @@ Choose a 5 meter radius of area you can see within range. Vines and plants sprou
 Greater Runic Staves (major)
 	Casting time: 20 seconds
 	Range:        20 meters
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
+You dip the coal in the water then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
 	- Helm of Awe: A target in range that can see this stave gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
 	- Fright:      A target in range that can see this stave is frightened for the next five minutes.
 	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
@@ -280,12 +280,12 @@ In order to draw a stave, you must have studied either some Primordial, Druidic,
 Lesser Runic Staves (minor)
 	Casting time: 20 seconds
 	Range:        20 meters
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar and a piece of coal which is consumed on use)
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
 
 You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
 
-You then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
+You dip the coal in the water then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
 	- Gapaldur: A target in range is physically stronger when bare-handed.
 	- Vegvisir: A target in range is unbothered by difficult terrain for the next 24 hours.
 
@@ -396,7 +396,7 @@ You can also choose a location you remember in place of the creature, but you ca
 Seidur (minor)
 	Casting time: 30 seconds
 	Range:        infinite
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use)
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
 	Duration:     1 day
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
@@ -559,7 +559,7 @@ A thin beam of scorching moonlight shines from your palm until the end of this s
 Sulfur Rain (major)
 	Casting time: 6 seconds
 	Range:        50 meters
-	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use)
 
 An area you can see within range rains down a burst of sulfur about the size of hailstones in a 5 meter radius. The sulfurs explode in a fiery shower of sparks.
 
