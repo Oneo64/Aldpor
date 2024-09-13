@@ -1,23 +1,40 @@
-Names below here will bear the Dagsvaldian name of the thing
-
 Planes/Realms:
-	Talygva = Material plane
+	Talygva     = Material plane
 
 	Jælheim     = Good afterlife (LG, paradise to good people)
 	Hel         = Bad afterlife (CG, punishment realm to evil people)
 
-	Furnalfa    = Realm of fey and pure nature (N, infinite dark lush green forest)
+	Furnalfa    = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
 
 	Sotvaryg    = Plane of Earth and Stone
 
 Dimensions:
 	Vorasil     = Ethereal plane
 	Maresil     = Astral plane
-	Parhrüvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth hundreds of gold)
+	Parhrüvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrûgi's Tears". Parhrûgi's Tears are extremely volatile, and a single vial can be worth tens of gold)
 
 Deities:
-	Talmundur = God of Nature, Tempest and Luck (Neutral, Tempest) (Symbol: Upside down Dagsvaldian T rune)
-	Lünanyr   = God of Life, Death, and Nature (Lawful Good, Order, Life, Death)
-	Jalfar    = God of Creation (Neutral Good, Order, War, Creation, Destruction, Change)
-	Parhrügi  = God of Magic (Neutral, Order, Knowledge, Arcana)
-	Hirulfyr  = God of Emotions (Chaotic Neutral, Life, Trickery)
+	Talmundur:
+		Domain:      God of Nature, Tempest, and Luck
+		Symbol:      Dagsvaldian 'T' rune, upside down
+		Other names: Talûsa (Aodesvu), Tereven (Hendril), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
+
+	Lünanyr:
+		Domain:      God of Life, Death, and Nature
+		Symbol:      4 pointed star
+		Other names: Lûnania (Aodesvu), Lunara (Hendril), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
+
+	Jalfar:
+		Domain:      God of Creation and Destruction
+		Symbol:      An eye
+		Other names: Yulvis (Aodesvu), Yorgarar (Hendril), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)
+
+	Parhrügi:
+		Domain:      God of Magic
+		Symbol:      A circle surrounded by 7 smaller circles (each small circle symbolizes a school of magic)
+		Other names: Pöldànis (Aodesvu), Parletha (Hendril), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
+
+	Hirulfyr:
+		Domain:      God of Emotions
+		Symbol:      A drop of water
+		Other names: Himarir (Aodesvu), Hirnest (Hendril), Ainassare (Rànûdel), Hiiruldir (Banod, Glomdur), Hegetsen (Mornesvid)
