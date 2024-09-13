@@ -47,7 +47,7 @@ Golem:
 	Golems appear as a medium humanoid.
 
 	Appearance:
-		Golems are medium humanoids that are made of soil, dirt, or sand. They cannot be clay, stone or pebble because they are too heavy to be animated.
+		Golems are medium humanoids that are made of loose material, such as sand, pebbles, gravel, dirt, powder, or a mix of the listed materials.
 
 	Abilities:
 		Golems can use weapons, but are incapable of thought or emotion. They understand all languages their creator spoke when the golem was made, and will follow only the commands of the creator plus anyone the creator has permitted.
