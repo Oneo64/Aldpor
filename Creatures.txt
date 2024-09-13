@@ -201,8 +201,10 @@ Centaur (medium fey):
 	Abilities:
 		Centaurs that live in or came from Furnalfa speak Druidic and Sylvan. If they came from Talygva, they might speak Druidic, Sylvan, Sylvendric, any elvish variant, or a combination of the four.
 
+
+
 Dryad (medium fey):
-	Dryads are native to Furnalfa.
+	Dryads are native to Furnalfa. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
 
 	Description:
 		A dryad appears to be a beautiful woman that is completely green. She radiates green mist from every part of her body.
@@ -210,9 +212,11 @@ Dryad (medium fey):
 		Dryads matures by 20, and lives up to 300 years old.
 
 	Abilities:
-		A dryad is able to unlimitedly carve all types of runic staves and perform the spells Druidcraft, Entangle, Seidur and Shillelagh. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to Talygva (material plane), and from Talygva to Furnalfa.
+		A dryad is able to unlimitedly carve all types of runic staves and perform the spells Druidcraft, Entangle, Seidur and Shillelagh. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to Talygva (material plane), and from Talygva to Furnalfa. She will always know the location of her tree.
 
 		Dryads are able to speak Druidic, and Sylvan.
+
+
 
 Gvarth (huge fey):
 	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
@@ -231,6 +235,8 @@ Gvarth (huge fey):
 
 		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
 
+
+
 Satyr (medium fey):
 	A satyr is a goatman found in Furnalfa, and rarely, Talygva (material plane). They are more like nomads, and they travel in small groups of about 20 satyrs.
 
@@ -242,11 +248,13 @@ Satyr (medium fey):
 	Abilities:
 		Satyrs are able to speak Sylvan.
 
+
+
 Sprite (tiny fey):
-	A sprite is a small humanoid found in sprite communities and villages in Furnalfa.
+	A sprite is a tiny humanoid found in sprite communities and villages in Furnalfa.
 
 	Description:
-		A sprite appears to be a small snow elf of wood variant, being wood-skinned and mostly brown haired.
+		A sprite appears to be a tiny cold elf of wood variant, averaging around 20 centimeters tall.
 
 		Sprites matures by 5, and lives up to 30 years old.
 
