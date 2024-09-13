@@ -164,7 +164,7 @@ Ice Elemental:
 	Ice elementals are northern natural manifestations of Talmundur. Ice elementals are mostly evil. These elementals are rare, usually formed by a heart of ice and wood being pulled together.
 
 	Description:
-		Ice elementals looks like a humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can see normally.
+		Ice elementals looks like a medium humanoid completely made of chunks of ice, each limb is a piece of ice. Ice elementals don't have a face, but they can see normally.
 
 	Abilities:
 		Ice elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
