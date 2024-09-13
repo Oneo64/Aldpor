@@ -268,7 +268,7 @@ You point at some sand, pebbles, dirt, any sort of powder, or a mix of any of th
 
 When the golem is created, it is friendly to you, and you can verbally command them to do actions. The golem will follow behaviour patterns written in "Creatures.txt".
 
-A golem only dies if both arms are destroyed, it loses balance, or it's torso is halved with a space of at least 1 cm apart. It is also very resistant to slashing and piercing. If it is hit with a bludgeoning weapon, or a small explosion, debris does not connect back to the golem.
+A golem only dies if both arms are destroyed, it loses balance, or it's torso is halved with a space of at least 5 cm apart. It is also very resistant to slashing and piercing. If it is hit with a bludgeoning weapon, or a small explosion, debris does not connect back to the golem.
 
 When the golem dies, or the spell ends, it will simply crumble and collapse back to the ground.
 
