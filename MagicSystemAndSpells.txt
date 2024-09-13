@@ -525,16 +525,16 @@ Lightning Bolt (major)
 	Range:        50 meters
 	Requirements: V, S
 
-A bolt of bright pale blue of lightning connects your pointing finger to a point you are pointing at. Armor has almost no protection against this spell, and creatures drenched in water take more damage.
+A bolt of bright pale blue of lightning connects your pointing finger to a point you are pointing at. Metal armor has almost no protection against this spell, and creatures drenched in water take more damage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sparks (basic)
-	Casting time: 3 seconds
+	Casting time: instantaneous
 	Range:        20 meters
 	Requirements: V, SG
 
-A thin bolt of pale blue of lightning connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
+A thin bolt of electricity connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
