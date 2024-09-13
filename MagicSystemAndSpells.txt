@@ -309,7 +309,7 @@ Misty Step (basic)
 	Range:        15 meters
 	Requirements: V
 
-You dimensionally jump towards a location you can see within range.
+You turn into mist, which then shoots towards a location you can see within range. You then turn back to your form. If the mist's trajectory is blocked, the mist will weave and 'pathfind' it's way to the destination, which the smallest space it can fit is 1 cubic inch.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
