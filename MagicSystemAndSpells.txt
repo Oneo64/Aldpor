@@ -25,7 +25,9 @@ VISUALS
 ======================================================================================================================================================
 
 Visuals of most magic are extremely simple and subtle, and will be just either flashes of light, glowing, auras, mists, or something elemental.
+
 If the spell doesn't explain the visual effect, then that spell has no visual effect.
+For example: Control Plant does not specify any visuals, therefore Control Plant does not have any visuals.
 
 
 
