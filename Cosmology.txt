@@ -1,3 +1,5 @@
+All names below, unless specified, are the Dagsvaldian name for it.
+
 Planes/Realms:
 	Talygva     = Material plane
 
