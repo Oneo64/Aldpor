@@ -71,7 +71,7 @@ Arcane Lock (basic)
 
 An object with a lock is magically locked, and feels oddly cold. Objects large enough such as castle gates, portcullis or the door of a giant cannot be locked. You can also set a password, which must be spoken to the lock. If the password is correct, the spell is inactive for 1 minute, or until the door is shut again.
 
-If used to lock, then this spell creates a quick flash of light originating from inside the lock, and a sharp crack sound. If the password is said correctly, the lock only makes a soft bang.
+This spell creates a flash of light originating from inside the lock, and a sharp crack sound when locked. If the password is said correctly, the lock only makes a soft bang.
 In order to use this spell, you must know how the same type of lock you are going to lock (or something similar) works.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -83,7 +83,7 @@ Arcane Unlock (basic)
 
 An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked, then you must cast this spell again to unlock it. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
 
-This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound.
+This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound when unlocked.
 In order to use this spell, you must know how the same type of lock you are going to unlock (or something similar) works.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -188,7 +188,7 @@ If the target is sent to a demiplane, then it is incapacitated, and remains ther
 
 If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
 
-When the target is banished, it disappears with a subtle flash of light and a popping noise.
+When the target is banished, it disappears with a subtle flash of rainbow light and a popping noise.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ Misty Step (basic)
 	Range:        15 meters
 	Requirements: V
 
-You turn into mist, which then shoots towards a location you can see within range. You then turn back to your form. If the mist's trajectory is blocked, the mist will weave and 'pathfind' it's way to the destination, which the smallest space it can fit is 1 cubic inch.
+You turn into mist, which then shoots towards a location you can see within range. A picture also works, but the destination specified must also be in range. You then turn back to your form. If the mist's trajectory is blocked, the mist will weave and 'pathfind' it's way to the destination, which the smallest space it can fit is 1 cubic inch.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -382,12 +382,12 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 Scrying (major)
 	Casting time: 10 seconds
 	Range:        infinite
-	Requirements: V, M (piece of labradorite with a volume of at least 20cm3)
+	Requirements: V, M (any opal orb that is white, and has a diameter of at least 5 cm)
 	Duration:     concentration up to 10 minutes
 
 Choose a specific creature in which you know it's appearance, or nature and mannerisms. The spell creates an invisible sensor in which you can see and hear through, and you can move the sensor anywhere instantly within 4 meters. If the creature moves, then the sensor will move with it, staying in it's location relatively to the creature (doesn't rotate with creature), ensuring it stays within 4 meters from it.
 
-While this spell is active, your eyes must be closed, and you are deaf. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
+While this spell is active, your eyes must be closed, and you are deaf. You must also hold the orb with both hands. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
 
 You can also choose a location you remember in place of the creature, but you cannot move the magical sensor.
 
@@ -435,7 +435,7 @@ Feign Death (basic)
 	Requirements: V, SG
 	Duration:     1 hour
 
-A creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage exept those that target the mind or soul.
+A willing creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage exept those that target the mind or soul.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -646,7 +646,7 @@ Blight (powerful)
 	Range:        20 meters
 	Requirements: V, S
 
-Necromantic energy washes over a living creature you point at, instantly draining a portion of it's vitality. Magical plants and trees are weak to this spell, and non-magical plants instantly shrivel up and die.
+Necromantic energy washes over a living creature you point at, instantly draining a portion of it's vitality. When a target is hit by this spell, a faint puff black mist emits from every inch of their body. Magical plants and trees are weak to this spell, and non-magical plants instantly shrivel up and die.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
