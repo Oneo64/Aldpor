@@ -543,7 +543,7 @@ Magic Missiles (basic)
 	Range:        40 meters
 	Requirements: V, SG
 
-Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. You can also control the direction it flies in, so if there is a creature hiding behind a wall and you know it, you can make the magic missiles hit the creature, and the length of it's path is limited by the range. If you can cast this spell with a higher class, major gets you 5 missiles and powerful gets you 7 missiles.
+Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue. You can also control the direction it flies in, so if there is a creature hiding behind a wall and you know it, you can make the magic missiles hit the creature by going around, and the length of it's path is limited by the range. If you can cast this spell with a higher class, major gets you 5 missiles and powerful gets you 7 missiles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
