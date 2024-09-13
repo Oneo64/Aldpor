@@ -264,7 +264,7 @@ Create Golem (major)
 	Requirements: V, SG
 	Duration:     1 week
 
-You point at some sand, pebbles, dirt, any sort of powder, or a mix of any of the listed. You must also chant, and make a gesture with your other hand. During spellcasting, the material slowly flies into place, forming a humanoid golem of that material. If your spellcasting is interupted, the unfinished golem simply collapses back to the ground. Materials that are 'pure', for example dirt that isn't mixed with anything, usually provides better results than mixed material. If someone casts this spell targetting the same material and the same spot as you, that person speeds up the spellcasting.
+You point at some sand, pebbles, dirt, any sort of powder, or a mix of any of the listed. You must also chant, and make a gesture with your other hand. During spellcasting, the material slowly flies into place, forming a medium humanoid golem of that material. If your spellcasting is interupted, the unfinished golem simply collapses back to the ground. Materials that are 'pure', for example dirt that isn't mixed with anything, usually provides better results than mixed material. If someone casts this spell targetting the same material and the same spot as you, that person speeds up the spellcasting.
 
 When the golem is created, it is friendly to you, and you can verbally command them to do actions. The golem will follow behaviour patterns written in "Creatures.txt".
 
@@ -964,6 +964,7 @@ SPELL LIST
 			Arcane Eye
 			Conjure Elementals
 			Control Water
+			Create Golem
 			Dispel Magic
 			Fireball
 			Greater Runic Staves
