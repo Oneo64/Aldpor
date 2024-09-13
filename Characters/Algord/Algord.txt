@@ -27,9 +27,11 @@ Personality:
 	Realistic (perspective on the future)
 
 Abilities:
-	Combat Experience (defended home from longaxe wielding centaur)
+	Combat Experience (defended home from longaxe wielding centaur, 1 year military campaign to wipe twenty bandit camps experience)
 
+	Axe and shield (few days training)
 	Archery
+
 	Hunting
 
 	Dagsvaldian
