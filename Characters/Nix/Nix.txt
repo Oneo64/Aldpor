@@ -32,8 +32,9 @@ Abilities:
 	Hendric
 
 	Sorcery:
-		Cantrips:
-		Mage Hand, Mending, Ray of Frost, Shocking Grasp
-		
-		Level 1:
-		Dragonfire, Mage Armor, Magic Missile
+		Minor:
+			Mage Hand
+
+		Basic:
+			Dragonfire
+			Mage Armor, Magic Missile, Mending

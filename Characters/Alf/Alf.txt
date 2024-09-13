@@ -25,7 +25,9 @@ Personality:
 	Optimistic (perspective on the future)
 
 Abilities:
-	Spearfighting (7 years practice/experience, which a year is training)
+	Combat Experience (raiding old castle ruins)
+
+	Spearfighting (6 years practice/experience, which a year is training)
 	
 	Dagsvaldian
 	Esrel

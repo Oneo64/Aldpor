@@ -158,9 +158,9 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Duck:                     2 sp
 
 	EVERYTHING IN HERE IS PER POUND
-	  Deer/Vension:           5 cp
-	  Beef:                   5 cp
-	  Pork:                   5 cp
+	  Deer/Vension:           1 sp
+	  Beef:                   6 cp
+	  Pork:                   6 cp
 	  Chicken (meat):         3 cp
 	  Duck (meat):            3 cp
 	  Fish (meat):            2 cp

@@ -799,6 +799,7 @@ SPELL LIST
 			Seidur
 
 		BASIC MAGIC:
+			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
 			Feign Death
@@ -870,11 +871,8 @@ SPELL LIST
 
 	SORCERER:
 		MINOR SPELLS:
-			Illusory Script
 			Mage Hand
 			Message
-			Prestidigitation
-			Seidur
 
 		BASIC MAGIC:
 			Cold Snare
@@ -895,7 +893,6 @@ SPELL LIST
 			Fireball
 			Ice Storm
 			Lightning Bolt
-			Remove Curse
 			Sulfur Rain
 			Telekinesis
 

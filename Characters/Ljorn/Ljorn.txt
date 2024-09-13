@@ -40,7 +40,9 @@ Personality/Behaviour:
 		Reads and studies magic in free time
 
 Abilities:
-	Magic (6 years practice, which 3 years are training, and one combat experience which is a battle)
+	Combat Experience (a battle, and raiding old castle ruins)
+
+	Magic (6 years practice, which 3 years are training)
 	Alchemy (potion brewing)
 	Drawing
 
@@ -50,7 +52,7 @@ Abilities:
 	Primordial
 
 	Swords (6 years practice/experience)
-	Axes (4 years practice)
+	Axe and shield (2 years practice)
 
 	Arcane Magic:
 		Minor:

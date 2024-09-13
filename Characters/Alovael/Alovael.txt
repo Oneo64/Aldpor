@@ -23,6 +23,8 @@ Personality:
 	Realistic (perspective on the future)
 
 Abilities:
-	Spearfighting
+	Combat Experience (defended home from longaxe wielding centaur)
+
+	Spearfighting (little experience no training)
 
 	Dagsvaldian

@@ -26,17 +26,22 @@ Personality:
 		2. Meddlesome
 
 Abilities:
-	Barohin Swordfighting (3 years practice, no training, one experience of a small vamerk attack)
+	Combat Experience (defended town from small group of vamerks with the help of town guards)
+
+	Swordfighting (3 years practice, no training\)
 
 	Aodesvic
 	Hendric
 
 	Seer Magic:
-		Cantrips:
-		Mending, Wash of Radiance
+		Basic:
+			Mending
+			Seidur
+			Wash of Radiance
 
-		Level 1:
-		Cure Wounds, Detect Evil and Good, Seidur
+		Major:
+			Cure Wounds
+			Detect Evil and Good
 
 	Special:
 		Able to sense any sort of undead activity in a 100 meter radius, but she cannot determine where it is happening, the direction of it, or it's distance.

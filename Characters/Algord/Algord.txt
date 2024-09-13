@@ -27,6 +27,8 @@ Personality:
 	Realistic (perspective on the future)
 
 Abilities:
+	Combat Experience (defended home from longaxe wielding centaur)
+
 	Archery
 	Hunting
 
