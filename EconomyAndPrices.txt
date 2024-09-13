@@ -175,9 +175,10 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Rare spice (jar):         6 sp
 	Salt (jar):               5 cp
 
-	Bottle of Mead:           2 sp
-	Bottle of Cheap Wine:     6 cp
-	Bottle of Expensive Wine: 4 sp
+	Mug/Bottle of Ale:            3 cp / 1 sp
+	Mug/Bottle of Mead:           1 sp / 2 sp
+	Mug/Bottle of Cheap Wine:     2 sp / 4 sp
+	Mug/Bottle of Expensive Wine: 4 sp / 8 sp
 
 	10x10cm Silk:             2 sp
 	10x10cm Wool (fabric):    2 cp
