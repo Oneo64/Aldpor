@@ -92,7 +92,7 @@ Arcane Unlock (basic)
 	Range:        touch
 	Requirements: V, SG
 
-An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked, then you must cast this spell again to unlock it. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
+An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked and magically locked, then you must cast this spell again to unlock it because the first cast removes the magical lock. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
 
 This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound when unlocked.
 In order to use this spell, you must know how the same type of lock you are going to unlock (or something similar) works.
