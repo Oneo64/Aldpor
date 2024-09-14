@@ -26,12 +26,14 @@ Personality:
 		2. Meddlesome
 
 	SPECIAL:
+		Horseriding as a hobby
 		Killing undead is satisfying to her
 
 Abilities:
 	Combat Experience (defended town from small group of vamerks with the help of town guards)
 
 	Swordfighting (3 years practice, no training)
+	Horseriding
 
 	Aodesvic
 	Hendric
