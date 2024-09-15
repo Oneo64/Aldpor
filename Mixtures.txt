@@ -91,7 +91,7 @@ Darkvision Potion
 Energy potion
 	Appearance: The potion is a pale green slop.
 	Usage:      Drink.
-	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it. Drinking this also lets you restore some spell slots. (Pretend that the spell's level are points. You have 4 points to spend on spell slots. You can also drink more, and depending on how much you drink, you gain more slots. You can save these points to spend later on, but they disappear after a short rest.)
+	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
 	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
