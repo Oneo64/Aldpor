@@ -93,6 +93,13 @@ Energy potion
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
 	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ekraldi's Concotion
+	Appearance: The potion is a clear liquid.
+	Usage:      Drink.
+	Effect:     Fatigue, dizziness, loss of concentration.
+	Components: Handful of dark lichen, an ekraldi's toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
