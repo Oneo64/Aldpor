@@ -1,6 +1,38 @@
-To brew a potion, you add water, and a catalyst, along with it's ingredients. You will then need to shake the potion up for at least a few seconds. You could also boil it, but this will take an hour. You can then enhance the effects by leaving it boiling for a few hours, which will increase it's potency by about 25 percent. After all that let it sit for at least 6 hours for the ingredients to dissolve before using. If it was boiled, 3 hours would be sufficient. Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
+======================================================================================================================================================
+OVERVIEW
+======================================================================================================================================================
 
-You can also soak wood, cloth, sand, dirt, powder, or food in potion to give them potion effects.
+Potions are concotions and mixures of different items dissolved into water, and powered by a magic catalyst.
+
+
+
+======================================================================================================================================================
+BREWING STEPS
+======================================================================================================================================================
+
+	1.  Get a container. Lets suppose it's a caudron, since ingredients below are assumed a the potion is being brewed in a caudron.
+	
+	2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
+	2a. If you have magical water, you do not need a catalyst.
+	
+	3.  Add ingredients. Ingredients also must be fully submerged.
+	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
+	
+	4.  Shake the potion up for at least a 5 seconds. You could also boil it, but this will take an hour.
+	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
+	
+	5.  Let it sit for at least 6 hours for the ingredients to fully dissolve before using. If it was boiled, 3 hours would be sufficient.
+
+	Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
+
+
+
+======================================================================================================================================================
+SOAKING
+======================================================================================================================================================
+
+You can soak various materials in potion to give them potion effects. This is how most 'magic' items are made, also the most common method.
+
 Soaking times:
 	Sand, dirt, powder:  Dump it in the potion to make a slop
 	Cloth:               Just dip it in
@@ -10,16 +42,14 @@ Soaking times:
 	Meat:                5 minutes
 	Plant:               10 minutes
 
-The potion ingredients here are supposed if you are using a small caudron.
 
-NOTE: You don't need to stir the potion in a large pot while cackling like a witch to make the potions. (just don't stir it)
 
-Liquids:
-Obviously, water is required, and it is strictly water. Any kind of liquid that isn't water will not work.
+======================================================================================================================================================
+CATALYSTS
+======================================================================================================================================================
 
-Catalysts:
 A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
-A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst. The catalyst must also be completely submerged in the liquid to work. If the catalyst is magical water, it works as the water required to make the potion.
+A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst.
 
 Here are a list of catalyst examples:
 	The snow, or foliage where an intense magical battle happened.
@@ -28,10 +58,15 @@ Here are a list of catalyst examples:
 	The water from an ancient magical well.
 	The core of a slain elemental.
 	Water attuned to a god or moon.
+	Flesh of a prolonged zombie.
 
 	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
 
 
+
+======================================================================================================================================================
+POTIONS AND CONCOTIONS
+======================================================================================================================================================
 
 Curing Potion
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
@@ -40,7 +75,7 @@ Curing Potion
 	Downside:   Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
 	Components: Three duck feather, handful of dirt (any type of soil except sand and clay), and a handful of small pieces of wood (or wood chips, or wood powder).
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Darkvision Potion
 	Appearance: The potion is completely black with some glowing streaks of blue.
@@ -48,7 +83,7 @@ Darkvision Potion
 	Effect:     Lets you see in the dark.
 	Components: Chopped bits of fermented moonshroom, and a handful of moss.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Energy potion
 	Appearance: The potion is a pale green slop.
@@ -56,7 +91,7 @@ Energy potion
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it. Drinking this also lets you restore some spell slots. (Pretend that the spell's level are points. You have 4 points to spend on spell slots. You can also drink more, and depending on how much you drink, you gain more slots. You can save these points to spend later on, but they disappear after a short rest.)
 	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Mage Armor
 	Appearance: The potion is a blue liquid that glows in the dark.
@@ -64,7 +99,7 @@ Potion of Mage Armor
 	Effect:     Gives the effects of Mage Armor.
 	Components: Two amethyst gorbries, and a handful of cobweb.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
@@ -73,7 +108,7 @@ Regeneration Potion
 	Downside:   Can cause cancer if used too much.
 	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sickening Potion
 	Appearance: The potion is a half clear pale brown liquid.
@@ -81,7 +116,7 @@ Sickening Potion
 	Effect:     Makes target feel sick. Symptoms: Dizziness, and nausea.
 	Components: A picked tail of a rat, and a cockroach wing.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sparkfire Ale
 	Appearance: This thing is just ale with sparkfire potion properties.
@@ -89,7 +124,7 @@ Sparkfire Ale
 	Effect:     Tastes like a mix of ale and a really strong soda (shouldn't hurt you when it is drunk).
 	Components: Instead of making the potion the traditional way, you add the sparkfire potion ingredients with the ale ingredients together with a catalyst.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sparkfire Potion
 	Appearance: The potion is a orange liquid.
@@ -98,7 +133,7 @@ Sparkfire Potion
 	Components: Handful of sulfur powder, pinch of sand, pinch of iron power, pinch of rust, two pinches of rusted iron powder (ignore iron powder and rust if used).
 	Brewing:    Let it boil over 80c, for three hours.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tarfire Grenade
 	Appearance: The potion is a orange liquid with black streaks.
@@ -107,7 +142,7 @@ Tarfire Grenade
 	Components: Sparkfire Potion, tar.
 	Brewing:    Add tar after the sparkfire potion is made.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Waterbreathing Potion
 	Appearance: The potion is a clear liquid.
