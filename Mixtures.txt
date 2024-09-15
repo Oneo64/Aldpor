@@ -18,7 +18,7 @@ BREWING STEPS
 	3.  Add ingredients. Ingredients also must be fully submerged.
 	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Shake the potion up for at least a 5 seconds. You could also boil it, but this will take an hour.
+	4.  Shake the potion up for at least a 5 seconds. You could also boil it (required if you cannot shake the potion, such as a caudron), but this will take an hour.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
 	5.  Let it sit for at least 6 hours for the ingredients to fully dissolve before using. If it was boiled, 3 hours would be sufficient.
