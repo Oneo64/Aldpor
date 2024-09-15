@@ -98,7 +98,7 @@ Energy potion
 Ekraldi's Concotion
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
-	Effect:     Fatigue, dizziness, loss of concentration.
+	Effect:     Fatigue, dizziness, loss of concentration, and sometimes paralysis.
 	Components: Handful of dark lichen, an ekraldi's toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
