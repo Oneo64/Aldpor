@@ -4,6 +4,9 @@ OVERVIEW
 
 Potions are concotions and mixures of different items dissolved into water, and powered by a magic catalyst.
 
+Two amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
+Example: Potion of Mage Armor has two amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
+
 
 
 ======================================================================================================================================================
@@ -90,6 +93,22 @@ Energy potion
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it. Drinking this also lets you restore some spell slots. (Pretend that the spell's level are points. You have 4 points to spend on spell slots. You can also drink more, and depending on how much you drink, you gain more slots. You can save these points to spend later on, but they disappear after a short rest.)
 	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Potion of Animal Conjuration
+	Appearance: The potion is a gray-brown slop.
+	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine.
+	Components: Two amethyst gorbries, and a carved wooden figurine of the animal to conjure.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Potion of Frostcoating
+	Appearance: The potion is a silvery liquid that glows in the dark.
+	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:     Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
+	Components: Two amethyst gorbries, a handful of a mixure of moss, handful of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
