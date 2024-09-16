@@ -304,6 +304,30 @@ In order to draw a stave, you must have studied either some Primordial, Druidic,
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Imbuement (powerful)
+	Casting time: special
+	Range:        touch
+	Requirements: V, S, M (a vial of Parhrügi's Tears which will be consumed on use, and the item to imbue spells into)
+	Duration:     until dispelled
+
+Coat the item you want to imbue the spell into, or a part of the item with will be magical (for example a spearhead, or a sword's blade).
+
+Speak this spell incantation, then immediately start casting the other spell you want to imbue into this item. If this spell has different options to choose from, then when the spell is activated, it will always follow those options. When this spell is cast along with the spell you want to imbue, the spell you want to imbue does not take immediate effect.
+
+The spell you want to imbue the weapon must have a SG (Somatic Gesture) component and not a S (Somatic) component, must not require any materials, and must have a tier of 'basic' or 'minor'. You can choose if the magic in the item activates by impact with force, or command.
+
+When imbued, the coated surface starts emitting a faint blue glowy mist like liquid nitrogen (it's not cold).
+
+When activated, the spell usually targets the item that it is imbued into. For example, an item imbued with mage armor gives itself extra protection when activated. If there is damage such as evocation spells, the impacted thing takes the extra damage.
+
+Common spells to imbue include:
+	- Dragonfire: Most commonly set to on impact. Makes the coated surface light on fire.
+	- Fire Bolt:  Most commonly set to on impact. Makes the coated surface burst in a small puff of flame.
+	- Seidur:     Most commonly set to on command. Mostly used to either boost the luck of one person, or shank the luck of one person.
+	- Sparks:     Most commonly set to on impact. Gives the impacted person a bit of electric shock.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Lesser Runic Staves (minor)
 	Casting time: 20 seconds
 	Range:        20 meters
@@ -930,6 +954,7 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Imbuement
 
 	WIZARD:
 		MINOR SPELLS:
@@ -984,3 +1009,4 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Imbuement

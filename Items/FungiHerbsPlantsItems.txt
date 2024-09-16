@@ -39,3 +39,14 @@ Jadeblossom:
 
 Practal Gorbry:
 	Practal Gorbries are a bush. Their flowers are muted red. Their fruits are soft, and are colored red and yellow like an apple, and are in the shape of an ball and size of a grape.
+
+
+
+======================================================================================================================================================
+LIQUIDS
+======================================================================================================================================================
+
+Parhrügi's Tears:
+	Parhrügi's Tears is a liquid of the substance found in Parhrüvaryg. It is transparent and purple, and seemes to be eternally filled with glitter. It also glows in the dark. Because it is from Parhrüvaryg, a single vial is worth tens of gold. Parhrügi's Tears is an important component to making magic items without potions.
+
+	Primordial must not be spoken within a 10 meter radius of this liquid, or the liquid might take effect of the spell that has this incantation. To protect the liquid against Primordial, the vial must be surrounded by thick material such as stone, wood, or even leather, and it must be corked.

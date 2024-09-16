@@ -34,7 +34,7 @@ BREWING STEPS
 SOAKING
 ======================================================================================================================================================
 
-You can soak various materials in potion to give them potion effects. This is how most 'magic' items are made, also the most common method.
+You can soak various materials in potion to give them potion effects. This is how most 'magic' items are made, also the most common method. The other, less common but more powerful method is by directly giving the item magic by using the spell Imbuement, described in "MagicSystemAndSpells.txt".
 
 Soaking times:
 	Sand, dirt, powder:  Dump it in the potion to make a slop
