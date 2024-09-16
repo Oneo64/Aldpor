@@ -12,7 +12,7 @@ Magics:
 
 	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing guestures, and holding materials.
 
-	- People who are born magically attuned to a god are rare, being around one in a million (literally).
+	- People who are born magically attuned to a god are rare, being around one in a million (literally, no pun intended).
 
 Wizards have a lot of spells, but unlike druids, seers, and sorcerers, some of their spells must be woven first before speaking the incantation.
 Sorcerers can ignore the Verbal and Material components ONLY for spells marked as 'basic' or 'minor'.
