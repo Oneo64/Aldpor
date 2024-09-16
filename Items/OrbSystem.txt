@@ -1,33 +1,38 @@
-DESCRIPTION:
+======================================================================================================================================================
+OVERVIEW
+======================================================================================================================================================
+
 You can 'store' a spell in orb. Before you can do this, or even cast a spell using an orb, you MUST attune to it first.
 You will not be able to attune to an orb if someone else has already attuned to it.
 By attuning to an orb, the orb will recognise your voice, and only yours.
 
-Most orbs used are either marble, glass, or wood.
-Only the wealthy can afford gemstone orbs, and most of these orbs are made of any opal variant.
+Most orbs used are made of wood. Only the wealthy can afford gemstone orbs, and most of these orbs are made of labradorite, or any opal variant.
+
+
 
 ======================================================================================================================================================
+USAGE
+======================================================================================================================================================
 
-USAGE:
-When you store a spell to an orb, you can pick any gesture or movement (you must act it out) for the casting part. Then, you pick some incantation, which can be anything you want. After all that, you have to cast a special spell on the orb, then the actual spell you want to store. You can have as many spells stored in the orb as you want.
+When you store a spell to an orb, you have to cast Imbuement on the orb.
 
-Casting Identify on the orb tells you what spells are stored.
+You can choose any spell along with the Imbuement spell, only restriction is that it must have a V (Verbal) component, and cannot be another Imbuement spell. You can have as many spells stored in the orb as you want.
 
 By casting a spell stored in an orb, the spell is not removed, so you can cast as many as you want.
 Casting a spell from an orb still uses your mental energy.
 
-Most wizards, clerics, druids, what ever spellcasters there are, uses orbs as their arcane focus because it is almost three times as fast, much easier, and you don't need to speak gibberish, and wave your arms around elegantly in order to cast a spell.
+Only wizards and druids can use orbs. Most of them uses orbs as their arcane focus because casting spells are almost twice as fast, and much easier.
+
+
 
 ======================================================================================================================================================
+GAME/ROLEPLAY
+======================================================================================================================================================
 
-WRITING/GAME/ROLEPLAY:
 If you are playing DnD, spells stored in your orb count as prepared. You can still cast spells that aren't 'prepared', but they will take significantly longer, as said above.
 
-If a spell is in "Spells.txt", the casting time is as if you are using an orb. Without an orb, multiply casting time by 3. If the spell isn't in "Spells.txt", and you are using an orb, go look up "5e fireball" or whatever spell it is in 5th edition on google, and divide the casting time by 3.
+If a spell is in "MagicSystemAndSpells.txt", the casting time is as if you are using an orb. Without an orb, multiply casting time by 2.
+If the spell isn't in "MagicSystemAndSpells.txt", and you are using an orb, go look up "5e fireball" or whatever spell it is in 5th edition on google, and divide the casting time by 2.
 
 If you DONT use an orb, then the maximum prepared spells you can have is: (wizard level * 0.5 rounded down) + int modifier, with the minimum of 1.
 If you DO use an orb, then the maximum prepared spells you can have is: (wizard level * 1.75 rounded down) + int modifier, with the minimum of 1.
-
-======================================================================================================================================================
-
-If you don't have a spell prepared/stored in your orb, you can cast it if you are looking at your spellbook. Casting time is normal speed plus an extra round. (Reason: it's realistic, one extra round to look at spellbook)
