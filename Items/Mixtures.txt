@@ -21,10 +21,10 @@ BREWING STEPS
 	3.  Add ingredients. Ingredients also must be fully submerged.
 	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Shake the potion up for at least a 5 seconds. You could also boil it (required if you cannot shake the potion, such as a caudron), but this will take an hour.
+	4.  Boil it. This will take an hour. A higher temperature requires less boiling.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
-	5.  Let it sit for at least 6 hours for the ingredients to fully dissolve before using. If it was boiled, 3 hours would be sufficient.
+	5.  Let it sit for at least 6 hours for the ingredients to fully dissolve before using.
 
 	Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
 
@@ -71,6 +71,15 @@ Here are a list of catalyst examples:
 POTIONS AND CONCOTIONS
 ======================================================================================================================================================
 
+Catalystic Concotion
+	Appearance: It is transparent and purple, with blue streaks, and seemes to be eternally filled with glitter. It also glows in the dark.
+	Usage:      Soak in object, works best in an orb.
+	Effect:     It will quicken spellcasting, only for the person attuned to it.
+	Downside:   It only works with spells that are given to the object, and only the person attuned to the object can use it.
+	Components: Three amethyst gorbries, and a drop of Parhrügi's Tears.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Curing Potion
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
@@ -92,7 +101,9 @@ Energy potion
 	Appearance: The potion is a pale green slop.
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
-	Components: Pinch of rye flour, scoop of uncooked apple sauce, and a silver nugget (a silver coin also works).
+	Downside:   You don't get to taste the delightful taste of real food.
+	Components: A practal gorbry, and pinch of rye flour.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ekraldi's Concotion
