@@ -2,10 +2,15 @@
 OVERVIEW
 ======================================================================================================================================================
 
-Druidic magic is basically wizard magic without study and using fey's magic instead of directly accessing the Plane of Magic.
-Seer magic is when you take the essence of any god other than Parhrügi to make magic.
-Sorcery is when you can make simple magic happen by whim.
-Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing guestures, and holding materials.
+Magics:
+	- Druidic magic is basically wizard magic without study and using fey's magic instead of directly accessing the Plane of Magic.
+
+	- Seer magic is when you take the essence of any god other than Parhrügi to make magic.
+	- Some people are innately seers by leaning towards Lünanyr or Hirulfyr, such as Vielthöri Aldriàndel.
+
+	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
+
+	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing guestures, and holding materials.
 
 Wizards have a lot of spells, but unlike druids, seers, and sorcerers, some of their spells must be woven first before speaking the incantation.
 Sorcerers can ignore the Verbal and Material components ONLY for spells marked as 'basic' or 'minor'.
