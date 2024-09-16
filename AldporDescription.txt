@@ -106,17 +106,18 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 
 Available Classes (if converted to DnD):
 	Fighter classes (No magic involved):
-		Barbarian (Let rage power you and use pure strength and brutality to kill)
 		Fighter (Practice some sort of martial arts using a melee weapon or with bare fists)
-		Ranger (Practice bows, or crossbows)
+		Archer (Practice bows, or crossbows)
 		Rogue (Practice the art of stealing and sneaking)
 
 	Caster classes (Magic involved, almost no melee involved):
-		Cleric (Heavily worship a diety to gain their powers)
+		Seer (Draws power from essence/presence of a god)
 		Druid (Take care of nature so the fey give you fey powers)
 		Sorcerer (Be born with magic powers)
 		Wizard (Study hard to get magic powers)
 
-	Fighter + Cleric = Paladin
+	Fighter + Archer = Ranger
+	Fighter + Seer = Cleric
+	Fighter + being religious = Paladin
 	Low level fighter + Non-magical healing skills or tonic/medicine making skills = Bard
 	Evil druid = Warlock
