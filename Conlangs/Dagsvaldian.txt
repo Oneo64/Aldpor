@@ -3,7 +3,7 @@ a = aa
 æ = aai
 
 u = uh (say 'oo' if at back of word)
-û = oo
+ü = oo
 
 e = eh
 ei = ey
