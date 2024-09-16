@@ -1,45 +1,83 @@
-ALDPOR
+======================================================================================================================================================
+OVERVIEW
+======================================================================================================================================================
+
+Aldpor is a mythic historical fantasy world, set in the early medieval ages. The project started in 2023, july. Magic is subtle, and is not flashy/dramatic.
+
 Creation date: 2023 July
 
-Setting: The year is 973. The world is a mix of early medieval and classical fantasy.
+The current year is 973. Fantastical elements should correspond from the Late Viking Ages to the Late Roman Period, with subtle elements from the 11th - 12th century.
 
-Notable features:
-A lot of weapons use iron and bronze. Only the wealthy can afford Damascus/Crucible Steel.
+Medieval Stasis: The gods want to see competition and progress in strength. Still, new technology can be developed, but they will likely be lost due to thieves, bandits, and war. Technology is currently comparable to earth's 1th to 10th century, will develop until the highest point of technology is comparable to earth's 12th - 14th century.
+
+
+
+======================================================================================================================================================
+ANCESTRY
+======================================================================================================================================================
+
+Humans evolved from elves.
 
 Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans. They are more likeley to worship Jalfar, or Hirulfyr.
 
 Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarvish king will be the kings leader. Examples: One king handles the kingdom's army, one handles imports and exports, one handles economy etc.
 
-Elves are more likeley to worship Parhrûgi, Hirulfyr, Lûnanyr, or any of the three moons, but moon elves will not worship An.
+Elves are more likeley to worship Parhrügi, Hirulfyr, Lünanyr, or any of the three moons, but moon elves will not worship An.
 
-Druids like normal people, except for a few things: they are vegetarian (NOT vegan!), and they are most likeley to worship Lûnanyr or Talmundur.
+Lifespans:
+	Human:		100
+	Dwarf:		100
+	Moon Elf:	200
+	Cold Elf:	130
+	Orc:		60
 
-Medieval Stasis: The gods want to see competition and progress in strength. They don't want skilless people to just pick up a rifle, and be stronger than the strongest wizard ever, right? (still new technology can be developed, but they will likely be lost due to thieves and bandits) (technology is currently comparable to earth's 1th to 10th century, will develop until the highest point of technology is comparable to earth's 12th or 13th century or something like that)
+
+
+======================================================================================================================================================
+MAGIC
+======================================================================================================================================================
+
+Magic is subtle, and is not flashy/dramatic.
+
+Druids are like normal people, except for a few things: they are vegetarian (NOT vegan!), and they are most likeley to worship Lûnanyr or Talmundur.
 
 
 
-Creating magic items is still known, but it's very hard to find someone who knows this, and to create one, it's expensive. Learning how to create magic items is expensive too, and it costs alot for lessons.
-
-Kingdoms:
+======================================================================================================================================================
+KINGDOMS
+======================================================================================================================================================
+	
+MEN:
 	Hendril (men, speaks Hendric, culture = central men, elected autocracy)
 	Dagsvald (men, speaks Dagsvaldian, culture = dagsvaldian, feudal absolute monarchy)
 	Tarib (men, speaks Taribian, culture = taribian, aristocracy)
 
+ELVES:
 	Esrelu (cold elves, speaks Esrel, culture = cold elf, noocracy)
 	Rànûdel (moon elves, speaks Rànûdan, culture = moon elf, geniocracy)
 	Yûmlathnar (moon elves, speaks Ranûdan, culture = moon elf, aristocracy) (pronounced as yoomlaanaar)
-	Vuntarla (cold elves, elfmen and men, speaks Dagsvaldian + Esrel, culture = dagsvaldian, absolute monarchy)
 	
+MEN AND ELVES:
 	Aodesvu (elfmen and men, speaks Aodesvic, culture = central men, constitutional monarchy)
+	Vuntarla (cold elves, elfmen and men, speaks Dagsvaldian + Esrel, culture = dagsvaldian, absolute monarchy)
 
+DWARVES:
 	Glomdur (dwarves, speaks Glomish, main city carved on mountain face (not really inside), culture = banodic, elected diarchy)
 	Mornesvid (dwarves, speaks Mornesvian, main city on high hill, magocracy) (culture = mornesvidian)
 	Banod (dwarves, speaks Banodic, culture = banodic, elected diarchy) (pronounced as baanod)
 
+CENTAURS:
 	Vatakond (centaurs, speaks Sylvendric, culture = centaur, magocracy)
 	Heirfgria (centaurs, speaks Sylvendric, culture = centaur, magocracy)
 
+ORCS:
 	Neshozic Empire (orcs, speaks Neshozic, culture = neshozic, noocracy)
+
+
+
+======================================================================================================================================================
+GAME/ROLEPLAYING
+======================================================================================================================================================
 
 Craftsmanship/crafter things:
 	Common: Woodworking, Leatherworking (not shoes) Metalworking, Lumberjack, Miner
@@ -67,13 +105,6 @@ Civilizations ("rarity: uncommon" = "rarity: common + uncommon"):
 	Town:     2000 people (uncommon crafters and shops)
 	City:     6000 people (rare crafters and shops)
 	Fortress: 70  people (1 ruler + 9 ruler's family + 20 guards + 40 garrisoned soldiers)
-
-Lifespans:
-	Human = 70
-	Dwarf = 300
-	Moon Elf = 200
-	Cold Elf = 130
-	Orc = 60
 
 Available Classes (if converted to DnD):
 	Fighter classes (No magic involved):
