@@ -1,7 +1,7 @@
 Government: Noocracy
 Race Majority: Centaurs
 Culture type: Centaur
-Popilation: ~10,000 centaurs
+Population: ~10,000 centaurs
 
 Main language: Sylvendric
 Other languages: Rànûdan

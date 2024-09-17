@@ -2,7 +2,7 @@
 OVERVIEW
 ======================================================================================================================================================
 
-Potions are concotions and mixures of different items dissolved into water, and powered by a magic catalyst.
+Potions are concoctions and mixures of different items dissolved into water, and powered by a magic catalyst.
 
 Two amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
 Example: Potion of Mage Armor has two amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
@@ -68,10 +68,10 @@ Here are a list of catalyst examples:
 
 
 ======================================================================================================================================================
-POTIONS AND CONCOTIONS
+POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
 
-Catalystic Concotion
+Catalystic Concoction
 	Appearance: It is transparent and purple, with blue streaks, and seemes to be eternally filled with glitter. It also glows in the dark.
 	Usage:      Soak in object, works best in an orb.
 	Effect:     It will quicken spellcasting, only for the person attuned to it.
@@ -106,7 +106,7 @@ Energy potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ekraldi's Concotion
+Ekraldi's Concoction
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
 	Effect:     Fatigue, dizziness, loss of concentration, and sometimes paralysis.

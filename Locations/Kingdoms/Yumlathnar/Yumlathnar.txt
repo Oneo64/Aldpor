@@ -1,7 +1,7 @@
 Government: Elected autocracy
 Race Majority: Moon Elf
 Culture type: Moon Elvish
-Popilation: ~30,000 people
+Population: ~30,000 people
 
 Main language: Rànûdan
 Other language: Sylvendric

@@ -1,7 +1,7 @@
 Government: Absolute Monarchy
 Race Majority: Cold Elf, Human (uncommon)
 Culture type: Norse
-Popilation: ~500 people
+Population: ~500 people
 
 Main language: Esrel, Dagsvaldian
 
