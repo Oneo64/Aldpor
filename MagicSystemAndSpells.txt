@@ -99,7 +99,7 @@ Arcane Unlock (basic)
 	Range:        touch
 	Requirements: V, SG
 
-An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked and magically locked, then you must cast this spell again to unlock it because the first cast removes the magical lock. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targetted.
+An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked and magically locked, then you must cast this spell again to unlock it because the first cast removes the magical lock. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targeted.
 
 This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound when unlocked.
 In order to use this spell, you must know how the same type of lock you are going to unlock (or something similar) works.
@@ -438,7 +438,7 @@ You describe the appearance of one creature that is within range, or you can cho
 	- You make your target a little luckier, giving them slight physical and mental strength, and is stronger against disease for the duration.
 	- You make your target a little unluckier, taking slight physical and mental strength, and is weaker against disease for the duration.
 
-The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targetted by another seidur spell again for the next week.
+The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targeted by another seidur spell again for the next week.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, or Sylvan.
 
@@ -469,7 +469,7 @@ Feign Death (basic)
 	Requirements: V, SG
 	Duration:     1 hour
 
-A willing creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage exept those that target the mind or soul.
+A willing creature you touch falls limp, and is indistinguishable from death, no matter what is tried. The target is also resistant to all damage except those that target the mind or soul.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -736,7 +736,7 @@ Control Water (major)
 
 Choose a body of water up to 20 meter cube of water you can see within range. You can choose any of the actions:
 	- The body of water flows freely in any direction you want given it sticks to a surface, which can flow up to 4 meters per second. For example, you could make water flow up a wall and across the ceiling, but you can't make the water fly into the air.
-	- The body of water splashes in any direction you choose exept up and down.
+	- The body of water splashes in any direction you choose except up and down.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
