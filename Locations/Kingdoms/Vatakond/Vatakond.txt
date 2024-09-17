@@ -1,4 +1,4 @@
-Government: Absolute Monarchy
+Government: Noocracy
 Race Majority: Centaurs
 Culture type: Centaur
 Popilation: ~10,000 centaurs

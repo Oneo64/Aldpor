@@ -1,0 +1,9 @@
+Government: Noocracy
+Race Majority: Centaur
+Culture type: Centaur
+Population: ~6,000 centaurs
+
+Main language: Sylvendric
+Other language: Rànûdan
+
+Ruler: Gorflock

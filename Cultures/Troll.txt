@@ -15,6 +15,6 @@ Preferred metals:
 Gems, gemstones and crystals:
 	Emerald            - Associated with nature
 	Jade/Malachite     - Believed to be associated with druidry
-	Labadorite         - Associated with Vel, and believed to be associated with Parhrûgi and magic
+	Labadorite         - Associated with Vel, and believed to be associated with Parhrügi and magic
 	Obsidian           - Believed to be associated with death or the void
-	Onyx               - Associated with Death
+	Onyx               - Associated with death

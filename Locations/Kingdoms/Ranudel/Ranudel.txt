@@ -1,6 +1,6 @@
 Government: Elected Geniocracy
 Race Majority: Moon Elf
-Culture type: Elvish
+Culture type: Moon Elvish
 Population: 15,000 people in settlements, 3000 people in Emeröreslu, ~20,000 people in total
 
 Main languages: Rànûdan

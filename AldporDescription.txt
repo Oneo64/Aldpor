@@ -105,7 +105,7 @@ ELVES:
 	Yûmlathnar:
 		Main language is Rànûdan
 		Culture is moon elf (elvish culture)
-		Political structure is aristocracy
+		Political structure is elected autocracy
 
 		Current allies: Vatakond, Evil fey
 		Current wars:   Dagsvald, Esrelu, Hendril

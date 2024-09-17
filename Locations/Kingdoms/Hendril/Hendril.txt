@@ -1,4 +1,4 @@
-Government: Empire
+Government: Elected autocracy
 Race Majority: Human
 Culture type: Roman
 Population: 15,000 people in towns, 70,000 people in cities, 85,000 people in total
