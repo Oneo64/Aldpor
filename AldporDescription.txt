@@ -2,7 +2,7 @@
 OVERVIEW
 ======================================================================================================================================================
 
-Aldpor is a mythic historical fantasy world, set in the early medieval ages. The project started in 2023, july. Magic is subtle, and is not flashy/dramatic.
+Aldpor is a high mythic historical fantasy world, set in the early medieval ages. The project started in 2023, july. Magic is subtle, and is not flashy/dramatic.
 
 The current year is 973. Fantastical elements should correspond from the Late Viking Ages to the Late Roman Period, with subtle elements from the 11th - 12th century.
 
