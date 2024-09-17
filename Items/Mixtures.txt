@@ -97,7 +97,7 @@ Darkvision Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Energy potion
+Energy Potion
 	Appearance: The potion is a pale green slop.
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
@@ -110,7 +110,7 @@ Ekraldi's Concoction
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
 	Effect:     Fatigue, dizziness, loss of concentration, and sometimes paralysis.
-	Components: Handful of dark lichen, an ekraldi's toadstool chopped into pieces.
+	Components: Handful of dark lichen, an Ekraldi's toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ Potion of Mage Armor
 
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be asorbed into the wound to work. Can be also drinked, to heal any damaged organs.
+	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drinked, to heal any damaged organs.
 	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
 	Downside:   Can cause cancer if used too much.
 	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.

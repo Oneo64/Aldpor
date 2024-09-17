@@ -165,7 +165,7 @@ Protection from Evil and Good (major)
 	Casting time: 3 seconds
 	Range:        touch
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Lünanyr or Hirulfyr which is consumed on use)
-	Duration:     concentration up tp 10 minutes
+	Duration:     concentration up to 10 minutes
 
 Until the spell ends, a target you touch is immune to charming or possession from any of the following creatures you have studied before: celestials, fiends, fey. If the target is already charmed or possessed, then the target is able to break out.
 
