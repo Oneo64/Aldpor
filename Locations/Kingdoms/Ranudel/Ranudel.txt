@@ -21,7 +21,7 @@ Cities:
 TOWNS/VILLAGES
 ======================================================================================================================================================
 
-Rànûdel is located inside the Forest of Ranûdel.
+Rànûdel is located inside the Forest of Rànûdel.
 
 Qwalu Dasin and Pûsa Dasin are built along the coast of the forest, while Talithtom is built in a lower, flatter part of the forest where it isn't as mountainous and jagged as the other areas.
 

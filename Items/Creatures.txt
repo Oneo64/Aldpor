@@ -194,7 +194,7 @@ Centaur (medium fey):
 	A centaur is a half man half horse found in Furnalfa and Talygva (material plane). They live in groups, small kingdoms, or the such.
 
 	Description:
-		A centaur is a hybrid, with the upper body of a human and the lower body of a horse.
+		A centaur is a hybrid, with the upper body of a human and the lower body of a horse. The horse's fur usually extends all the way up to the centaur's neck, and to their wrists.
 		
 		Centaurs matures by 20, and lives up to 150 years old.
 

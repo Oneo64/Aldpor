@@ -14,7 +14,7 @@ Variant 1 (red metals: copper, brass, and bronze):
 	Hair: Red, or actually red (more like maroon or blood color).
 	Eyes: Brown, golden, orange, or red.
 
-Variant 2 (jewelry and rock: copper, brass, and bronze):
+Variant 2 (jewelry and rock):
 	Skin: Very light grayed skin, or very pale skin.
 	Hair: Blond, red, brown.
 	Eyes: Blue, green, golden, gray.
