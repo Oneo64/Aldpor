@@ -1,6 +1,6 @@
 Alovæl Rulskrod
 Male
-Age: 26 (born 947, january 13)
+Age: 26 (born 947, January 13)
 Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
@@ -23,8 +23,8 @@ Personality:
 	Realistic (perspective on the future)
 
 Abilities:
-	Combat Experience (defended home from longaxe wielding centaur)
+	Combat experience (defended home from longaxe wielding centaur)
 
-	Spearfighting (little experience no training)
+	Spear fighting (little experience no training)
 
 	Dagsvaldian

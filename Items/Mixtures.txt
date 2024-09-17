@@ -2,7 +2,7 @@
 OVERVIEW
 ======================================================================================================================================================
 
-Potions are concoctions and mixures of different items dissolved into water, and powered by a magic catalyst.
+Potions are concoctions and mixtures of different items dissolved into water, and powered by a magic catalyst.
 
 Two amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
 Example: Potion of Mage Armor has two amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
@@ -13,7 +13,7 @@ Example: Potion of Mage Armor has two amethyst gorbries, and a handful of cobweb
 BREWING STEPS
 ======================================================================================================================================================
 
-	1.  Get a container. Lets suppose it's a caudron, since ingredients below are assumed a the potion is being brewed in a caudron.
+	1.  Get a container. Lets suppose it's a cauldron, since ingredients below are assumed a the potion is being brewed in a cauldron.
 	
 	2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
 	2a. If you have magical water, you do not need a catalyst.
@@ -72,7 +72,7 @@ POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
 
 Catalystic Concoction
-	Appearance: It is transparent and purple, with blue streaks, and seemes to be eternally filled with glitter. It also glows in the dark.
+	Appearance: It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
 	Usage:      Soak in object, works best in an orb.
 	Effect:     It will quicken spellcasting, only for the person attuned to it.
 	Downside:   It only works with spells that are given to the object, and only the person attuned to the object can use it.
@@ -126,7 +126,7 @@ Potion of Frostcoating
 	Appearance: The potion is a silvery liquid that glows in the dark.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
-	Components: Two amethyst gorbries, a handful of a mixure of moss, handful of silver powder.
+	Components: Two amethyst gorbries, a handful of moss, handful of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ Potion of Mage Armor
 
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drinked, to heal any damaged organs.
+	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs.
 	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
 	Downside:   Can cause cancer if used too much.
 	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.

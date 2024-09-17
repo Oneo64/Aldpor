@@ -1,6 +1,6 @@
 Algord Rulskrod
 Male
-Age: 57 (born 915, august 26)
+Age: 57 (born 915, August 26)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
@@ -27,9 +27,9 @@ Personality:
 	Realistic (perspective on the future)
 
 Abilities:
-	Combat Experience (defended home from longaxe wielding centaur, 1 year military campaign to wipe twenty bandit camps experience)
+	Combat experience (defended home from longaxe wielding centaur, 1 year military campaign to wipe twenty bandit camps experience)
 
-	Axe and shield (few days training)
+	Axe fighting and shield (few days training)
 	Archery
 
 	Hunting

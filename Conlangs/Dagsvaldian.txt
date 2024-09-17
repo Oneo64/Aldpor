@@ -1,4 +1,4 @@
-Pronounciation:
+Pronunciation:
 a = aa
 æ = aai
 
@@ -13,8 +13,8 @@ i- or -i = ee
 
 y = ee
 
-dr = say it with a hard d, like d + r instead of the normal 'j' sound in english
-djr = say 'dr' as in normal english
+dr = say it with a hard d, like d + r instead of the normal 'j' sound in English
+djr = say 'dr' as in normal English
 djj = j
-djja = ja with normal 'j' sound in english
-djje = je with normal 'e' sound in english
+djja = ja with normal 'j' sound in English
+djje = je with normal 'e' sound in English

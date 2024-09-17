@@ -3,14 +3,14 @@ OVERVIEW
 ======================================================================================================================================================
 
 Magics:
-	- Druidic magic is basically wizard magic without study and using fey's magic instead of directly accessing the Plane of Magic.
+	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic.
 
 	- Seer magic is when you take the essence of any god other than Parhrügi to make magic.
 	- Some people are innately seers by leaning towards Lünanyr or Hirulfyr, such as Vielthöri Aldriàndel.
 
 	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
 
-	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing guestures, and holding materials.
+	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing gestures, and holding materials.
 
 	- People who are born magically attuned to a god are rare, being around one in a million (literally, no pun intended).
 
@@ -271,7 +271,7 @@ Create Golem (major)
 	Requirements: V, SG
 	Duration:     1 week
 
-You point at any loose material, such as sand, pebbles, dirt, gravel, any powder, or a mix of any of the listed. You must also chant, and make a gesture with your other hand. During spellcasting, the material slowly flies into place, forming a medium humanoid golem of that material. If your spellcasting is interupted, the unfinished golem simply collapses back to the ground. Materials that are 'pure', for example dirt that isn't mixed with anything, usually provides better results than mixed material. If someone casts this spell targetting the same material and the same spot as you, that person speeds up the spellcasting.
+You point at any loose material, such as sand, pebbles, dirt, gravel, any powder, or a mix of any of the listed. You must also chant, and make a gesture with your other hand. During spellcasting, the material slowly flies into place, forming a medium humanoid golem of that material. If your spellcasting is interrupted, the unfinished golem simply collapses back to the ground. Materials that are 'pure', for example dirt that isn't mixed with anything, usually provides better results than mixed material. If someone casts this spell targeting the same material and the same spot as you, that person speeds up the spellcasting.
 
 When the golem is created, it is friendly to you, and you can verbally command them to do actions. The golem will follow behaviour patterns written in "Creatures.txt".
 
@@ -379,7 +379,7 @@ Detect Evil and Good (basic)
 	Range:        100 meters
 	Requirements: V, SG
 
-You pick a target you can see withing range. You can see wether that target is good, or evil. The target can be anything, from creatures to mere items.
+You pick a target you can see withing range. You can see whether that target is good, or evil. The target can be anything, from creatures to mere items.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -399,7 +399,7 @@ Detect Thoughts (basic)
 	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
-For the duration, you recieve mental information of the current thoughts, intentions and emotions of a creature you can see. If the target doesn't have consciousness (such as an animal), you only recieve mental information of their intentions and emotions. You can switch creatures, but this requires effort and only the very skilled people can do this. In order to use this spell, you must have studied some anatomy of whatever creature's mind you are trying to read. No study is required if the target is the same species/race as you.
+For the duration, you receive mental information of the current thoughts, intentions and emotions of a creature you can see. If the target doesn't have consciousness (such as an animal), you only receive mental information of their intentions and emotions. You can switch creatures, but this requires effort and only the very skilled people can do this. In order to use this spell, you must have studied some anatomy of whatever creature's mind you are trying to read. No study is required if the target is the same species/race as you.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -456,10 +456,10 @@ Animal Messenger (basic)
 
 Choose a creature that is capable of speech such as a crow, raven, or parrot. Speak a message less than 25 words. You then specify a location you have seen, and a general appearance of the recipient. The animal then sets out to the specified location to deliver the message. If it's a flying creature, then the range covers 80 kilometers a day, or 40 kilometers for other animals.
 
-When the animal finds a recipent, it stops somewhere within 3 meters of the recipent, and it speaks the message the way they would say it. For example, a crow sent to say a message will sound like a crow speaking.
+When the animal finds a recipient, it stops somewhere within 3 meters of the recipient, and it speaks the message the way they would say it. For example, a crow sent to say a message will sound like a crow speaking.
 
 If the animal dies, then the spell ends.
-If the spell ends before the animal can find a recipent, the animal resumes it's life, unless it died.
+If the spell ends before the animal can find a recipient, the animal resumes it's life, unless it died.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -490,7 +490,7 @@ EVOCATION
 Cold Snare (basic)
 	Casting time: 3 seconds
 	Range:        40 meters
-	Requirements: V, S, M (a handful of a mixure of moss and silver powder, which is consumed on use)
+	Requirements: V, S, M (a handful of a mixture of moss and silver powder, which is consumed on use)
 	Duration:     5 minutes
 
 A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing. If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts.
@@ -747,7 +747,7 @@ Druidcraft (minor)
 	Duration:     1 hour
 
 You can choose one of the following effects to happen:
-	- You recieve mental information on how the weather will be like for the next 24 hours.
+	- You receive mental information on how the weather will be like for the next 24 hours.
 	- You instantly make flower blossom, a seed pod open, or a leaf bud bloom.
 	- An instantaneously faint, short sound happens at a point within range, such as a puff of wind, chirp of a bird, rustle of bushes, or the faint odor of a skunk.
 
@@ -796,7 +796,7 @@ Mending (basic)
 	Range:        Touch
 	Requirements: V, SG, M (two lodestones)
 
-You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece seperately. You cannot mend any metal, stone, or anything harder/denser than that.
+You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece separately. You cannot mend any metal, stone, or anything harder/denser than that.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

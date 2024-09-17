@@ -1,6 +1,6 @@
 Alf Rulskrod
 Male
-Age: 21 (born 951, august 17)
+Age: 21 (born 951, August 17)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
@@ -26,9 +26,9 @@ Personality:
 	Optimistic (perspective on the future)
 
 Abilities:
-	Combat Experience (raiding old castle ruins)
+	Combat experience (raiding old castle ruins)
 
-	Spearfighting (6 years practice/experience, which a year is training)
+	Spear fighting (6 years practice/experience, which a year is training)
 	
 	Dagsvaldian
 	Esrel

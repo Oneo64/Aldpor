@@ -59,7 +59,7 @@ OTHER FORTRESSES
 These fortresses are smaller ring fortresses about 100 meters in diameter. Each fortress has 10 guards and 15 servants, and also has some farms on the outer area. Inside are kept cattle, sheep and chickens, which the servants tend to.
 
 A jarl would live in each ring fortress, and will oversee the ring fortress and nearby settlements, such as trade, and has power over them to make sure all goes well. They can also enforce laws, gather troops, and build/build in settlements.
-A hersir/cheiftain would live in each settlement, and has power over what to build and other things like hosting local events.
+A hersir/chieftain would live in each settlement, and has power over what to build and other things like hosting local events.
 
 
 

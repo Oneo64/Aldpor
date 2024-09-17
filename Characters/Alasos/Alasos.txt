@@ -1,6 +1,6 @@
 Alasös Ereviyne
 Male
-Age: 43, looks 33 (born 930, march 4)
+Age: 43, looks 33 (born 930, March 4)
 Alignment: Neutral
 Ethnicity: Esrel
 Race:      Cold Elf
@@ -19,7 +19,7 @@ Personality:
 		1. Flamboyant
 
 	NEGATIVE:
-		1. Disorganised
+		1. Disorganized
 		
 	Optimistic (perspective on the future)
 

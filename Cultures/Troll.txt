@@ -1,7 +1,7 @@
 Behaviour patterns:
-	Very few trolls are born/made to have high intelligence and wisdom. These trolls usually become the leaders/one of the commanders of their tribe. Only nobles/leaders wear wood armor because it's hard to get wood and make armor like that. Some inferior trolls may make armor by taking sticks and brances, and tying them together with dried grass.
+	Very few trolls are born/made to have high intelligence and wisdom. These trolls usually become the leaders/one of the commanders of their tribe. Only nobles/leaders wear wood armor because it's hard to get wood and make armor like that. Some inferior trolls may make armor by taking sticks and bracers, and tying them together with dried grass.
 
-	The wiser trolls may be more likeley to become druids or less commonly wizards, and not engage in any physical combat whatsoever. However they will only be able to learn the minor or basic tier of spells.
+	The wiser trolls may be more likely to become druids or less commonly wizards, and not engage in any physical combat whatsoever. However they will only be able to learn the minor or basic tier of spells.
 
 Preferred weapons:
 	Stone/obsidian spears
@@ -15,6 +15,6 @@ Preferred metals:
 Gems, gemstones and crystals:
 	Emerald            - Associated with nature
 	Jade/Malachite     - Believed to be associated with druidry
-	Labadorite         - Associated with Vel, and believed to be associated with Parhrügi and magic
+	Labradorite        - Associated with Vel, and believed to be associated with Parhrügi and magic
 	Obsidian           - Believed to be associated with death or the void
 	Onyx               - Associated with death

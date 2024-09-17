@@ -65,7 +65,7 @@ Cloth Dyes (for each clothing dyed):
 	Expensive (purples):								5 sp | 5 gp
 
 *default prices are assuming they are made of iron*
-Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2. magical properties multiplies it by 2 seperately.):
+Weapons and armor (multipliers, gemstones are below. engraving, or fancy patterns multiplies the price of that part by 2. magical properties multiplies it by 2 separately.):
 	Arming Sword:     blade  x10
 	Spatha:           blade  x8
 	Suontaka:         pommel and crossguard x 5, blade x15 (if going with an iron one that is engraved (with bronze crossguard), it would cost 40 sp + 30 sp = 70 silver)
@@ -158,7 +158,7 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Duck:                     2 sp
 
 	EVERYTHING IN HERE IS PER POUND
-	  Deer/Vension:           1 sp
+	  Deer/Venison:           1 sp
 	  Beef:                   6 cp
 	  Pork:                   6 cp
 	  Chicken (meat):         3 cp
@@ -216,7 +216,7 @@ Gemstones (per 2 carats):
 	White Opal:   1 sp Translucent white stone with spots of green, blue, purple and small spots of faint red
 	Amethyst:     1 sp Transparent deep purple crystal
 
-	Jade:         1 sp Opaque pale green stone with streaks of light gree
+	Jade:         1 sp Opaque pale green stone with streaks of light green
 	Amber:        1 sp Transparent gold stone
 
 	Malachite:    1 sp Opaque pale dark green stone with swirls

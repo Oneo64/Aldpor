@@ -55,7 +55,7 @@ Some time around 3500 BCE
 Linklontina, a centaur kingdom, rises in what is now called the Forests of Rànûdel.
 
 Before 2000 BCE
-Baln existed a few hundred years before. They were the first dwarvish settlement, and they spoke Primordial.
+Baln existed a few hundred years before. They were the first dwarven settlement, and they spoke Primordial.
 Floraindelen existed only a few decades, which is small compared to Baln. They spoke Ancient Elvish.
 
 2000 BCE
@@ -72,10 +72,10 @@ Inglinimpara starts a conquest, known as the Inglinimparan Conquest. They first 
 Glienedràem collapses, from the Inglinimparan Conquest. Anzudengot, the current king of Haear at this time, took advantage of this and took over the remains of Glienedràem. Baln was running low on food. They started to take exessive food from the village to feed their soldiers, and so there was a revolution, and was transformed into Banir, under new kings. Primordal branched into a new language, called Primordial Dwarven.
 
 1800 BCE
-Kingdom of Thissalfiran is created, named after it's founder. The Kingdom of Thissalfiran spoke Ancient Elvsh.
+Kingdom of Thissalfiran is created, named after it's founder. The Kingdom of Thissalfiran spoke Ancient Elvish.
 
 1540 BCE
-Kiliidhuuk rises, built in the mountains inbetween of current day Banod and Heirfgria.
+Kiliidhuuk rises, built in the mountains in between of current day Banod and Heirfgria.
 
 1140 BCE
 Banir collapsed, due to an economy problem. The people moved west, appointing a few new kings. This became known as the Banod.
@@ -94,7 +94,7 @@ Borusdaliandur and Veilodin decided to invade Inglinimpara, and took it over.
 Shaefklimper rises in the Heirfgrian Forest.
 
 740 BCE
-A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Suprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
+A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Surprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
 
 <First Age of Peace START>
 
@@ -104,7 +104,7 @@ Hondaf died a natural death. His body was buried in a memorial along with his St
 <First Age of Peace END>
 
 680 BCE
-Veilodin collapsed, when a massive disease broke out. It was an uncurable disease at it's time. A few hundred people traveled to Borusdaliandur. However, to stop mass migration and potential disease outbreak, Borusdaliandur had artillery to try and kill any immigrants that tried to enter. Almost half of them died to either disease, or the massacre, known as the Veilodin Migration Massacre.
+Veilodin collapsed, when a massive disease broke out. It was an incurable disease at it's time. A few hundred people traveled to Borusdaliandur. However, to stop mass migration and potential disease outbreak, Borusdaliandur had artillery to try and kill any immigrants that tried to enter. Almost half of them died to either disease, or the massacre, known as the Veilodin Migration Massacre.
 
 650 BCE
 Borusdaliandur fell. The people of Veilodin traveled south, to the Taribian desert. They formed an empire, named Zarapib. Zarapib was also led by a sorcerer, named Junas.
@@ -119,7 +119,7 @@ Emperor Haronin died.
 Kingdom of Thissalfiran fell. A new empire, named Kingdom of Thissalfiran II rose, under Uluranush.
 
 490 BCE
-A group of explorers from Zerapib decided to travel north, to where current day Hendril is. They established a settlement called Grutorus, which would in the future become a village, then town, then kingdom.
+A group of explorers from Zarapib decided to travel north, to where current day Hendril is. They established a settlement called Grutorus, which would in the future become a village, then town, then kingdom.
 
 450 BCE
 Zarapib collapsed, and Tarib rose, taking over it's remains.
@@ -148,7 +148,7 @@ A group of explorers from Rànûladàen traveled north, and established Esrelu a
 Heirfgria is created. A group of centaurs traveled north.
 
 55 AD
-The group of travellers settled in what is now Vatakond.
+The group of travelers settled in what is now Vatakond.
 
 170 AD
 Rànûladàen was renamed to Rànûdel. Some moon elves did not like the change, so they went and created a kingdom called Aodesvu.
@@ -211,7 +211,7 @@ Dagsvald launches military campaign to wipe bandit camps. They destroyed around 
 Dagsvald launches an invasion on Yûmlathnar, which was unsuccessful.
 
 957 AD
-Evil fey tries to get King Vasolas of Rànûdel to help them in their conquest of the material plane. King Vasolas denied to help them, so the evil fey launched an attack of 10 gvarths onto Rànûdel, targetting Emeröreslu and any nearby settlements. Rànûdel defended itself against this attack.
+Evil fey tries to get King Vasolas of Rànûdel to help them in their conquest of the material plane. King Vasolas denied to help them, so the evil fey launched an attack of 10 gvarths onto Rànûdel, targeting Emeröreslu and any nearby settlements. Rànûdel defended itself against this attack.
 
 960 AD
 Yûmlathnar travels up and attacks Sölenzâeth, Esrelu. Sölenzâeth was almost ruined, but recovered after many months.

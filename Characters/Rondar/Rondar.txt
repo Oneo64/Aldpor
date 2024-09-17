@@ -1,6 +1,6 @@
 Rondar Golvikærn
 Male
-Age: 24 (born 948, july 23)
+Age: 24 (born 948, July 23)
 Alignment: Lawful Good
 Ethnicity: Human
 Race:      Dagsvaldian
@@ -15,17 +15,16 @@ Personality:
 	NEGATIVE:
 		1. Distrusting
 		2. Regimental
-		
-	Ambivert, leaning introvert
+
 	Realistic (perspective on the future)
 
 Abilities:
 	Magic
-	Taglharpe
+	Tagelharpa
 	Alchemy (potion brewing)
 	Medical things
 
 	Dagsvaldian
 	Hendric
 	Esrel
-	Primal Norvic
+	Primal Dagsvaldian

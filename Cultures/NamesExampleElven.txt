@@ -1,7 +1,7 @@
 Male: Alasös, Arassil, Gwond, Lûvar, Sasöl, Thiör, Tölar
 Female: Àlantre, Biörûne, Inthrûme, Niire, Qwierelen, Ûndiire, Sanari, Vielthöri, Vûseri
 
-Cold elven names may be a little more 'rough', or 'germanic'.
+Cold elvish names may be a little more Germanic.
 Examples:
 
 Male: Ântrönd, Ântolös, Helessin, Hûthviyn, Kiriyn, Lûsraf, Sasoldaf, Söriyn, Töraf

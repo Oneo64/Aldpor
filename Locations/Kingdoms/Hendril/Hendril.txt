@@ -1,6 +1,6 @@
 Government: Elected autocracy
 Race Majority: Human
-Culture type: Roman
+Culture type: Roman/Byzantine
 Population: 15,000 people in towns, 70,000 people in cities, 85,000 people in total
 
 Main languages: Hendric (English)

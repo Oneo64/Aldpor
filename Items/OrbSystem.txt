@@ -4,7 +4,7 @@ OVERVIEW
 
 You can 'store' a spell in orb. Before you can do this, or even cast a spell using an orb, you MUST attune to it first.
 You will not be able to attune to an orb if someone else has already attuned to it.
-By attuning to an orb, the orb will recognise your voice, and only yours.
+By attuning to an orb, the orb will recognize your voice, and only yours.
 
 Most orbs used are made of wood. Only the wealthy can afford gemstone orbs, and most of these orbs are made of labradorite, or any opal variant.
 
