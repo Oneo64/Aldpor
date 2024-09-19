@@ -71,8 +71,7 @@ Abilities:
 			Feather Fall, Feign Death, Fire Bolt
 			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
-			Shield
-			Sparks
+			Shield, Sparks
 
 		Major:
 			Animate Dead

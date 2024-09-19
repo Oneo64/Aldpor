@@ -1,5 +1,5 @@
-Male: Alasös, Arassil, Gwond, Lûvar, Sasöl, Thiör, Tölar
-Female: Àlantre, Biörûne, Inthrûme, Niire, Qwierelen, Ûndiire, Sanari, Vielthöri, Vûseri
+Male: Alasös, Arassil, Felden, Gwond, Löndriönd, Lûvar, Rassil, Sasöl, Thiör, Tölar
+Female: Àlantre, Biörûne, Inthrûme, Niire, Qwierelen, Ûndiire, Sanari, Shàefele, Vielthöri, Vössu, Vûseri
 
 Cold elvish names may be a little more Germanic.
 Examples:
