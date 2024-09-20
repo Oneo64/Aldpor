@@ -10,7 +10,7 @@ Magics:
 
 	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
 
-	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing gestures, and holding materials.
+	- Wizard magic is when you access the Plane of Magic by speaking in Primordial, doing gestures, and holding materials.
 
 	- People who are born magically attuned to a god are rare, being around one in a million (literally, no pun intended).
 
@@ -24,6 +24,14 @@ Components:
 	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder)
 	SG = Somatic gesture (simply pointing, touching, reaching, etc)
 	M = Material
+
+
+
+======================================================================================================================================================
+PARHRÜVARYG/PLANE OF MAGIC
+======================================================================================================================================================
+
+This plane is an infinite dimension of just magic catalysts. By using wizard magic, you are accessing these catalysts, and making them do things according to the Primordial incantations, gestures, and materials you are holding.
 
 
 
