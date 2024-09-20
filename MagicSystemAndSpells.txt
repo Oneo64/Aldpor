@@ -47,7 +47,7 @@ For example: Control Plant does not specify any visuals, therefore Control Plant
 
 
 ======================================================================================================================================================
-CLASSES
+CLASSES/TIERS
 ======================================================================================================================================================
 
 Minor magic:
@@ -82,6 +82,16 @@ Powerful magic:
 Study (in the spell description if it says so) means something you have brief experience/knowledge (like how we know dogs wag their tails as sign of happiness) unless the spell description says otherwise. If the "brief" knowledge is a creature or animate thing, then you must also have basic knowledge of it's anatomy (something like how cows have 4 stomachs or parts of stomach).
 
 Druids and Sorcerers are not required to study extensively for spells like Magic Circle or Protection from Evil and Good.
+
+
+
+======================================================================================================================================================
+MATERIAL SIZES
+======================================================================================================================================================
+
+Small: Around the size of a few marbles
+Medium: Around the size of a golf ball
+Large: Around the size of your hand
 
 
 
@@ -205,7 +215,7 @@ CONJURATION
 Banishment (powerful)
 	Casting time: 6 seconds
 	Range:        20 meters
-	Requirements: V, S, M (piece of amber with a volume of at least 20cm3)
+	Requirements: V, S, M (a small piece of amber)
 	Duration:     concentration up to 1 minute
 
 A creature you can see that is alive within range is banished to it's home plane. If the target is native to the current plane, then sent to a demiplane instead.
@@ -373,7 +383,7 @@ DIVINATION
 Arcane Eye (major)
 	Casting time: instantaneous
 	Range:        100 meters
-	Requirements: V, M (piece of labradorite with a volume of at least 20cm3)
+	Requirements: V, M (a medium piece of labradorite)
 	Duration:     concentration up to 1 hour
 
 You chant the incantation of this spell. While chanting, you can see though a magical eye that you created by casting this spell. You can choose to move or turn this magical eye in any direction you like, but the eye cannot go through solid objects. The eye moves at a speed of 4 meters per second, and fits in holes at least 1 square inch.
@@ -686,7 +696,7 @@ NECROMANCY
 Animate Dead (major)
 	Casting time: 1 minute
 	Range:        10 meters
-	Requirements: V, S, M (a piece of onyx)
+	Requirements: V, S, M (a small piece of onyx)
 
 A corpse you can see within range that has a size of large or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least half of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
 
@@ -771,6 +781,16 @@ You can choose one of the following effects to happen:
 You can have 3 of it's non-instantaneous effects active at a time. If you create another non-instantaneous effect but already have 3 effects active, the oldest effect fades out. You can also choose to remove an effect.
 
 In order to cast this spell, you must have studied either some Druidic, or Sylvan.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Etherealness (major)
+	Casting time: 6 seconds
+	Range:        self
+	Requirements: V, S, M (a medium piece of labradorite)
+	Duration:     1 hour
+
+You go to the ethereal plane for the duration. You can choose to end the spell any time you want, returning to the realm this ethereal plane is bound to.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
