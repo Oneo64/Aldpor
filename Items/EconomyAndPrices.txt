@@ -131,9 +131,13 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Potato:                   3 cp
 	Onion:                    3 cp
 
-	50 Blueberries:           1 sp (50 berries = 1 bowl)
-	50 Raspberries:           3 sp (50 berries = 1 bowl)
-	10 Strawberries:          3 sp
+	EVERYTHING IN HERE IS PER SMALL BOWL
+	  50 Amethyst Gorbries:     5 sp
+	  20 Raspberries:           3 sp
+	  10 Strawberries:          3 sp
+	  50 Blueberries:           1 sp
+	  50 Practal Gorbries:      1 sp
+	EVERYTHING IN HERE IS PER SMALL BOWL
 
 	* Each sack can hold up to 30 of any vegetable, fruit, meat, or egg.
 
@@ -180,7 +184,10 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Mug/Bottle of Cheap Wine:     2 sp / 4 sp
 	Mug/Bottle of Expensive Wine: 4 sp / 8 sp
 
-	10x10cm Silk:             2 sp
+	Vial of Parhrügi's Tears: 5 gp
+	Vial of Attuned Water:    2 sp
+
+	10x10cm Silk:             1 sp
 	10x10cm Wool (fabric):    2 cp
 	10x10cm Linen:            4 cp
 	10x10cm Fur/Hide:         5 cp
