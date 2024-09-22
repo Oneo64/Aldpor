@@ -22,5 +22,5 @@ Personality:
 
 Abilities:
 	Esrel
-	Dagsvaldian
+	Daggsvaldian
 	Sylvendric

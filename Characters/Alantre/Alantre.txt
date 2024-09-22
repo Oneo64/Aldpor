@@ -32,7 +32,7 @@ Abilities:
 	Stealth
 
 	Rànûdan
-	Dagsvaldian
+	Daggsvaldian
 
 Backstory:
 	956 AD

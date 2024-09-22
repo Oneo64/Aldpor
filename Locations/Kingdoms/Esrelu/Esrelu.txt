@@ -4,7 +4,7 @@ Culture type: Norse-Elvish
 Population: 16,000 people in villages, 800 people in towns, ~16,800 people
 
 Main language: Esrel
-Other languages: Dagsvaldian
+Other languages: Daggsvaldian
 
 Ruler: Ildiyre (gal)
 

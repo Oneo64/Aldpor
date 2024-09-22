@@ -67,12 +67,12 @@ MEN:
 		Culture is central men (roman with 1st century Jerusalem architecture)
 		Political structure is elected autocracy
 
-		Current allies: Dagsvald, Aodesvu
+		Current allies: Daggsvald, Aodesvu
 		Current wars:   Yûmlathnar, Vatakond
 
-	Dagsvald:
-		Main language is Dagsvaldian
-		Culture is Dagsvaldian (Norse)
+	Daggsvald:
+		Main language is Daggsvaldian
+		Culture is Daggsvaldian (Norse)
 		Political structure is feudal absolute monarchy
 
 		Current allies: Hendril, Esrelu, Vuntarla
@@ -88,11 +88,11 @@ MEN:
 ELVES:
 	Esrelu:
 		Main language is Esrel
-		Other language is Dagsvaldian
+		Other language is Daggsvaldian
 		Culture is Northern Elvish
 		Political structure is noocracy
 
-		Current allies: Dagsvald, Vuntarla
+		Current allies: Daggsvald, Vuntarla
 		Current wars:   Yûmlathnar, Vatakond
 
 	Rànûdel:
@@ -108,7 +108,7 @@ ELVES:
 		Political structure is elected autocracy
 
 		Current allies: Vatakond, Evil fey
-		Current wars:   Dagsvald, Esrelu, Hendril
+		Current wars:   Daggsvald, Esrelu, Hendril
 	
 MEN AND ELVES:
 	Aodesvu:
@@ -119,11 +119,11 @@ MEN AND ELVES:
 
 	Vuntarla:
 		Populated by cold elves, elfmen, and mostly men
-		Main language is Dagsvaldian and Esrel
-		Culture is Dagsvaldian
+		Main language is Daggsvaldian and Esrel
+		Culture is Daggsvaldian
 		Political structure is absolute monarchy
 
-		Current allies: Dagsvald
+		Current allies: Daggsvald
 
 DWARVES:
 	Glomdur:
@@ -153,7 +153,7 @@ CENTAURS:
 		Political structure is noocracy
 
 		Current allies: Yûmlathnar, Evil fey
-		Current wars:   Dagsvald, Esrelu, Hendril
+		Current wars:   Daggsvald, Esrelu, Hendril
 
 	Heirfgria:
 		Main language is Sylvendric

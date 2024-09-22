@@ -1,7 +1,7 @@
 Common:
 	Humans:
 		Hendric (English)
-		Dagsvaldian
+		Daggsvaldian
 		Taribian
 
 	Elves:
@@ -37,7 +37,7 @@ Exotic:
 	Grutorian
 	Galabric
 	Old Hendric
-	Primal Dagsvaldian
+	Primal Daggsvaldian
 
 	Ancient Elvish
 	Old Rànûdan

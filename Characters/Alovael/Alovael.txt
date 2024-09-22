@@ -2,10 +2,10 @@ Alovæl Rulskrod
 Male
 Age: 26 (born 947, January 13)
 Alignment: Lawful Neutral
-Ethnicity: Dagsvaldian
+Ethnicity: Daggsvaldian
 Race:      Human
 
-Alovæl is a human from Argonlav. He has brown eyes, fair skin, and wavy shoulder-length brown hair, with a stubble for a beard. He wears a brown cap, a muted yellow tunic, gray pants, a ring belt, and a pair of shoes. He wears a necklace of Talmundur's symbol, made of silver. He also wears a bronze ring one on his right middle finger. He is 180 centimeters tall. He has a spear.
+Alovæl is a human from Arggonlav. He has brown eyes, fair skin, and wavy shoulder-length brown hair, with a stubble for a beard. He wears a brown cap, a muted yellow tunic, gray pants, a ring belt, and a pair of shoes. He wears a necklace of Talmundur's symbol, made of silver. He also wears a bronze ring one on his right middle finger. He is 180 centimeters tall. He has a spear.
 
 He has a purse, which carries around 5 silver coins.
 
@@ -27,4 +27,4 @@ Abilities:
 
 	Spear fighting (little experience no training)
 
-	Dagsvaldian
+	Daggsvaldian
