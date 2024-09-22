@@ -115,9 +115,9 @@ Ekraldi's Concoction
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Animal Conjuration
-	Appearance: The potion is a gray-brown slop.
+	Appearance: The potion is an opaque gray-brown syrupy liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine.
+	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
 	Components: Two amethyst gorbries, and a carved wooden figurine of the animal to conjure.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
