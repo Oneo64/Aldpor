@@ -24,7 +24,7 @@ BREWING STEPS
 	4.  Boil it. This will take an hour. You can also let it sit, but this will take six hours.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
-	5.  Let it sit for at least 6 hours for the ingredients to fully dissolve before using.
+	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
 
 	Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
 
