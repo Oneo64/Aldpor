@@ -28,12 +28,14 @@ SUBJECTS
 The Academy of Aldorim mainly focuses on evocation and abjuration. It also teaches the other 5 schools of magic, but those aren't the main focus. Primordial is also taught there, because it is essential for casting arcane magic. Potion-making and some extent of history are also taught.
 
 School of Magics distribution:
-	25% Evocation
-	25% Abjuration
-	20% Transmutation
-	15% Conjuration
+	20% Evocation
+	20% Abjuration
+	15% Transmutation
+	10% Conjuration
 	10% Necromancy
+	5%  Divination
 	5%  Enchantment
+	5%  Illusion
 
 Other subjects distribution:
 	40% Primordial

@@ -62,21 +62,21 @@ Basic magic:
 	- 4 days - 2 weeks of study and practice to learn
 	- Most attacks equivalent to a weapon's hit to the chest, does some damage to wood shields, probably safe behind one
 	- Pure magical force is faintly visible, colored white or blue
-	- Can be cast indefinitely
+	- Can be cast 100 times before resting (more than 30 minutes of rest)
 
 Major magic:
 	- Magic that require a lot of study (biologist/scientist level knowledge of a target)
 	- 2 weeks - 1 month of study and practice to learn
 	- Most attacks equivalent to three weapon's hit to the chest, does lots of damage to shields, probably best not to try and block with a shield
 	- Pure magical force is colored blue
-	- Can be cast 6 times before resting
+	- Can be cast 10 times before resting (more than 30 minutes of rest)
 
 Powerful magic:
 	- Magic that is very powerful (probably the same as major magic plus maybe some philosophical things)
 	- More than 1 month of study and practice to learn
 	- Most attacks could one hit or two hit humanoid races, could possible just obliterate wooden shields, just don't get hit and you're fine
 	- Pure magical force is very visible, colored blue
-	- Can be cast 3 times before resting
+	- Can be cast 5 times before resting (more than 6 hours of rest)
 
 
 Study (in the spell description if it says so) means something you have brief experience/knowledge (like how we know dogs wag their tails as sign of happiness) unless the spell description says otherwise. If the "brief" knowledge is a creature or animate thing, then you must also have basic knowledge of it's anatomy (something like how cows have 4 stomachs or parts of stomach).
