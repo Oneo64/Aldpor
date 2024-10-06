@@ -71,12 +71,38 @@ Here are a list of catalyst examples:
 POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
 
+Abjuration Dissolvent
+	Appearance: It is a black, semi-transparent syrupy liquid.
+	Usage:      Soak in object, throw at object, or get the liquid on the object.
+	Effect:     Removes abjuration effects placed on a surface. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, completely dissipating the spell.
+	Components: Two practal gorbries, and three pinches of dark lichen.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bastard's Poison
+	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
+	Usage:      Drink.
+	Effect:     Forms irritating calluses on the hands.
+	Components: White talc powder, several wood chips, and a handful of crushed bones.
+	Brewing:    It must be boiled for three hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Catalystic Concoction
 	Appearance: It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
 	Usage:      Soak in object, works best in an orb.
 	Effect:     It will quicken spellcasting, only for the person attuned to it.
 	Downside:   It only works with spells that are given to the object, and only the person attuned to the object can use it.
 	Components: Three amethyst gorbries, and a drop of Parhrügi's Tears.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Concoction Bomb of Earth
+	Appearance: It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
+	Usage:      Ignite.
+	Effect:     Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
+	Components: A handful of sulfur, a handful of fermented dark lichen, and a pinch of sand.
+	Brewing:    It must be boiled for three hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -111,6 +137,24 @@ Ekraldi's Concoction
 	Usage:      Drink.
 	Effect:     Fatigue, dizziness, loss of concentration, and sometimes paralysis.
 	Components: Handful of dark lichen, an Ekraldi's toadstool chopped into pieces.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fire Immunity Potion
+	Appearance: It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
+	Usage:      Drink.
+	Effect:     Makes you immune to fire and heat.
+	Downside:   You feel colder. Room temperature for you drops by about 10 degrees celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
+	Components: One amethyst gorbry, some cobweb, and a pinch of sulfur powder.
+	Brewing:    It must be boiled for three hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gardening Growth Concoction
+	Appearance: The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
+	Usage:      Pour on anything.
+	Effect:     If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
+	Components: Pinch of dark lichen, and ten petals of jadeblossom.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,7 +195,7 @@ Sickening Potion
 	Appearance: The potion is a half clear pale brown liquid.
 	Usage:      Somehow get it into the body.
 	Effect:     Makes target feel sick. Symptoms: Dizziness, and nausea.
-	Components: A picked tail of a rat, and a cockroach wing.
+	Components: A pickled tail of a rat, and a cockroach wing.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
