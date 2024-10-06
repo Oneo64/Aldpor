@@ -160,7 +160,7 @@ Gardening Growth Concoction
 
 Greater Moonic Death
 	Appearance: The potion is a clear liquid, with many small black specks floating inside.
-	Usage:      Drink at least 2ml to work.
+	Usage:      Drink.
 	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 2 ml.
 	Components: Three pinches of moon dust, each from Vel, An, and Lûn, along with a small handful of obsidian pieces, and a small handful of onyx pieces.
 
