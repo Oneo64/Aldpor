@@ -127,7 +127,7 @@ Energy Potion
 	Appearance: The potion is a pale green slop.
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
-	Downside:   You don't get to taste the delightful taste of real food.
+	Downside:   You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
 	Components: A practal gorbry, and pinch of rye flour.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,6 +155,22 @@ Gardening Growth Concoction
 	Usage:      Pour on anything.
 	Effect:     If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
 	Components: Pinch of dark lichen, and ten petals of jadeblossom.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Greater Moonic Death
+	Appearance: The potion is a clear liquid, with many small black specks floating inside.
+	Usage:      Drink at least 2ml to work.
+	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 2 ml.
+	Components: Three pinches of moon dust, each from Vel, An, and Lûn, along with a small handful of obsidian pieces, and a small handful of onyx pieces.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Moonic Death
+	Appearance: The potion is a clear liquid, with small black specks floating inside.
+	Usage:      Drink.
+	Effect:     You enter a coma for a duration 100 times longer than the potion durations specified above.
+	Components: Three pinches of moon dust, each from Vel, An, and Lûn.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -228,5 +244,5 @@ Tarfire Grenade
 Waterbreathing Potion
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
-	Effect:     Creates oxygen in lungs, allowing underwater breath.
+	Effect:     Creates oxygen in lungs, allowing drowning, choking, and suffocation immunity.
 	Components: Handful of rust, and three crushed okras.
