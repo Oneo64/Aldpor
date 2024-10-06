@@ -152,6 +152,9 @@ You touch a creature. You can perform one action:
 	- End a curse on the target, including the attunement to a cursed item if so.
 	- End an effect that has made the target physically or mentally weaker.
 	- Remove or repel something that has charmed or possessed the target.
+	- Remove one disease or poison on the target.
+
+No study or knowledge of the curse/disease/poison or whatever is required.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
