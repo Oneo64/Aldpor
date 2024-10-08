@@ -21,7 +21,7 @@ BREWING STEPS
 	3.  Add ingredients. Ingredients also must be fully submerged.
 	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Boil it. This will take an hour. You can also let it sit, but this will take six hours.
+	4.  Boil it. This will take three hours. You can also let it sit, but this will take six hours.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
 	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
@@ -84,7 +84,7 @@ Bastard's Poison
 	Usage:      Drink.
 	Effect:     Forms irritating calluses on the hands.
 	Components: White talc powder, several wood chips, and a handful of crushed bones.
-	Brewing:    It must be boiled for three hours.
+	Brewing:    It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ Concoction Bomb of Earth
 	Usage:      Ignite.
 	Effect:     Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
 	Components: A handful of sulfur, a handful of fermented dark lichen, and a pinch of sand.
-	Brewing:    It must be boiled for three hours.
+	Brewing:    It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ Fire Immunity Potion
 	Effect:     Makes you immune to fire and heat.
 	Downside:   You feel colder. Room temperature for you drops by about 10 degrees celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
 	Components: One amethyst gorbry, some cobweb, and a pinch of sulfur powder.
-	Brewing:    It must be boiled for three hours.
+	Brewing:    It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -236,7 +236,7 @@ Sparkfire Potion
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
 	Components: Handful of sulfur powder, pinch of sand, pinch of iron power, pinch of rust, two pinches of rusted iron powder (ignore iron powder and rust if used).
-	Brewing:    It must be boiled for three hours.
+	Brewing:    It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
