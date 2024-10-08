@@ -14,7 +14,7 @@ Land:
 
 ---------------------------------------------------------------
 
-Current people in the longhouse with the farms and fence (10): Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Ynid, Lalfrel, Iryn
+Current people in the longhouse with the farms and fence (10): Algord, Mif, Alovæl, Ljorn, Yngvild, Alf, Fald, Lalfrel, Iryn
 Current people in the longhouse with the three farms (3): Gordur, Vorda, Svan
 
 Legend:
@@ -29,7 +29,7 @@ Haldig Dalsdavu I [800 ~ 785]-+>>>>+-Haldig Rulskrod II [850 ~ 835]>>+-Julfur [M
                                                                                                        |                    [BJOMALDUR FAMILY]--+ |                               +-Gordur [M, 26 May 942]------+
                                                       [ALDAGVA FAMILY]--Ljora [F, 866 - 936]-----------+  +-Idun [F, 893 - 883]                 | +-Fald [M, 4 March 917]------+>>|
                                                                                                        |  |                                     | |                            |  +-Iryn [F, 13 August 943]
-                                                                                                       +>>+-Haldig III [M, 894 - 970]--------+  +-|-Ynid [F, 10 July 917]------+
+                                                                                                       +>>+-Haldig III [M, 894 - 970]--------+  +-|-Ynid [917 - 963]-----------+
                                                                                                                                              |    |
                                                                         Svoran Jerdfyr [M, 853 - 920]--+                                     +-+  |                               +-Alovæl [M, 13 January 947]
                                                                                                        |>>+-Amja [F, 892 - 966]----------------+>>+-Algord [M, 26 August 915]--+  |
