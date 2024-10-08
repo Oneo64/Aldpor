@@ -286,6 +286,8 @@ Draugr (medium undead):
 
 		It is possible to prevent the draugr from returning by stuffing the severed head of the draugr at it's groin, facing inwards. Draugrs can still speak, but their voice sounds raspy and deep.
 
+		The only way to permanently kill one is to burn their bodies after performing the ritual said above, or by blessing them with the Bless spell, then decapitating them. Using the bless spell after they are temporarily killed does nothing.
+
 
 
 Ghost (medium undead):
