@@ -705,6 +705,8 @@ A corpse you can see within range that has a size of large or smaller is risen a
 
 If you cast this at it's empowered version (you also need to have studied and practiced the empowered version too), you raise a vamerk instead if you chose a corpse.
 
+If there are at more than 4 other undead within a 10 meter radius of a zombie, it will start to violently shiver and shake. The zombie will then collapse and die after 10 seconds, unless there are at most 4 other undead within a 10 meter radius.
+
 In order to use this spell, you must have extensively studied the anatomy of the corpse.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
