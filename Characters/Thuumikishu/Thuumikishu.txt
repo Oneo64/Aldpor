@@ -41,9 +41,6 @@ Abilities:
 			Cure Wounds
 			Detect Evil and Good
 
-		Major:
-			Scrying
-
 	Druid Magic:
 		Minor:
 			Entangle
