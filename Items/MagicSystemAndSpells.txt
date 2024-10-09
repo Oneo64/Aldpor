@@ -917,6 +917,7 @@ SPELL LIST
 			Greater Runic Staves
 			Magic Circle
 			Protection from Evil and Good
+			Scrying
 			Speak with Dead
 			Remove Curse
 			Sulfur Rain
