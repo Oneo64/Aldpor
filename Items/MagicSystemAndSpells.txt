@@ -238,16 +238,16 @@ Conjure Animals (major)
 	Duration:     concentration up to 1 hour
 
 You conjure animals that appear in a space you choose withing range. You have 8 points to spend, you can conjure:
-	- Bear:       8 points
-	- Moose:      8 points
-	- Elk:        6 points
-	- Fox:        4 points
-	- Wolf:       4 points
-	- Hawk/Eagle: 4 points
-	- Boar/Pig:   2 points
-	- Deer:       1 point
-	- Hare:       1 point
-	- Crow/Raven: 1 point
+	- Bear:        8 points
+	- Moose:       8 points
+	- Elk:         6 points
+	- Wolf:        4 points
+	- Hawk/Eagle:  4 points
+	- Boar/Pig:    2 points
+	- Fox:         2 points
+	- Deer:        1 point
+	- Hare/Rabbit: 1 point
+	- Crow/Raven:  1 point
 
 The conjured animals are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
 
@@ -265,6 +265,27 @@ You conjure elementals that appear in a space you choose withing range. You can 
 The only exception is that you must have studied the elementals before to summon it.
 
 The conjured elementals are friendly to you and anyone you choose, and you can verbally command them to do actions. They will automatically defend themselves from hostility. Then your concentration ends, they crumble into pieces (or melt or dissipate or whatever depending on the type of elemental) and disappear.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conjure Minor Animals (basic)
+	Casting time: 6 seconds
+	Range:        20 meters
+	Requirements: V, S, M (carved figures that has the basic appearance of the animals to conjure)
+	Duration:     concentration up to 1 hour
+
+You conjure animals that appear in a space you choose withing range. You have 4 points to spend, you can conjure:
+	- Wolf:        4 points
+	- Hawk/Eagle:  4 points
+	- Boar/Pig:    2 points
+	- Fox:         2 points
+	- Deer:        1 point
+	- Hare/Rabbit: 1 point
+	- Crow/Raven:  1 point
+
+The conjured animals are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
+
+If an animal conjured by this spell dies, it disappears in a puff of lively green mist.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

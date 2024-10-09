@@ -41,5 +41,6 @@ Abilities:
 
 		Basic:
 			Animal Messenger
+			Conjure Minor Animals
 			Cure Wounds
 			Moonbeam

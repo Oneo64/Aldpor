@@ -6,6 +6,8 @@ General body features and personality traits:
 	Most are humourous and like to play pranks.
 	Hair grows slightly faster than normal.
 
+	Ages until 120 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
+
 	Height: Average is 110 centimeters.
 	Weight: Average is 60 kilograms.
 
@@ -34,6 +36,7 @@ General body features and personality traits:
 Cold Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
+		Ages until 130 years old. (Looks 25% younger.)
 
 	Body features:
 		Height: Average is 170 centimeters.
@@ -53,7 +56,8 @@ Cold Elf:
 
 Moon Elf:
 	Abilities:
-		Keen sense of balance
+		Keen sense of balance.
+		Ages until 200 years old. (Looks twice as young.)
 
 	Body features:
 		Height: Average is 190 centimeters.
@@ -91,6 +95,8 @@ General body features and personality traits:
 	Wears mostly browns, and wears wood. Doesn't like metal or synthetic materials.
 
 	Stronger than usual, but pretty stupid.
+
+	Ages until 50 years old.
 
 	Height: Average is 190 centimeters.
 	Weight: Average is 110 kilograms.

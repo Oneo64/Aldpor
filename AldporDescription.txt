@@ -26,7 +26,7 @@ Elves are more likely to worship Parhrügi, Hirulfyr, Lünanyr, or any of the th
 
 Lifespans:
 	Human:		100
-	Dwarf:		100
+	Dwarf:		130 (dwarves age until 80 years old, then their aging slows down)
 	Moon Elf:	200
 	Cold Elf:	130
 	Orc:		60
