@@ -33,7 +33,7 @@ Deities:
 
 	Parhrügi:
 		Domain:      God of Magic
-		Symbol:      A circle surrounded by 7 smaller circles (each small circle symbolizes a school of magic)
+		Symbol:      A circle surrounded by 8 smaller circles (each small circle symbolizes a school of magic)
 		Other names: Pöldànis (Aodesvu), Parletha (Hendril), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
 
 	Hirulfyr:
