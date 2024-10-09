@@ -5,7 +5,7 @@ OVERVIEW
 Magics:
 	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic.
 
-	- Seer magic is when you take the essence of any god other than Parhrügi to make magic.
+	- Seer magic is when you take the essence of Lünanyr or Hirulfyr to make magic.
 	- Some people are innately seers by leaning towards Lünanyr or Hirulfyr, such as Vielthöri Aldriàndel.
 
 	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
