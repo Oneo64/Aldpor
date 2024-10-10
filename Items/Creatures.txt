@@ -275,18 +275,22 @@ Draugr (medium undead):
 	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it returns back into it's dead body and will wake up as a draugr 50 to 400 years later.
 
 	Description:
-		Draugrs looks like a zombie, however they have almost the same mental capacity as they had when they died. When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their death place and protect their objects. If they were not buried properly, they will not feel bound to their death place, and roam freely.
+		Draugrs looks like a zombie, however they have almost the same mental capacity as they had when they died.
+
+		Their usual descriptions are dark-green skinned, yellow eyes, and sparse hair.
+
+		When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their death place and protect their objects. If they were not buried properly, they will not feel bound to their death place, and roam freely.
 
 		If they do roam freely, their moralities are similar to whatever they died with. Otherwise, they would willingly kill to protect their burial place.
 
 	Abilities:
-		Despite being undead, draugr are able to move at normal speeds or even faster when they are in combat, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.
+		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.
 
 		Their bodies resist physical damage. Severing their arm, leg, or body means that they can simply touch the severed ends together, and they will fuse back, but will be weaker for a few days. Slicing the head is the only way to temporarily kill them, in which they will return to walk again a week later.
 
 		It is possible to prevent the draugr from returning by stuffing the severed head of the draugr at it's groin, facing inwards. Draugrs can still speak, but their voice sounds raspy and deep.
 
-		The only way to permanently kill one is to burn their bodies after performing the ritual said above, or by blessing them with the Bless spell, then decapitating them. Using the bless spell after they are temporarily killed does nothing.
+		The only way to permanently kill one is to burn their bodies after performing the ritual said above, or by blessing them with a Seidur spell, then decapitating them. Using the Seidur spell after they are temporarily killed does nothing.
 
 
 
