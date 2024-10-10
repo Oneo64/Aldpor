@@ -25,7 +25,7 @@ Dwarves have multiple kings. Each king usually handles a part of the kingdom, li
 Elves are more likely to worship Parhrügi, Hirulfyr, Lünanyr, or any of the three moons, but moon elves will not worship An.
 
 Average lifespans:
-	Human:		60-100
+	Human:		50-80
 	Dwarf:		120-140 (dwarves age until 80 years old, then their aging slows down)
 	Moon Elf:	170-230
 	Cold Elf:	120-140
