@@ -6,10 +6,12 @@ General body features and personality traits:
 	Most are humourous and like to play pranks.
 	Hair grows slightly faster than normal.
 
-	Ages until 120 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
-
 	Height: Average is 140 centimeters.
 	Weight: Average is 70 kilograms.
+
+Abilities:
+	Slightly resists poison.
+	Ages until 120 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
 
 Variant 1 (red metals: copper, brass, and bronze):
 	Skin: Very light grayed skin, or very pale skin.
@@ -91,17 +93,19 @@ General body features and personality traits:
 
 	Many trolls act eccentric and whimsical, similar to a garden gnome or an old old wizard.
 
-	Beady eyes.
+	Beady eyes, eyes glow in the dark like a cat.
 	Noses are very big, and are flat.
 
 	Wears mostly browns, and wears wood. Doesn't like metal or synthetic materials.
 
-	Stronger than usual, but pretty stupid.
-
-	Ages until 50 years old.
-
 	Height: Average is 190 centimeters.
 	Weight: Average is 110 kilograms.
+
+Abilities:
+	Much stronger than a normal human, but pretty stupid.
+	Has natural darkvision up to 20 meters.
+
+	Ages until 50 years old.
 
 Skin: Light gray to dark gray skin.
 Hair: Black.
