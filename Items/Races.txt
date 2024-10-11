@@ -33,11 +33,14 @@ General body features and personality traits:
 	Eyes are pupil-less.
 	Most are calm and reserved.
 
+	Slightly worse at diplomacy.
+
 	Hair grows at normal rate, facial hair grows slower, no armpit hair or body hair.
 
 Cold Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
+
 		Ages until 130 years old. (Looks 25% younger.)
 
 	Body features:
