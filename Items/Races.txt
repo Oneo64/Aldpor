@@ -101,12 +101,14 @@ General body features and personality traits:
 
 	Wears mostly browns, and wears wood. Doesn't like metal or synthetic materials.
 
-	Height: Average is 190 centimeters.
-	Weight: Average is 110 kilograms.
+	Height: Average is 160 centimeters.
+	Weight: Average is 100 kilograms.
 
 Abilities:
 	Much stronger than a normal human, but pretty stupid.
 	Has natural darkvision up to 20 meters.
+
+	Will turn into stone if touching sunlight, will turn back normal in shade.
 
 	Ages until 50 years old.
 
