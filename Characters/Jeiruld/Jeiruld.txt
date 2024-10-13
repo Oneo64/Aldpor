@@ -30,6 +30,7 @@ Abilities:
 	Alchemy (potion brewing)
 	Astrology and astronomy
 	Drawing
+	Plaræggna
 
 	Hendric
 	Rànûdan
