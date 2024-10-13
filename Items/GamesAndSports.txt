@@ -1,0 +1,34 @@
+======================================================================================================================================================
+BOARD GAMES
+======================================================================================================================================================
+
+Plaræggna:
+	Origin:   Daggsvaldian
+	Factions: Factions are usually Trœkkja (Trolls) colored with brown, and eldümja (elves) colored with green.
+
+	Workings:
+		Plaræggna is basically Xiangqi, but the pieces are replaced with:
+			- 砲, 炮 is replaced with Daggsvaldian rune G  (glateks)
+			- 兵, 卒 is replaced with Daggsvaldian rune R  (rükkarl)
+			- 車, 俥 is replaced with Daggsvaldian rune F  (fekkig)
+			- 馬, 傌 is replaced with Daggsvaldian rune P  (pjüntaf)
+			- 士, 仕 is replaced with Daggsvaldian rune GG (gveindeggarl)
+			- 象, 相 is replaced with Daggsvaldian rune B  (byrg)
+			- 將, 帥 is replaced with Daggsvaldian rune J  (jümær)
+
+
+
+======================================================================================================================================================
+SPORTS
+======================================================================================================================================================
+
+Academy of Aldorim's training sport:
+	Workings:
+		Once every week, the academy hosts a sport where wizards are assigned to two teams. Wizards are then to cast Mage Armor on themselves. Their goal is to 'eliminate' the opposing members, but they are restricted to using harmless spells. Being hit with a spell means you're out, and must leave the game field. The team to win each gets 3 copper pieces.
+
+		Team members are free to form any sort of hierarchy, and they are also able to surrender.
+
+		Rules:
+			- You must have the effects of Mage Armor on you at all times.
+			- You may not cast any harmful or mental/physical controlling spells, and the only evocation spell you may cast is Earth Bolt.
+			- If both teams still have active players after one hour, the game stops and the team with the more active players win.
