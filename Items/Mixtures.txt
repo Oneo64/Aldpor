@@ -260,14 +260,23 @@ Sparkfire Potion
 	Appearance: The potion is a orange liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
-	Components: Handful of sulfur powder, pinch of sand, pinch of iron power, pinch of rust, two pinches of rusted iron powder (ignore iron powder and rust if used).
+	Components: Handful of sulfur powder, pinch of sand, two pinches of rust.
 	Brewing:    It must be boiled for five hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fire-throwing Grenade
+	Appearance: The potion is a orange liquid with small black specks.
+	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:     Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
+	Components: Sparkfire Potion, any oil made from plants.
+	Brewing:    Add oil after the sparkfire potion is made.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tarfire Grenade
 	Appearance: The potion is a orange liquid with black streaks.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in a burst of fire.
+	Effect:     Explodes in a burst of fire. Explosion would cover things in a 1 meter radius with burning tar.
 	Components: Sparkfire Potion, tar.
 	Brewing:    Add tar after the sparkfire potion is made.
