@@ -119,7 +119,8 @@ Darkvision Potion
 	Appearance: The potion is completely black with some glowing streaks of blue.
 	Usage:      Drink.
 	Effect:     Lets you see in the dark.
-	Components: Chopped bits of fermented moonshroom, and a handful of moss.
+	Downside:   It is possible to gain temporary blindless if you look directly into anything bright, such as a reflection of the sun, or a fiery explosion.
+	Components: Chopped bits of fermented moonshroom, crushed glass powder, and a handful of moss.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -193,7 +194,7 @@ Moonic Death
 Nontoxic Seizure Concoction
 	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
 	Usage:      Drink.
-	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. If the potion effect lasts for more than 30 minutes, you die.
+	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. If you drank more than a certain amount that will last for 30 minutes or longer, you will die after that 30 minutes.
 	Components: One pinch of moon dust from Lûn, and three fermented bee corpses.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
