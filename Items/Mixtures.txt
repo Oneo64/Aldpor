@@ -182,6 +182,14 @@ Moonic Death
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Nontoxic Seizure Concoction
+	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
+	Usage:      Drink.
+	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think.
+	Components: One pinch of moon dust from Lûn, and three fermented bee corpses.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Potion of Animal Conjuration
 	Appearance: The potion is an opaque gray-brown syrupy liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
