@@ -603,15 +603,6 @@ A bolt of bright pale blue of lightning connects your pointing finger to a point
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sparks (basic)
-	Casting time: instantaneous
-	Range:        20 meters
-	Requirements: V, SG
-
-A thin bolt of electricity connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Magic Missiles (basic)
 	Casting time: instantaneous
 	Range:        40 meters
@@ -642,6 +633,15 @@ Moonbeam (basic)
 	Duration:     concentration up to 1 minute
 
 A thin beam of scorching moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sparks (basic)
+	Casting time: instantaneous
+	Range:        20 meters
+	Requirements: V, SG
+
+A thin bolt of electricity connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
