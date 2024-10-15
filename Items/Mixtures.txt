@@ -252,7 +252,8 @@ Sickening Potion
 Silencing Potion
 	Appearance: The potion is a half clear pale yellow liquid.
 	Usage:      Drink.
-	Effect:     Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched. You are unable to cast spells, and all speech is unclear.
+	Effect:     Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
+	Downside:   You are unable to cast spells that require an incantation, and all speech is unclear.
 	Components: Four pickled cricket wings, a pinch flour, and a pinch of wood dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
