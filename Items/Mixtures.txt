@@ -203,7 +203,7 @@ Moonic Death
 Nontoxic Seizure Concoction
 	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
 	Usage:      Drink.
-	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. If you drank more than a certain amount that will last for 30 minutes or longer, you will die after that 30 minutes.
+	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. You are also unable to feel pain. If you drank more than a certain amount that will last for 30 minutes or longer, you will die after that 30 minutes.
 	Components: One pinch of moon dust from Lûn, and three fermented bee corpses.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
