@@ -208,7 +208,7 @@ Potion of Mage Armor
 
 Regeneration Potion
 	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs.
+	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
 	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
 	Downside:   Can cause cancer if used too much.
 	Components: Eight basil leaves (no stem), eight red tulip petals, and gecko tail.
@@ -217,9 +217,17 @@ Regeneration Potion
 
 Sickening Potion
 	Appearance: The potion is a half clear pale brown liquid.
-	Usage:      Somehow get it into the body.
+	Usage:      Somehow get it into the body. (Through eyes, wounds, drinking, absorbing through skin, etc)
 	Effect:     Makes target feel sick. Symptoms: Dizziness, and nausea.
 	Components: A pickled tail of a rat, and a cockroach wing.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Silencing Potion
+	Appearance: The potion is a half clear pale yellow liquid.
+	Usage:      Drink.
+	Effect:     Muffles all sounds coming from you. You are unable to cast spells, and all speech is unclear.
+	Components: Four pickled cricket wings, a pinch flour, and a pinch of wood dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
