@@ -150,6 +150,14 @@ Fire Immunity Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Freebreathing Potion
+	Appearance: The potion is a clear liquid.
+	Usage:      Drink.
+	Effect:     Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
+	Components: Handful of rust, and three crushed okras.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Gardening Growth Concoction
 	Appearance: The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
 	Usage:      Pour on anything.
@@ -262,11 +270,3 @@ Tarfire Grenade
 	Effect:     Explodes in a burst of fire.
 	Components: Sparkfire Potion, tar.
 	Brewing:    Add tar after the sparkfire potion is made.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Waterbreathing Potion
-	Appearance: The potion is a clear liquid.
-	Usage:      Drink.
-	Effect:     Creates oxygen in lungs, allowing drowning, choking, and suffocation immunity.
-	Components: Handful of rust, and three crushed okras.
