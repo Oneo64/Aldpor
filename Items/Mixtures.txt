@@ -4,8 +4,8 @@ OVERVIEW
 
 Potions are concoctions and mixtures of different items dissolved into water, and powered by a magic catalyst.
 
-Two amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
-Example: Potion of Mage Armor has two amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
+Two crushed amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
+Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
 
 
 
@@ -93,7 +93,7 @@ Catalystic Concoction
 	Usage:      Soak in object, works best in an orb.
 	Effect:     It will quicken spellcasting, only for the person attuned to it.
 	Downside:   It only works with spells that are given to the object, and only the person attuned to the object can use it.
-	Components: Three amethyst gorbries, and a drop of Parhrügi's Tears.
+	Components: Three crushed amethyst gorbries, and a drop of Parhrügi's Tears.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -146,8 +146,17 @@ Fire Immunity Potion
 	Usage:      Drink.
 	Effect:     Makes you immune to fire and heat.
 	Downside:   You feel colder. Room temperature for you drops by about 10 degrees celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
-	Components: One amethyst gorbry, some cobweb, and a pinch of sulfur powder.
+	Components: One crushed amethyst gorbry, some cobweb, and a pinch of sulfur powder.
 	Brewing:    It must be boiled for five hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fire-throwing Grenade
+	Appearance: The potion is a orange liquid with small black specks.
+	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:     Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
+	Components: Sparkfire Potion, any oil made from plants.
+	Brewing:    Add oil after the sparkfire potion is made.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -203,7 +212,7 @@ Potion of Animal Conjuration
 	Appearance: The potion is an opaque gray-brown syrupy liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
-	Components: Two amethyst gorbries, and a carved wooden figurine of the animal to conjure.
+	Components: Two crushed amethyst gorbries, and a carved wooden figurine of the animal to conjure.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -211,7 +220,7 @@ Potion of Frostcoating
 	Appearance: The potion is a silvery liquid that glows in the dark.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
-	Components: Two amethyst gorbries, a handful of moss, handful of silver powder.
+	Components: Two crushed amethyst gorbries, a handful of moss, handful of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -219,7 +228,7 @@ Potion of Mage Armor
 	Appearance: The potion is a blue liquid that glows in the dark.
 	Usage:      Drink.
 	Effect:     Gives the effects of Mage Armor.
-	Components: Two amethyst gorbries, and a handful of cobweb.
+	Components: Two crushed amethyst gorbries, and a handful of cobweb.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -265,12 +274,11 @@ Sparkfire Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fire-throwing Grenade
-	Appearance: The potion is a orange liquid with small black specks.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
-	Components: Sparkfire Potion, any oil made from plants.
-	Brewing:    Add oil after the sparkfire potion is made.
+Traumatic Relife Potion
+	Appearance: The potion is a black slop.
+	Usage:      Drink.
+	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
+	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, and a small piece of severely oxidized copper or bronze.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
