@@ -278,7 +278,8 @@ Traumatic Relife Potion
 	Appearance: The potion is a black slop.
 	Usage:      Drink.
 	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
-	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, and a small piece of severely oxidized copper or bronze.
+	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, a pinch of cobweb, and a small amount of crushed snail shells.
+	Brewing:    It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
