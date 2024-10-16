@@ -20,8 +20,8 @@ Sorcerers can ignore the Verbal and Material components ONLY for spells marked a
 Here's an example of a wizard casting the classic Fireball spell: "The man in the dark brown tunic started to wave his fingers around a small area in front of his chest. A blob of blue started to appear around his hands, connecting them like a spider web. In no time, he had finished the casting. "Xòk-al." He pushed the aura forwards as it turned into a ball of flame, and it shot forwards at a high speed, engulfing the zombies in a ball of fire."
 
 Components:
-	V = Verbal
-	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder)
+	V = Verbal (wizards and seers chant in Primordial, druids chant in either Druidic or Sylvan, sorcerers don't need to chant)
+	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder, any magic other than wizard/arcane magic uses SG instead)
 	SG = Somatic gesture (simply pointing, touching, reaching, etc)
 	M = Material
 
@@ -481,8 +481,6 @@ You describe the appearance of one creature that is within range, or you can cho
 	- You make your target a little unluckier, taking slight physical and mental strength, and is weaker against disease for the duration.
 
 The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targeted by another seidur spell again for the next week.
-
-In order to draw a stave, you must have studied either some Primordial, Druidic, or Sylvan.
 
 
 
