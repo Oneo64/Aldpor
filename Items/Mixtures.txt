@@ -146,7 +146,7 @@ Fire Immunity Potion
 	Appearance: It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
 	Usage:      Drink.
 	Effect:     Makes you immune to fire and heat.
-	Downside:   You feel colder. Room temperature for you drops by about 10 degrees celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
+	Downside:   You feel colder. Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
 	Components: One crushed amethyst gorbry, some cobweb, and a pinch of sulfur powder.
 	Brewing:    It must be boiled for five hours.
 
@@ -188,7 +188,7 @@ Greater Moonic Death
 Hailskin Potion
 	Appearance: The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
 	Usage:      Drink.
-	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 30 degrees celsius.
+	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 30 degrees Celsius.
 	Components: A grounded ice elemental's core, three basil leaves, and a pinch of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -277,7 +277,7 @@ Sparkfire Potion
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Traumatic Relife Potion
-	Appearance: The potion is a black slop.
+	Appearance: The potion is a black slop. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
 	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, a pinch of cobweb, and a small amount of ground snail shells.
