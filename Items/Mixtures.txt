@@ -219,6 +219,15 @@ Nontoxic Seizure Concoction
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Potion Acid
+	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
+	Usage:      Pour into liquid.
+	Effect:     Distills the liquid, reducing it's potency and giving it a bland taste. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
+	Downside:   You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
+	Components: wip and todo
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Potion of Animal Conjuration
 	Appearance: The potion is an opaque gray-brown syrupy liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
