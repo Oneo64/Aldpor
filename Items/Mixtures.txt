@@ -94,7 +94,7 @@ Blindness Granting Mixture
 	Appearance: The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. As the potion nears the end of the duration, everything seems to fade back from the darkness. More than 5 ml must be drank for this to work.
-	Components: A small fermented amethyst gorbry which is then crushed, a small amount of ground snail shells, and three pinches of dark lichen.
+	Components: A small fermented amethyst gorbry which is then crushed, a small handful of ground snail shells, and three pinches of dark lichen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -247,7 +247,7 @@ Potion of Severe Dementia
 	Appearance: The potion is a black watery liquid, with visible white specks like dandruff floating around inside. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
-	Components: Four crushed practal gorbries, a pinch of moon dust from Vel, chopped bits of fermented ekraldi's toadstool, and three pickled fly corpses.
+	Components: Four crushed practal gorbries, a pinch of moon dust from Vel, chopped bits of fermented ekraldi's toadstool, a small handful of crushed snail shells, and three pickled fly corpses.
 	Brewing:    It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -299,7 +299,7 @@ Traumatic Relife Potion
 	Appearance: The potion is a black slop. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
-	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, a pinch of cobweb, and a small amount of ground snail shells.
+	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, a pinch of cobweb, and a small handful of ground snail shells.
 	Brewing:    It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
