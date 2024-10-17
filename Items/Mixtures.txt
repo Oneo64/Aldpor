@@ -248,7 +248,7 @@ Potion of Severe Dementia
 	Usage:      Drink.
 	Effect:     Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
 	Components: Four crushed practal gorbries, a pinch of moon dust from Vel, chopped bits of fermented ekraldi's toadstool, and three pickled fly corpses.
-	Brewing:    It must be boiled for five hours.
+	Brewing:    It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
