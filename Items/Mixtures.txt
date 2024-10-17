@@ -21,12 +21,14 @@ BREWING STEPS
 	3.  Add ingredients. Ingredients also must be fully submerged.
 	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Boil it. This will take three hours. You can also let it sit, but this will take six hours.
+	4.  Boil it. This will take two hours. You can also let it sit, but this will take six hours.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
 	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
 
-	Based on the amount you drank, the potion could last from minutes to hours. A small vial could last 10 minutes, and a wine bottle of potion could last hours.
+	Based on the amount you drank, the potion could last from minutes to hours. A small vial (20 ml) could last 10 minutes, and a wine bottle (750 ml) of potion could last 6 hours. Most potions require more than 10 ml to be drank to take effect.
+
+	Game conversion: 1 ml = 0.5 minutes (30 seconds)
 
 
 
@@ -85,6 +87,14 @@ Bastard's Poison
 	Effect:     Forms irritating calluses on the hands.
 	Components: White talc powder, several wood chips, and a handful of ground bones (bone meal works too).
 	Brewing:    It must be boiled for five hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Blindness Granting Mixture
+	Appearance: The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
+	Usage:      Drink.
+	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. As the potion nears the end of the duration, everything seems to fade back from the darkness. More than 5 ml must be drank for this to work.
+	Components: A small fermented amethyst gorbry which is then crushed, a small amount of ground snail shells, and three pinches of dark lichen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -180,7 +190,7 @@ Gardening Growth Concoction
 Greater Moonic Death
 	Appearance: The potion is a clear liquid, with many small black specks floating inside.
 	Usage:      Drink.
-	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 2 ml. If you drank less than 2 ml, you only enter a coma for the normal potion durations specified above.
+	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
 	Components: Three pinches of moon dust, each from Vel, An, and Lûn, along with ground obsidian powder, and a small handful of onyx pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
