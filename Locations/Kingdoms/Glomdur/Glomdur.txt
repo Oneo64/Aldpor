@@ -39,5 +39,5 @@ Glomdur has around 2200 people in their army, 10 in each settlement, and 200 in 
 UNIFORMS
 ======================================================================================================================================================
 
-Soldiers: A leather nasal helmet, and a dark gray tunic. Their weapon is a spear, and a wooden buckler.
-Archers/Guards: A leather nasal helmet, and a dark gray tunic. Their weapon is a crossbow, with flint-headed bolts.
+Soldiers: A leather nasal helmet, and a dark grey tunic. Their weapon is a spear, and a wooden buckler.
+Archers/Guards: A leather nasal helmet, and a dark grey tunic. Their weapon is a crossbow, with flint-headed bolts.

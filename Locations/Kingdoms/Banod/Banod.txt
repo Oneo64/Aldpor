@@ -52,5 +52,5 @@ Dakuutaz is a fortress built on top of a nearby peak, and also uses stone walls 
 UNIFORMS
 ======================================================================================================================================================
 
-Soldiers/Guards: An iron-only coppergate helmet, chainmail hauberk, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
-Archers/Lookouts: An iron-only coppergate helmet, gray tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a crossbow, with iron-headed arrows.
+Soldiers/Guards: An iron-only coppergate helmet, chainmail hauberk, grey tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
+Archers/Lookouts: An iron-only coppergate helmet, grey tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a crossbow, with iron-headed arrows.
