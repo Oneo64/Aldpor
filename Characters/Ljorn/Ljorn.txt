@@ -67,7 +67,6 @@ Abilities:
 			Lesser Runic Staves
 			Mage Hand, Message
 			Prestidigitation
-			Seidur
 
 		Basic:
 			Arcane Lock, Arcane Unlock
@@ -76,7 +75,7 @@ Abilities:
 			Feather Fall, Feign Death, Fire Bolt
 			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
-			Shield, Sparks
+			Seidur, Shield, Sparks
 
 		Major:
 			Animate Dead

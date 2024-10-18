@@ -50,13 +50,12 @@ Abilities:
 			Druidcraft
 			Entangle
 			Lesser Runic Staves
-			Seidur
 
 		Basic:
 			Animal Messenger
 			Cure Wounds
 			Moonbeam
-			Shillelagh
+			Seidur, Shillelagh
 
 		Major:
 			Conjure Animals

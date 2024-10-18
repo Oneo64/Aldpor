@@ -44,7 +44,6 @@ Abilities:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
 			Prestidigitation
-			Seidur
 
 		Basic:
 			Arcane Lock, Arcane Unlock
@@ -53,7 +52,7 @@ Abilities:
 			Feather Fall
 			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
-			Shield, Sparks
+			Seidur, Shield, Sparks
 
 		Major:
 			Arcane Eye

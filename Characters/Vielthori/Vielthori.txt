@@ -41,8 +41,8 @@ Abilities:
 
 	Seer Magic:
 		Basic:
+			Bless
 			Mending
-			Seidur
 			Wash of Radiance
 
 		Major:

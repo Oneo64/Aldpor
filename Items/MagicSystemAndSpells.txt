@@ -469,7 +469,7 @@ You can also choose a location you remember in place of the creature, but you ca
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Seidur (minor)
+Seidur (basic)
 	Casting time: 30 seconds
 	Range:        infinite
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
@@ -500,6 +500,19 @@ When the animal finds a recipient, it stops somewhere within 3 meters of the rec
 
 If the animal dies, then the spell ends.
 If the spell ends before the animal can find a recipient, the animal resumes it's life, unless it died.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bless (basic)
+	Casting time: instantaneous
+	Range:        20 meters
+	Requirements: V, SG
+	Duration:     1 minute
+
+A faint wave of sunlight shoots out of your palm and briefly engulfs a target you can see within range in warm light.
+The sunlight makes the target a little physically stronger and durable, and speeds up their wound regeneration speed by twice the usual speed.
+
+If the target is possessed (not charmed!), the possessor will take a shot of mental pain. If the possessor dies, it is kicked out of the body and the target, who then collapses and will regain consciousness 1 hour later.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -919,9 +932,9 @@ SPELL LIST
 	SEER:
 		MINOR SPELLS:
 			Lesser Runic Staves
-			Seidur
 
 		BASIC MAGIC:
+			Bless
 			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
@@ -929,6 +942,7 @@ SPELL LIST
 			Lesser Restoration
 			Mending
 			Misty Step
+			Seidur
 			Wash of Radiance
 
 		MAJOR MAGIC:
@@ -953,7 +967,6 @@ SPELL LIST
 			Entangle
 			Illusory Script
 			Lesser Runic Staves
-			Seidur
 
 		BASIC MAGIC:
 			Animal Messenger
@@ -967,6 +980,7 @@ SPELL LIST
 			Mending
 			Moonbeam
 			Misty Step
+			Seidur
 			Shield
 			Shillelagh
 			Sparks
@@ -1038,7 +1052,6 @@ SPELL LIST
 			Message
 			Minor Illusion
 			Prestidigitation
-			Seidur
 
 		BASIC MAGIC:
 			Arcane Lock
@@ -1055,6 +1068,7 @@ SPELL LIST
 			Magic Missile
 			Mending
 			Misty Step
+			Seidur
 			Shield
 			Sparks
 

@@ -24,10 +24,10 @@ Abilities:
 		Minor:
 			Druidcraft
 			Lesser Runic Staves
-			Seidur
 
 		Basic:
 			Lesser Restoration
+			Seidur
 
 		Major:
 			Greater Runic Staves
