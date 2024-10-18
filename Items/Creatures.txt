@@ -222,7 +222,7 @@ Gvarth (huge fey):
 	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
 	Description:
-		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat.	
+		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Most gvarths have a trunk size of wider than 1.5 meter in diameter.
 
 	Abilities:
 		The gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
