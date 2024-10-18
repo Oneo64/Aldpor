@@ -94,7 +94,7 @@ Bastard's Poison
 Blindness Granting Mixture
 	Appearance: The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
-	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. As the potion nears the end of the duration, everything seems to fade back from the darkness. More than 5 ml must be drank for this to work.
+	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
 	Components: A small fermented amethyst gorbry which is then crushed, a small handful of ground snail shells, and three pinches of dark lichen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
