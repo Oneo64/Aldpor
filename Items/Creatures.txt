@@ -71,12 +71,12 @@ Daeva (large fiend):
 		Daevas tend to wear only a skirt.
 
 	Abilities:
-		Daevas are stronger than normal men. They mostly favor the scimitar, using iron to make them.
+		Daevas are stronger and more durable than normal men. They mostly favor the scimitar, using iron to make them.
 		Daevas are also able to consume the corpse of a human or elf, healing itself in the process.
 
 		Some daevas are able to use an innate magic, who can give a sleeping enemy they can see a nightmare. These daevas are usually the leaders of their group, if they are in one.
 
-		When daevas are in daylight, they feel weak, and cannot see, or hear as good. But their peak strength come from the night.
+		When daevas are in daylight, they feel weak, and cannot see, or hear as good. During the night, their strength is at peak, and they will start to slowly regenerate wounds and lost limbs. They are also able to see in the dark.
 
 		Daevas speak Abyssal, and they mostly live in small groups, which mostly ranges from 3 to 20 members.
 
