@@ -208,7 +208,7 @@ Freebreathing Potion (basic)
 	Usage:       Drink.
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
-	Ingredients: A Small handful of rust, and three fermented chopped and crushed okras.
+	Ingredients: A Small handful of rust, and a fermented chopped and crushed ekraldi's toadstool.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
