@@ -13,7 +13,7 @@ Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful o
 BREWING STEPS
 ======================================================================================================================================================
 
-	1.  Get a container. Lets suppose it's a small 8 inch cauldron, since ingredients below are assumed a the potion is being brewed in a cauldron.
+	1.  Get a container. Lets suppose it's a small 6 inch cauldron (37 small vials), since ingredients below are assumed a the potion is being brewed in a cauldron.
 	
 	2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
 	2a. If you have magical water, you do not need a catalyst.
