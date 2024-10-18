@@ -22,7 +22,7 @@ Personality:
 		Talks to animals when feeling bored
 
 Abilities:
-	Alchemy (potion brewing)
+	Alchemy (potion brewing, minor level), additional alchemy knowledge: Curing Potion
 
 	Daggsvaldian
 	Esrel
