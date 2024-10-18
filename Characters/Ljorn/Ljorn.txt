@@ -45,7 +45,12 @@ Abilities:
 	Combat experience (a battle, and raiding old castle ruins)
 
 	Magic (6 years practice, which 3 years are training)
-	Alchemy (potion brewing, advanced level)
+	Alchemy (potion brewing, basic potions), additional alchemy knowledge:
+		Ekraldi's Concoction
+		Fire-throwing Grenade
+		Nontoxic Seizure Concoction
+		Potion of Animal Conjuration
+
 	Drawing
 	Plaræggna
 

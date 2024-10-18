@@ -22,10 +22,32 @@ Personality:
 Abilities:
 	Magic (4 years practice, 1 year training, no real experience)
 	Tagelharpa
-	Alchemy (potion brewing, basic)
+	Alchemy (potion brewing, advanced potions)
 	Medical things
 
 	Daggsvaldian
 	Esrel
 	Primal Daggsvaldian
 	Primordial
+
+	Arcane Magic:
+		Minor:
+			Illusory Script
+			Lesser Runic Staves
+			Mage Hand, Message
+			Prestidigitation
+
+		Basic:
+			Arcane Lock, Arcane Unlock
+			Counterspell
+			Detect Magic
+			Fire Bolt
+			Invisibility
+			Mage Armor, Magic Missiles, Misty Step
+			Shield, Sparks
+
+		Major:
+			Conjure Elementals
+			Etherealness
+			Polymorph
+			Telekinesis
