@@ -7,6 +7,8 @@ Potions are concoctions and mixtures of different items dissolved into water, an
 Two crushed amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
 Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
 
+Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the igredients more potent if their original properties are too weak to be any use.
+
 
 
 ======================================================================================================================================================
@@ -93,240 +95,268 @@ POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
 
 Abjuration Dissolvent (basic)
-	Appearance: It is a black, semi-transparent syrupy liquid.
-	Usage:      Soak in object, throw at object, or get the liquid on the object.
-	Effect:     Removes abjuration effects placed on a surface. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, completely dissipating the spell.
-	Components: Two practal gorbries, and three pinches of dark lichen.
+	Appearance:  It is a black, semi-transparent syrupy liquid.
+	Usage:       Soak in object, throw at object, or get the liquid on the object.
+	Effect:      Removes abjuration effects placed on a surface. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, completely dissipating the spell.
+	
+	Ingredients: Two practal gorbries, and a small handful of pickled dark lichen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bastard's Poison (basic)
-	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
-	Usage:      Drink.
-	Effect:     Forms irritating calluses on the hands.
-	Components: A small handful of white talc powder, several wood chips, and a handful of ground bones (bone meal works too).
-	Brewing:    It must be boiled for five hours.
+	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
+	Usage:       Drink.
+	Effect:      Forms irritating calluses on the hands.
+
+	Ingredients: A small handful of ground bones or bone meal, a small handful of white talc powder, and a some wood chips.
+	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Blindness Granting Mixture (basic)
-	Appearance: The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
-	Usage:      Drink.
-	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
-	Components: A small fermented amethyst gorbry which is then crushed, a small handful of ground snail shells, and three pinches of dark lichen.
+	Appearance:  The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
+	Usage:       Drink.
+	Effect:      Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
+	
+	Ingredients: One fermented amethyst gorbry which is then crushed, a small handful of ground snail shells, and a small handful of dark lichen or coal powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Catalystic Concoction (powerful)
-	Appearance: It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
-	Usage:      Soak in object, works best in an orb.
-	Effect:     It will quicken spellcasting, only for the person attuned to it.
-	Downside:   It only works with spells that are given to the object, and only the person attuned to the object can use it.
-	Components: Three crushed amethyst gorbries, and a drop of Parhrügi's Tears.
-	Brewing:    It must be boiled for five hours.
+	Appearance:  It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
+	Usage:       Soak in object, works best in an orb.
+	Effect:      It will quicken spellcasting, only for the person attuned to it.
+	Downside:    It only works with spells that are given to the object, and only the person attuned to the object can use it.
+	
+	Ingredients: Three crushed amethyst gorbries, and a drop of Parhrügi's Tears.
+	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Concoction Bomb of Earth (advanced)
-	Appearance: It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
-	Usage:      Ignite.
-	Effect:     Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
-	Components: A handful of sulfur powder, a handful of fermented dark lichen, and a pinch of sand.
-	Brewing:    It must be boiled for five hours.
+	Appearance:  It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
+	Usage:       Ignite.
+	Effect:      Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
+	
+	Ingredients: A small handful of sulfur powder, a small handful of fermented dark lichen, and two pinches of sand.
+	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Curing Potion (basic)
-	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
-	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
-	Effect:     It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poison etc.
-	Downside:   Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
-	Components: Three duck feathers, a ground bezoar, and a handful of small pieces of wood (or wood chips, or wood powder).
+	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
+	Usage:       Drink. Only take small doses (< 30 ml) after each meal, or you could instantly go out cold.
+	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc.
+	Downside:    Weakens you, makes you feel tired and sleepy if used a lot, also destroys undigested food. (makes you more hungry)
+	
+	Ingredients: A handful of ground mint and basil, and a ground bezoar.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Darkvision Potion (basic)
-	Appearance: The potion is completely black with some glowing streaks of blue.
-	Usage:      Drink.
-	Effect:     Lets you see in the dark.
-	Downside:   It is possible to gain temporary blindless if you look directly into anything bright, such as a reflection of the sun, or a fiery explosion.
-	Components: Chopped bits of fermented moonshroom, glass powder, and a handful of moss.
+	Appearance:  The potion is completely black with some glowing streaks of blue.
+	Usage:       Drink.
+	Effect:      Lets you see in the dark.
+	Downside:    It is possible to gain temporary blindless if you look directly into anything bright, such as a reflection of the sun, or a fiery explosion.
+	
+	Ingredients: Chopped bits of fermented moonshroom, and a small handful of moss.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Energy Potion (minor)
-	Appearance: The potion is a pale green slop.
-	Usage:      Drink.
-	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
-	Downside:   You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
-	Components: A practal gorbry, and pinch of rye flour.
+	Appearance:  The potion is a pale green slop.
+	Usage:       Drink.
+	Effect:      It gives you energy, same way that food gives you energy, except you instantly gain it.
+	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
+	
+	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ekraldi's Concoction (advanced)
-	Appearance: The potion is a clear liquid.
-	Usage:      Drink.
-	Effect:     Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
-	Components: Handful of dark lichen, an ekraldi's toadstool chopped into pieces.
+	Appearance:  The potion is a clear liquid.
+	Usage:       Drink.
+	Effect:      Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
+
+	Ingredients: A handful of dark lichen, and an ekraldi's toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fire Immunity Potion (advanced)
-	Appearance: It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
-	Usage:      Drink.
-	Effect:     Makes you immune to fire and heat.
-	Downside:   You feel colder. Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
-	Components: One crushed amethyst gorbry, some cobweb, and a pinch of sulfur powder.
-	Brewing:    It must be boiled for five hours.
+	Appearance:  It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
+	Usage:       Drink.
+	Effect:      Makes you immune to fire and heat.
+	Downside:    You feel colder. Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
+	
+	Ingredients: One crushed amethyst gorbry, and a pinch of sulfur powder. // todo
+	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fire-throwing Grenade (advanced)
-	Appearance: The potion is a orange liquid with small black specks.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
-	Components: Sparkfire Potion, any oil made from plants.
-	Brewing:    Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage).
+	Appearance:  The potion is a orange liquid with small black specks.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
+	
+	Ingredients: Sparkfire Potion, any oil made from plants.
+	Brewing:     Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Freebreathing Potion (basic)
-	Appearance: The potion is a clear liquid.
-	Usage:      Drink.
-	Effect:     Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
-	Components: Handful of rust, and three chopped and crushed okras.
+	Appearance:  The potion is a clear liquid.
+	Usage:       Drink.
+	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
+	
+	Ingredients: Handful of rust, and three fermented chopped and crushed okras.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Gardening Growth Concoction (basic)
-	Appearance: The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
-	Usage:      Pour on anything.
-	Effect:     If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
-	Components: Pinch of dark lichen, and a handful of ground jadeblossom.
+	Appearance:  The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
+	Usage:       Pour on anything.
+	Effect:      If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
+	
+	Ingredients: Pinch of dark lichen, and a handful of ground jadeblossom.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Greater Moonic Death (powerful)
-	Appearance: The potion is a clear liquid, with many small black specks floating inside.
-	Usage:      Drink.
-	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
-	Components: Three pinches of moon dust, each from Vel, An, and Lûn, along with ground obsidian powder, and a small handful of onyx pieces.
+	Appearance:  The potion is a clear liquid, with many small black specks floating inside.
+	Usage:       Drink.
+	Effect:      You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
+	
+	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hailskin Potion (advanced)
-	Appearance: The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
-	Usage:      Drink.
-	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 10 degrees Celsius.
-	Components: A grounded ice elemental's core, three basil leaves, and a pinch of silver powder.
+	Appearance:  The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
+	Usage:       Drink.
+	Effect:      Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 10 degrees Celsius.
+	
+	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Moonic Death (advanced)
-	Appearance: The potion is a clear liquid, with small black specks floating inside.
-	Usage:      Drink.
-	Effect:     You enter a coma for a duration 100 times longer than the potion durations specified above.
-	Components: Three pinches of moon dust, each from Vel, An, and Lûn.
+	Appearance:  The potion is a clear liquid, with small black specks floating inside.
+	Usage:       Drink.
+	Effect:      You enter a coma for a duration 100 times longer than the potion durations specified above.
+	
+	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nontoxic Seizure Concoction (advanced)
-	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
-	Usage:      Drink.
-	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If the potion duration is sustained for 30 minutes or longer (either with a large dosage or someone feeding more into your mouth while you are incapacitated), you will die after that 30 minutes.
-	Components: Five crushed practal gorbries, and five fermented bee corpses.
+	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
+	Usage:       Drink.
+	Effect:      You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If the potion duration is sustained for 30 minutes or longer (either with a large dosage or someone feeding more into your mouth while you are incapacitated), you will die after that 30 minutes.
+	
+	Ingredients: One crushed practal gorbry, and five fermented and pickled bees.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion Acid (basic)
-	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
-	Usage:      Pour into liquid.
-	Effect:     Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
-	Downside:   You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
-	Components: A butterfly coccoon
+	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
+	Usage:       Pour into liquid.
+	Effect:      Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
+	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
+	
+	Ingredients: A butterfly coccoon, three pinches of a mixture of salt and rust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Animal Conjuration (advanced)
-	Appearance: The potion is an opaque gray-brown syrupy liquid.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
-	Components: Two crushed amethyst gorbries, and a carved wooden figurine of the animal to conjure.
+	Appearance:  The potion is an opaque gray-brown syrupy liquid.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
+
+	Ingredients: Two crushed amethyst gorbries, a butterfly coccoon, and a carved wooden figurine of the animal to conjure.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Frostcoating (basic)
-	Appearance: The potion is a silvery liquid that glows in the dark.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
-	Components: Two crushed amethyst gorbries, a handful of moss, and a pinch of silver powder.
+	Appearance:  The potion is a silvery liquid that glows in the dark.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
+	
+	Ingredients: Two crushed amethyst gorbries, a handful of moss, and a pinch of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Mage Armor (advanced)
-	Appearance: The potion is a blue liquid that glows in the dark.
-	Usage:      Drink.
-	Effect:     Gives the effects of Mage Armor.
-	Components: Two crushed amethyst gorbries, and a handful of cobweb.
+	Appearance:  The potion is a blue liquid that glows in the dark.
+	Usage:       Drink.
+	Effect:      Gives the effects of Mage Armor.
+	
+	Ingredients: Two crushed amethyst gorbries, and a handful of cobweb.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Potion of Severe Dementia (powerful)
-	Appearance: The potion is a black watery liquid, with visible white specks like dandruff floating around inside. It also feels about 10 degrees Celsius colder.
-	Usage:      Drink.
-	Effect:     Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
-	Components: Four crushed practal gorbries, a pinch of moon dust from Vel, chopped bits of fermented ekraldi's toadstool, a small handful of crushed snail shells, and three pickled fly corpses.
-	Brewing:    It must be boiled for eight hours.
+	Appearance:  The potion is a black watery liquid, with visible white specks like dandruff floating around inside. It also feels about 10 degrees Celsius colder.
+	Usage:       Drink.
+	Effect:      Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
+	
+	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
+	Brewing:     It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Regeneration Potion (basic)
-	Appearance: The potion is a pale honey-colored liquid.
-	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
-	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
-	Downside:   Can cause cancer if used too much.
-	Components: Seven basil leaves (no stem), seven ground red tulip petals, and a gecko tail.
+	Appearance:  The potion is a pale honey-colored liquid.
+	Usage:       Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
+	Effect:      Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
+	Downside:    Can cause cancer if used too much.
+	
+	Ingredients: A small handful of ground mint and basil leaves (stem removed first), a small handful of ground wild celery, and a gecko tail.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Silencing Potion (basic)
-	Appearance: The potion is a half clear pale yellow liquid.
-	Usage:      Drink.
-	Effect:     Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
-	Downside:   You are unable to cast spells that require an incantation, and all speech is unclear.
-	Components: Four pickled cricket wings, a pinch flour, and a pinch of wood dust.
+	Appearance:  The potion is a half clear pale yellow liquid.
+	Usage:       Drink.
+	Effect:      Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
+	Downside:    You are unable to cast spells that require an incantation, and all speech is unclear.
+	
+	Ingredients: Four fermented crickets, a pinch of ground pepper, and a pinch of wood dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sparkfire Ale (advanced)
-	Appearance: This thing is just ale with sparkfire potion properties.
-	Usage:      Drink.
-	Effect:     Tastes like a mix of ale and a really strong soda (shouldn't hurt you when it is drunk).
-	Components: Instead of making the potion the traditional way, you add the sparkfire potion ingredients with the ale ingredients together with a catalyst.
+	Appearance:  This thing is just ale with sparkfire potion properties.
+	Usage:       Drink.
+	Effect:      Tastes like a mix of ale and a really strong soda (shouldn't hurt you when it is drunk).
+	
+	Ingredients: Instead of making the potion the traditional way, you add the sparkfire potion ingredients with the ale ingredients together with a catalyst.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sparkfire Potion (basic)
-	Appearance: The potion is a orange liquid.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
-	Components: Handful of sulfur powder, pinch of sand, two pinches of rust.
-	Brewing:    It must be boiled for five hours.
+	Appearance:  The potion is a orange liquid.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Explodes in shower of sparks. Pretty much harmless with small amounts.
+	
+	Ingredients: A handful of sulfur powder, a pinch of sand, and two pinches of rust.
+	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Traumatic Relife Potion (powerful)
-	Appearance: The potion is a black slop. It also feels about 10 degrees Celsius colder.
-	Usage:      Drink.
-	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
-	Components: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, a pinch of cobweb, and a small handful of ground snail shells.
-	Brewing:    It must be boiled for eight hours.
+	Appearance:  The potion is a black slop. It also feels about 10 degrees Celsius colder.
+	Usage:       Drink.
+	Effect:      Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
+	
+	Ingredients: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, and a small handful of ground snail shells.
+	Brewing:     It must be boiled for eight hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tarfire Grenade (advanced)
-	Appearance: The potion is a orange liquid with black streaks.
-	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:     Explodes in a burst of fire. Explosion would cover things in a 1 meter radius with burning tar.
-	Components: Sparkfire Potion, tar.
-	Brewing:    Add tar after the sparkfire potion is made.
+	Appearance:  The potion is a orange liquid with black streaks.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Explodes in a burst of fire. Explosion would cover things in a 1 meter radius with burning tar.
+	
+	Ingredients: Sparkfire Potion, tar.
+	Brewing:     Add tar after the sparkfire potion is made.
