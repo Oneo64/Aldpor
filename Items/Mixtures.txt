@@ -199,7 +199,7 @@ Greater Moonic Death
 Hailskin Potion
 	Appearance: The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
 	Usage:      Drink.
-	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 30 degrees Celsius.
+	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 10 degrees Celsius.
 	Components: A grounded ice elemental's core, three basil leaves, and a pinch of silver powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
