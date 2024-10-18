@@ -108,17 +108,17 @@ Bastard's Poison (basic)
 	Usage:       Drink.
 	Effect:      Forms irritating calluses on the hands.
 
-	Ingredients: A small handful of ground bones or bone meal, a small handful of white talc powder, and a some wood chips.
+	Ingredients: A small handful of ground bones or bone meal, a small handful of white talc or chalk powder, and a some wood chips.
 	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Blindness Granting Mixture (basic)
+Blindness Granting Mixture (advanced)
 	Appearance:  The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
 	Usage:       Drink.
 	Effect:      Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
 	
-	Ingredients: One fermented amethyst gorbry which is then crushed, a small handful of ground snail shells, and a small handful of dark lichen or coal powder.
+	Ingredients: One fermented practal gorbry which is then crushed, a small handful of ground snail shells, and a small handful of ground dark lichen or coal powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ Ekraldi's Concoction (advanced)
 	Usage:       Drink.
 	Effect:      Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
 
-	Ingredients: A handful of dark lichen, and an ekraldi's toadstool chopped into pieces.
+	Ingredients: A small handful of pickled dark lichen, and an ekraldi's toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -188,7 +188,7 @@ Fire Immunity Potion (advanced)
 	Effect:      Makes you immune to fire and heat.
 	Downside:    You feel colder. Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
 	
-	Ingredients: One crushed amethyst gorbry, and a pinch of sulfur powder. // todo
+	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
 	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -208,7 +208,7 @@ Freebreathing Potion (basic)
 	Usage:       Drink.
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
-	Ingredients: Handful of rust, and three fermented chopped and crushed okras.
+	Ingredients: A Small handful of rust, and three fermented chopped and crushed okras.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ Gardening Growth Concoction (basic)
 	Usage:       Pour on anything.
 	Effect:      If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
 	
-	Ingredients: Pinch of dark lichen, and a handful of ground jadeblossom.
+	Ingredients: A small handful of dried ground moss, and a small handful of ground jadeblossom.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -310,7 +310,7 @@ Regeneration Potion (basic)
 	Effect:      Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
 	Downside:    Can cause cancer if used too much.
 	
-	Ingredients: A small handful of ground mint and basil leaves (stem removed first), a small handful of ground wild celery, and a gecko tail.
+	Ingredients: A small handful of ground basil and comfrey leaves (stem removed first), and a small handful of ground wild celery.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -320,7 +320,7 @@ Silencing Potion (basic)
 	Effect:      Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
 	Downside:    You are unable to cast spells that require an incantation, and all speech is unclear.
 	
-	Ingredients: Four fermented crickets, a pinch of ground pepper, and a pinch of wood dust.
+	Ingredients: Four fermented crickets, a small handful of goat hairs, and a pinch of wood dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

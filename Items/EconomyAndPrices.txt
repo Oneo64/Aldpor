@@ -176,7 +176,7 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Cheese wheel:             3 sp
 
 	Common spice (jar):       3 sp
-	Rare spice (jar):         6 sp
+	Rare spice (jar):         8 sp
 	Salt (jar):               5 cp
 
 	Mug/Bottle of Ale:            3 cp / 1 sp
