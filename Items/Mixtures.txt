@@ -71,10 +71,28 @@ Here are a list of catalyst examples:
 
 
 ======================================================================================================================================================
+LEVELS
+======================================================================================================================================================
+
+Minor:
+	- Potions that are easy to brew, almost the first level of potions alchemists start at.
+
+Basic:
+	- Potions that average alchemists know how to brew. Usually either schools stop teaching after this level, or students don't learn anything higher than this.
+
+Advanced:
+	- Potions that advanced/professional alchemists can make. Usually a village would have one to three at this level.
+
+Powerful:
+	- Potions that not many alchemists can make. Usually only one in a few villages are at this level.
+
+
+
+======================================================================================================================================================
 POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
 
-Abjuration Dissolvent
+Abjuration Dissolvent (basic)
 	Appearance: It is a black, semi-transparent syrupy liquid.
 	Usage:      Soak in object, throw at object, or get the liquid on the object.
 	Effect:     Removes abjuration effects placed on a surface. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, completely dissipating the spell.
@@ -82,7 +100,7 @@ Abjuration Dissolvent
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Bastard's Poison
+Bastard's Poison (basic)
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink.
 	Effect:     Forms irritating calluses on the hands.
@@ -91,7 +109,7 @@ Bastard's Poison
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Blindness Granting Mixture
+Blindness Granting Mixture (basic)
 	Appearance: The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
@@ -99,7 +117,7 @@ Blindness Granting Mixture
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Catalystic Concoction
+Catalystic Concoction (powerful)
 	Appearance: It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
 	Usage:      Soak in object, works best in an orb.
 	Effect:     It will quicken spellcasting, only for the person attuned to it.
@@ -109,7 +127,7 @@ Catalystic Concoction
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Concoction Bomb of Earth
+Concoction Bomb of Earth (advanced)
 	Appearance: It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
 	Usage:      Ignite.
 	Effect:     Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
@@ -118,7 +136,7 @@ Concoction Bomb of Earth
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Curing Potion
+Curing Potion (basic)
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink. Only take small doses after each meal, or you could instantly go out cold.
 	Effect:     It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poison etc.
@@ -127,7 +145,7 @@ Curing Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Darkvision Potion
+Darkvision Potion (basic)
 	Appearance: The potion is completely black with some glowing streaks of blue.
 	Usage:      Drink.
 	Effect:     Lets you see in the dark.
@@ -136,7 +154,7 @@ Darkvision Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Energy Potion
+Energy Potion (minor)
 	Appearance: The potion is a pale green slop.
 	Usage:      Drink.
 	Effect:     It gives you energy, same way that food gives you energy, except you instantly gain it.
@@ -145,7 +163,7 @@ Energy Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ekraldi's Concoction
+Ekraldi's Concoction (advanced)
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
 	Effect:     Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
@@ -153,7 +171,7 @@ Ekraldi's Concoction
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fire Immunity Potion
+Fire Immunity Potion (advanced)
 	Appearance: It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
 	Usage:      Drink.
 	Effect:     Makes you immune to fire and heat.
@@ -163,16 +181,16 @@ Fire Immunity Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fire-throwing Grenade
+Fire-throwing Grenade (advanced)
 	Appearance: The potion is a orange liquid with small black specks.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Explodes in a burst of fire. The fire would expand to a 1 meter diameter (or 0.5 meter radius) soft blast of fire.
 	Components: Sparkfire Potion, any oil made from plants.
-	Brewing:    Add oil after the sparkfire potion is made.
+	Brewing:    Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Freebreathing Potion
+Freebreathing Potion (basic)
 	Appearance: The potion is a clear liquid.
 	Usage:      Drink.
 	Effect:     Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
@@ -180,7 +198,7 @@ Freebreathing Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Gardening Growth Concoction
+Gardening Growth Concoction (basic)
 	Appearance: The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
 	Usage:      Pour on anything.
 	Effect:     If poured on a plant, the plant ages 50% faster. If poured on soil, dirt, or sand, then plants such as bushes and grass appropriate for the climite will start growing there using the normal time it takes for the to grow (unless the potion is used again), even if the dirt wasn't part of a ground with grass. This potion's duration is 10 times longer than the potion durations specified above.
@@ -188,7 +206,7 @@ Gardening Growth Concoction
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Greater Moonic Death
+Greater Moonic Death (powerful)
 	Appearance: The potion is a clear liquid, with many small black specks floating inside.
 	Usage:      Drink.
 	Effect:     You enter a coma. You have 10 minutes to be cured before death, if you drank more than 3 ml. If you drank less than 3 ml, you only enter a coma for the normal potion durations specified above.
@@ -196,7 +214,7 @@ Greater Moonic Death
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hailskin Potion
+Hailskin Potion (advanced)
 	Appearance: The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
 	Usage:      Drink.
 	Effect:     Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 10 degrees Celsius.
@@ -204,7 +222,7 @@ Hailskin Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Moonic Death
+Moonic Death (advanced)
 	Appearance: The potion is a clear liquid, with small black specks floating inside.
 	Usage:      Drink.
 	Effect:     You enter a coma for a duration 100 times longer than the potion durations specified above.
@@ -212,15 +230,15 @@ Moonic Death
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Nontoxic Seizure Concoction
+Nontoxic Seizure Concoction (advanced)
 	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
 	Usage:      Drink.
-	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If you drank more than a certain amount that will last for 30 minutes or longer, you will die after that 30 minutes.
+	Effect:     You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If the potion duration is sustained for 30 minutes or longer (either with a large dosage or someone feeding more into your mouth while you are incapacitated), you will die after that 30 minutes.
 	Components: Five crushed practal gorbries, and five fermented bee corpses.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Potion Acid
+Potion Acid (basic)
 	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
 	Usage:      Pour into liquid.
 	Effect:     Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
@@ -229,7 +247,7 @@ Potion Acid
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Potion of Animal Conjuration
+Potion of Animal Conjuration (advanced)
 	Appearance: The potion is an opaque gray-brown syrupy liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
@@ -237,7 +255,7 @@ Potion of Animal Conjuration
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Potion of Frostcoating
+Potion of Frostcoating (basic)
 	Appearance: The potion is a silvery liquid that glows in the dark.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
@@ -245,7 +263,7 @@ Potion of Frostcoating
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Potion of Mage Armor
+Potion of Mage Armor (advanced)
 	Appearance: The potion is a blue liquid that glows in the dark.
 	Usage:      Drink.
 	Effect:     Gives the effects of Mage Armor.
@@ -253,7 +271,7 @@ Potion of Mage Armor
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Potion of Severe Dementia
+Potion of Severe Dementia (powerful)
 	Appearance: The potion is a black watery liquid, with visible white specks like dandruff floating around inside. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
@@ -262,7 +280,7 @@ Potion of Severe Dementia
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Regeneration Potion
+Regeneration Potion (basic)
 	Appearance: The potion is a pale honey-colored liquid.
 	Usage:      Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
 	Effect:     Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
@@ -271,15 +289,7 @@ Regeneration Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sickening Potion
-	Appearance: The potion is a half clear pale brown liquid.
-	Usage:      Somehow get it into the body. (Through eyes, wounds, drinking, absorbing through skin, etc)
-	Effect:     Makes target feel sick. Symptoms: Dizziness, and nausea.
-	Components: Two pickled tails of a rat, and two roach wings.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Silencing Potion
+Silencing Potion (basic)
 	Appearance: The potion is a half clear pale yellow liquid.
 	Usage:      Drink.
 	Effect:     Muffles all sounds coming from you, such as your voice, footsteps, and even impacts against you like if you fall down, slap something, or get punched.
@@ -288,7 +298,7 @@ Silencing Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sparkfire Ale
+Sparkfire Ale (advanced)
 	Appearance: This thing is just ale with sparkfire potion properties.
 	Usage:      Drink.
 	Effect:     Tastes like a mix of ale and a really strong soda (shouldn't hurt you when it is drunk).
@@ -296,7 +306,7 @@ Sparkfire Ale
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sparkfire Potion
+Sparkfire Potion (basic)
 	Appearance: The potion is a orange liquid.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Explodes in shower of sparks. Pretty much harmless with small amounts.
@@ -305,7 +315,7 @@ Sparkfire Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Traumatic Relife Potion
+Traumatic Relife Potion (powerful)
 	Appearance: The potion is a black slop. It also feels about 10 degrees Celsius colder.
 	Usage:      Drink.
 	Effect:     Forces the target to relive the most traumatic (or violent) moments of their life for only several seconds. They however cannot feel any pain from these memories, since they are only memories. The effect is not powerful enough to give anything long-lasting, but may give temporary PTSD or paranoia if strong enough.
@@ -314,7 +324,7 @@ Traumatic Relife Potion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tarfire Grenade
+Tarfire Grenade (advanced)
 	Appearance: The potion is a orange liquid with black streaks.
 	Usage:      Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:     Explodes in a burst of fire. Explosion would cover things in a 1 meter radius with burning tar.
