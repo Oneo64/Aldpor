@@ -13,7 +13,7 @@ Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful o
 BREWING STEPS
 ======================================================================================================================================================
 
-	1.  Get a container. Lets suppose it's a cauldron, since ingredients below are assumed a the potion is being brewed in a cauldron.
+	1.  Get a container. Lets suppose it's a small 8 inch cauldron, since ingredients below are assumed a the potion is being brewed in a cauldron.
 	
 	2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
 	2a. If you have magical water, you do not need a catalyst.
@@ -26,9 +26,10 @@ BREWING STEPS
 	
 	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
 
-	Based on the amount you drank, the potion could last from minutes to hours. A small vial (20 ml) could last 10 minutes, and a wine bottle (750 ml) of potion could last 6 hours. Most potions require more than 10 ml to be drank to take effect.
+	Based on the amount you drank, the potion could last from minutes to hours. A small vial (50 ml) could last 10 minutes, and a wine bottle (750 ml) could last 2.5 hours.
+	Most potions require more than 50 ml to be drank to take effect.
 
-	Game conversion: 1 ml = 0.5 minutes (30 seconds)
+	Game conversion: 1 ml = 12 seconds, 5 ml = 1 minute
 
 
 
@@ -85,7 +86,7 @@ Bastard's Poison
 	Appearance: The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:      Drink.
 	Effect:     Forms irritating calluses on the hands.
-	Components: White talc powder, several wood chips, and a handful of ground bones (bone meal works too).
+	Components: A small handful of white talc powder, several wood chips, and a handful of ground bones (bone meal works too).
 	Brewing:    It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -222,9 +223,9 @@ Nontoxic Seizure Concoction
 Potion Acid
 	Appearance: The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
 	Usage:      Pour into liquid.
-	Effect:     Distills the liquid, reducing it's potency and giving it a bland taste. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
+	Effect:     Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
 	Downside:   You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
-	Components: wip and todo
+	Components: A butterfly coccoon
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
