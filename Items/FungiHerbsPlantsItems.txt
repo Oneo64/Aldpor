@@ -20,7 +20,7 @@ Dark Lichen:
 	Dark lichen grows in the Plane of Earth and Stone. It is very black, but glows faintly green in the dark.
 
 Ekraldi's Toadstool:
-	Ekraldi's Toadstools is a tall slender mushroom, around 35 centimeters. They are gray, and their cap is brown and has "fur". Ekraldi's Toadstool is poisonous at full size, and some strands of it's fur start to turn blue. The poison can be removed by fermentation.
+	Ekraldi's Toadstools is a tall slender mushroom, around 35 centimeters. They are grey, and their cap is brown and has "fur". Ekraldi's Toadstool is poisonous at full size, and some strands of it's fur start to turn blue. The poison can be removed by fermentation.
 
 Moonshroom:
 	A moonshroom is a small mushroom that can grow up to 10 centimeters. It is colored aqua, with small darker "ripples", resembling the surface of a moon.

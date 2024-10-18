@@ -277,7 +277,7 @@ Draugr (medium undead):
 	Description:
 		Draugrs looks like a zombie, however they have almost the same mental capacity and combat prowess as they had when they died.
 
-		Their usual descriptions are dark-green skinned, yellow eyes, and sparse hair.
+		Their usual descriptions are grey skinned, completely white eyes, and sparse grey hair.
 
 		When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their death place and protect their objects. If they were not buried properly, they will not feel bound to their death place, and roam freely.
 

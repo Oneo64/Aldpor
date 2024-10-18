@@ -21,7 +21,7 @@ Variant 1 (red metals: copper, brass, and bronze):
 Variant 2 (jewelry and rock):
 	Skin: Very light grayed skin, or very pale skin.
 	Hair: Blond, red, brown.
-	Eyes: Blue, green, golden, gray.
+	Eyes: Blue, green, golden, grey.
 
 
 
@@ -52,7 +52,7 @@ Cold Elf:
 	Variant 1 (Snow):
 		Skin: Very light skin, or very pale blue skin.
 		Hair: Black, blond, brown, white, or golden.
-		Eyes: Brown, green, blue, gray, light yellow, or golden.
+		Eyes: Brown, green, blue, grey, light yellow, or golden.
 
 	Variant 2 (Wood):
 		Skin: Brown (like wood).
@@ -72,7 +72,7 @@ Moon Elf:
 
 	Skin: Very light/pale blue to a darker very light/pale blue.
 	Hair: Dark purple, or white.
-	Eyes: Blue, gray, or purple.
+	Eyes: Blue, grey, or purple.
 
 
 
@@ -82,7 +82,7 @@ MAN
 
 Skin: Ranges from brown to bright skin.
 Hair: Black, blond, red, or brown.
-Eyes: Black, brown, green, blue, or gray.
+Eyes: Black, brown, green, blue, or grey.
 
 
 
@@ -112,6 +112,6 @@ Abilities:
 
 	Ages until 50 years old.
 
-Skin: Stone gray.
+Skin: Stone grey.
 Hair: Black to brown.
 Eyes: Black, brown, green, blue, golden, orange, or red.
