@@ -351,6 +351,15 @@ Reverting Salve (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Rotting Curse Potion (powerful)
+	Appearance:  The potion is a weird mix of black, green, and yellow swirling slowly like fresh water coloring put into the potion.
+	Usage:       Drink at least 10 ml.
+	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach. The third day, the magical skin condition will have spread over your body completely, and you will slowly die.
+	
+	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, and a pinch of moss, and a pinch of coal powder.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Silencing Potion (basic)
 	Appearance:  The potion is a half clear pale yellow liquid.
 	Usage:       Drink.
