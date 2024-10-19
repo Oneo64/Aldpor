@@ -57,11 +57,10 @@ CATALYSTS
 ======================================================================================================================================================
 
 A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
-A catalyst is a magical object/liquid that is what makes the potion's effect. Any nonliving thing that has an innate magical connection can be considered a catalyst.
+A catalyst is an object/liquid that is either magical, or it can be naturally occuring. They are what makes the potion's effect. Any nonliving thing that has an innate magical/natural connection can be considered a catalyst.
 
-Here are a list of catalyst examples:
+Here is a list of magical catalyst examples:
 	The snow, or foliage where an intense magical battle happened.
-	The foliage near a magical creatures' lair.
 	The grass from a magic academy's training grounds.
 	The water from an ancient magical well.
 	The core of a slain elemental.
@@ -69,6 +68,22 @@ Here are a list of catalyst examples:
 	Flesh of a prolonged zombie.
 
 	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
+
+Here is a list of all naturally occuring catalysts, and naturally occuring magical catalysts:
+	Cysts
+	Bezoars
+	Kidney stones
+	Volcanic ash
+	Volcanic rock or a powder of volcanic rock
+	Water of a natural hot spring or geyser
+	Water from a pond that was recently struck by lightning
+	Wood that had been struck by lightning
+
+	Amethyst gorbries
+	Any plant, tree, or grass that grew in Furnalfa
+	Any body part of a glimmering moth, preferabbly the wing or antenne
+	Daeva horns
+	Elemental cores
 
 
 
@@ -311,6 +326,15 @@ Regeneration Potion (basic)
 	Downside:    Can cause cancer if used too much.
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stem removed first), and a small handful of ground wild celery.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Regenerative Salve (minor)
+	Appearance:  The salve is a pale yellow salve.
+	Usage:       Spread on cuts, bruises, skin conditions, or areas with skin cancer.
+	Effect:      When the salve dries, it will heal 25% of the skin condition or wound.
+	
+	Ingredients: A handful of ground basil and comfrey leaves (stem removed first), and a few drops of any vegetable oil.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
