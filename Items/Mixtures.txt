@@ -198,9 +198,9 @@ Ekraldi's Concoction (advanced)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fire Immunity Potion (advanced)
-	Appearance:  It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
+	Appearance:  It is a semi-transparent liquid, with what seems like a mixture of volcanic ash, basalt powder, and the occasional sparks slowly swirling inside.
 	Usage:       Drink.
-	Effect:      Makes you immune to fire and heat.
+	Effect:      Your skin takes on a grainy basalt-like appearance, and makes you immune to fire and heat.
 	Downside:    Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter. Also, you are NOT immune to fires and heat caused by sulfur, lava, any form of molten rock or metal, lightning, or the spell fireball.
 	
 	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
