@@ -23,7 +23,7 @@ BREWING STEPS
 	3.  Add ingredients. Ingredients also must be fully submerged.
 	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Boil it. This will take two hours. You can also let it sit, but this will take six hours.
+	4.  Boil it, and maintain continuous boiling for two hours. You can also let it sit instead for six hours, but it's potency is slightly lower.
 	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
 	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
@@ -335,6 +335,7 @@ Regenerative Salve (minor)
 	Effect:      When the salve dries, it will heal 25% of the skin condition or wound.
 	
 	Ingredients: A handful of ground basil and comfrey leaves (stem removed first), and a few drops of any vegetable oil.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this regeneration salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
