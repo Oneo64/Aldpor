@@ -444,4 +444,6 @@ Mixing/Drinking conflicting concoctions:
 	
 	The mixture starts to boil until either one of the potion runs out. For example, if you mixed 100% hailskin potion with 20% fire immunity potion, it would boil until there was 80% hailskin potion left.
 
+	If there are more than three reactions going at the same time, possible explosions can occur.
+
 	If you consumed the potion/salve combination, you start to feel sick and nauseous. Also you probably might need to lie down in order not to feel like absolute sh*t.
