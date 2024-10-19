@@ -408,3 +408,38 @@ Tarfire Grenade (advanced)
 	
 	Ingredients: Sparkfire Potion, tar.
 	Brewing:     Add tar after the sparkfire potion is made.
+
+
+
+======================================================================================================================================================
+REACTIONS
+======================================================================================================================================================
+
+Drinking concoction bomb of earth:
+	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.
+
+Drinking hailskin potion and fire immunity potion:
+	You start to feel sick and nauseous. Also you probably might need to lie down in order not to feel like absolute sh*t.
+
+Drinking more than 500 ml of regeneration potion under thirty minutes:
+	You get intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, and stomach cancer. Conclusion: you're gonna die.
+
+Eating any of the healing salves:
+	It doesn't do anything beyond acting as a food.
+
+Mixing energy potion and nontoxic seizure concoction:
+	Ignites in a fire similar to a lithium-ion battery fire, except the reaction is twice as fast. The reaction lasts until either one of the potion runs out. For example, if you mixed 100% energy potion with 20% nontoxic seizure concoction, it would combust until there was 80% energy potion left.
+
+Mixing conflicting concoctions:
+	hailskin potion and fire immunity potion
+
+	gardening growth concoction and rotting curse concoction
+	regeneration potion and rotting curse concoction
+	regenerative/reverting salve and rotting curse concoction
+
+	regenerative/reverting salve and hailskin potion
+	regenerative/reverting salve and fire immunity potion
+
+	potion of mage armor and abjuration dissolvent
+	
+	The mixture starts to boil until either one of the potion runs out. For example, if you mixed 100% hailskin potion with 20% fire immunity potion, it would boil until there was 80% hailskin potion left.
