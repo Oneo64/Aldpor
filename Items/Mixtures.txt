@@ -201,7 +201,7 @@ Fire Immunity Potion (advanced)
 	Appearance:  It is a black, semi-transparent syrupy liquid, with occasional fiery streaks in the potion.
 	Usage:       Drink.
 	Effect:      Makes you immune to fire and heat.
-	Downside:    You feel colder. Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter.
+	Downside:    Room temperature for you drops by about 10 degrees Celsius. If you are on fire, the potion duration is sped up to 10 times shorter. Also, you are NOT immune to fires and heat caused by sulfur, lava, any form of molten rock or metal, lightning, or the spell fireball.
 	
 	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
 	Brewing:     It must be boiled for five hours.
@@ -248,7 +248,8 @@ Greater Moonic Death (powerful)
 Hailskin Potion (advanced)
 	Appearance:  The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
 	Usage:       Drink.
-	Effect:      Your body starts to look like ice, which hardens your skin. You are immune to cold, but room temperature for you increases by 10 degrees Celsius.
+	Effect:      Your skin starts to take on a icy appearance, causing it to look like it's been frosted over. Your skin is hardened, and you are immune to cold.
+	Downside:    Room temperature for you increases by 10 degrees Celsius.
 	
 	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
 
@@ -354,7 +355,8 @@ Reverting Salve (advanced)
 Rotting Curse Potion (powerful)
 	Appearance:  The potion is a weird mix of black, green, and yellow swirling slowly like fresh water coloring put into the potion.
 	Usage:       Drink at least 10 ml.
-	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach. The third day, the magical skin condition will have spread over your body completely, and you will slowly die.
+	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
+	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva) from the affected person.
 	
 	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, and a pinch of moss, and a pinch of coal powder.
 
