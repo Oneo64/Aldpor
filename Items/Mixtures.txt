@@ -325,17 +325,29 @@ Regeneration Potion (basic)
 	Effect:      Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
 	Downside:    Can cause cancer if used too much.
 	
-	Ingredients: A small handful of ground basil and comfrey leaves (stem removed first), and a small handful of ground wild celery.
+	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), and a small handful of ground wild celery.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Regenerative Salve (minor)
 	Appearance:  The salve is a pale yellow salve.
-	Usage:       Spread on cuts, bruises, skin conditions, or areas with skin cancer.
+	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, or other common skin conditions.
 	Effect:      When the salve dries, it will heal 25% of the skin condition or wound.
+	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
-	Ingredients: A handful of ground basil and comfrey leaves (stem removed first), and a few drops of any vegetable oil.
+	Ingredients: A handful of ground basil and comfrey leaves (stems removed first), and a few drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this regeneration salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Reverting Salve (advanced)
+	Appearance:  The salve is a pale yellow salve, that slightly glows in the dark.
+	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, skin cancer, or other skin conditions.
+	Effect:      When the salve dries, it will not heal, but revert 30% of the skin condition or wound to it's original state. After 6-7 uses, the skin condition is fully removed.
+	Downside:    This salve does not work on scars.
+	
+	Ingredients: A small handful of ground mint, basil, and comfrey leaves (stems removed first), a small handful of ground wild celery, a ground bezoar, and a several drops of any vegetable oil.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this regeneration salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 50% of the original amount of water left as salve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
