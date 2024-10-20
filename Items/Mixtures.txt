@@ -139,7 +139,7 @@ Bone-growing Salve (advanced)
 	Effect:      When the salve dries, it will heal 10% of any kind of broken bones, such as fractures and dislocations. Usually takes 10-14 applies to fully fix a bone.
 	Downside:    As the salve dries, the area might feel tingly and numb.
 	
-	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a pinch of iron powder, a spoon of any milk, and a few drops of any vegetable oil.
+	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a spoon of any milk, and a few drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
