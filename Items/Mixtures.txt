@@ -437,9 +437,9 @@ Mixing/Drinking conflicting concoctions #2:
 	Combinations:
 		hailskin potion and fire immunity potion
 
-		gardening growth concoction and rotting curse concoction
-		regeneration potion and rotting curse concoction
-		regenerative/reverting salve and rotting curse concoction
+		gardening growth concoction and rotting curse potion
+		regeneration potion and rotting curse potion
+		regenerative/reverting salve and rotting curse potion
 
 		regenerative/reverting salve and hailskin potion
 		regenerative/reverting salve and fire immunity potion
