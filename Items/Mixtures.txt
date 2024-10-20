@@ -323,7 +323,7 @@ Potion of Severe Dementia (powerful)
 Regeneration Potion (basic)
 	Appearance:  The potion is a pale honey-colored liquid.
 	Usage:       Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
-	Effect:      Evaporates wasted blood, and speeds up cell regeneration rate up to 10 times.
+	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
 	Downside:    Can cause cancer if used too much.
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), and a small handful of ground wild celery.
@@ -419,7 +419,7 @@ Drinking concoction bomb of earth:
 	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.
 
 Drinking more than 500 ml of regeneration potion under thirty minutes:
-	You get intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, and stomach cancer. Conclusion: you're gonna die.
+	You get intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, stomach cancer, or a combination of any of these. Conclusion: you're gonna die.
 
 Eating any of the healing salves:
 	It doesn't do anything beyond acting as a food.
