@@ -7,6 +7,9 @@ Potions are concoctions and mixtures of different items dissolved into water, an
 Two crushed amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
 Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
 
+Two pickled and crushed practal gorbries, a pinch of coal powder, and some material as ingredients usually applies the effects of that material.
+Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
+
 Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the igredients more potent if their original properties are too weak to be any use.
 
 
@@ -130,6 +133,17 @@ Bastard's Poison (basic)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Bone-growing Salve (advanced)
+	Appearance:  The salve is a pale grey salve.
+	Usage:       Spread around skin.
+	Effect:      When the salve dries, it will heal 10% of any kind of broken bones, such as fractures and dislocations. Usually takes 10-14 applies to fully fix a bone.
+	Downside:    As the salve dries, the area might feel tingly and numb.
+	
+	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, and a few drops of any vegetable oil.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Blindness Granting Mixture (advanced)
 	Appearance:  The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
 	Usage:       Drink.
@@ -225,7 +239,7 @@ Freebreathing Potion (basic)
 	Usage:       Drink.
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
-	Ingredients: A Small handful of rust, and a fermented chopped and crushed ekraldi's toadstool.
+	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldi's toadstool.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -324,9 +338,9 @@ Potion of Severe Dementia (powerful)
 
 Regeneration Potion (basic)
 	Appearance:  The potion is a pale honey-colored liquid.
-	Usage:       Pour small amount onto a wound. Must be absorbed into the wound to work. Can be also drank to heal any damaged organs or bones.
+	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
 	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
-	Downside:    Can cause cancer if used too much.
+	Downside:    Can cause cancer if used too much, cannot heal broken bones.
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), and a small handful of ground wild celery.
 
@@ -339,7 +353,7 @@ Regenerative Salve (minor)
 	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
 	Ingredients: A handful of ground basil and comfrey leaves (stems removed first), and a few drops of any vegetable oil.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this regeneration salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -350,7 +364,7 @@ Reverting Salve (advanced)
 	Downside:    This salve does not work on scars.
 	
 	Ingredients: A small handful of ground mint, basil, and comfrey leaves (stems removed first), a small handful of ground wild celery, a ground bezoar, and a several drops of any vegetable oil.
-	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this regeneration salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 50% of the original amount of water left as salve.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 50% of the original amount of water left as salve.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -393,6 +407,15 @@ Sparkfire Potion (basic)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Slow-falling Potion (advanced)
+	Appearance:  The potion is a white liquid.
+	Usage:       Drink.
+	Effect:      Makes you fall slower, and because of this, you can also jump a little higher.
+	
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, and several feathers of any bird.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Traumatic Relife Potion (powerful)
 	Appearance:  The potion is a black slop. It also feels about 10 degrees Celsius colder.
 	Usage:       Drink.
@@ -425,6 +448,9 @@ Drinking more than 500 ml of regeneration potion under thirty minutes:
 
 Eating any of the healing salves:
 	It doesn't do anything beyond acting as a food.
+
+Eating specifically bone-growing salve:
+	Your metabolism is slowed for an hour or two.
 
 Mixing/Drinking conflicting concoctions #1:
 	Combinations:
