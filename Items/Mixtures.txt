@@ -424,12 +424,16 @@ Drinking more than 500 ml of regeneration potion under thirty minutes:
 Eating any of the healing salves:
 	It doesn't do anything beyond acting as a food.
 
-Mixing/Drinking energy potion and nontoxic seizure concoction:
+Mixing/Drinking conflicting concoctions #1:
+	Combinations:
+		energy potion and nontoxic seizure concoction
+		fire immunity potion and fire-throwing grenade
+
 	Ignites in a fire similar to a lithium-ion battery fire, except the reaction is twice as fast. The reaction lasts until either one of the potion runs out. For example, if you mixed 100% energy potion with 20% nontoxic seizure concoction, it would combust until there was 80% energy potion left.
 
 	If you consumed the potion/salve combination, you die.
 
-Mixing/Drinking conflicting concoctions:
+Mixing/Drinking conflicting concoctions #2:
 	Combinations:
 		hailskin potion and fire immunity potion
 
