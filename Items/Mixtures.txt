@@ -174,7 +174,7 @@ Concoction Bomb of Earth (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Curing Potion (basic)
+Curing Tonic (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:       Drink. Only take small doses (< 30 ml) after each meal, or you could instantly go out cold.
 	Effect:      It will kill diseases, viruses, fungi, sicknesses, amoebas, parasites, poisons, etc.
