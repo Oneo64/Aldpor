@@ -99,9 +99,11 @@ Basic:
 
 Advanced:
 	- Potions that advanced/professional alchemists can make. Usually a village would have one to three at this level.
+	- Brewing and using potions with this level that are deemed harmful are illegal without permission.
 
 Powerful:
 	- Potions that not many alchemists can make. Usually only one in a few villages are at this level.
+	- Brewing and using potions with this level that are deemed harmful are illegal without permission from the king or whoever is the ruler.
 
 
 
