@@ -9,7 +9,7 @@ Other languages: Esrel
 Ruler: Palfar Thoskar II
 
 Important villages, (400 settlements, average 100 people each village):
-	Arggonlav (150 people, under Kvappareg)
+	Arggonlav (150 people, under Kvappavanin)
 	Baserdol (100 people)
 	Elkvin (50 people, under Ynfrünar)
 	Lismerlav (150 people, under Düangendol)
@@ -25,7 +25,7 @@ Towns in Thuryngard:
 Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in each fortress other than Thuryngard):
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
 	Ynfrünar
-	Kvappareg
+	Kvappavanin
 	Düangendol
 
 
