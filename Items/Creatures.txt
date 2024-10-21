@@ -288,7 +288,7 @@ Draugr (medium undead):
 	Abilities:
 		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.
 
-		Their bodies resist physical damage. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back, but the reattached limb will be weaker for a few days.
+		Their bodies resist physical damage, and cannot feel pain. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back, but the reattached limb will be weaker for a few days.
 
 		A draugr will rise a day after it's death. The only way to prevent this is by decapitating them or in any way remove at least the upper half of the draugr's head from it's torso.
 
