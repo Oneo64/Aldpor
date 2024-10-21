@@ -345,6 +345,23 @@ Vamerk (medium undead):
 
 
 
+Wraith (medium undead):
+	When someone dies, their corpse has a chance of becoming a wraith only if they were 'magical'. Being 'magical' means if they were a sorcerer, innate seer, or had suffered either short-term intense magical activity, or prolonged magical activity. The wraith will be made about a month later after the person's death.
+
+	Description:
+		A wraith appears to be a dark grey or dark pale brown ghost missing it's lower half. It's body is zombie-like and rotten, and it is wearing any armor or clothing it died with.
+
+	Abilities:
+		Wraiths move by flying in the air. They can fly up to 8 meters a second, but they normally fly at about 4 meters a second. Wraiths are always corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The body of a wraith is generally extremely fragile, the only thing keeping them alive is their armor.
+
+		Wraiths are unable to speak. They also cannot cast any spells unless they were a sorcerer or innate seer.
+
+		They are immune to poisons and all forms of necromantic/necrotic attacks. They are also immune to fire and frost.
+
+		When a wraith dies, it loses it's flying ability, then it's spectral body, armor, and weapons will dissipate into nothing.
+
+
+
 Zombie (medium undead):
 	Zombies are simple undead reanimated by magic.
 
