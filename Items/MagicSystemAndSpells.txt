@@ -752,6 +752,16 @@ Necromantic energy washes over a living creature you point at, instantly drainin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Make Wraith (powerful)
+	Casting time: 6 seconds
+	Range:        50 meters
+	Requirements: V, S, M (a small piece of onyx)
+	Duration:     1 minute
+
+You target one creature you can see within range. You create three wraiths in front of you, clad in any armor and any weapon you choose, as long as the weapon is one handed and there isn't an offhand. The wraiths will then attack the chosen target. If the target dies or the duration ends, the wraith dies.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Speak with Dead (major)
 	Casting time: 6 seconds
 	Range:        10 meters
