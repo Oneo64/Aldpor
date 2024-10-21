@@ -274,6 +274,8 @@ Undead are either reanimated corpses by magic, or resurrected corpses due to nat
 Draugr (medium undead):
 	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it is forced back into it's dead body and will wake up as a draugr 50 to 400 years later.
 
+	If the corpse is sitting or standing upright in it's place of death, it is more likely for this to happen.
+
 	Description:
 		Draugrs looks like a zombie, however they have almost the same mental capacity and combat prowess as they had when they died.
 
@@ -287,6 +289,8 @@ Draugr (medium undead):
 		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.
 
 		Their bodies resist physical damage. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back, but the reattached limb will be weaker for a few days.
+
+		A draugr will rise a day after it's death. The only way to prevent this is by decapitating them or in any way remove at least the upper half of the draugr's head from it's torso.
 
 		Draugrs can still speak, but their voice sounds raspy and deep.
 
