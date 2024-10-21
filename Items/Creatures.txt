@@ -292,6 +292,8 @@ Draugr (medium undead):
 
 		A draugr will rise a day after it's death. The only way to prevent this is by decapitating them or in any way remove at least the upper half of the draugr's head from it's torso.
 
+		They are immune to poisons, and are immune to all forms of necromantic/necrotic attacks that do not target the mind, spirit, or soul.
+
 		Draugrs can still speak, but their voice sounds raspy and deep.
 
 
@@ -309,6 +311,8 @@ Ghost (medium undead):
 
 		They can also decide to turn incorporeal and float through objects, however doing so causes all of their equipment to drop to the ground. Similarly, they can travel to the ethereal plane with the same effect of losing their equipment on travel.
 
+		They are immune to poisons, and are immune to all forms of necromantic/necrotic attacks that do not target the mind, spirit, or soul. They are also immune to fire and frost, and acids do nothing against them.
+
 
 
 Skeleton (medium undead):
@@ -318,9 +322,9 @@ Skeleton (medium undead):
 		The reanimated skeleton of a humanoid. Most skeletons are equipped with a helmet, sometimes with a shield.
 
 	Abilities:
-		These things are dim-witted, and know just enough to use a weapon. They can also see in the dark up to about 20 meters.
+		These things are dim-witted, and know just enough to use a weapon. They can also see in the dark up to about 20 meters. They only understand the languages of it's creator, but cannot speak.
 
-		They only understand the languages of it's creator, but cannot speak.
+		They are immune to poisons.
 
 
 
@@ -335,6 +339,10 @@ Vamerk (medium undead):
 
 		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells.
 
+		They only understand the languages of it's creator, and are only able to speak trained words (such as incantations or simple commands).
+
+		They are immune to poisons.
+
 
 
 Zombie (medium undead):
@@ -345,3 +353,5 @@ Zombie (medium undead):
 
 	Abilities:
 		They are incapable of thought and emotion, and will take the easiest path for them. They cannot comprehend simple obstacles like fire, obvious traps or a pit.
+
+		They are immune to poisons.
