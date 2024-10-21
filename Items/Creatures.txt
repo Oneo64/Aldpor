@@ -272,7 +272,7 @@ Undead are either reanimated corpses by magic, or resurrected corpses due to nat
 ======================================================================================================================================================
 
 Draugr (medium undead):
-	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it is forced back into it's dead body and will wake up as a draugr 50 to 400 years later.
+	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it is forced back into it's dead body and will wake up as a draugr 10 to 20 years later.
 
 	If the corpse is sitting or standing upright in it's place of death, it is more likely for this to happen.
 
