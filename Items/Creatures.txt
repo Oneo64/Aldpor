@@ -337,7 +337,7 @@ Vamerk (medium undead):
 	Abilities:
 		They are capable to using weapons and martial skills. They are just as intelligent as the average person, but are incapable of thought and emotion.
 
-		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells.
+		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells. They can usually learn only 3 to 4 spells, and cannot learn any other type of magic other than wizardry.
 
 		They only understand the languages of it's creator, and are only able to speak trained words (such as incantations or simple commands).
 
