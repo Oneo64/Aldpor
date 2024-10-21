@@ -347,6 +347,15 @@ Potion of Severe Dementia (powerful)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Potion of Wraiths (advanced)
+	Appearance:  The potion is an opaque brown dirt-like liquid that is watery.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Creates a wraith at your service for 10 minutes, geared with a sword, helmet, and tunic. The wraith can understand all languages that you speak.
+
+	Ingredients: One crushed amethyst gorbries, a butterfly coccoon, a pinch of volcanic ash, and a pinch of wraith dust.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Regeneration Potion (basic)
 	Appearance:  The potion is a pale honey-colored liquid.
 	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
@@ -385,7 +394,7 @@ Rotting Curse Potion (powerful)
 	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
 	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva) from the affected person.
 	
-	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, and a pinch of moss, and a pinch of coal powder.
+	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and a pinch of wraith dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
