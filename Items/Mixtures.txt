@@ -153,6 +153,17 @@ Blindness Granting Mixture (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Calming Salve (basic)
+	Appearance:  The salve is a pale brown salve.
+	Usage:       Spread on skin that has touched anything too hot, cold, or areas that hurts, or are numb.
+	Effect:      While the salve is on, it will make that part of body feel better. Or, if used on the forehead or stomach, it can partially subdue any aches.
+	Downside:    This salve does not work on wounds.
+	
+	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of any vegetable oil.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Catalystic Concoction (powerful)
 	Appearance:  It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
 	Usage:       Soak in object, works best in an orb.
