@@ -760,6 +760,10 @@ Make Wraith (powerful)
 
 You target one creature you can see within range. You create three wraiths in front of you, clad in any armor and any weapon you choose, as long as the weapon is one handed and there isn't an offhand. The wraiths will then attack the chosen target. If the target dies or the duration ends, the wraith dies.
 
+You can only have three wraiths at the same time. If you cast this spell again, the previous wraiths die.
+
+If you cast this spell as a seer, the wraiths appear white instead of it's usual dark brown and dirt-like appearance.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Speak with Dead (major)
@@ -969,6 +973,7 @@ SPELL LIST
 
 		POWERFUL MAGIC:
 			Banishment
+			Make Wraith
 
 	DRUID:
 		MINOR SPELLS:
@@ -1108,4 +1113,5 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Make Wraith
 			Imbuement
