@@ -92,7 +92,7 @@ Frost Dragon:
 	Frost dragons are a type of dragon that lives in the most northern or most southern regions of the world. They mostly eat goats or yaks, and they prefer to be alone or with their family.
 
 	Description:
-		Frost dragons has thicker scales, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length.
+		Frost dragons has thicker scales that are pale blue, and grows white fur around the neck and belly at an adult. This makes them resistant and perhaps even immune to cold, however the insides of their mouth and head cannot be frozen despite having no fur. Their necks are longer than fire dragons, being around 3 meters in length. Their eyes are deep blue.
 
 		They take 40 years to mature, and live up to 300 years.
 
@@ -115,7 +115,7 @@ Fire Dragon:
 
 		They take 30 years to mature, and live up to 250 years.
 
-		Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and gold. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
+		Their eggs are gold-bronze colored, and is about 0.5 meters high. Their scales look like stone, and their eyes are dark red and has a golden color in place of the usual white part of the eye. They are about 0.5 meters long as a baby, to 6 meters long at a young age, and most fire dragons grow up to around 18 meters long from nose to rear, and has a tail 14 meters long, being about 31 meters in total. Their wings spread up to 18 meters in length, and are about 9 meters in width.
 
 	Abilities:
 		At an adult, they can breathe continuous fire up to 4 or 5 seconds at a time that reaches 30 meters. Their claws can burn like fire when they use it as a weapon and ignite things, and they can also be used to climb.
