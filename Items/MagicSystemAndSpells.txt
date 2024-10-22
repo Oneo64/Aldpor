@@ -479,7 +479,7 @@ You describe the appearance of one creature that is within range, or you can cho
 	- You make your target (must be within 10 meters) a little luckier, giving them slight physical and mental strength, and is stronger against disease until they sleep for at least an hour.
 	- You make your target (must be within 10 meters) a little unluckier, taking slight physical and mental strength, and is weaker against disease until they sleep for at least an hour.
 
-The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targeted by another seidur spell again for the next week.
+The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targeted by another seidur spell again for the next week. If you cast this spell to give luck or curse unluck, and the target already has another seidur spell on with has the opposite effect, the old spell ends and this spell takes effect. This spell cannot stack.
 
 
 
