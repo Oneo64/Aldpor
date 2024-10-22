@@ -685,6 +685,8 @@ Major Illusion (major)
 
 Choose a 5 meter cube of space within range. As you chant, you can create an illusion of anything in that area, accompanied by appropriate sound, temperature, smell and illumination. You can choose whether it appears natural or not. However, this spell is unable to produce anything intense enough to hurt or damage, such as blinding light, deafening noise, or a sickening smell, or a temperature that burns. You can also choose change the illusion, cause something in the illusion to happen, or move the illusion to any spot you like as long as it is within range.
 
+You can also choose whether anything 'physical' that happens within the illusion is realistic, or follow what you want to happen. However, anything relating to creature behaviour (decision making) and memory is only something you control fully, so that means you must know their behaviour, and memory (if you're making an illusion of someone else) in order to portray them accurately.
+
 If you go further than the range, the spell ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -696,6 +698,8 @@ Minor Illusion (minor)
 	Duration:     concentration up to 1 minutes
 
 Choose a 2 meter cube of space within range. As you chant, you can create an illusion of anything in that area, but it is soundless and cannot provide proper temperature and illumination. You can instead cause a sound you have heard before to emit from a point within range, but it cannot be loud enough to rupture ears.
+
+You can also choose whether anything 'physical' that happens within the illusion is realistic, or follow what you want to happen. However, anything relating to creature behaviour (decision making) and memory is only something you control fully, so that means you must know their behaviour, and memory (if you're making an illusion of someone else) in order to portray them accurately.
 
 If you go further than the range, the spell ends.
 
