@@ -354,7 +354,7 @@ Wraith (medium undead):
 		A wraith appears to be a dark brown dirt-resembling ghost missing it's lower half. It's body is zombie-like and rotten, and it is wearing any armor or clothing it died with.
 
 	Abilities:
-		Wraiths move by flying in the air. They can fly up to 8 meters a second, but they normally fly at about 4 meters a second. Wraiths are always corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The body (not the armor or weapons) of a wraith is generally extremely fragile, and will die instantly if sliced through.
+		Wraiths move by flying in the air. They can fly up to 8 meters a second, but they normally fly at about 4 meters a second. Wraiths are always corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The body (not the armor or weapons) of a wraith is generally extremely fragile, and will die instantly if sliced through. The body of the wraith can also fit into spaces a little smaller than it's actual size, allowing it to slip out of restraints with moderate difficulty.
 
 		Wraiths can see in the dark.
 
