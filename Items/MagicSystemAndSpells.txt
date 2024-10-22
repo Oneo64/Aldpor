@@ -473,12 +473,11 @@ Seidur (basic)
 	Casting time: 30 seconds
 	Range:        infinite
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
-	Duration:     1 day
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
 	- You know if the target will be lucky or unlucky over the next week.
-	- You make your target a little luckier, giving them slight physical and mental strength, and is stronger against disease for the duration.
-	- You make your target a little unluckier, taking slight physical and mental strength, and is weaker against disease for the duration.
+	- You make your target (must be within 10 meters) a little luckier, giving them slight physical and mental strength, and is stronger against disease until they sleep for at least an hour.
+	- You make your target (must be within 10 meters) a little unluckier, taking slight physical and mental strength, and is weaker against disease until they sleep for at least an hour.
 
 The creature can be your friend, a random guard from a town, the king of a kingdom etc. If the creature cannot be found within range, the spell does nothing. If the target was affected, the target cannot be targeted by another seidur spell again for the next week.
 
