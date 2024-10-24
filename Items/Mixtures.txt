@@ -156,7 +156,7 @@ Blindness Granting Mixture (advanced)
 Calming Salve (basic)
 	Appearance:  The salve is a pale brown salve.
 	Usage:       Spread on skin that has touched anything too hot, cold, or areas that hurts, or are numb.
-	Effect:      While the salve is on, it will make that part of body feel better. Or, if used on the forehead or stomach, it can partially subdue any aches.
+	Effect:      While the salve is on, it will make that part of body feel better. It will also help numbness recovery. Or, if used on the forehead or stomach, it can partially subdue any aches. The effect will fully dimish one hour after it has been fully absorbed.
 	Downside:    This salve does not work on wounds.
 	
 	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of any vegetable oil.
@@ -368,8 +368,8 @@ Regeneration Potion (basic)
 
 Regenerative Salve (minor)
 	Appearance:  The salve is a pale yellow salve.
-	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, or other common skin conditions.
-	Effect:      When the salve dries, it will heal 25% of the skin condition or wound.
+	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, or other common/minor skin conditions.
+	Effect:      When the salve dries, it will heal 25% of the skin condition or wound. After 8-10 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on branded or burnt skin, or scars.
 	
 	Ingredients: A handful of ground basil and comfrey leaves (stems removed first), and a few drops of any vegetable oil.
@@ -380,7 +380,7 @@ Regenerative Salve (minor)
 Reverting Salve (advanced)
 	Appearance:  The salve is a pale yellow salve, that slightly glows in the dark.
 	Usage:       Spread on cuts, bruises, rashes, prolonged flustering, skin cancer, or other skin conditions.
-	Effect:      When the salve dries, it will not heal, but revert 30% of the skin condition or wound to it's original state. After 6-7 uses, the skin condition is fully removed.
+	Effect:      When the salve dries, it will not heal, but revert 30% of the skin condition or wound to it's original state. After 6-8 uses, the skin condition is fully removed.
 	Downside:    This salve does not work on scars.
 	
 	Ingredients: A small handful of ground mint, basil, and comfrey leaves (stems removed first), a small handful of ground wild celery, a ground bezoar, and a several drops of any vegetable oil.
