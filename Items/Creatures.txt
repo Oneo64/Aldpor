@@ -355,7 +355,7 @@ Vamerk (medium undead):
 	Vamerks are undead reanimated by magic, usually to serve as servants or guards, usually to guard or secure something.
 
 	Description:
-		Vamerks appear as a corpse like a zombie.
+		Vamerks are risen corpses moved by a magical effect. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. After being reanimated, the zombie will continue to decompose until a point where they start to bloat, which they will stop decomposing.
 
 	Abilities:
 		They are capable to using weapons and martial skills. They are just as intelligent as the average person, but are incapable of thought and emotion.
@@ -393,7 +393,7 @@ Zombie (medium undead):
 	Zombies are simple undead reanimated by magic.
 
 	Description:
-		Zombies are risen corpses. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. After being reanimated, the zombie will continue to decompose until a point where they start to bloat, which they will stop decomposing.
+		Zombies are risen corpses moved by a magical effect. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. After being reanimated, the zombie will continue to decompose until a point where they start to bloat, which they will stop decomposing.
 
 	Abilities:
 		They are incapable of thought and emotion, and will take the easiest path for them. They cannot comprehend simple obstacles like fire, obvious traps or a pit.
