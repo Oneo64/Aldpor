@@ -235,6 +235,8 @@ Gvarth (huge fey):
 
 		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
 
+		Gvarths are unaffected by all psychic attacks.
+
 
 
 Satyr (medium fey):
@@ -312,6 +314,27 @@ Ghost (medium undead):
 		They can also decide to turn incorporeal and float through objects, however doing so causes all of their equipment to drop to the ground. Similarly, they can travel to the ethereal plane with the same effect of losing their equipment on travel.
 
 		They are immune to poisons, and are immune to all forms of necromantic/necrotic attacks that do not target the mind, spirit, or soul. They are also immune to fire and frost, and acids do nothing against them.
+
+
+
+Rotten Gvarth (huge undead):
+	Rotten gvarths are undead trees created from dying or dead trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
+
+	Description:
+		A rotten gvarth looks like a tree, except it has no leaves. It's wood and bark is rotten and decaying, but it's decay has been stopped by fey magic. Some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Most gvarths have a trunk size of wider than 1.5 meter in diameter.
+
+	Abilities:
+		The rotten gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
+
+		Gvarths are unable to move onto or across hard surfaces such as stone, but the rotten gvarth can leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a rotten gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
+
+		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
+
+		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
+
+		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
+
+		Rotten gvarths, unlike ordinary gvarths, are especially vulnerable to fire. It is also unaffected by all poisons, and all necromantic and psychic attacks. However, they are weak to physical attacks, and lightning.
 
 
 

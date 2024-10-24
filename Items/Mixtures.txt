@@ -287,7 +287,7 @@ Mixture of Wraiths (advanced)
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:      Creates a wraith at your service for 10 minutes, geared with a sword, helmet, and tunic. The wraith can understand all languages that you speak.
 
-	Ingredients: One crushed amethyst gorbries, a butterfly coccoon, a pinch of volcanic ash, and a pinch of wraith dust.
+	Ingredients: One crushed amethyst gorbries, a butterfly cocoon, a pinch of volcanic ash, and a pinch of wraith dust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ Potion Acid (basic)
 	Effect:      Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
 	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
 	
-	Ingredients: A butterfly coccoon, three pinches of a mixture of salt and rust.
+	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -324,7 +324,7 @@ Potion of Animal Conjuration (advanced)
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:      Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
 
-	Ingredients: Two crushed amethyst gorbries, a butterfly coccoon, and a carved wooden figurine of the animal to conjure.
+	Ingredients: Two crushed amethyst gorbries, a butterfly cocoon, and a carved wooden figurine of the animal to conjure.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
