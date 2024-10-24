@@ -473,8 +473,11 @@ REACTIONS
 Drinking concoction bomb of earth:
 	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.
 
-Drinking more than 500 ml of regeneration potion under thirty minutes:
-	You get intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, stomach cancer, or a combination of any of these. Conclusion: you're gonna die.
+Drinking more than 500 ml of regeneration potion under one hour:
+	You slowly develop intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, stomach cancer, or a combination of any of these. Conclusion: You're probably gonna die.
+
+Drinking poison solvent or potion acid:
+	Your metabolism is slowed for an hour or two. Also, any potion or poison you consumed earlier suffers the same effect as described in the poison solvent or potion acid effects.
 
 Eating any of the healing salves:
 	It doesn't do anything beyond acting as a food.
