@@ -313,7 +313,7 @@ Potion Acid (basic)
 	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
 	Usage:       Pour into liquid.
 	Effect:      Distills the liquid, reducing it's potency and giving it a bland taste and a discolored look. The same amount of potion acid must be poured in the liquid to completely distill it. The potion acid will boil and evaporate once it's in the potion.
-	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does.
+	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does. If poured into any poison, it is twice less effective, which means some poison would need twice the amount of potion acid to distill that amount of poison.
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
 
@@ -353,6 +353,16 @@ Potion of Severe Dementia (powerful)
 	
 	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
 	Brewing:     It must be boiled for eight hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Poison Solvent (advanced)
+	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
+	Usage:       Pour into poison.
+	Effect:      Evaporates poison. The same amount of poison solvent must be poured in the liquid to completely evaporate it. The poison solvent will boil and evaporate once it's in the poison, causing the poison to do the same at the same speed. Evaporated poison loses it's effect, preventing any accidental inhaling.
+	Downside:    You need to wait for the poison solvent to evaporate with the poison before pouring more into the liquid. If it comes into contact with any other liquid other than poison or poison solvent, it has the same effect except it doesn't actually evaporate the liquid.
+	
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the "fur" of an ekraldi's toadstool, and a chopped great leafbug leg.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

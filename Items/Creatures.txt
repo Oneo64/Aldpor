@@ -27,13 +27,24 @@ Beasts are just animals.
 ======================================================================================================================================================
 
 Glimmering Moth:
-	Glimmering Moths live in the Forests of Rànûdel.
+	Glimmering moths live in the Forests of Rànûdel.
 
 	Appearance:
 		A glimmering moth is a moth approximately 5 times larger than a brown house moth. It has a brown color, with small blue streaks.
 
 	Abilities:
 		Glimmering Moths can fly at a speed of 10 meters a second. They are herbivorous, and they eat moonshrooms.
+
+Great Leafbug:
+	Great leafbugs can be found in the dwarven and hendric forests.
+
+	Appearance:
+		A greatleaf bug looks like a green stickbug, instead it has 6 legs on each side. It is about 1.5 meters long, and live up to 10 years.
+
+	Abilities:
+		The leafbug usually stays in forested areas. It is green, so it is hard to see. However, because it is that big, it has trouble climbing surfaces even though it retains it's wall climbing ability.
+
+		They are herbivorous, and they eat ekraldi's toadstools. Their bodily fluids act as a brine, and will ferment the ekraldi's toadstool as it eats it.
 
 
 
