@@ -511,4 +511,4 @@ Mixing/Drinking conflicting concoctions #2:
 
 	If there are more than three reactions going at the same time, possible explosions can occur.
 
-	If you consumed the potion/salve combination, you start to feel sick and nauseous. Also you probably might need to lie down in order not to feel like absolute sh*t.
+	If you consumed the potion/salve combination, instead of the boiling reaction happening in your stomach, you slightly lose some sense of balance (basically just dizziness) instead.
