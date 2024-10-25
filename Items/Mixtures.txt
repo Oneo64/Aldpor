@@ -370,7 +370,7 @@ Regeneration Potion (basic)
 	Appearance:  The potion is a pale honey-colored liquid.
 	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
 	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
-	Downside:    Can cause cancer if used too much, cannot heal broken bones.
+	Downside:    If used too fast, you may loose potion. Also cannot heal broken bones or scars. If the wound was healed using this potion, you may still feel the pain from the wound. The healed would may also feel numb after usage.
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), and a small handful of ground wild celery.
 
@@ -472,9 +472,6 @@ REACTIONS
 
 Drinking concoction bomb of earth:
 	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.
-
-Drinking more than 500 ml of regeneration potion under one hour:
-	You slowly develop intenstine cancer, kidney cancer, liver cancer, lung cancer, throat cancer, stomach cancer, or a combination of any of these. Conclusion: You're probably gonna die.
 
 Drinking poison solvent or potion acid:
 	Your metabolism is slowed for an hour or two. Also, any potion or poison you consumed earlier suffers the same effect as described in the poison solvent or potion acid effects.
