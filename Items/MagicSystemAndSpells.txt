@@ -587,9 +587,9 @@ A streak of orange light flashes from your hands, causing the impact point to bu
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fire Bolt (basic)
-	Casting time: 3 seconds
+	Casting time: instantaneous
 	Range:        40 meters
-	Requirements: V, S
+	Requirements: V, SG
 
 A bolt of fire shoots out of your hands, and bursts into a little puff of fire on impact.
 
@@ -618,7 +618,7 @@ Magic Missiles (basic)
 	Range:        40 meters
 	Requirements: V, SG
 
-Three darts of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue.
+Three specks of blue magic leap from your fingers one after another, homing onto an object or creature you choose, striking it in a flash of blue.
 
 You can also control the direction it flies in, which means you can set the path of the missiles fly around an obstacle or through an opening to hit the creature. The length of it's path is limited by the range. If you cannot see an individual missile, you lose control of it.
 
