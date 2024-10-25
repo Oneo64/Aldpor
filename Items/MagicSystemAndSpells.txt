@@ -205,7 +205,7 @@ Shield (basic)
 	Casting time: instantaneous
 	Range:        N/A
 	Requirements: V, SG
-	Duration:     concentration up to 30 seconds
+	Duration:     concentration up to 10 seconds
 
 A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a second, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
 
@@ -651,7 +651,7 @@ Sparks (basic)
 	Range:        20 meters
 	Requirements: V, SG
 
-A thin bolt of electricity connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
+A few thin bolts of electricity connects your pointing finger to a point you are pointing at. Creatures drenched in water take more damage.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
