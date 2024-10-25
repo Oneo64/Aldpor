@@ -125,11 +125,11 @@ In order to use this spell, you must know how the same type of lock you are goin
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Counterspell (basic)
-	Casting time: instantaneous
+	Casting time: 3 seconds
 	Range:        40 meters
-	Requirements: V
+	Requirements: V, S
 
-With a word or two, you can interrupt basic and minor spell concentration of a creature you can see in range. More practice and experience with using this spell can turn it's class into major or powerful, and can counter any spell that has a class of your counterspell's class or lower. At powerful, the counterspell can counter almost every magic.
+You can interrupt a basic or minor spell concentration of a creature you can see in range. More practice and experience with using this spell can turn it's class into major or powerful, and can counter any spell that has a class of your counterspell's class or lower. At powerful, the counterspell can counter almost every magic.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
