@@ -33,7 +33,7 @@ Personality:
 Abilities:
 	Combat experience (defended town from small group of vamerks with the help of town guards)
 
-	Sword fighting with shield (3 years practice, no training)
+	Sword fighting with shield (3 years practice, no training) (average in combat)
 	Horse Riding
 
 	Aodesvic

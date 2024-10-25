@@ -27,6 +27,8 @@ Personality:
 		She likes to eat practal gorbry stew
 
 Abilities:
+	Spear (no training no experience)
+
 	Horse Riding (7 years experience)
 	Herbalism
 	Stealth

@@ -20,19 +20,17 @@ Weapons:
 Personality:
 	POSITIVE:
 		1. Careful
-		2. Mindful
-		3. Restless
-		4. Stoic
+		2. Restless
+		3. Stoic
 
 	NEGATIVE:
-		1. Judgemental
-		2. Unfriendly
-		3. Cruel
+		1. Unfriendly
+		2. Cruel
 		
 	Realistic (perspective on the future)
 
 Abilities:
-	Sword
+	Sword and shield (very skilled in combat)
 	Magic
 
 	Galabric
