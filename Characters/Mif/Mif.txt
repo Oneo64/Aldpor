@@ -2,10 +2,10 @@ Mif Rulskrod/Galigt
 Female
 Age: 55 (born 916, July 8)
 Alignment: Neutral
-Ethnicity: Daggsvaldian
+Ethnicity: Dagsvaldian
 Race:      Human
 
-Mif is a human from Arggonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and boots. She is 163 centimeters tall.
+Mif is a human from Argonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and boots. She is 163 centimeters tall.
 
 Personality:
 	POSITIVE:
@@ -24,7 +24,7 @@ Personality:
 Abilities:
 	Alchemy (potion brewing, minor potions), additional alchemy knowledge: Curing Tonic
 
-	Daggsvaldian
+	Dagsvaldian
 	Esrel
 
 Possessions:

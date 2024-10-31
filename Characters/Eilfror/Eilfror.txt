@@ -2,7 +2,7 @@ Eilfror Eralmid
 Male
 Age: 33 (born 940, April 2)
 Alignment: Neutral
-Ethnicity: Daggsvaldian
+Ethnicity: Dagsvaldian
 Race:      Human
 
 Eilfror is the current Jarl of Ulfalvik Castle.
@@ -13,6 +13,6 @@ Weapons:
 Abilities:
 	Longaxe
 
-	Daggsvaldian
+	Dagsvaldian
 	Esrel
 	Hendric

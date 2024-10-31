@@ -3,13 +3,13 @@ Race Majority: Human
 Culture type: Norse
 Population: 40,000 in settlements, 200 in fortresses, 1500 in Thuryngard, ~41,700 people in total
 
-Main languages: Daggsvaldian
+Main languages: Dagsvaldian
 Other languages: Esrel
 
 Ruler: Palfar Thoskar II
 
 Important villages, (400 settlements, average 100 people each village):
-	Arggonlav (150 people, under Kvappavanin)
+	Argonlav (150 people, under Kvappavanin)
 	Baserdol (100 people)
 	Elkvin (50 people, under Ynfrünar)
 	Lismerlav (150 people, under Düangendol)
@@ -20,7 +20,7 @@ Cities:
 Towns in Thuryngard:
 	Thalmundol (600 people)
 	Kasgjendil (500 people)
-	Vilsnaggur (400 people)
+	Vilsnagur (400 people)
 
 Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in each fortress other than Thuryngard):
 	Thuryngard (Capital), also known as Thuryngard Ring Fortress
@@ -49,7 +49,7 @@ There are 20 guards patrolling the outer ring, 20 guards patrolling the towns, 1
 MILITARY
 ======================================================================================================================================================
 
-Daggsvald has around 2000 men in their army, but most live in their homes.
+Dagsvald has around 2000 men in their army, but most live in their homes.
 
 
 ======================================================================================================================================================

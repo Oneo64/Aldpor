@@ -2,10 +2,10 @@ Ljorn Rulskrod
 Male
 Age: 25 (born 947, December 2)
 Alignment: Lawful Neutral
-Ethnicity: Daggsvaldian
+Ethnicity: Dagsvaldian
 Race:      Human
 
-Ljorn is a wizard from Arggonlav. His hair is dark blond and wavy, is a little longer than shoulder length. His hair is combed back and wears a cloth strip around his head to keep his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people.
+Ljorn is a wizard from Argonlav. His hair is dark blond and wavy, is a little longer than shoulder length. His hair is combed back and wears a cloth strip around his head to keep his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people.
 
 He wears a woolen brown cloak held by a brooch, a long blue calf length tunic, baggy brown pants, a belt and a pair of boots. He has a baldric carrying a scabbard with a 5-lobed viking sword on his belt, and his belt carries two leather pouches. Under the baldric he carries a small seax, and a waterskin. He also carries a 7 cm wooden orb in diameter, hung on the belt in a pouch made for it, and is carried on his back side to the left. He wears a necklace of Talmundur's symbol (silver) with a bunch of labradorite and onyx beads (8 labradorite and 2 onyx to be precise). He is 178 (5' 10") centimeters tall.
 
@@ -34,10 +34,10 @@ Personality/Behaviour:
 
 	Specific:
 		Deer meat is his favorite food
-		Has heavy Daggsvaldian accent
+		Has heavy Dagsvaldian accent
 
 		Ljorn doesn't like getting himself involved in things that aren't related to him
-		Ljorn speaks English as if he's speaking Daggsvaldian relexed into English
+		Ljorn speaks English as if he's speaking Dagsvaldian relexed into English
 
 		Reads and studies magic in free time
 
@@ -54,7 +54,7 @@ Abilities:
 	Drawing
 	Plaræggna
 
-	Daggsvaldian
+	Dagsvaldian
 	Hendric (not fluent)
 	Esrel
 	Primordial (not fluent)

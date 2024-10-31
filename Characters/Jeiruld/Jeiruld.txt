@@ -5,7 +5,7 @@ Alignment: Lawful Neutral
 Ethnicity: Hendric
 Race:      Human
 
-Jeiruld is a wizard born in Forthias, Hendril, but he later traveled to Daggsvald, and opened an arcane evocation school called Academy of Aldorim, and is the current headmaster.
+Jeiruld is a wizard born in Forthias, Hendril, but he later traveled to Dagsvald, and opened an arcane evocation school called Academy of Aldorim, and is the current headmaster.
 
 He is a human, old and balding. He has dark brown eyes. He wears a black silk cloak, dark red robes, a belt, and a pair of boots. He also wears a plain golden circlet, and two silver rings on his left land. The front of his robes has two large pockets on the chest and leg part, holding things like spell components, papers, or scrolls. He wears a necklace that has all sorts of fangs and claws from bears, big cats, boars and other animals. Because of old age, he walks around with a walking stick. He is 170 centimeters tall.
 
@@ -35,7 +35,7 @@ Abilities:
 	Hendric
 	Rànûdan
 	Primordial
-	Daggsvaldian
+	Dagsvaldian
 	Esrel
 	Abyssal
 
@@ -75,7 +75,7 @@ Backstory:
 	Jeiruld started to teach himself magic. A few months later, he joined a group of mercenaries, hired by the local lords to take out three earth elementals that were sighted in the Hendric Forests 10 kilometers southwest. They were able to kill the earth elementals.
 
 	931 AD
-	Jeiruld traveled to Daggsvald.
+	Jeiruld traveled to Dagsvald.
 
 	933 AD
 	Two years later, he paid several men to start the construction of the Academy of Aldorim.

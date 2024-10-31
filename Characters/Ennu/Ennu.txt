@@ -2,7 +2,7 @@ Ennu Yggyrnandi
 Female
 Age: 21 (born 952, January 27)
 Alignment: Lawful Neutral
-Ethnicity: Daggsvaldian
+Ethnicity: Dagsvaldian
 Race:      Human
 
 Ennu is a druid from Lismerlav. She has grey eyes, and pale skin. Her hair is light brown, done into a crown braid with a single braid that is armpit length. Her face is also covered in freckles. She wears a long muted green tunic with brown accents, baggy grey pants, a belt, and a pair of shoes. She wears a necklace made of malachite beads.
@@ -26,7 +26,7 @@ Personality:
 Abilities:
 	Druidic Magic
 
-	Daggsvaldian
+	Dagsvaldian
 	Druidic
 	Hendric (English)
 

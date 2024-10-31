@@ -2,7 +2,7 @@ Threin Yggyrnandi
 Male
 Age: 45 (born 927, September 10)
 Alignment: Lawful Good
-Ethnicity: Daggsvaldian
+Ethnicity: Dagsvaldian
 Race:      Human
 
 Threin is a human from Lismerlav. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles. Threin wears a muted aqua (blueish green) tunic, baggy brown pants, a belt, and a pair of boots. He wears an iron amulet of Hirulfyr's symbol.
@@ -28,6 +28,6 @@ Abilities:
 	Hunting
 	Longboat Control
 
-	Daggsvaldian
+	Dagsvaldian
 	Druidic
 	Hendric (English)

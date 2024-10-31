@@ -3,9 +3,9 @@ Male
 Age: 24 (born 948, July 23)
 Alignment: Lawful Good
 Ethnicity: Human
-Race:      Daggsvaldian
+Race:      Dagsvaldian
 
-Rond is a wizard from Arggonlav. He has dark blond hair with two braids at the front of his chest. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears a dark red cloak, a calf-length blue tunic, brown pants, a ring belt, and a pair of boots. He wears a bronze circlet.
+Rond is a wizard from Argonlav. He has dark blond hair with two braids at the front of his chest. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears a dark red cloak, a calf-length blue tunic, brown pants, a ring belt, and a pair of boots. He wears a bronze circlet.
 
 Rond has studied the history of the last 1500 years, and he also knows about Furnalfa and Parhrüvaryg.
 
@@ -25,9 +25,9 @@ Abilities:
 	Alchemy (potion brewing, advanced potions)
 	Medical things
 
-	Daggsvaldian
+	Dagsvaldian
 	Esrel
-	Primal Daggsvaldian
+	Primal Dagsvaldian
 	Primordial
 
 	Arcane Magic:
