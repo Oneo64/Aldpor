@@ -73,13 +73,13 @@ Abilities:
 			Cold Snare, Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall, Feign Death, Fire Bolt
-			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
 			Seidur, Shield, Sparks
 
 		Major:
 			Animate Dead
 			Create Golem
+			Invisibility
 			Lightning Bolt
 			Major Illusion
 

@@ -42,12 +42,12 @@ Abilities:
 			Counterspell
 			Detect Magic
 			Fire Bolt
-			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
 			Shield, Sparks
 
 		Major:
 			Conjure Elementals
 			Etherealness
+			Invisibility
 			Polymorph
 			Telekinesis

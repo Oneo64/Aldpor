@@ -50,7 +50,6 @@ Abilities:
 			Cold Snare, Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall
-			Invisibility
 			Mage Armor, Magic Missiles, Misty Step
 			Seidur, Shield, Sparks
 
@@ -60,6 +59,7 @@ Abilities:
 			Fireball
 			Greater Runic Staves
 			Hold Person
+			Invisibility
 			Locate Object, Lightning Bolt
 			Major Illusion
 			Polymorph

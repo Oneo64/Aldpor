@@ -705,7 +705,7 @@ If you go further than the range, the spell ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Invisibility (basic)
+Invisibility (major)
 	Casting time: 3 seconds
 	Range:        touch
 	Requirements: V, S
@@ -1081,7 +1081,6 @@ SPELL LIST
 			Feather Fall
 			Feign Death
 			Fire Bolt
-			Invisibility
 			Mage Armor
 			Magic Missile
 			Mending
@@ -1102,6 +1101,7 @@ SPELL LIST
 			Greater Runic Staves
 			Hold person
 			Ice Storm
+			Invisibility
 			Locate Object
 			Lightning Bolt
 			Magic Circle
