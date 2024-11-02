@@ -61,7 +61,31 @@ Abilities:
 
 	Sword fighting with and without shield (6 years practice/experience) (average in combat)
 
-	Arcane Magic:
+	Arcane Magic (22 spells):
+		Minor:
+			Illusory Script
+			Lesser Runic Staves
+			Mage Hand, Message
+			Prestidigitation
+
+		Basic:
+			Counterspell
+			Detect Magic, Detect Thoughts
+			Feather Fall, Feign Death, Fire Bolt
+			Icy Touch
+			Mage Armor, Magic Missiles, Misty Step
+			Seidur, Shield, Sparks
+
+		Major:
+			Animate Dead
+			Invisibility
+			Lightning Bolt
+			Major Illusion
+
+
+
+		test
+
 		Minor:
 			Illusory Script
 			Lesser Runic Staves

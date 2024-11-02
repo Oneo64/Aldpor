@@ -56,8 +56,9 @@ Abilities:
 		Basic:
 			Animal Messenger
 			Barkskin
-			Cold Snare, Cure Wounds
+			Cure Wounds
 			Detect Evil and Good
+			Icy Touch
 			Lesser Restoration
 			Misty Step, Moonbeam
 			Seidur, Shillelagh

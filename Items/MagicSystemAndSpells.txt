@@ -25,6 +25,13 @@ Components:
 	SG = Somatic gesture (simply pointing, touching, reaching, etc)
 	M = Material
 
+Magic spells reference:
+	<10:   Starting
+	10-15: Average
+	15-20: Above average
+	20-25: Strong
+	25+:   Master
+
 
 
 ======================================================================================================================================================
@@ -307,7 +314,7 @@ If a fey conjured by this spell dies, it disappears in a puff of lively green mi
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Create Golem (major)
+Create Golem (powerful)
 	Casting time: 5 minutes
 	Range:        5 meters
 	Requirements: V, SG
@@ -553,16 +560,6 @@ A creature you point at falls down, paralyzed. The creature is unable to move th
 EVOCATION
 ======================================================================================================================================================
 
-Cold Snare (basic)
-	Casting time: 3 seconds
-	Range:        40 meters
-	Requirements: V, S, M (a handful of a mixture of moss and silver powder, which is consumed on use)
-	Duration:     5 minutes
-
-A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing. If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Cure Wounds (basic)
 	Casting time: 3 seconds
 	Range:        touch
@@ -615,6 +612,16 @@ Ice Storm (major)
 	Requirements: V, S
 
 An area you can see within range rains down a burst of heavy hail in a 5 meter radius.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Icy Touch (basic)
+	Casting time: 3 seconds
+	Range:        40 meters
+	Requirements: V, S, M (a handful of a mixture of moss and silver powder, which is consumed on use)
+	Duration:     5 minutes
+
+A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing. If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -769,7 +776,7 @@ Necromantic energy washes over a living creature you point at, instantly drainin
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Make Wraith (powerful)
+Make Wraiths (powerful)
 	Casting time: 6 seconds
 	Range:        50 meters
 	Requirements: V, S, M (a small piece of onyx)
@@ -1018,11 +1025,11 @@ SPELL LIST
 		BASIC MAGIC:
 			Animal Messenger
 			Barkskin
-			Cold Snare
 			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
 			Feign Death
+			Icy Touch
 			Lesser Restoration
 			Mending
 			Moonbeam
@@ -1065,11 +1072,11 @@ SPELL LIST
 			Message
 
 		BASIC MAGIC:
-			Cold Snare
 			Detect Magic
 			Dragonfire
 			Feather Fall
 			Fire Bolt
+			Icy Touch
 			Mage Armor
 			Magic Missile
 			Mending
@@ -1105,13 +1112,13 @@ SPELL LIST
 		BASIC MAGIC:
 			Arcane Lock
 			Arcane Unlock
-			Cold Snare
 			Counterspell
 			Detect Magic
 			Detect Thoughts
 			Feather Fall
 			Feign Death
 			Fire Bolt
+			Icy Touch
 			Mage Armor
 			Magic Missile
 			Mending
@@ -1125,7 +1132,6 @@ SPELL LIST
 			Arcane Eye
 			Conjure Elementals
 			Control Water
-			Create Golem
 			Dispel Magic
 			Etherealness
 			Fireball
@@ -1147,5 +1153,6 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Create Golem
 			Make Wraith
 			Imbuement

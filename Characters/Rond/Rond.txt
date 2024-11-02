@@ -30,7 +30,7 @@ Abilities:
 	Primal Dagsvaldian
 	Primordial
 
-	Arcane Magic:
+	Arcane Magic (20 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -42,6 +42,7 @@ Abilities:
 			Counterspell
 			Detect Magic
 			Fire Bolt
+			Icy Touch
 			Mage Armor, Magic Missiles, Misty Step
 			Shield, Sparks
 

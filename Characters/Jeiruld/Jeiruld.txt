@@ -39,7 +39,7 @@ Abilities:
 	Esrel
 	Abyssal
 
-	Arcane Magic:
+	Arcane Magic (33 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
@@ -47,9 +47,10 @@ Abilities:
 
 		Basic:
 			Arcane Lock, Arcane Unlock
-			Cold Snare, Counterspell
+			Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall
+			Icy Touch
 			Mage Armor, Magic Missiles, Misty Step
 			Seidur, Shield, Sparks
 
