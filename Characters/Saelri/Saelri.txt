@@ -45,7 +45,7 @@ Abilities:
 		Elk (travel)
 		Raven (flight)
 
-	Druidic Magic:
+	Druidic Magic (21 spells):
 		Minor:
 			Calming Touch
 			Druidcraft
