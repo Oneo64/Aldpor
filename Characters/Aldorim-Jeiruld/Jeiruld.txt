@@ -39,7 +39,7 @@ Abilities:
 	Esrel
 	Abyssal
 
-	Arcane Magic (33 spells):
+	Arcane Magic (34 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
@@ -69,7 +69,7 @@ Abilities:
 			Telekinesis
 
 		Powerful:
-			Banishment, Blight
+			Banishment, Blight, Create Golem
 
 Backstory:
 	910 AD
