@@ -515,6 +515,20 @@ If the target is possessed (not charmed!), the possessor will take a shot of men
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Calming Touch (minor)
+	Casting time: instantaneous
+	Range:        touch
+	Requirements: V, SG
+	Duration:     concentration up to 10 minutes
+
+You touch a creature. You can choose one of these effects to happen while your hand is on them:
+	- The target will feel either warmer or cooler to move them closer to their appropriate temperature.
+	- The target will feel calmer and released from any stress. This also affects phobias, but doesn't remove them.
+	- Any seizures or strokes on the target stops affecting it.
+	- Any nightmares or night terrors on the target are transformed into better dreams.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Feign Death (basic)
 	Casting time: 3 seconds
 	Range:        touch
@@ -980,6 +994,7 @@ SPELL LIST
 
 	DRUID:
 		MINOR SPELLS:
+			Calming Touch
 			Druidcraft
 			Earth Bolt
 			Entangle

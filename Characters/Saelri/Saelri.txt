@@ -47,20 +47,23 @@ Abilities:
 
 	Druidic Magic:
 		Minor:
+			Calming Touch
 			Druidcraft
 			Entangle
+			Illusory Script
 			Lesser Runic Staves
 
 		Basic:
 			Animal Messenger
-			Cure Wounds
-			Moonbeam
+			Barkskin
+			Cold Snare, Cure Wounds
+			Detect Evil and Good
+			Lesser Restoration
+			Misty Step, Moonbeam
 			Seidur, Shillelagh
 
 		Major:
-			Conjure Animals
-			Conjure Woodland Beings
-			Control Water
+			Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
 			Travel by Tree
 
 Possessions:
