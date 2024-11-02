@@ -82,31 +82,6 @@ Abilities:
 			Lightning Bolt
 			Major Illusion
 
-
-
-		test
-
-		Minor:
-			Illusory Script
-			Lesser Runic Staves
-			Mage Hand, Message
-			Prestidigitation
-
-		Basic:
-			Arcane Lock, Arcane Unlock
-			Cold Snare, Counterspell
-			Detect Magic, Detect Thoughts
-			Feather Fall, Feign Death, Fire Bolt
-			Mage Armor, Magic Missiles, Misty Step
-			Seidur, Shield, Sparks
-
-		Major:
-			Animate Dead
-			Create Golem
-			Invisibility
-			Lightning Bolt
-			Major Illusion
-
 Possessions:
 	Traveling:
 		Front pouch (12x17x5 cm):
