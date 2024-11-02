@@ -945,6 +945,20 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Stormwall (powerful)
+	Casting time: 6 seconds
+	Range:        self
+	Requirements: V, S, M (handful of leaves consumed on use)
+	Duration:     concentration up to 30 minutes
+
+A cyclone of fast wind manifests around you in a 10 meter radius. The wind picks up small things like dust, leaves, and sticks, which fly around you and prevent anyone from being able to see through it.
+
+All fire that enter are instantly extinguished, and any projectile, object, or creature that tries to enter is knocked to the side. The same happens if trying to leave the cyclone. Fire elementals do not instantly die, but are harmful to them.
+
+The only things that can enter include: arrows and siege weapon projectiles.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Telekinesis (major)
 	Casting time: 3 seconds
 	Range:        40 meters
@@ -1042,6 +1056,7 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Stormwall
 
 	SORCERER:
 		MINOR SPELLS:
@@ -1075,6 +1090,7 @@ SPELL LIST
 			Banishment
 			Blight
 			Imbuement
+			Stormwall
 
 	WIZARD:
 		MINOR SPELLS:
