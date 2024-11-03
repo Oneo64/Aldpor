@@ -27,6 +27,7 @@ Personality/Behaviour:
 
 	NEGATIVE:
 		1. Appears Cold (Half-expressionless)
+		2. Externally aloof
 		2. Reserved
 		
 	Slightly introverted
