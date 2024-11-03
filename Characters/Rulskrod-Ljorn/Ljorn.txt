@@ -51,6 +51,7 @@ Abilities:
 		Fire-throwing Grenade
 		Nontoxic Seizure Concoction
 		Potion of Animal Conjuration
+		Transmutation Liquid of Animal
 
 	Drawing
 	Plaræggna

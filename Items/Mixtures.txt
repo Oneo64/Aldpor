@@ -446,6 +446,16 @@ Slow-falling Potion (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Transmutation Liquid of Animal (advanced)
+	Appearance:  The potion is an opaque dark tan syrupy liquid.
+	Usage:       Drink.
+	Effect:      Transforms you into an animal exactly like the spell Polymorph, corresponding to the wooden figurine. If the animal has different breeds, you transform into one that fits best with your personality. You retain your mental capabilities, but the animal to transform can only be smaller than you, cannot possess more strength than you, and cannot be a magical creature. If the potion does not meet these requirements, the potion does nothing and is wasted.
+	Downside:    Even though other animals are more reluctant to see you as a mating partner or prey, it is still possible.
+
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, a raw fermented egg of any bird (shells included), and a carved wooden figurine of the animal to become.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Traumatic Relife Potion (powerful)
 	Appearance:  The potion is a black slop. It also feels about 10 degrees Celsius colder.
 	Usage:       Drink.
