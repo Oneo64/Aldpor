@@ -39,7 +39,7 @@ Abilities:
 	Esrel
 	Abyssal
 
-	Arcane Magic (34 spells):
+	Arcane Magic (37 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
@@ -49,13 +49,13 @@ Abilities:
 			Arcane Lock, Arcane Unlock
 			Counterspell
 			Detect Magic, Detect Thoughts
-			Feather Fall
+			Feather Fall, Fire Bolt
 			Icy Touch
 			Mage Armor, Magic Missiles, Misty Step
 			Seidur, Shield, Sparks
 
 		Major:
-			Arcane Eye
+			Animate Dead, Arcane Eye
 			Dispel Magic
 			Fireball
 			Greater Runic Staves
@@ -69,7 +69,9 @@ Abilities:
 			Telekinesis
 
 		Powerful:
-			Banishment, Blight, Create Golem
+			Banishment, Blight
+			Create Golem
+			Darkness
 
 Backstory:
 	910 AD

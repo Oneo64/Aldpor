@@ -569,6 +569,20 @@ You touch a creature. You can choose up to 3 wounds or one broken limb/bone to h
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Darkness (powerful)
+	Casting time: 10 seconds
+	Range:        50 meters
+	Requirements: V, S, M (a medium piece of black onyx)
+	Duration:     concentration up to 10 minutes
+
+A spot on the ground you can see starts emitting magical darkness that spreads into a area 4 meters in radius. The darkness spreads around corners. The darkness blocks out all light, and anyone within the radius are blinded. Anyone inside, if they are not actually blind, cannot suffer permanent blindness while they are inside.
+
+The darkness appears to be a pitch-black mist that slowly spreads out from the point chosen, swirling like a fire slowed 10 times.
+
+You can also choose a point on an object to emit this darkness. If this object moves, and the darkness moves with it.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dragonfire (basic)
 	Casting time: instantaneous
 	Range:        10 meters
@@ -698,6 +712,18 @@ A faint wave of sunlight shoots out of your palm and briefly engulfs a target yo
 ILLUSION
 ======================================================================================================================================================
 
+Blur (basic)
+	Casting time: 3 seconds
+	Range:        touch
+	Requirements: V, S
+	Duration:     concentration up to 10 minutes
+
+A creature or an object that you can hold seems to swirl and blur in the air like its been looked through a liquid and a sheet of ice for the duration. Basically, the target becomes hard to see in areas like a forest, or if they are standing far away. If target is a creature and it dies, the spell still remains. If the target is an object and it breaks or is modified, the spell ends.
+
+If the creature picks up any item, or wears anything extra, the additional object is not affected by the spell. If the creature drops an item, the spell effect on that item ends.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Major Illusion (major)
 	Casting time: 3 seconds
 	Range:        40 meters
@@ -734,7 +760,7 @@ Invisibility (major)
 
 A creature or an object that you can hold turns invisible for the duration. If target is a creature and it dies, the spell still remains. If the target is an object and it breaks or is modified, the spell ends.
 
-If the creature picks up any item, or wears anything extra, the additional object is not turned invisible.
+If the creature picks up any item, or wears anything extra, the additional object is not affected by the spell. If the creature drops an item, the spell effect on that item ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -755,7 +781,7 @@ NECROMANCY
 Animate Dead (major)
 	Casting time: 30 seconds
 	Range:        10 meters
-	Requirements: V, S, M (a small piece of onyx)
+	Requirements: V, S, M (a small piece of black onyx)
 
 A corpse you can see within range that has a size of large or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least half of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
 
@@ -779,7 +805,7 @@ Necromantic energy washes over a living creature you point at, instantly drainin
 Make Wraiths (powerful)
 	Casting time: 6 seconds
 	Range:        50 meters
-	Requirements: V, S, M (a small piece of onyx)
+	Requirements: V, S, M (a small piece of black onyx)
 	Duration:     1 minute
 
 You target one creature you can see within range. You create three wraiths in front of you, clad in any armor and any weapon you choose, as long as the weapon is one handed and there isn't an offhand. The wraiths will then attack the chosen target. If the target dies or the duration ends, the wraith dies.
@@ -1072,6 +1098,7 @@ SPELL LIST
 			Message
 
 		BASIC MAGIC:
+			Blur
 			Detect Magic
 			Dragonfire
 			Feather Fall
@@ -1096,6 +1123,7 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Blight
+			Darkness
 			Imbuement
 			Stormwall
 
@@ -1112,6 +1140,7 @@ SPELL LIST
 		BASIC MAGIC:
 			Arcane Lock
 			Arcane Unlock
+			Blur
 			Counterspell
 			Detect Magic
 			Detect Thoughts
@@ -1132,6 +1161,7 @@ SPELL LIST
 			Arcane Eye
 			Conjure Elementals
 			Control Water
+			Darkness
 			Dispel Magic
 			Etherealness
 			Fireball
@@ -1154,5 +1184,6 @@ SPELL LIST
 			Banishment
 			Blight
 			Create Golem
+			Darkness
 			Make Wraith
 			Imbuement
