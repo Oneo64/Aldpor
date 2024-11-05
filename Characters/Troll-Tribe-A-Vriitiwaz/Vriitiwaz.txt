@@ -16,11 +16,10 @@ Weapons:
 
 Personality:
 	POSITIVE:
-		1. Considerate
-		2. Eccentric and whimsical
+		1. Eccentric and whimsical
+		2. Open minded
 
 	NEGATIVE:
-		1. Angered easily
 		2. Lost in thought
 
 	Realistic view of future

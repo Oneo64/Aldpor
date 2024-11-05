@@ -1,7 +1,7 @@
 Algord Rulskrod
 Male
 Age: 57 (born 915, August 26)
-Alignment: Neutral Good
+Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
@@ -15,7 +15,6 @@ Weapons:
 Personality:
 	POSITIVE:
 		1. Patient
-		2. Reliable
 
 	NEGATIVE:
 		1. Distrustful

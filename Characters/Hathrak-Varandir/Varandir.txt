@@ -18,7 +18,7 @@ Personality:
 		2. Loyal
 
 	NEGATIVE:
-		1. Pompous
+		1. Boastful
 		2. Messy
 
 Abilities:

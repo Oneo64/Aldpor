@@ -15,7 +15,7 @@ Personality:
 		2. Creative
 
 	NEGATIVE:
-		1. Regimental
+		1. Might act arrogant
 
 	Realistic (perspective on the future)
 

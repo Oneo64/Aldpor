@@ -1,7 +1,7 @@
 Sâelri Vaond
 Female
 Age: 45, looks 35 (born 928, January 10)
-Alignment: Neutral
+Alignment: Neutral Good
 Ethnicity: Esrel
 Race:      Cold Elf
 
@@ -22,8 +22,8 @@ Personality:
 		3. Patient
 
 	NEGATIVE:
-		1. Extravagant
-		2. Disorganized
+		1. Disorganized
+		2. Little sense of money saving
 
 	Realistic view of future
 

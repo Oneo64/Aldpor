@@ -1,7 +1,7 @@
 Mod Gorzadun
 Male
 Age: 40 (born 933, April 1)
-Alignment: Chaotic Neutral
+Alignment: Lawful Good
 Ethnicity: Banodic
 Race:      Dwarf
 
@@ -17,12 +17,12 @@ Weapons:
 
 Personality:
 	POSITIIVE:
-		1. Sharing
-		2. Magnanimous
+		1. Goodhearted
+		2. Kind
 
 	NEGATIVE:
-		1. Reckless
-		2. Pompous
+		1. Boastful
+		2. Reckless
 
 Abilities:
 	War Hammer (20 years training, 10 years experience) (above average in combat)
