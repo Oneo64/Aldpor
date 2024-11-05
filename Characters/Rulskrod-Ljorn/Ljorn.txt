@@ -1,7 +1,7 @@
 Ljorn Rulskrod
 Male
 Age: 25 (born 947, December 2)
-Alignment: Lawful Neutral
+Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
@@ -22,8 +22,7 @@ Weapons:
 Personality/Behaviour:
 	POSITIVE:
 		1. Goodhearted
-		2. Honest
-		3. Observant
+		2. Observant
 
 	NEGATIVE:
 		1. Appears Cold (Half-expressionless)
