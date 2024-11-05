@@ -40,6 +40,7 @@ General body features and personality traits:
 Cold Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
+		Can survive 5 degrees celsius (and being naked) and still feel fine.
 
 		Ages until 130 years old. (Looks 25% younger.)
 
@@ -61,6 +62,7 @@ Cold Elf:
 
 Moon Elf:
 	Abilities:
+		Has natural darkvision up to 10 meters.
 		Keen sense of balance.
 		Ages until 200 years old. (Looks twice as young.)
 
