@@ -39,7 +39,7 @@ Abilities:
 	Esrel
 	Abyssal
 
-	Arcane Magic (37 spells):
+	Arcane Magic (38 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
@@ -72,6 +72,7 @@ Abilities:
 			Banishment, Blight
 			Create Golem
 			Darkness
+			Sunbeam
 
 Backstory:
 	910 AD
