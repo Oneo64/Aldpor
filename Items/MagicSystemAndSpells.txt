@@ -1065,6 +1065,7 @@ SPELL LIST
 		BASIC MAGIC:
 			Animal Messenger
 			Barkskin
+			Blur
 			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
