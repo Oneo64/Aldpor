@@ -212,9 +212,9 @@ Shield (basic)
 	Casting time: instantaneous
 	Range:        N/A
 	Requirements: V, SG
-	Duration:     concentration up to 10 seconds
+	Duration:     2 seconds
 
-A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a second, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
+A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a couple of seconds, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
 
 
 
