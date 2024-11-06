@@ -699,6 +699,18 @@ An area you can see within range rains down a burst of sulfur about the size of 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Sunbeam (major)
+	Casting time: instantaneous
+	Range:        200 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use, and a small piece of amber)
+
+A small, foot-wide beam of sunlight shines from your hand like a laser. It scorches anything flammable that it touches, including flesh, wood, coal, grass, etc.
+If the beam exceeds 100 meters, then from there it will start to weaken until 200 meters where it is completely ineffective.
+
+However, they are almost useless against golems and elementals (except ice elementals) since they are not made of a flammable material.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Wash of Radiance (basic)
 	Casting time: instantaneous
 	Range:        20 meters
