@@ -55,7 +55,7 @@ Abilities:
 
 		Basic:
 			Animal Messenger
-			Barkskin
+			Barkskin, Blur
 			Cure Wounds
 			Detect Evil and Good
 			Icy Touch
