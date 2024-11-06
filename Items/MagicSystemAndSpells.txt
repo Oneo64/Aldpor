@@ -171,7 +171,7 @@ Mage Armor (basic)
 	Requirements: V, S, M (a handful of cobweb)
 	Duration:     1 hour
 
-A blue mist forms around the body of a creature you touch, which will cause them to resist all sort of attacks that do not target the mind, life or soul. The armor is like many, many layers of thick clothing, except that the clothing isn't visible, doesn't block heat, and doesn't feel like anything as it is only a force.
+A blue mist forms around the body of a creature you touch, which will cause them to resist all sort of attacks that do not target the mind, life or soul. The armor is like four or five layers of thick clothing, except that the clothing isn't visible, doesn't block heat, and doesn't feel like anything as it is only a force.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
