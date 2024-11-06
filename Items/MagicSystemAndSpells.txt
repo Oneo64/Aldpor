@@ -699,12 +699,13 @@ An area you can see within range rains down a burst of sulfur about the size of 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sunbeam (major)
+Sunbeam (powerful)
 	Casting time: instantaneous
 	Range:        200 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Jalfar which is consumed on use, and a small piece of amber)
 
-A small, foot-wide beam of sunlight shines from your hand like a laser. It scorches anything flammable that it touches, including flesh, wood, coal, grass, etc.
+A small, foot-wide beam of sunlight shines from your hand like a laser. It scorches anything flammable that it touches, including flesh, wood, coal, grass, etc. Any living thing that looks into the palm of your hand is temporarily blinded for a few seconds.
+
 If the beam exceeds 100 meters, then from there it will start to weaken until 200 meters where it is completely ineffective.
 
 However, they are almost useless against golems and elementals (except ice elementals) since they are not made of a flammable material.
@@ -1050,6 +1051,7 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Make Wraith
+			Sunbeam
 
 	DRUID:
 		MINOR SPELLS:
@@ -1102,6 +1104,7 @@ SPELL LIST
 			Banishment
 			Blight
 			Stormwall
+			Sunbeam
 
 	SORCERER:
 		MINOR SPELLS:
@@ -1138,6 +1141,7 @@ SPELL LIST
 			Darkness
 			Imbuement
 			Stormwall
+			Sunbeam
 
 	WIZARD:
 		MINOR SPELLS:
@@ -1199,3 +1203,4 @@ SPELL LIST
 			Darkness
 			Make Wraith
 			Imbuement
+			Sunbeam
