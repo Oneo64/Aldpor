@@ -25,9 +25,9 @@ Personality/Behaviour:
 		2. Observant
 
 	NEGATIVE:
-		1. Appears Cold (Half-expressionless)
-		2. Externally aloof
-		3. Reserved
+		1. Appears cold, or externally aloof
+		2. Reserved
+		3. Stubborn
 		
 	Slightly introverted
 	Realistic (perspective on the future)
