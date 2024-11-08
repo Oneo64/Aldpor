@@ -11,7 +11,7 @@ General body features and personality traits:
 
 Abilities:
 	Slightly resists poison.
-	Ages until 120 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
+	Ages until 120 to 140 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
 
 Variant 1 (red metals: copper, brass, and bronze):
 	Skin: Very light grayed skin, or very pale skin.
@@ -42,7 +42,7 @@ Cold Elf:
 		Has natural darkvision up to 10 meters.
 		Can survive 5 degrees celsius (and being naked) and still feel fine.
 
-		Ages until 130 years old. (Looks 25% younger.)
+		Ages until 120 to 140 years old. (Looks 25% younger.)
 
 	Body features:
 		Height: Average for men/women is 170/157 centimeters.
@@ -64,7 +64,7 @@ Moon Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
 		Keen sense of balance.
-		Ages until 200 years old. (Looks twice as young.)
+		Ages until 170 to 230 years old. (Looks twice as young.)
 
 	Body features:
 		Height: Average for men/women is 180/168 centimeters.
@@ -85,6 +85,8 @@ MAN
 General body features:
 	Height: Average for northern men/women is 173/160 centimeters.
 	Height: Average for southern men/women is 170/157 centimeters.
+
+	Ages until 50 to 80 years old.
 
 
 Skin: Ranges from brown to bright skin.
@@ -117,7 +119,7 @@ Abilities:
 
 	Will turn into stone if touching sunlight, will turn back normal in shade.
 
-	Ages until 50 years old.
+	Ages until 40 to 60 years old.
 
 Skin: Stone grey.
 Hair: Black to brown.
