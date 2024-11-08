@@ -32,5 +32,4 @@ Abilities:
 	Longboat Control
 
 	Dagsvaldian
-	Druidic
 	Hendric (English)
