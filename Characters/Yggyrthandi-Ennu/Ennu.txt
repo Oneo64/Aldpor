@@ -47,3 +47,4 @@ Abilities:
 			Conjure Minor Animals
 			Cure Wounds
 			Moonbeam
+			Waterwalk

@@ -1015,6 +1015,18 @@ An object or creature you choose hovers in the air for the duration. The target 
 
 If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Waterwalk (basic)
+	Casting time: 6 seconds
+	Range:        self
+	Requirements: S, M (the water you will walk on)
+	Duration:     1 hour
+
+You start to float on water as if you were made of balloons, and can walk on it. If you are engulfed by a wave, you fall prone and float up to the surface.
+
+Once you are not standing, sitting, laying, or in anyway on top of any water, the spell ends. This doesn't count being in the air for three seconds or less.
+
 
 
 ======================================================================================================================================================
@@ -1035,6 +1047,7 @@ SPELL LIST
 			Misty Step
 			Seidur
 			Wash of Radiance
+			Waterwalk
 
 		MAJOR MAGIC:
 			Etherealness
@@ -1079,6 +1092,7 @@ SPELL LIST
 			Shield
 			Shillelagh
 			Sparks
+			Waterwalk
 
 		MAJOR MAGIC:
 			Arcane Eye
