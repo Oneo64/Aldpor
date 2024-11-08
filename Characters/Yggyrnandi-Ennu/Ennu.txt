@@ -23,6 +23,9 @@ Personality:
 
 	Optimistic view of future
 
+	Specific:
+		Has thick Dagsvaldian accent
+
 Abilities:
 	Druidic Magic
 

@@ -18,6 +18,9 @@ Personality:
 	NEGATIVE:
 		1. Cruel
 
+	Specific:
+		Has thick Dagsvaldian accent
+
 Abilities:
 	Sword (35 years experience) (above average in combat)
 
