@@ -1021,7 +1021,7 @@ Waterwalk (basic)
 	Casting time: 6 seconds
 	Range:        self
 	Requirements: V, S, M (the water you will walk on)
-	Duration:     1 hour
+	Duration:     10 minutes
 
 With a word while touching the water you will walk on, you begin to float on that water as if you were made of balloons, and can walk on it. If you are engulfed by a wave, you fall prone and float up to the surface. If you become soaked, you and your things will dry 5 times faster.
 
