@@ -677,7 +677,7 @@ Moonbeam (basic)
 	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
-A thin beam of freezing moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form.
+A thin beam of freezing moonlight shines from your palm until the end of this spell's duration. If whatever it hits has a true form which is tangible, then the thing is reverted to it's true form, if it isn't already.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
