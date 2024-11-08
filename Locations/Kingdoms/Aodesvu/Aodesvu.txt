@@ -1,6 +1,6 @@
 Government: Constitutional Monarchy
-Race Majority: Moon Elf, Elfmen
-Culture type: Elvish + Roman
+Race Majority: Men
+Culture type: Roman/Byzantine + some Elvish
 Population: 4000 in villages/towns, 30,000 people in Yūsathu Gandathu, 34,000 in total
 
 Main language: Aodesvic

@@ -12,6 +12,7 @@ Preferred metals:
 	Steel
 
 Gems, gemstones and crystals:
+	Amber              - Believed to repel evil spirits, associated with Jalfar
 	Crystal/White opal - Associated with Lûn, and believed to be associated with Lünanyr and life
 	Emerald            - Associated with nature
 	Jade/Malachite     - Believed to be associated with druidry

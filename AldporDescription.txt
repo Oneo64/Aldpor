@@ -86,6 +86,11 @@ MEN:
 
 		Current wars: Neshoz
 
+	Aodesvu:
+		Main language is Aodesvic
+		Culture is Aodesvic (Hendric culture with a little of Elvish culture)
+		Political structure is elected autocracy
+
 ELVES:
 	Esrelu:
 		Main language is Esrel
@@ -112,12 +117,6 @@ ELVES:
 		Current wars:   Dagsvald, Esrelu, Hendril
 	
 MEN AND ELVES:
-	Aodesvu:
-		Populated by elfmen and mostly men
-		Main language is Aodesvic
-		Culture is central men (same as Hendril)
-		Political structure is constitutional monarchy
-
 	Vuntarla:
 		Populated by cold elves, elfmen, and mostly men
 		Main language is Dagsvaldian and Esrel
