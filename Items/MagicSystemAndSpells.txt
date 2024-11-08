@@ -27,10 +27,10 @@ Components:
 
 Magic spells reference:
 	<10:   Starting
-	10-15: Average
-	15-20: Above average
-	20-25: Strong
-	25+:   Master
+	10-20: Average
+	21-25: Above average
+	26-29: Strong
+	30+:   Master
 
 
 
