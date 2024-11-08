@@ -334,9 +334,9 @@ Entangle (minor)
 	Casting time: 6 seconds
 	Range:        30 meters
 	Requirements: V, S
-	Duration:     concentration up to 1 minutes
+	Duration:     concentration up to 1 minute
 
-Choose a 5 meter radius of area you can see within range. Vines and plants sprout from the ground in that area, turning it into difficult terrain. If there was a creature in that area when you cast it, that creature is restrained by the vines and plants.
+Choose a 5 meter radius of area you can see within range. Vines and plants sprout and grow from the ground in that area, turning it into difficult terrain. If there was a creature in that area when you cast it, that creature is restrained by the vines and plants. When the spell ends, the vines simply fade and disappear.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
