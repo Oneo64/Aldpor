@@ -677,7 +677,7 @@ Moonbeam (basic)
 	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
-A thin beam of freezing moonlight shines from your palm until the end of this spell's duration. If whatever it hits is magically disguised, has some sort of illusion on it, or is magically transformed with a Polymorph spell or similar, then that spell or magic ends.
+A thin beam of freezing moonlight shines from your palm until the end of this spell's duration. If whatever it hits has been magically transformed, it reverts to it's true form and cannot assume another shape or form.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
