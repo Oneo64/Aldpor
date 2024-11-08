@@ -1,8 +1,8 @@
 Common:
 	Humans:
 		Hendric (English)
-		Dagsvaldian
-		Taribian
+		Dagsvaldian (Any English accents should be equivalent to an Icelandic one)
+		Taribian (Any English accents should be equivalent to a Persian one)
 
 	Elves:
 		Esrel (Cold Elvish)
