@@ -1020,10 +1020,10 @@ If the target is moved farther than 20 meters, the spell starts to get weaker, a
 Waterwalk (basic)
 	Casting time: 6 seconds
 	Range:        self
-	Requirements: S, M (the water you will walk on)
+	Requirements: V, S, M (the water you will walk on)
 	Duration:     1 hour
 
-You start to float on water as if you were made of balloons, and can walk on it. If you are engulfed by a wave, you fall prone and float up to the surface.
+With a word while touching the water, you begin to float on that water as if you were made of balloons, and can walk on it. If you are engulfed by a wave, you fall prone and float up to the surface. If you become soaked, you and your things will dry 5 times faster.
 
 Once you are not standing, sitting, laying, or in anyway on top of any water, the spell ends. This doesn't count being in the air for three seconds or less.
 
