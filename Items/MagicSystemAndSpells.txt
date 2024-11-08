@@ -3,7 +3,7 @@ OVERVIEW
 ======================================================================================================================================================
 
 Magics:
-	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic.
+	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic. Incantations are spoken in Druidic.
 
 	- Seer magic is when you take the essence of Lünanyr or Hirulfyr to make magic.
 	- Some people are innately seers by leaning towards Lünanyr or Hirulfyr, such as Vielthöri Aldriàndel.
