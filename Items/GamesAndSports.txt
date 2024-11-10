@@ -4,7 +4,7 @@ BOARD GAMES
 
 Plaræggna:
 	Origin:   Dagsvaldian
-	Factions: Factions are usually Trœkkja (Trolls) colored with brown, and eldümja (elves) colored with green.
+	Factions: Factions are usually Trœkkjar (Trolls) colored with brown, and Elðümer (Elves) colored with green.
 
 	Workings:
 		Plaræggna is basically Xiangqi, but the pieces are replaced with:
