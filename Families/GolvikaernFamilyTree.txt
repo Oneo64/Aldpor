@@ -9,15 +9,15 @@ Land:
 
 
 
-                                        [RÚLSKROLÐ FAMILY]--Anru [F, 14 November 919]-+
-                                                                                      |>>+-Aræna [F, 10 December 950]
- [GOLVIKÆRN FAMILY]--Vond [M, 895 - 958]-----------+  +-Iskevin [M, 17 September 920]-+
-                                                   |  |                                  +-Verdan [M, 6 May 946]
- [ALDAGVA FAMILY]--Ifnild [F, 896 - 966]-----------+>>+-Paldur [M, 2 May 922]---------+  |
-                                                                                      |>>+-Rond [M, 23 July 948]
- [JONDIAN FAMILY]--Horin Jondian [M, 30 March 901]-+>>+-Ysda [F, 12 August 924]-------+  |
-                                                   |                                     +-Byrnda [F, 27 June 949]
- [HÆNURDAN FAMILY]--Gerd Jondian [F, 898 - 962]----+
+                                         [RÚLSKROLÐ FAMILY]--Anru [F, 14 November 919]-+
+                                                                                       |>>+-Aræna [F, 10 December 950]
+[GOLVIKÆRN FAMILY]--Vond [M, 895 - 958]-------------+  +-Iskevin [M, 17 September 920]-+
+                                                    |  |                                  +-Verdan [M, 6 May 946]
+[GLÚPOSKUN FAMILY]--Ifnild [F, 896 - 966]-----------+>>+-Paldur [M, 2 May 922]---------+  |
+                                                                                       |>>+-Rond [M, 23 July 948]
+  [JONDIAN FAMILY]--Horin Jondian [M, 30 March 901]-+>>+-Ysda [F, 12 August 924]-------+  |
+                                                    |                                     +-Byrnda [F, 27 June 949]
+  [HÆNURDAN FAMILY]-Gerd Jondian [F, 898 - 962]-----+
 
 
 
