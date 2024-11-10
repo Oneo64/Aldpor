@@ -17,10 +17,11 @@ Weapons:
 Personality/Behaviour:
 	POSITIVE:
 		1. Calm
+		2. Generous
 
 	NEGATIVE:
-		1. Reserved
-		2. Stubborn
+		1. Hesitant
+		2. Reserved
 
 	Slightly introverted
 	Optimistic (perspective on the future)
