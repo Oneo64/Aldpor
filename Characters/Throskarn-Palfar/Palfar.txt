@@ -19,7 +19,7 @@ Personality:
 		1. Cruel
 
 	Specific:
-		Has thick Dagsvaldian accent
+		Has strong Dagsvaldian accent
 
 Languages:
 	Dagsvaldian

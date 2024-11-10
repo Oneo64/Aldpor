@@ -83,8 +83,8 @@ MAN
 ======================================================================================================================================================
 
 General body features:
-	Height: Average for northern men/women is 173/160 centimeters.
-	Height: Average for southern men/women is 170/157 centimeters.
+	Height: Average for northern men/women is 173/162 centimeters.
+	Height: Average for southern men/women is 170/159 centimeters.
 
 	Ages until 50 to 80 years old.
 
