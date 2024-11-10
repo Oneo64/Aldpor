@@ -23,6 +23,14 @@ Personality:
 		1. Slightly wrathful
 		2. Aloof
 
+Languages:
+	Hendric (English)
+	Rànûdan
+	Primordial
+	Dagsvaldian
+	Esrel
+	Abyssal
+
 Abilities:
 	Combat experience (joined a team to kill three earth elementals)
 
@@ -31,13 +39,6 @@ Abilities:
 	Astrology and astronomy
 	Drawing
 	Plaræggna
-
-	Hendric
-	Rànûdan
-	Primordial
-	Dagsvaldian
-	Esrel
-	Abyssal
 
 	Arcane Magic (38 spells):
 		Minor:

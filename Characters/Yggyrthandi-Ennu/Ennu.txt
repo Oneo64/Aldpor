@@ -26,12 +26,13 @@ Personality:
 	Specific:
 		Has thick Dagsvaldian accent
 
-Abilities:
-	Druidic Magic
-
+Languages:
 	Dagsvaldian
 	Druidic
 	Hendric (English)
+
+Abilities:
+	Druidic Magic
 
 	Wild Shape animals:
 		Elk (travel)

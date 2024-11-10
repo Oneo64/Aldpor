@@ -24,7 +24,8 @@ Personality:
 		1. Boastful
 		2. Reckless
 
+Languages:
+	Banodic
+
 Abilities:
 	War Hammer (20 years training, 10 years experience) (above average in combat)
-
-	Banodic

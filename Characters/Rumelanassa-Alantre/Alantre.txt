@@ -26,15 +26,16 @@ Personality:
 	Specific:
 		She likes to eat practal gorbry stew
 
+Languages:
+	Rànûdan
+	Dagsvaldian
+
 Abilities:
 	Spear (no training no experience)
 
 	Horse Riding (7 years experience)
 	Herbalism
 	Stealth
-
-	Rànûdan
-	Dagsvaldian
 
 Backstory:
 	956 AD

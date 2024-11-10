@@ -17,9 +17,10 @@ Personality:
 	NEGATIVE:
 		???
 		
-Abilities:
+Languages:
 	Rànûdan
 
+Abilities:
 	Druidic magic:
 		Minor:
 			Druidcraft

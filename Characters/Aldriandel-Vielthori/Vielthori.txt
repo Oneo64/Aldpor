@@ -29,14 +29,15 @@ Personality:
 		Horse riding as a hobby
 		Killing undead is satisfying to her
 
+Languages:
+	Aodesvic
+	Hendric (English)
+
 Abilities:
 	Combat experience (defended town from small group of vamerks with the help of town guards)
 
 	Sword fighting with shield (3 years practice, no training) (average in combat)
 	Horse Riding
-
-	Aodesvic
-	Hendric
 
 	Seer Magic:
 		Basic:

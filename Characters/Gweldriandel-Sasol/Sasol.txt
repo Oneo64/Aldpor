@@ -22,10 +22,11 @@ Personality:
 	Introverted
 	Realistic (perspective on the future)
 
+Languages:
+	Rànûdan
+	Hendric (English)
+
 Abilities:
 	Longbow (34 years training, 31 years experience)
 	Acrobatics
 	Stealth
-
-	Rànûdan
-	Hendric

@@ -20,7 +20,7 @@ Personality:
 		
 	Realistic (perspective on the future)
 
-Abilities:
+Languages:
 	Esrel
 	Dagsvaldian
 	Sylvendric

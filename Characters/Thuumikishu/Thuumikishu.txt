@@ -30,11 +30,12 @@ Personality:
 
 		Has odd fascination with rabbits and hares.
 
-Abilities:
+Languages:
 	Banodic
 	Sylvendric
-	Hendric
+	Hendric (English)
 
+Abilities:
 	Seer Magic:
 		Minor:
 			Lesser Runic Staves

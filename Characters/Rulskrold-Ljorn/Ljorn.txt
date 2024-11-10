@@ -41,6 +41,12 @@ Personality/Behaviour:
 
 		Reads and studies magic in free time
 
+Languages:
+	Dagsvaldian
+	Hendric (English, not fluent)
+	Esrel
+	Primordial (not fluent)
+
 Abilities:
 	Combat experience (a battle, and raiding old castle ruins)
 
@@ -54,11 +60,6 @@ Abilities:
 
 	Drawing
 	Plaræggna
-
-	Dagsvaldian
-	Hendric (not fluent)
-	Esrel
-	Primordial (not fluent)
 
 	Sword fighting with and without shield (6 years practice/experience) (below average in combat)
 

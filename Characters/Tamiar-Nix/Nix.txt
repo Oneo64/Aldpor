@@ -24,11 +24,12 @@ Personality:
 		
 	Optimistic
 
+Languages:
+	Hendric (English)
+
 Abilities:
 	Sorcery Magic (Little training no experience)
 	Medical skills
-
-	Hendric
 
 	Sorcery:
 		Minor:

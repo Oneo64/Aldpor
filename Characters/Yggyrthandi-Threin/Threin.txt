@@ -26,10 +26,11 @@ Personality:
 	Specific:
 		Has thick Dagsvaldian accent
 
+Languages:
+	Dagsvaldian
+	Hendric (English)
+
 Abilities:
 	Archery
 	Hunting
 	Longboat Control
-
-	Dagsvaldian
-	Hendric (English)

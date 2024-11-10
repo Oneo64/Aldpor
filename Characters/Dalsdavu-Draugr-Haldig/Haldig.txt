@@ -25,7 +25,8 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Languages:
+	Primal Dagsvaldian
+
 Abilities:
 	Dane axe (skilled in combat)
-
-	Primal Dagsvaldian

@@ -29,12 +29,13 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Languages:
+	Galabric
+	Old Esrel
+
 Abilities:
 	Sword and shield (very skilled in combat)
 	Magic
-
-	Galabric
-	Old Esrel
 
 	Magic:
 		Basic:

@@ -24,11 +24,12 @@ Personality:
 
 	Realistic view of future
 
-Abilities:
-	Druidic Magic
-
+Languages:
 	Local troll language
 	Druidic
+
+Abilities:
+	Druidic Magic
 
 	Druidic Magic:
 		Minor:

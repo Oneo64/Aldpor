@@ -23,9 +23,10 @@ Personality:
 		
 	Optimistic (perspective on the future)
 
+Languages:
+	Esrel
+	Hendric (English)
+
 Abilities:
 	Mace (25 years experience) (skilled in combat)
 	Stealth
-
-	Esrel
-	Hendric

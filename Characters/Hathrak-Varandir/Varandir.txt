@@ -21,8 +21,9 @@ Personality:
 		1. Boastful
 		2. Messy
 
+Languages:
+	Banodic
+
 Abilities:
 	Crossbow
 	Stealth
-
-	Banodic

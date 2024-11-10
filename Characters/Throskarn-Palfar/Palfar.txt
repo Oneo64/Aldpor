@@ -21,8 +21,9 @@ Personality:
 	Specific:
 		Has thick Dagsvaldian accent
 
-Abilities:
-	Sword (35 years experience) (above average in combat)
-
+Languages:
 	Dagsvaldian
 	Hendric (English)
+
+Abilities:
+	Sword (35 years experience) (above average in combat)

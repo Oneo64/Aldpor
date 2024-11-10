@@ -27,17 +27,18 @@ Personality:
 
 	Realistic view of future
 
+Languages:
+	Esrel
+	Druidic
+	Sylvan
+	Hendric (English)
+
 Abilities:
 	Experience (traveled to Furnalfa to retrieve tablet from evil fey)
 
 	Druidic Magic (30 years experience)
 	Medical things
 	Animal handling
-
-	Esrel
-	Druidic
-	Sylvan
-	Hendric
 
 	Wild Shape animals:
 		Brown bear (combat)

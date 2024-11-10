@@ -19,16 +19,17 @@ Personality:
 
 	Realistic (perspective on the future)
 
+Languages:
+	Dagsvaldian
+	Esrel
+	Primal Dagsvaldian
+	Primordial
+
 Abilities:
 	Magic (4 years practice, 1 year training, no real experience)
 	Tagelharpa
 	Alchemy (potion brewing, advanced potions)
 	Medical things
-
-	Dagsvaldian
-	Esrel
-	Primal Dagsvaldian
-	Primordial
 
 	Arcane Magic (20 spells):
 		Minor:

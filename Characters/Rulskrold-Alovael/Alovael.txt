@@ -22,6 +22,9 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Languages:
+	Dagsvaldian
+
 Abilities:
 	Combat experience (defended home from longaxe wielding centaur)
 
@@ -29,5 +32,3 @@ Abilities:
 	Archery
 
 	Hunting
-
-	Dagsvaldian

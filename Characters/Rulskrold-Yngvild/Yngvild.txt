@@ -20,9 +20,11 @@ Personality/Behaviour:
 	
 	Optimistic (perspective on the future)
 
+Languages:
+	Dagsvaldian
+
 Abilities:
 	Drawing
-	Dagsvaldian
 
 	Arcane Magic:
 		Minor:
