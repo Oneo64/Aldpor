@@ -1086,8 +1086,8 @@ SPELL LIST
 			Icy Touch
 			Lesser Restoration
 			Mending
-			Moonbeam
 			Misty Step
+			Moonbeam
 			Seidur
 			Shield
 			Shillelagh

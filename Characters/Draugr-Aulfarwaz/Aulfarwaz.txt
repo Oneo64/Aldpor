@@ -1,0 +1,69 @@
+Aulfarwaz
+Male
+Age: 332 (born 641, December 3)
+Alignment: Neutral
+Ethnicity: Dagsvaldian
+Race:      Human
+
+Aulfarwaz was a human druid from early Þalmundol. He got lost in the forest many kilometers north, and starved to death sitting against a tree. Aulfarwaz is now a gaunt corpse, has greenish grey skin, completely white eyes, and his hair is grey, long and messy. He is 178 (5'11) centimeters tall.
+
+He wears a worn bear hide cloak, tunic, pants, a belt and a pair of shoes. The colors of his clothing have faded, so it all looks just dull and grey. The bear cloak and tunic is mossed, dirty, and soiled.
+
+Like all draugr, his voice is raspy and deep.
+
+His wildshape animals and the animals he conjures will appear like a zombie or corpse.
+
+Personality:
+	POSITIVE:
+		1. Restless
+		2. Stoic
+
+	NEGATIVE:
+		1. Anti-social, avoids civilization or groups of people
+		2. Impulsive
+
+	Pessimistic view of future
+
+	Specific:
+		May get depressed at the sight of food being eaten, or any mention of eating
+
+Languages:
+	Galabric
+	Druidic
+
+Abilities:
+	Druidic Magic
+
+	Wild Shape animals:
+		Raven (flight)
+		Wolf (travel)
+
+	Druidic Magic:
+		Minor:
+			Calming Touch
+			Druidcraft
+			Entangle
+			Illusory Script
+			Lesser Runic Staves
+
+		Basic:
+			Barkskin, Blur
+			Conjure Minor Animals, Cure Wounds
+			Detect Thoughts
+			Feign Death
+			Icy Touch
+			Misty Step, Moonbeam
+			Seidur, Shield, Sparks
+			Waterwalk
+
+		Major:
+			Arcane Eye
+			Conjure Animals, Control Plant
+			Ice Storm
+			Polymorph
+			Speak with Dead
+			Travel by Tree
+
+		Powerful:
+			Stormwall
+

@@ -67,8 +67,10 @@ Abilities:
 
 		Major:
 			Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
-			Stormwall
 			Travel by Tree
+
+		Powerful:
+			Stormwall
 
 Possessions:
 	Leather pouch:
