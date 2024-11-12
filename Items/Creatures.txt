@@ -296,7 +296,7 @@ Draugr (medium undead):
 
 		When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising.
 
-		If they were not buried properly, they will not feel bound to their death place, and roam freely. If they do roam freely, their moralities are similar to whatever they died with.
+		If they were not buried properly, they will not feel bound to their death place, and roam freely. If they do roam freely, their moralities are similar to whatever they died with. They will be unable to show much emotion, even if they do feel such emotion. However if they were buried properly, they will become extremely resilient to love, hate, or any other strong emotion.
 
 	Abilities:
 		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.

@@ -17,11 +17,10 @@ Weapons:
 Personality:
 	POSITIVE:
 		1. Protective
-		2. Restless
-		3. Stoic
 
 	NEGATIVE:
 		1. Unfriendly
+		2. Seems emotionless and expressionless
 		
 	Realistic (perspective on the future)
 

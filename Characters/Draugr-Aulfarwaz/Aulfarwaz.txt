@@ -15,12 +15,12 @@ His wildshape animals and the animals he conjures will appear like a zombie or c
 
 Personality:
 	POSITIVE:
-		1. Restless
-		2. Stoic
+		1. Careful
 
 	NEGATIVE:
 		1. Anti-social, avoids civilization or groups of people
 		2. Impulsive
+		3. Seems emotionless and expressionless
 
 	Pessimistic view of future
 
