@@ -38,7 +38,7 @@ Abilities:
 		Raven (flight)
 		Wolf (travel)
 
-	Druidic Magic:
+	Druidic Magic (26 spells):
 		Minor:
 			Calming Touch
 			Druidcraft

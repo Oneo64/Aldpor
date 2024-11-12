@@ -25,7 +25,7 @@ Components:
 	SG = Somatic gesture (simply pointing, touching, reaching, etc)
 	M = Material
 
-Magic spells reference:
+Magic spells reference (including shapechange animals):
 	<10:   Starting
 	10-20: Average
 	21-25: Above average
