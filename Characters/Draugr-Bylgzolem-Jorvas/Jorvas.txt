@@ -20,11 +20,10 @@ Weapons:
 Personality:
 	POSITIVE:
 		1. Careful
-		2. Stoic
 
 	NEGATIVE:
-		1. Unfriendly
-		2. Cruel
+		1. Cold
+		2. Unfriendly
 		
 	Realistic (perspective on the future)
 
