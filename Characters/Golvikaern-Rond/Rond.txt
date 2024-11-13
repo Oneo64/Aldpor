@@ -11,8 +11,7 @@ Rond has studied the history of the last 1500 years, and he also knows about Fur
 
 Personality:
 	POSITIVE:
-		1. Warm
-		2. Creative
+		1. Creative
 
 	NEGATIVE:
 		1. Might act arrogant

@@ -64,3 +64,4 @@ Abilities:
 			Greater Runic Staves
 			Invisibility
 			Lightning Bolt
+			Telekinesis
