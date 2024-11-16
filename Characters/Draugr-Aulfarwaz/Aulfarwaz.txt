@@ -38,13 +38,14 @@ Abilities:
 		Raven (flight)
 		Wolf (travel)
 
-	Druidic Magic (26 spells):
+	Druidic Magic (27 spells):
 		Minor:
 			Calming Touch
 			Druidcraft
 			Entangle
 			Illusory Script
 			Lesser Runic Staves
+			Terra Blast
 
 		Basic:
 			Barkskin, Blur

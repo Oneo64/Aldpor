@@ -46,13 +46,14 @@ Abilities:
 		Elk (travel)
 		Raven (flight)
 
-	Druidic Magic (21 spells):
+	Druidic Magic (22 spells):
 		Minor:
 			Calming Touch
 			Druidcraft
 			Entangle
 			Illusory Script
 			Lesser Runic Staves
+			Terra Blast
 
 		Basic:
 			Animal Messenger
