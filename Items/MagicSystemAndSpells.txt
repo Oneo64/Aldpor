@@ -22,7 +22,7 @@ Here's an example of a wizard casting the classic Fireball spell: "The man in th
 Components:
 	V = Verbal (wizards and seers chant in Primordial, druids chant in either Druidic or Sylvan, sorcerers don't need to chant)
 	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder, any magic other than wizard/arcane magic uses SG instead)
-	SG = Somatic gesture (simply pointing, touching, reaching, etc)
+	SG = Somatic gesture (simply pointing, touching, reaching, waving, wrist flicking, etc)
 	M = Material
 
 Magic spells reference (including shapechange animals):
@@ -964,7 +964,7 @@ Choose a living creature you can see within range. You then turn that creature i
 Prestidigitation (minor)
 	Casting time: instantaneous
 	Range:        10 meters
-	Requirements: V
+	Requirements: V, SG
 	Duration:     1 hour
 
 You can choose one of the following effects to happen:
