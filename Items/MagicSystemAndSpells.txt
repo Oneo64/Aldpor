@@ -712,6 +712,15 @@ However, they are almost useless against golems and elementals (except ice eleme
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Terra Blast (minor)
+	Casting time: instantaneous
+	Range:        30 meters
+	Requirements: V, SG
+
+You shoot a harmful piece of hard dirt out of your finger at a high speed. The dirt will eventually drop down to the ground after 30 meters. When the piece of hard dirt hits something, it bursts into softer soil and turns into smoke.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Wash of Radiance (basic)
 	Casting time: instantaneous
 	Range:        20 meters
@@ -1074,6 +1083,7 @@ SPELL LIST
 			Entangle
 			Illusory Script
 			Lesser Runic Staves
+			Terra Blast
 
 		BASIC MAGIC:
 			Animal Messenger
@@ -1126,6 +1136,7 @@ SPELL LIST
 			Earth Bolt
 			Mage Hand
 			Message
+			Terra Blast
 
 		BASIC MAGIC:
 			Blur
