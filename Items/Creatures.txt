@@ -299,9 +299,9 @@ Draugr (medium undead):
 		If they were not buried properly, they will not feel bound to their death place, and roam freely. If they do roam freely, their moralities are similar to whatever they died with. They will be unable to show much emotion, even if they do feel such emotion. However if they were buried properly, they will become extremely resilient to love, hate, or any other strong emotion.
 
 	Abilities:
-		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, and they can also see in the dark up to around 50 meters.
+		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, being around twice the usual strength. They can also see in the dark up to around 50 meters.
 
-		Their bodies resist physical damage, and cannot feel pain. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back, but the reattached limb will be weaker for a few days.
+		Their bodies resist physical damage, and cannot feel pain. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back after an hour, provided that both ends of the severed limb were touching the entire time. After this, the severed part will be attached, but will be weaker for a few days.
 
 		A draugr will rise a day after it's death. The only way to prevent this is by decapitating them or in any way remove at least the upper half of the draugr's head from it's torso.
 
