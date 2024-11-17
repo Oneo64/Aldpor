@@ -480,6 +480,7 @@ Seidur (basic)
 	Casting time: 30 seconds
 	Range:        infinite
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
+	Duration:     special
 
 You describe the appearance of one creature that is within range, or you can choose yourself. You can then choose one of the following:
 	- You know if the target will be lucky or unlucky over the next week.

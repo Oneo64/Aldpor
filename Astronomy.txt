@@ -1,5 +1,5 @@
 Moon:
-	An,  yellow moon (looks like Io)
+	An,  yellow moon (looks like Io) (English name is Aan)
 	Lûn, white moon
 	Vel, blue moon
 
