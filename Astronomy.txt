@@ -1,6 +1,11 @@
-Moon:
+Moons:
 	An,  yellow moon (looks like Io) (English name is Aan)
+		An represents fire, sulfur, and heat.
+
 	Lûn, white moon
+		Lûn represents snow, the cold, and silver.
+
 	Vel, blue moon
+		Vel represents water, the ocean, and magic.
 
 	Once every few decades, An rubs past on Lûn's surface, causing a bright flash and some small meteors.
