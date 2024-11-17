@@ -392,7 +392,7 @@ Misty Step (basic)
 	Range:        10 meters
 	Requirements: V
 
-You turn into mist, which then shoots towards a location you can visibly see within range. You then turn back to your form, all of that happening withing a fraction of a second. During that short amount of time as mist, you are incorporeal, and invulnerable to all damage that doesn't directly target the mind, life, or soul.
+You turn into mist, which then shoots towards a location you can visibly see within range. You then turn back to your form, all of that happening withing a fraction of a second. During that short amount of time as mist, you are incorporeal, and invulnerable to all damage that doesn't directly target the mind, life, or soul. If the trajectory of your mist form is blocked, it just ignores the barrier and goes through anyways.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
