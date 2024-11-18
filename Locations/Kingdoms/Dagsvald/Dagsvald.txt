@@ -10,7 +10,7 @@ Ruler: Palfar Þroskarn II
 
 Important villages, (400 settlements, average 100 people each village):
 	Argonlav (150 people, under Kvappavanin)
-	Baserdol (100 people)
+	Basrynga (100 people)
 	Elkvin (50 people, under Ynfrünar)
 	Lismerlav (150 people, under Düangendol)
 
@@ -18,7 +18,7 @@ Cities:
 	Þuryngard (1500 people, including 20 guards patrolling the walls, 20 patrolling the town, 10 lookouts, and 15 king's guards)
 
 Towns in Þuryngard:
-	Þalmundol (600 people)
+	Þalmundrynga (600 people)
 	Kasgjenðil (500 people)
 	Vilsnagur (400 people)
 
@@ -26,7 +26,7 @@ Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in ea
 	Þuryngard (Capital), also known as Þuryngard Ring Fortress
 	Ynfrünar
 	Kvappavanin
-	Düangendol
+	Dúagrynga
 
 
 
@@ -34,7 +34,7 @@ Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in ea
 ÞURYNGARD RING FORTRESS
 ======================================================================================================================================================
 
-This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Þalmundol, Kasgjenðil, and Vilsnagur. The outer wall has a diameter of about 500 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
+This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Þalmundrynga, Kasgjenðil, and Vilsnagur. The outer wall has a diameter of about 500 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
 The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood.
 
 The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high. Outside the outer walls, are surrounded by a boreal forest.
