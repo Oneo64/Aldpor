@@ -421,6 +421,8 @@ You chant the incantation of this spell. While chanting, you can see though a ma
 
 While this spell is active, your eyes must be closed. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
 
+If the eye goes through a doorway or a window or something similar, and that opening is blocked or cut off (like closing the door), the spell ends.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Detect Evil and Good (basic)
