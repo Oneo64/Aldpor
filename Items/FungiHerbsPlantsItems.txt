@@ -63,7 +63,9 @@ Parhrügi's Tears:
 ITEMS
 ======================================================================================================================================================
 
-Orb:
-	An orb is a round object, either in the shape of a sphere. It is usually made of wood, but wealthier people can afford gemstone ones. They serve as arcane focuses for wizards. Their function can be described in "OrbSystem.txt".
+Arcane Focus:
+	An arcane focus is an object, used by wizards and druids. It is usually made of wood, but wealthier people can afford gemstone or metal ones. They make spellcasting almost one-and-a-half times faster. The bigger and more convex the object is, the more effective it is. The effectiveness stops when the object is a 10 cm smooth sphere.
+
+	In order for the object to work, you must be wearing it or holding it in your hand.
 
 	To make an orb, soak it in Catalystic Concoction as described in "Mixtures.txt".
