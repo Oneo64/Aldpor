@@ -38,7 +38,7 @@ Abilities:
 	Alchemy (potion brewing, powerful potions)
 	Astrology and astronomy
 	Drawing
-	Plaræggna
+	Plattrægnall
 
 	Arcane Magic (38 spells):
 		Minor:

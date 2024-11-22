@@ -2,12 +2,12 @@
 BOARD GAMES
 ======================================================================================================================================================
 
-Plaræggna:
+Plattrægnall:
 	Origin:   Dagsvaldian
-	Factions: Factions are usually Trœkkjar (Trolls) colored with brown, and Elðümer (Elves) colored with green.
+	Factions: Factions are usually Trœkkar (Trolls) colored with brown, and Elðümyr (Elves) colored with green.
 
 	Workings:
-		Plaræggna is basically Xiangqi, but the pieces are replaced with:
+		Plattrægnall is basically Xiangqi, but the pieces are replaced with:
 			- 砲, 炮 is replaced with Dagsvaldian rune G  (glateks)
 			- 兵, 卒 is replaced with Dagsvaldian rune R  (rükkarl)
 			- 車, 俥 is replaced with Dagsvaldian rune F  (fekkig)
