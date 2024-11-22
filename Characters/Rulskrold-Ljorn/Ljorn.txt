@@ -82,6 +82,7 @@ Abilities:
 
 		Major:
 			Animate Dead
+			Arcane Eye
 			Invisibility
 			Lightning Bolt
 			Major Illusion
