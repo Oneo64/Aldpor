@@ -245,6 +245,17 @@ Fire-throwing Grenade (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Forgetation Concoction (advanced)
+	Appearance:  It is a semi-transparent pale brown liquid.
+	Usage:       Drink.
+	Effect:      You lose memory of all that happened in the past 10 minutes.
+	Downside:    If you drank less than 50 ml, you slowly regain those memories after a number of minutes equal to the amount of ml you drank.
+	
+	Ingredients: One crushed practal gorbry, the fur of an ekraldi's toadstool, a pinch of dust, and a small piece of obsidian.
+	Brewing:     It must be boiled for five hours.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Freebreathing Potion (basic)
 	Appearance:  The potion is a clear liquid.
 	Usage:       Drink.
