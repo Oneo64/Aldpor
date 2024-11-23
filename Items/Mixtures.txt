@@ -366,6 +366,15 @@ Poison Solvent (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Realsight Potion (advanced)
+	Appearance:  The potion is a clear grey liquid.
+	Usage:       Drink.
+	Effect:      Lets you see through all illusions, and the true form of any shapeshifter or polymorphed object within a 10 meter radius. If it's a shapeshifter and it doesn't have a true form, all you see is a cloud of grey dust-like particles.
+	
+	Ingredients: A pinch of glass powder, a pinch of silver, and a pinch of crushed amber.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Regeneration Potion (basic)
 	Appearance:  The potion is a pale honey-colored liquid.
 	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
