@@ -73,13 +73,13 @@ Here is a list of magical catalyst examples:
 	Basically anything that suffered either long-term magical activity, or short-term intense magical activity (fire bolting or using illusory script the ground a few times isn't going make it magical)
 
 Here is a list of all naturally occuring catalysts, and naturally occuring magical catalysts:
-	Cysts
-	Bezoars
-	Kidney stones
-	Volcanic ash
+	Cysts (Works better with poisons)
+	Bezoars (Works better with potions connected to healing or calming)
+	Kidney stones (Works better if you drink the potion and the kidney stones are yours)
+	Volcanic ash (Most common ingredient)
 	Volcanic rock or a powder of volcanic rock
-	Water of a natural hot spring or geyser
 	Water from a pond that was recently struck by lightning
+	Water of a million-year old geode
 	Wood that had been struck by lightning
 
 	Amethyst gorbries
