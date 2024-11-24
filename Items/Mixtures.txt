@@ -302,7 +302,7 @@ Hailskin Potion (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Iron Grease of Magic (basic)
+Iron Grease of Magic (advanced)
 	Appearance:  The grease is a black transparent grease.
 	Usage:       Spread on metal.
 	Effect:      When the grease is rubbed on with force (such as with hands, or when the metal is used to hit something), it releases magic energy in the form corresponding the catalyst used.
