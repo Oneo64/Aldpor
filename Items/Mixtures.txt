@@ -77,7 +77,6 @@ Here is a list of all naturally occuring catalysts, and naturally occuring magic
 	Bezoars (Works better with potions connected to healing or calming)
 	Kidney stones (Works better if you drink the potion and the kidney stones are yours)
 	Volcanic ash (Most common ingredient)
-	Volcanic rock or a powder of volcanic rock
 	Water from a pond that was recently struck by lightning
 	Water of a million-year old geode
 	Wood that had been struck by lightning
@@ -85,8 +84,18 @@ Here is a list of all naturally occuring catalysts, and naturally occuring magic
 	Amethyst gorbries
 	Any plant, tree, or grass that grew in Furnalfa
 	Any body part of a glimmering moth, preferabbly the wing or antenne
-	Daeva horns
+	Ground daeva horns
 	Elemental cores
+
+
+
+======================================================================================================================================================
+MATERIAL SIZES
+======================================================================================================================================================
+
+Ground:  Ground into powder
+Crushed: Crushed into small pieces, not exactly powder
+Small:   Around the size of a few marbles
 
 
 
@@ -248,10 +257,10 @@ Fire-throwing Grenade (advanced)
 Forgetation Concoction (advanced)
 	Appearance:  It is a semi-transparent pale brown liquid.
 	Usage:       Drink.
-	Effect:      You lose memory of all that happened in the past 10 minutes.
+	Effect:      For every 5 ml you drink, you lose memory of all that happened in the past minute. At 50 ml which is the minimum, you would forget what happened in the past 10 minutes.
 	Downside:    If you drank less than 50 ml, you slowly regain those memories after a number of minutes equal to the amount of ml you drank.
 	
-	Ingredients: One crushed practal gorbry, the fur of an ekraldi's toadstool, a pinch of dust, and a small piece of obsidian.
+	Ingredients: Two crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a pinch of ground snail shells, and a fermented fly.
 	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -290,6 +299,19 @@ Hailskin Potion (advanced)
 	Downside:    Room temperature for you increases by 10 degrees Celsius.
 	
 	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Iron Grease of Magic (basic)
+	Appearance:  The grease is a black transparent grease.
+	Usage:       Spread on metal.
+	Effect:      When the grease is rubbed on with force (such as with hands, or when the metal is used to hit something), it releases magic energy in the form corresponding the catalyst used.
+	Downside:    This grease does not work on gold, copper, or bronze. It is also unable to induce any kind of disease or poison.
+	
+	Ingredients: A few drops of ink, a few drops of tar, and a pinch of ground volcanic rock.
+	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve. Once that's done, mix the salve with a the same amount of animal fat or vegetable oil.
+
+	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -373,7 +395,7 @@ Poison Solvent (advanced)
 	Effect:      Evaporates poison. The same amount of poison solvent must be poured in the liquid to completely evaporate it. The poison solvent will boil and evaporate once it's in the poison, causing the poison to do the same at the same speed. Evaporated poison loses it's effect, preventing any accidental inhaling.
 	Downside:    You need to wait for the poison solvent to evaporate with the poison before pouring more into the liquid. If it comes into contact with any other liquid other than poison or poison solvent, it has the same effect except it doesn't actually evaporate the liquid.
 	
-	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the "fur" of an ekraldi's toadstool, and a chopped great leafbug leg.
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldi's toadstool, and a chopped great leafbug leg.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
