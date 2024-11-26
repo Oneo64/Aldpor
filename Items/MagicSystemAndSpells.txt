@@ -981,9 +981,9 @@ Prestidigitation (minor)
 
 You can choose one of the following effects to happen:
 	- A small illusory trinket appears on your hand for 10 seconds.
-	- An instantaneously faint, short sound happens at a point within range, such as a puff of wind, sound of glass shattering, footsteps, or voices.
+	- A faint, short sound happens at a point within range, such as a puff of wind, sound of glass shattering, footsteps, or voices.
 	- A 20 centimeter cube of any non-living material is flavoured, warmed, or chilled.
-	- An object of material is instantaneously cleansed or soiled.
+	- An object of material is instantaneously cleansed or soiled. You can clean or soil a part of a creature like their hands, face, feet, etc, but they must be willing.
 	- A candle, campfire, or a spot of flammable material is instantaneously lit or extinguished.
 	- A small mark or symbol appears on a surface for the duration.
 
