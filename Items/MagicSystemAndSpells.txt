@@ -601,7 +601,7 @@ Earth Bolt (minor)
 	Range:        10 meters
 	Requirements: V, S
 
-A near-harmless bolt of earth shoots out of your hands.
+A near-harmless bolt of earth shoots out of your hands. When the earth bolt hits something and the dirt falls to the ground, the dirt turns into smoke.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

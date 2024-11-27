@@ -214,6 +214,16 @@ Darkvision Potion (basic)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Earthly Construct Concoction (minor)
+	Appearance:  The potion is a earthly brown slop. The earth sometimes swirls, as if there was something moving within the slop.
+	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
+	Effect:      Once the potion shatters, the liquid grows in size and forms into a faceless humanoid made of earth. The earth golem lasts for around ten minutes, before it dies and crumbles into mundane dirt. When the earth golem collapses back to mundane dirt, the dirt then turns into smoke.
+	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
+	
+	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Energy Potion (minor)
 	Appearance:  The potion is a pale green slop.
 	Usage:       Drink.
@@ -299,6 +309,16 @@ Hailskin Potion (advanced)
 	Downside:    Room temperature for you increases by 10 degrees Celsius.
 	
 	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Honeymead Creation Liquid (basic)
+	Appearance:  The potion is a semi-transparent honey-colored liquid.
+	Usage:       Pour into drinkable liquid.
+	Effect:      It causes the drink to taste sweet without altering any magical properties of the liquid.
+	Downside:    If the liquid is poured into more than 50% the original amount of the drinkable liquid, the potency of the drinkable liquid starts to go down. Also, if the drinkable liquid was originally bitter or spicy, the sweetness might make the liquid taste sickening.
+	
+	Ingredients: One crushed practal gorbry, a several drops of honey, and one fermented bee.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -409,7 +429,7 @@ Realsight Potion (advanced)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Regeneration Potion (basic)
-	Appearance:  The potion is a pale honey-colored liquid.
+	Appearance:  The potion is a clear pale honey-colored liquid.
 	Usage:       Pour small amounts onto a wound, typically a few drops at a time. It must touch exposed flesh or blood to work. It can be also drank to heal any damaged organs.
 	Effect:      Evaporates wasted blood, and regenerates skin, flesh, and organs.
 	Downside:    If used too fast, you may loose potion. Also cannot heal broken bones or scars. If the wound was healed using this potion, you may still feel the pain from the wound. The healed would may also feel numb after usage.
