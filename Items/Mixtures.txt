@@ -217,10 +217,11 @@ Darkvision Potion (basic)
 Earthly Construct Concoction (minor)
 	Appearance:  The potion is a earthly brown slop. The earth sometimes swirls, as if there was something moving within the slop.
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:      Once the potion shatters, the liquid grows in size and forms into a faceless humanoid made of earth. The earth golem lasts for around ten minutes, before it dies and crumbles into mundane dirt. When the earth golem collapses back to mundane dirt, the dirt then turns into smoke.
-	Downside:    You don't get to experience the delightful taste of real food and the wonderful feeling of being full.
+	Effect:      Once the potion shatters, the liquid grows in size and forms into a faceless humanoid made of earth. You are able to control this golem as if it was created with the Create Golem spell. The earth golem lasts for around ten minutes, before it dies and crumbles into mundane dirt. When the earth golem collapses back to mundane dirt, the dirt then turns into smoke.
 	
-	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
+	Ingredients: A crushed amethyst gorbry, a small handful of cobweb, and a small handful of plain mundane dirt (the dirt musn't contain any rock, clay, or sand).
+
+	Caution:     If the mundane dirt contains any rock, clay, or sand, the potion finished potion won't work and is spoiled.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -358,7 +359,9 @@ Nontoxic Seizure Concoction (advanced)
 	Usage:       Drink.
 	Effect:      You start spazzing and twitching violently, unable to stand, sit, or think. Your eyes stare into nothing, unable to move away from it's neutral position. You are also unable to feel pain. If the potion duration is sustained for 30 minutes or longer (either with a large dosage or someone feeding more into your mouth while you are incapacitated), you will die after that 30 minutes.
 	
-	Ingredients: One crushed practal gorbry, and five fermented and pickled bees.
+	Ingredients: One crushed practal gorbry, and five fermented and pickled bees (with stinger still intact).
+
+	Caution:     Make sure the bees are bees, and not wasps or hornets. Using wasps or hornets can cause excessive boiling, or even an explosion. Breathing in the fumes may cause a minor adrenaline rush.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -406,6 +409,8 @@ Potion of Severe Dementia (powerful)
 	
 	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
 	Brewing:     It must be boiled for eight hours.
+
+	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing short term memory loss.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -464,9 +469,11 @@ Rotting Curse Potion (powerful)
 	Appearance:  The potion is a weird mix of black, green, and yellow swirling slowly like fresh water coloring put into the potion.
 	Usage:       Drink at least 10 ml.
 	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
-	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva) from the affected person.
+	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva, seat, and other bodily fluids) from the affected person.
 	
 	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and a pinch of wraith dust.
+
+	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing: sickness, nausea, bruising around the neck and nose. Breathing the fumes too much may actually give you the effects of this potion.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
