@@ -214,7 +214,7 @@ Darkvision Potion (basic)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Earthly Construct Concoction (minor)
+Earthly Construct Concoction (advanced)
 	Appearance:  The potion is a earthly brown slop. The earth sometimes swirls, as if there was something moving within the slop.
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
 	Effect:      Once the potion shatters, the liquid grows in size and forms into a faceless humanoid made of earth. You are able to control this golem as if it was created with the Create Golem spell. The earth golem lasts for around ten minutes, before it dies and crumbles into mundane dirt. When the earth golem collapses back to mundane dirt, the dirt then turns into smoke.
