@@ -26,6 +26,7 @@ Personality:
 	Optimistic (perspective on the future)
 
 Occupations:
+	Woodcutter
 	Farmer
 
 Languages:
