@@ -23,7 +23,7 @@ Personality:
 	Realistic (perspective on the future)
 
 Occupations:
-	Lumberjack
+	Woodcutter
 	Farmer
 
 Languages:

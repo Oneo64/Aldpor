@@ -44,7 +44,7 @@ Personality/Behaviour:
 		Focuses more on evocation and abjuration magic than other types of magic
 
 Occupations:
-	Mercenary
+	Woodcutter
 	Farmer
 
 Languages:
