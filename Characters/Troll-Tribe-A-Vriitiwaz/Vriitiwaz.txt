@@ -24,6 +24,9 @@ Personality:
 
 	Realistic view of future
 
+Occupations:
+	Leader of a troll tribe
+
 Languages:
 	Local troll language
 	Druidic

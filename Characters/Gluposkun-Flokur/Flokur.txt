@@ -31,9 +31,12 @@ Personality/Behaviour:
 
 		Focuses more on evocation and abjuration magic than other types of magic
 
+Occupations:
+	Farmer
+
 Languages:
 	Dagsvaldian
-	Hendric (English)
+	Hendric (English, not fluent)
 	Primordial (not fluent)
 
 Abilities:

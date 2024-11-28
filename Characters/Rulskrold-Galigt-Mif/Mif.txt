@@ -21,6 +21,10 @@ Personality:
 	Specific:
 		Talks to animals when feeling bored
 
+Occupations:
+	Domestic Work
+	Farmer
+
 Languages:
 	Dagsvaldian
 	Esrel

@@ -22,6 +22,10 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Occupations:
+	Lumberjack
+	Farmer
+
 Languages:
 	Dagsvaldian
 

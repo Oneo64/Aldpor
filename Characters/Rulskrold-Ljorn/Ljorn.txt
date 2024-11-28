@@ -43,6 +43,10 @@ Personality/Behaviour:
 		Reads and studies magic in free time
 		Focuses more on evocation and abjuration magic than other types of magic
 
+Occupations:
+	Mercenary
+	Farmer
+
 Languages:
 	Dagsvaldian
 	Hendric (English, not fluent)

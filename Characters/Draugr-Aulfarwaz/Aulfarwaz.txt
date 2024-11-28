@@ -27,6 +27,9 @@ Personality:
 	Specific:
 		May get depressed at the sight of food being eaten, or any mention of eating
 
+Occupations:
+	None
+
 Languages:
 	Galabric
 	Druidic

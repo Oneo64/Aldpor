@@ -23,6 +23,9 @@ Personality:
 		1. Slightly wrathful
 		2. Aloof
 
+Occupations:
+	Arcane school headmaster
+
 Languages:
 	Hendric (English)
 	Rànûdan

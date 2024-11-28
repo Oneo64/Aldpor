@@ -20,6 +20,9 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Occupations:
+	Queen of Esrelu
+
 Languages:
 	Esrel
 	Dagsvaldian

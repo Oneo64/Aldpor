@@ -26,6 +26,9 @@ Personality:
 	Specific:
 		She likes to eat practal gorbry stew
 
+Occupations:
+	Herb Merchant
+
 Languages:
 	Rànûdan
 	Dagsvaldian

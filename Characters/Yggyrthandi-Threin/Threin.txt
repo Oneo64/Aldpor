@@ -26,6 +26,9 @@ Personality:
 	Specific:
 		Has strong Dagsvaldian accent
 
+Occupations:
+	Ferryman
+
 Languages:
 	Dagsvaldian
 	Hendric (English)

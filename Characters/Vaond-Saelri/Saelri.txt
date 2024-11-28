@@ -27,11 +27,14 @@ Personality:
 
 	Realistic view of future
 
+Occupations:
+	Healer
+
 Languages:
 	Esrel
 	Druidic
 	Sylvan
-	Hendric (English)
+	Hendric (English, not fluent)
 
 Abilities:
 	Experience (traveled to Furnalfa to retrieve tablet from evil fey)

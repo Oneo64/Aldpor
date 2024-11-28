@@ -25,6 +25,10 @@ Personality:
 		
 	Optimistic (perspective on the future)
 
+Occupations:
+	Mercenary
+	Farmer
+
 Languages:
 	Dagsvaldian
 	Esrel

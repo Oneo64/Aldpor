@@ -24,6 +24,9 @@ Personality:
 		1. Boastful
 		2. Reckless
 
+Occupations:
+	Mercenary
+
 Languages:
 	Banodic
 

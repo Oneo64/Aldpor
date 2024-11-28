@@ -10,6 +10,9 @@ Eilfror is the current Jarl of Ulfalvik Castle.
 Weapons:
 	Longaxe
 
+Occupations:
+	Jarl
+
 Languages:
 	Dagsvaldian
 	Esrel

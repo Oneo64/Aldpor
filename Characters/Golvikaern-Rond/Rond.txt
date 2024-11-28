@@ -18,6 +18,9 @@ Personality:
 
 	Realistic (perspective on the future)
 
+Occupations:
+	Potion Brewer
+
 Languages:
 	Dagsvaldian
 	Esrel

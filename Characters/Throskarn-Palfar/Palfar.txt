@@ -21,6 +21,9 @@ Personality:
 	Specific:
 		Has strong Dagsvaldian accent
 
+Occupations:
+	King
+
 Languages:
 	Dagsvaldian
 	Hendric (English)

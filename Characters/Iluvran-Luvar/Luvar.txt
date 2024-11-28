@@ -19,6 +19,7 @@ Personality:
 		
 Languages:
 	Rànûdan
+	Druidic
 
 Abilities:
 	Druidic magic:

@@ -27,6 +27,9 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Occupations:
+	Guard of his own tomb
+
 Languages:
 	Galabric
 	Old Esrel

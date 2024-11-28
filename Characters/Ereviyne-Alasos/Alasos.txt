@@ -23,6 +23,9 @@ Personality:
 		
 	Optimistic (perspective on the future)
 
+Occupations:
+	Palace Guard
+
 Languages:
 	Esrel
 	Hendric (English)

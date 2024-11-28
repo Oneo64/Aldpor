@@ -20,6 +20,9 @@ Personality/Behaviour:
 	
 	Optimistic (perspective on the future)
 
+Occupations:
+	Farmer
+
 Languages:
 	Dagsvaldian
 

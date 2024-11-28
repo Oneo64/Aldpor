@@ -23,6 +23,11 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Occupations:
+	Farmer
+
+	Retired Soldier
+
 Languages:
 	Dagsvaldian
 

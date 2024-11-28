@@ -24,6 +24,9 @@ Personality:
 		
 	Realistic (perspective on the future)
 
+Occupations:
+	None
+
 Languages:
 	Primal Dagsvaldian
 

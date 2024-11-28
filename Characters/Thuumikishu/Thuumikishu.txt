@@ -30,9 +30,12 @@ Personality:
 
 		Has odd fascination with rabbits and hares.
 
+Occupations:
+	Wanderer
+
 Languages:
 	Banodic
-	Sylvendric
+	Druidic
 	Hendric (English)
 
 Abilities:
