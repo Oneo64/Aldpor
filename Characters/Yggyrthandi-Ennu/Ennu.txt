@@ -29,7 +29,6 @@ Personality:
 Languages:
 	Dagsvaldian
 	Druidic
-	Hendric (English)
 
 Abilities:
 	Druidic Magic
