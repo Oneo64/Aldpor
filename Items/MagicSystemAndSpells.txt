@@ -585,6 +585,18 @@ You touch a creature. You can choose up to 3 wounds or one broken limb/bone to h
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Crackling Red Sprites (major)
+	Casting time: 3 seconds
+	Range:        10 meters
+	Requirements: V, SG
+	Duration:     concentration up to 10 seconds
+
+Many thin bolts of red electricity arcs from your fingers to random objects and surfaces within range that's in a 45 degree cone, as if your fingers were tesla coils. Creatures drenched in water take more damage, and this spell is able to ignite flammable gases and liquids.
+
+Metals have a higher chance of being struck, while wood has a lower chance of being struck.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Darkness (powerful)
 	Casting time: 10 seconds
 	Range:        50 meters
@@ -1181,6 +1193,8 @@ SPELL LIST
 		MAJOR MAGIC:
 			Conjure Elementals
 			Control Water
+			Crackling Red Sprites
+			Darkness
 			Fireball
 			Ice Storm
 			Lightning Bolt
