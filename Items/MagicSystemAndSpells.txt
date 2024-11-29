@@ -1203,6 +1203,7 @@ SPELL LIST
 			Shockwave
 			Sulfur Rain
 			Telekinesis
+			Waterwalk
 
 		POWERFUL MAGIC:
 			Banishment
