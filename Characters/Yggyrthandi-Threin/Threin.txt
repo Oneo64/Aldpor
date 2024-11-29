@@ -7,7 +7,7 @@ Race:      Human
 
 Þrein is a human from Lismerlav. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles. Þrein wears a muted aqua (blueish green) tunic, baggy brown pants, a belt, and a pair of boots. He wears an iron amulet of Hirulfyr's symbol.
 
-Þrein is the father of Ennu. Þrein also works as a ferryman.
+Þrein is the father of Ennu and Baulnir. Þrein also works as a ferryman.
 
 Weapons:
 	Longbow
@@ -20,6 +20,7 @@ Personality:
 
 	NEGATIVE:
 		1. Impulsive
+		2. Paranoid of his own ship being stolen
 
 	Optimistic view of future
 
