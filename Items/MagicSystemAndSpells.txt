@@ -396,6 +396,19 @@ You turn into mist, which then shoots towards a location you can visibly see wit
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Summon Spiders (powerful)
+	Casting time: 10 seconds
+	Range:        100 meters
+	Requirements: V, S
+	Duration:     concentration up to 1 hour
+
+You conjure 5 giant tarantulas that will appear a few meters around you. The giant spiders are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
+
+If a spider moves outside this spell's range, it dies.
+If a spider created by this spell dies, it disappears in a puff of black smoke.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Travel by Tree (major)
 	Casting time: 6 seconds
 	Range:        300 meters
@@ -1003,6 +1016,15 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Shockwave (powerful)
+	Casting time: 6 seconds
+	Range:        10 meters
+	Requirements: V, S
+
+A sharp crack sounds from your palm, as a sudden shockwave bursts out of your hand, which shoves everything in front of your palm away. The shockwave isn't powerful enough to crack glass.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Stormwall (powerful)
 	Casting time: 6 seconds
 	Range:        self
@@ -1125,6 +1147,7 @@ SPELL LIST
 			Polymorph
 			Protection from Evil and Good
 			Remove Curse
+			Shockwave
 			Speak with Dead
 			Travel by Tree
 
@@ -1161,6 +1184,7 @@ SPELL LIST
 			Fireball
 			Ice Storm
 			Lightning Bolt
+			Shockwave
 			Sulfur Rain
 			Telekinesis
 
@@ -1170,6 +1194,7 @@ SPELL LIST
 			Darkness
 			Imbuement
 			Stormwall
+			Summon Spiders
 			Sunbeam
 
 	WIZARD:
@@ -1222,6 +1247,7 @@ SPELL LIST
 			Protection from Evil and Good
 			Remove Curse
 			Scrying
+			Shockwave
 			Speak with Dead
 			Telekinesis
 
