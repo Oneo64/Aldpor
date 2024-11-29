@@ -199,6 +199,15 @@ Until the spell ends, a target you touch is immune to charming or possession fro
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Purify Food and Drink (basic)
+	Casting time: instantaneous
+	Range:        touch
+	Requirements: V, S, M (a small piece of jade)
+
+Any food or drink you physically touch with the jade piece is purified from all poisons, diseases, harmful bacteria, amobeas, etc. However, it doesn't remove small particles like dirt and sand.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Lesser Restoration (basic)
 	Casting time: 30 seconds
 	Range:        touch
@@ -1093,6 +1102,7 @@ SPELL LIST
 			Lesser Restoration
 			Mending
 			Misty Step
+			Purify Food and Drink
 			Seidur
 			Wash of Radiance
 			Waterwalk
@@ -1137,6 +1147,7 @@ SPELL LIST
 			Mending
 			Misty Step
 			Moonbeam
+			Purify Food and Drink
 			Seidur
 			Shield
 			Shillelagh

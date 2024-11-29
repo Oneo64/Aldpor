@@ -49,7 +49,7 @@ Abilities:
 		Elk (travel)
 		Raven (flight)
 
-	Druidic Magic (22 spells):
+	Druidic Magic (24 spells):
 		Minor:
 			Calming Touch
 			Druidcraft
@@ -66,11 +66,13 @@ Abilities:
 			Icy Touch
 			Lesser Restoration
 			Misty Step, Moonbeam
+			Purify Food and Drink
 			Seidur, Shillelagh
 			Waterwalk
 
 		Major:
 			Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
+			Magic Circle
 			Travel by Tree
 
 		Powerful:
