@@ -5,11 +5,14 @@ Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Þrein is a human from Lismerlav. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles. Þrein wears a muted aqua (blueish green) tunic, baggy brown pants, a belt, and a pair of boots. He wears an iron amulet of Hirulfyr's symbol.
+Þrein is a human from Lismerlav. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles, and his skin is slightly wrinkled.
+
+Þrein wears a brown triangular fur cap, a muted aqua (blueish green) tunic, baggy brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron amulet of Talmundur's symbol.
 
 Þrein is the father of Ennu and Baulnir. Þrein also works as a ferryman.
 
 Weapons:
+	Seax (12 inches)
 	Longbow
 
 Personality:

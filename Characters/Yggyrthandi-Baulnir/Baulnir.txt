@@ -5,9 +5,9 @@ Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Baulnir is a human from in Lismerlav. He has fair skin which is slightly tanned, brown eyes, and light brown hair. He wears a grey cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword.
+Baulnir is a human from in Lismerlav. He has fair skin which is slightly tanned, brown eyes, and light brown hair. He wears a grey cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword. He wears an iron amulet of Talmundur's symbol.
 
-In combat, he wears a leather nasal helmet. While traveling or going into combat, he has a round shield that's painted brown with a white cross.
+In combat he wears a magical leather nasal helmet, which grants him a slight darkvision when worn. While traveling or going into combat, he has a round shield that's painted brown with a white cross.
 
 Weapons:
 	Sword
