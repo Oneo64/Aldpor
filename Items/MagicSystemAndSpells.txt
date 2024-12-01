@@ -378,7 +378,7 @@ You can choose one of the effects to apply:
 
 The stave's magic will be active until the drawing is destroyed, or dispelled.
 
-In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
+In order to draw a stave, you must have studied some Primordial.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
