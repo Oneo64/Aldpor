@@ -349,19 +349,37 @@ Choose a 5 meter radius of area you can see within range. Vines and plants sprou
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Intricate Runic Staves (powerful)
+	Casting time: 1 minute
+	Range:        30 meters
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
+	Duration:     until dispelled
+
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
+
+You dip the coal in the water then draw a magical stave on a wooden or stone surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
+	- Brynslustafir:            All forced physical impacts the target makes with their body or things they are holding (like a punch or using a weapon to hit) creates a faint blue flash of light, which slightly burns whatever the target hit with their body or weapon. Weapons the target is holding becomes sharper, and can cut things somewhat easier. The sharpness goes away once the target leaves the range.
+	- Magical Disruption:       Instead of a specific target, all spells with the tier of Major or Powerful is completely blocked and doesn't work. Spells with the tiers of Basic and Minor are three times harder to cast, and spells that are instantly cast take a couple of seconds to finish and take effect.
+	- Repel Supernatural Being: Choose a type of creature (undead, fey, demon, elemental, celestial, or anything that doesn't originate from the Material Plane. Targets of this type cannot physically enter the range of the stave. If they try to enter the stave's range, they are pushed back as if a strong gust of wind hit them. However they can leave the area of the spell. It is possible to be forced into the area of the spell if there are several people there to force them in.
+
+The stave's magic will be active until the drawing is destroyed, or dispelled.
+
+In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Greater Runic Staves (major)
-	Casting time: 20 seconds
+	Casting time: 40 seconds
 	Range:        20 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
 
-You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
 
 You dip the coal in the water then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
 	- Helm of Awe: A target in range that can see this stave gains a boost to their strength and durability, and they are unable to be frightened for the next hour.
 	- Fright:      A target in range that can see this stave is frightened for the next five minutes.
-	- Repel Dead:  Undead are unwilling to go closer than the range of this spell.
-	- Shielding:   This stave has 5 charges. When a projectile enter the range of this spell, and there is empty space between the stave and the projectile, it is blocked by a white shimmering shield, using up one use. When all charges are expended, the stave fades and is non-magical.
+	- Repel Dead:  Targets that are undead are unwilling to go closer than the range of this spell.
+	- Shielding:   Instead of a specific target, this stave has 5 charges. When a projectile enter the range of this stave that is going towards the stave, and the stave can "see" the projectile, it uses up a charge and blocks the projectile with a white shimmering shield. The shield appears and disappears just quick enough to block the projectile. When all charges are expended, the stave fades and is non-magical.
 
 The stave's magic will be active until the drawing is destroyed, or dispelled.
 
@@ -375,7 +393,7 @@ Lesser Runic Staves (minor)
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
 
-You pick a general description that would match targets for this spell, like "men wearing a red surcoat", or "people not wearing shoes", or "people with black hair".
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
 
 You dip the coal in the water then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red. You can choose one of the effects to apply:
 	- Gapaldur: A target in range is physically stronger when bare-handed.
@@ -1286,4 +1304,5 @@ SPELL LIST
 			Darkness
 			Make Wraith
 			Imbuement
+			Intricate Runic Staves
 			Sunbeam
