@@ -201,10 +201,10 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Scroll (parchment):       2 sp
 	Scroll (vellum):          6 sp
 
-	Spell Scroll (minor):     5 sp
+	Spell Scroll (minor):     3 sp
 	Spell Scroll (basic):     1 gp
-	Spell Scroll (major):     3 gp
-	Spell Scroll (powerful):  6 gp
+	Spell Scroll (major):     5 gp
+	Spell Scroll (powerful):  10 gp
 
 	Potion vial (minor):      3 sp
 	Potion vial (basic):      6 sp
