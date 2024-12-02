@@ -28,11 +28,11 @@ Languages:
 	Primordial
 
 Abilities:
-	Magic (9 years practice, 4 year training, no real experience)
+	Magic (10 years practice, 5 years training, no real experience)
 	Alchemy (potion brewing, advanced potions)
 	Medical things
 
-	Arcane Magic (28 spells):
+	Arcane Magic (29 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -60,4 +60,5 @@ Abilities:
 
 		Powerful:
 			Make Wraith
+			Materialize Magic
 			Symbol
