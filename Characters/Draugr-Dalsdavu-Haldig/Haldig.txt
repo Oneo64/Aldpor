@@ -31,4 +31,5 @@ Languages:
 	Primal Dagsvaldian
 
 Abilities:
+	Combat experience (unknown combat experience | died fighting a daeva tribe)
 	Dane axe (skilled in combat)

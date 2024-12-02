@@ -35,6 +35,8 @@ Languages:
 	Old Esrel
 
 Abilities:
+	Combat experience (unknown combat experiences | died in a battle against a bandit army)
+
 	Sword and shield (very skilled in combat)
 	Magic
 
