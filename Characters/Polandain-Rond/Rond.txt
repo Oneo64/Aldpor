@@ -1,11 +1,11 @@
-Rond Golvikærn
+Rond Polandain
 Male
-Age: 24 (born 948, July 23)
+Age: 29 (born 943, July 23)
 Alignment: Lawful Good
 Ethnicity: Human
-Race:      Dagsvaldian
+Race:      Hendril
 
-Rond is a wizard from Argonlav. He has blond hair with two braids at the front of his chest. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears a dark red cloak, a calf-length blue tunic, brown pants, a ring belt, and a pair of boots. He wears a bronze circlet.
+Rond is a wizard from Jollantil. He has blond hair with two braids at the front of his chest. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears long blue robes with yellow accents, brown pants, a buckled belt, and a pair of shoes. He wears a plain silver circlet, and a silver ring on his right hand. Rond is left-handed.
 
 Rond has knowledge on the history of the past thousand years, and he also knows about Furnalfa and Parhrüvaryg.
 
@@ -22,18 +22,17 @@ Occupations:
 	Potion Brewer
 
 Languages:
-	Dagsvaldian
-	Esrel
-	Primal Dagsvaldian
+	Hendric (English)
+	Aodesvic
+	Banodic
 	Primordial
 
 Abilities:
-	Magic (4 years practice, 1 year training, no real experience)
-	Tagelharpa
+	Magic (9 years practice, 4 year training, no real experience)
 	Alchemy (potion brewing, advanced potions)
 	Medical things
 
-	Arcane Magic (20 spells):
+	Arcane Magic (28 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -43,7 +42,7 @@ Abilities:
 		Basic:
 			Arcane Lock, Arcane Unlock
 			Counterspell
-			Detect Magic
+			Detect Magic, Detect Thoughts
 			Fire Bolt
 			Icy Touch
 			Mage Armor, Magic Missiles, Misty Step
@@ -51,11 +50,14 @@ Abilities:
 
 		Major:
 			Conjure Elementals
+			Dispel Magic
 			Etherealness
-			Invisibility
+			Ice Storm, Invisibility
 			Polymorph
 			Remove Curse
+			Shockwave
 			Telekinesis
 
 		Powerful:
+			Make Wraith
 			Symbol
