@@ -90,6 +90,8 @@ Study (in the spell description if it says so) means something you have brief ex
 
 Druids and Sorcerers are not required to study extensively for spells like Magic Circle or Protection from Evil and Good.
 
+For druids, instead of a blue magic color, it is colored green. For seers it is a golden color.
+
 
 
 ======================================================================================================================================================
