@@ -1332,8 +1332,6 @@ SPELL LIST
 			Prestidigitation
 
 		BASIC MAGIC:
-			Arcane Lock
-			Arcane Unlock
 			Blur
 			Counterspell
 			Detect Magic
@@ -1353,6 +1351,8 @@ SPELL LIST
 		MAJOR MAGIC:
 			Animate Dead
 			Arcane Eye
+			Arcane Lock
+			Arcane Unlock
 			Conjure Elementals
 			Control Water
 			Darkness
