@@ -9,12 +9,12 @@ Plattrægnall:
 	Workings:
 		Plattrægnall is basically Xiangqi, but the pieces are replaced with:
 			- 砲, 炮 is replaced with Dagsvaldian rune G  (glateks)
-			- 兵, 卒 is replaced with Dagsvaldian rune R  (rükkarl)
+			- 兵, 卒 is replaced with Dagsvaldian rune R  (rükmaði)
 			- 車, 俥 is replaced with Dagsvaldian rune F  (fekkig)
-			- 馬, 傌 is replaced with Dagsvaldian rune P  (pjüntaf)
-			- 士, 仕 is replaced with Dagsvaldian rune GG (gveindeggarl)
+			- 馬, 傌 is replaced with Dagsvaldian rune P  (pjüntur)
+			- 士, 仕 is replaced with Dagsvaldian rune K (kondmaði)
 			- 象, 相 is replaced with Dagsvaldian rune B  (byrg)
-			- 將, 帥 is replaced with Dagsvaldian rune J  (jümær)
+			- 將, 帥 is replaced with Dagsvaldian rune J  (jarð)
 
 
 
