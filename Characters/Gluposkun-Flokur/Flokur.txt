@@ -46,7 +46,7 @@ Abilities:
 	Drawing
 	Plattrægnall
 
-	Arcane Magic (21 spells):
+	Arcane Magic (22 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -54,8 +54,8 @@ Abilities:
 			Prestidigitation
 
 		Basic:
-			Counterspell
 			Blur
+			Counterspell
 			Detect Magic
 			Feather Fall, Fire Bolt
 			Icy Touch
@@ -64,6 +64,7 @@ Abilities:
 
 		Major:
 			Animate Dead
+			Dispel Magic
 			Greater Runic Staves
 			Invisibility
 			Lightning Bolt
