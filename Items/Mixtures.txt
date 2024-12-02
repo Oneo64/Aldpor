@@ -331,13 +331,13 @@ Honeymead Creation Liquid (basic)
 Iron Grease of Magic (advanced)
 	Appearance:  The grease is a black transparent grease.
 	Usage:       Spread on metal.
-	Effect:      When the grease is rubbed on with force (such as with hands, or when the metal is used to hit something), it releases magic energy in the form corresponding the catalyst used.
+	Effect:      When the grease is rubbed on with force (such as with hands, or when the metal is used to hit something), it releases magic energy in the form corresponding the catalyst used. The grease starts to glow faintly, corresponding to the color of the effect.
 	Downside:    This grease does not work on gold, copper, or bronze. It is also unable to induce any kind of disease or poison.
 	
-	Ingredients: A few drops of ink, a few drops of tar, and a pinch of ground volcanic rock.
+	Ingredients: A few drops of ink, a few drops of tar, a few drops of vegetable oil, and a pinch of ground volcanic rock.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve. Once that's done, mix the salve with a the same amount of animal fat or vegetable oil.
 
-	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals).
+	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals), amethyst gorbries or glimmering moth part (magic force).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
