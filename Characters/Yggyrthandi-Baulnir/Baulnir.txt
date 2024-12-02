@@ -18,7 +18,7 @@ Personality:
 		1. Protective
 
 	NEGATIVE:
-		???
+		1. Arrogant
 	
 	Optimistic view of future
 
