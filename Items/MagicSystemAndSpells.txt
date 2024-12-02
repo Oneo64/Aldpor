@@ -231,7 +231,7 @@ If something huge or heavy (like a catapult rock, falling bricks, or a really po
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Wall Armor (basic)
+Wall Armor (major)
 	Casting time: 6 seconds
 	Range:        touch
 	Requirements: V, S, M (a small piece of any white opal)
@@ -260,6 +260,29 @@ If the target is sent to a demiplane, then it is incapacitated, and remains ther
 If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
 
 When the target is banished, it disappears with a subtle flash of rainbow light and a popping noise.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Binding Rune (basic)
+	Casting time: 30 seconds
+	Range:        touch
+	Requirements: V, S, M (a piece of coal which the spell consumes)
+	Duration:     until dispelled or used
+
+You draw a small rune on the surface of an object. The surface must be mostly flat, and must be dry. When the object is covered in these runes, you can target that object instead of creature.
+
+The rune starts to glow faintly red. When the object is targeted by a spell, every binding rune on the object fades and disappears. If the rune is destroyed, or dispelled, the same thing happens. The rune cannot be washed away by mundane water.
+
+An example of the amount of binding runes required for some objects:
+	- Longboat:    80 runes
+	- Wooden gate: 40 runes
+	- Rowboat:     20 runes
+	- House door:  16 runes
+	- Long table:  10 runes
+	- Chest:       10 runes
+	- Table:       10 runes
+	- Shield:      4 runes
+	- Axe:         2 runes
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -366,7 +389,7 @@ Choose a 5 meter radius of area you can see within range. Vines and plants sprou
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Intricate Runic Staves (powerful)
-	Casting time: 1 minute
+	Casting time: 5 minutes
 	Range:        30 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
@@ -392,14 +415,14 @@ You can choose one of the effects to apply:
 
 		The stave replenishes one charge per two hours.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
 
 In order to draw a stave, you must have studied some Primordial.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Greater Runic Staves (major)
-	Casting time: 40 seconds
+	Casting time: 1 minute
 	Range:        20 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
 	Duration:     until dispelled
@@ -421,7 +444,7 @@ You dip the coal in the water then draw a magical stave on a wooden surface such
 
 		The shield appears and disappears just quick enough to block the projectile. When all charges are expended, the stave fades and becomes a non-magical drawing.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
 
@@ -442,7 +465,7 @@ You can choose one of the effects to apply:
 	Vegvisir:
 		A target in range is unbothered by difficult terrain for the next 24 hours.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
 
@@ -1068,6 +1091,8 @@ Polymorph (major)
 
 Choose a living creature you can see within range. You then turn that creature into an animal you have physically seen and studied/worked with for the duration. Common animals like sheep, cattle, or wolf are easy to do, but lesser known animals like horses, big cats and bears are harder. The mentality of the creature will match it's new form, but it remains it's morality. In order to use this spell, you must have studied the anatomy of whatever you are transforming the creature to, and the anatomy of whatever you are transforming.
 
+This spell cannot target objects with binding runes drawn on them.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Prestidigitation (minor)
@@ -1199,6 +1224,7 @@ SPELL LIST
 			Animal Messenger
 			Barkskin
 			Blur
+			Binding Rune
 			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
@@ -1263,7 +1289,6 @@ SPELL LIST
 			Misty Step
 			Shield
 			Sparks
-			Wall Armor
 
 		MAJOR MAGIC:
 			Conjure Elementals
@@ -1276,6 +1301,7 @@ SPELL LIST
 			Shockwave
 			Sulfur Rain
 			Telekinesis
+			Wall Armor
 			Waterwalk
 
 		POWERFUL MAGIC:
@@ -1301,6 +1327,7 @@ SPELL LIST
 			Arcane Lock
 			Arcane Unlock
 			Blur
+			Binding Rune
 			Counterspell
 			Detect Magic
 			Detect Thoughts
@@ -1315,7 +1342,6 @@ SPELL LIST
 			Seidur
 			Shield
 			Sparks
-			Wall Armor
 
 		MAJOR MAGIC:
 			Animate Dead
@@ -1341,6 +1367,7 @@ SPELL LIST
 			Shockwave
 			Speak with Dead
 			Telekinesis
+			Wall Armor
 
 		POWERFUL MAGIC:
 			Banishment

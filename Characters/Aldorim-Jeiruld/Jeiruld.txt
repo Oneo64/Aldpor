@@ -51,6 +51,7 @@ Abilities:
 
 		Basic:
 			Arcane Lock, Arcane Unlock
+			Binding Rune
 			Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall, Fire Bolt
@@ -63,7 +64,6 @@ Abilities:
 			Dispel Magic
 			Fireball
 			Greater Runic Staves
-			Hold Person
 			Invisibility
 			Locate Object, Lightning Bolt
 			Major Illusion
