@@ -219,6 +219,24 @@ Darkvision Potion (basic)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Dragonfire Potion (powerful)
+	Appearance:  The potion looks like liquified stone if the stone wasn't hot and didn't glow.
+	Effect:      Lets you see in the dark. If you blow, fire spews out of your mouth. If you sneeze or snort, a puff of fire shoots out of your nose. Your skin starts to take on a slightly grey and rough appearance like stone, and you start to resist fire.
+	Downside:    Anything cold feels colder.
+	
+	Ingredients: Ten ground fire dragon scales, a small handful of sulfur powder, and a pinch of sand.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dragonfrost Potion (powerful)
+	Appearance:  The potion looks like liquified stone if the stone wasn't hot and didn't glow.
+	Effect:      Lets you see in the dark. If you blow, frost spews out of your mouth. If you sneeze or snort, a puff of frost shoots out of your nose. Your skin starts to take on a slightly blue and shiny appearance like ice, and you start to resist cold.
+	Downside:    Fire feels hotter.
+	
+	Ingredients: Ten ground frost dragon scales, a pinch of silver powder, and a small handful of raw wool.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Earthly Construct Concoction (advanced)
 	Appearance:  The potion is a earthly brown slop. The earth sometimes swirls, as if there was something moving within the slop.
 	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
@@ -471,9 +489,9 @@ Reverting Salve (advanced)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Rotting Curse Potion (powerful)
-	Appearance:  The potion is a weird mix of black, green, and yellow swirling slowly like fresh water coloring put into the potion.
+	Appearance:  The potion is a weird mix of black, dark green, and dark yellow swirling slowly like fresh water coloring put into the potion.
 	Usage:       Drink at least 10 ml.
-	Effect:      Your skin, starting from the neck, starts to appear small blotches of a black green yellow combination of colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
+	Effect:      Your skin, starting from the neck, starts to appear small blotches of a mix of black, dark green, and dark yellow colors similar to the potion's appearance, giving it a withered or slightly dyed look. These blotches will spread over your body slowly. The second day, the blotches start showing over your stomach, and you start to feel weak. The third day, the magical skin condition will have spread over your body completely, and you will feel extremely weak, and cannot do more than walk. The fourth day, you will slowly die.
 	Downside:    The curse can only spread via consumption of more than a small handful of any organic matter (including saliva, seat, and other bodily fluids) from the affected person.
 	
 	Ingredients: Three fermented gecko tails, three fermented wasps or hornets, a small handful of ground obsidian powder, a small handful of onyx shards, a pinch of coal powder, and a pinch of wraith dust.
