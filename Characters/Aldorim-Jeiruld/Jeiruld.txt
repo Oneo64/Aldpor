@@ -43,7 +43,7 @@ Abilities:
 	Drawing
 	Plattrægnall
 
-	Arcane Magic (39 spells):
+	Arcane Magic (40 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
@@ -76,6 +76,7 @@ Abilities:
 			Create Golem
 			Darkness
 			Intricate Runic Staves
+			Materialize Magic
 			Sunbeam
 			Symbol
 

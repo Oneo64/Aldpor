@@ -966,7 +966,7 @@ You target one creature you can see within range. You create three wraiths in fr
 
 You can only have three wraiths at the same time. If you cast this spell again, the previous wraiths die.
 
-If you cast this spell as a seer, the wraiths appear white instead of it's usual dark brown and dirt-like appearance.
+If you cast this spell as a seer, the wraiths appear white and ghostly instead of it's usual dark brown and dirt-like appearance.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1080,6 +1080,20 @@ Common spells to imbue include:
 	- Fire Bolt:  Most commonly set to on impact. Makes the coated surface burst in a small puff of flame.
 	- Seidur:     Most commonly set to on command. Mostly used to either boost the luck of one person, or shank the luck of one person.
 	- Sparks:     Most commonly set to on impact. Gives the impacted person a bit of electric shock.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Materialize Magic (powerful)
+	Casting time: instantaneous
+	Range:        touch
+	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi which is consumed on use)
+	Duration:     concentration up to 10 minutes
+
+This spell requires both hands used. You hold the vial of water in one hand, and an empty vial, jug, or bottle in the other.
+
+The vial of water starts to slowly drain, while the other container starts to fill up with the substance of magic, Parhrügi's Tears. This basically converts the water in the vial into Parhrügi's Tears, which appears in the other container.
+
+Until this spell ends, the Parhrügi's Tears created by this spell is impervious to all Primordial.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1217,6 +1231,7 @@ SPELL LIST
 		POWERFUL MAGIC:
 			Banishment
 			Make Wraith
+			Materialize Magic
 			Sunbeam
 
 	DRUID:
@@ -1317,6 +1332,7 @@ SPELL LIST
 			Blight
 			Darkness
 			Imbuement
+			Materialize Magic
 			Stormwall
 			Summon Spiders
 			Sunbeam
@@ -1382,6 +1398,7 @@ SPELL LIST
 			Create Golem
 			Darkness
 			Make Wraith
+			Materialize Magic
 			Imbuement
 			Intricate Runic Staves
 			Sunbeam
