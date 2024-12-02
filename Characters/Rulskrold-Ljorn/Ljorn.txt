@@ -69,7 +69,7 @@ Abilities:
 
 	Sword fighting with and without shield (6 years practice/experience) (below average in combat)
 
-	Arcane Magic (24 spells):
+	Arcane Magic (23 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -86,7 +86,6 @@ Abilities:
 
 		Major:
 			Animate Dead, Arcane Eye
-			Dispel Magic
 			Invisibility
 			Lightning Bolt
 			Major Illusion
