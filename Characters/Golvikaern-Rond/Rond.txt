@@ -7,7 +7,7 @@ Race:      Dagsvaldian
 
 Rond is a wizard from Argonlav. He has dark blond hair with two braids at the front of his chest. Each braid is held by an iron clasp. He has green eyes, and fair skin. He wears a dark red cloak, a calf-length blue tunic, brown pants, a ring belt, and a pair of boots. He wears a bronze circlet.
 
-Rond has studied the history of the last 1500 years, and he also knows about Furnalfa and Parhrüvaryg.
+Rond has knowledge on the history of the past thousand years, and he also knows about Furnalfa and Parhrüvaryg.
 
 Personality:
 	POSITIVE:
@@ -54,4 +54,8 @@ Abilities:
 			Etherealness
 			Invisibility
 			Polymorph
+			Remove Curse
 			Telekinesis
+
+		Powerful:
+			Symbol

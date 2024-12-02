@@ -231,6 +231,38 @@ If something huge or heavy (like a catapult rock, falling bricks, or a really po
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Symbol (powerful)
+	Casting time: 30 seconds
+	Range:        touch
+	Requirements: V, S, M (a chalk dipped in ink which the spell consumes)
+	Duration:     until dispelled or triggered
+
+You pick a general description that would match targets for this spell, like "men wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
+
+You dip the coal in the ink then draw a magical symbol on a dry surface, which the symbol then fades until it is almost invisible.
+
+When a target is detected within a 10 meters, the symbol takes 10 seconds to charge up, which it starts to glow brighter. If the target leaves the 10 meter radius, the symbol returns to normal.
+
+When it reaches 10 seconds, it disappears with a flash of white light and the target is affected by the effect of this symbol.
+
+When casting the spell, you can choose the effects of this symbol:
+	Disarmament:
+		A faint white light flashes at the hands of the target. Any objects held by the target jumps out of their hand and falls towards the ground towards this symbol.
+
+	Enchantment:
+		A thought is forced into the mind of the target that their allies might be plotting against them.
+
+	Paralysis:
+		The target must resist a paralysis wave. If the target doesn't or cannot resist, they become paralyzed for five minutes and fall limp.
+
+	Scorching:
+		A cloud of hot fire bursts towards the target.
+
+	Suspension:
+		The target must resist a wave of numbness. If the target doesn't or cannot resist, they become paralyzed and held in the air for five minutes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Wall Armor (major)
 	Casting time: 6 seconds
 	Range:        touch
@@ -260,29 +292,6 @@ If the target is sent to a demiplane, then it is incapacitated, and remains ther
 If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
 
 When the target is banished, it disappears with a subtle flash of rainbow light and a popping noise.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Binding Rune (basic)
-	Casting time: 30 seconds
-	Range:        touch
-	Requirements: V, S, M (a piece of coal which the spell consumes)
-	Duration:     until dispelled or used
-
-You draw a small rune on the surface of an object. The surface must be mostly flat, and must be dry. When the object is covered in these runes, you can target that object instead of creature.
-
-The rune starts to glow faintly red. When the object is targeted by a spell, every binding rune on the object fades and disappears. If the rune is destroyed, or dispelled, the same thing happens. The rune cannot be washed away by mundane water.
-
-An example of the amount of binding runes required for some objects:
-	- Longboat:    80 runes
-	- Wooden gate: 40 runes
-	- Rowboat:     20 runes
-	- House door:  16 runes
-	- Long table:  10 runes
-	- Chest:       10 runes
-	- Table:       10 runes
-	- Shield:      4 runes
-	- Axe:         2 runes
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1224,7 +1233,6 @@ SPELL LIST
 			Animal Messenger
 			Barkskin
 			Blur
-			Binding Rune
 			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
@@ -1327,7 +1335,6 @@ SPELL LIST
 			Arcane Lock
 			Arcane Unlock
 			Blur
-			Binding Rune
 			Counterspell
 			Detect Magic
 			Detect Thoughts
@@ -1378,3 +1385,4 @@ SPELL LIST
 			Imbuement
 			Intricate Runic Staves
 			Sunbeam
+			Symbol

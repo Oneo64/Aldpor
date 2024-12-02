@@ -51,7 +51,6 @@ Abilities:
 
 		Basic:
 			Arcane Lock, Arcane Unlock
-			Binding Rune
 			Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall, Fire Bolt
@@ -78,6 +77,7 @@ Abilities:
 			Darkness
 			Intricate Runic Staves
 			Sunbeam
+			Symbol
 
 Backstory:
 	910 AD
