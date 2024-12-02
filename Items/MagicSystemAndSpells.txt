@@ -223,7 +223,21 @@ Shield (basic)
 	Requirements: V, SG
 	Duration:     2 seconds
 
-A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a couple of seconds, blocking any direct strikes as if the shield was solid. If something huge or heavy (like a catapult rock or falling bricks) hits this, the spectral shield dissipates, providing no protection and the spell ends.
+A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a couple of seconds, blocking any direct strikes as if the shield was solid glass.
+
+If something huge or heavy (like a catapult rock, falling bricks, or a really powerful blunt attack) hits this, the spectral shield shatters into shards, providing no protection. The shards dissipate harmlessly.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Wall Armor (basic)
+	Casting time: 6 seconds
+	Range:        touch
+	Requirements: V, S, M (a small piece of any white opal)
+	Duration:     until dispelled
+
+You touch a surface that isn't intricately detailed, such as a plain wall, door, or window. Because of this, it cannot be used to protect a creature, statue, or anything like castle walls made with logs.
+
+A faint blue aura forms on that surface in a 5 meter radius, and doesn't spread onto other objects even if it was pressed together. This blue aura acts as if it was solid glass. When the blue aura is shattered, the shards fall and dissipate harmlessly.
 
 
 
@@ -1247,6 +1261,7 @@ SPELL LIST
 			Misty Step
 			Shield
 			Sparks
+			Wall Armor
 
 		MAJOR MAGIC:
 			Conjure Elementals
@@ -1298,6 +1313,7 @@ SPELL LIST
 			Seidur
 			Shield
 			Sparks
+			Wall Armor
 
 		MAJOR MAGIC:
 			Animate Dead
