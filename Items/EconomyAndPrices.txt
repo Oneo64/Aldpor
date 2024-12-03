@@ -185,7 +185,7 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Mug/Bottle of Expensive Wine: 4 sp / 8 sp
 
 	Vial of Parhrügi's Tears: 5 gp
-	Vial of Attuned Water:    2 sp
+	Vial of Attuned Water:    3 sp
 
 	10x10cm Silk:             1 sp
 	10x10cm Wool (fabric):    2 cp
@@ -201,8 +201,8 @@ Animals, Foods and Trade Goods (estimate, meats are per 5 oz):
 	Scroll (parchment):       2 sp
 	Scroll (vellum):          6 sp
 
-	Spell Scroll (minor):     1 gp
-	Spell Scroll (basic):     2 gp
+	Spell Scroll (minor):     3 sp
+	Spell Scroll (basic):     1 gp
 	Spell Scroll (major):     5 gp
 	Spell Scroll (powerful):  10 gp
 
