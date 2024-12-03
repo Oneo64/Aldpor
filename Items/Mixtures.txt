@@ -163,7 +163,7 @@ Blindness Granting Mixture (advanced)
 	Usage:       Drink.
 	Effect:      Your eyes start glowing with intense light for about 15 seconds as you go completely blind. You stay blind until the potion nears the duration. Everything then seems to fade back from the darkness. More than 5 ml must be drank for this to work.
 	
-	Ingredients: One fermented practal gorbry which is then crushed, a small handful of ground snail shells, and a small handful of ground dark lichen or coal powder.
+	Ingredients: One fermented practal gorbry which is then crushed, a small handful of ground snail shells, and a small handful of a mix of ground dark lichen and coal powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ Concoction Bomb of Earth (advanced)
 	Usage:       Ignite.
 	Effect:      Explodes in a ball of sand, dirt, and small pebbles. The earth explosion is harmful up to two meters, and is lethal if it sets off close to the chest or head.
 	
-	Ingredients: A small handful of sulfur powder, a small handful of fermented dark lichen, and two pinches of sand.
+	Ingredients: A small handful of sulfur powder, a small handful of fermented dark lichen, a small handful of fermented ground earthfungi, and two pinches of sand.
 	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -336,6 +336,15 @@ Hailskin Potion (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Heavyliquid (advanced)
+	Appearance:  The potion is a white liquid, but when carried it feels like you're holding liquid metal.
+	Usage:       Drink.
+	Effect:      You become a little heavier in weight but retain your strength, which causes you to use more energy moving at all. You become tired more easily, and cannot move as fast.
+	
+	Ingredients: A small handful of ground earthfungi, four chopped tarantula legs, and a pinch of gold powder.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Honeymead Creation Liquid (basic)
 	Appearance:  The potion is a semi-transparent honey-colored liquid.
 	Usage:       Pour into drinkable liquid.
@@ -444,6 +453,15 @@ Poison Solvent (advanced)
 	Downside:    You need to wait for the poison solvent to evaporate with the poison before pouring more into the liquid. If it comes into contact with any other liquid other than poison or poison solvent, it has the same effect except it doesn't actually evaporate the liquid.
 	
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldi's toadstool, and a chopped great leafbug leg.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Quickliquid (basic)
+	Appearance:  The potion is a white liquid, but when carried it feels like you're holding something twice as light.
+	Usage:       Drink.
+	Effect:      You become a little lighter in weight but retain your strength, which causes you to be able to do things a little faster. You get tired with more difficulty, and you can also run and jump one-and-a-half times higher than normal.
+	
+	Ingredients: A five grown dragonfly wings, a fermented fly, and a pinch of glass powder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 

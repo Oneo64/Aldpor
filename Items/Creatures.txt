@@ -1,13 +1,13 @@
 Creature Habitats (if an animal isn't present here, then they will follow their real-life habitats):
 	Dungeon:							Draugr, Ghost, Skeleton, Vamerk, Wraith, Zombie
 
-	Desert:								Daeva, Fire Dragon, Fire Elemental
+	Desert:								Daeva, Fire Dragon, Fire Elemental, Manticore
 
 	Mountains:							Fire Elemental, Frost Dragon
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
 	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr (rare)
-	Jungles:							Daeva	
+	Jungles:							Daeva, Manticore
 	Northern Dagsvaldian Forests: 		Crow, Owl, Raven, Troll
 	Southern Dagsvaldian Forests:		Crow, Owl, Raven, Troll (less frequent)
 	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
@@ -90,6 +90,21 @@ Daeva (large fiend):
 		When daevas are in daylight, they feel weak, and cannot see, or hear as good. During the night, their strength is at peak, and they will start to slowly regenerate wounds and lost limbs. They are also able to see in the dark.
 
 		Daevas speak Abyssal, and they mostly live in small groups, which mostly ranges from 3 to 20 members.
+
+
+
+Manticore (large fiend):
+	A manticore is a demon, they are usually found either in jungles, or living with a daeva trive. They are said to be manifestations of pure evil.
+
+	Appearance:
+		A manticore appears to have the head of a man, the body of a lion, and the tail of a scorpion. It's tail has a stinger similar to a porcupine quill. It's eyes are vibrant blue, it's hair is the color of blood, and they have three rows of sharp teeth.
+
+	Abilities:
+		A manticore usually swallows a person whole, and is able to digest the whole body.
+
+		Their bodies are resistant to fire, and is able to quickly absorb blood.
+
+		They can also fire the stinger on their tail, which hurts like a metal arrow and causes numbness to spread over the body. The tail's stinger can regrow in about a day.
 
 
 
