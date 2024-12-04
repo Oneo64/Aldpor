@@ -631,6 +631,16 @@ You touch a creature. You can choose one of these effects to happen while your h
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Fear (major)
+	Casting time: 3 seconds
+	Range:        20 meters
+	Requirements: V, S
+	Duration:     1 minute
+
+A creature you can see within range hallucinates a creature or person resembling something they are afraid the most.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Feign Death (basic)
 	Casting time: 3 seconds
 	Range:        touch
@@ -1216,6 +1226,7 @@ SPELL LIST
 
 		MAJOR MAGIC:
 			Etherealness
+			Fear
 			Greater Restoration
 			Greater Runic Staves
 			Magic Circle
@@ -1372,6 +1383,7 @@ SPELL LIST
 			Darkness
 			Dispel Magic
 			Etherealness
+			Fear
 			Fireball
 			Greater Runic Staves
 			Hold person
