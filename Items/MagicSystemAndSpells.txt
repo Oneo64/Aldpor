@@ -965,12 +965,11 @@ Animate Corpse (major)
 	Casting time: 30 seconds
 	Range:        10 meters
 	Requirements: V, S, M (a small piece of black onyx)
+	Duration:     10 minutes
 
-A corpse you can see within range that has a size of large or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least half of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
+A corpse you can see within range that has a size of medium or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least 80 percent of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
 
-If you cast this at it's empowered version (you also need to have studied and practiced the empowered version too), you raise a vamerk instead if you chose a corpse.
-
-If there are at more than 4 other undead within a 10 meter radius of a zombie, it will start to violently shiver and shake due to necromantic unstability. The zombie will then collapse and die after 10 seconds, unless there are at most 4 other undead within a 10 meter radius.
+The zombie or skeleton is friendly to you and people you choose, and is hostile to any other living creature. You can give it simple verbal commands, and they will blindly follow them. When the duration ends, the zombie or skeleton collapses and return to it's true dead state.
 
 In order to use this spell, you must have extensively studied the anatomy of the corpse.
 
@@ -996,6 +995,19 @@ You target one creature you can see within range. You create three wraiths in fr
 You can only have three wraiths at the same time. If you cast this spell again, the previous wraiths die.
 
 If you cast this spell as a seer, the wraiths appear white and ghostly instead of it's usual dark brown and dirt-like appearance.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Reanimation (powerful)
+	Casting time: 30 seconds
+	Range:        10 meters
+	Requirements: V, S, M (a small piece of black onyx)
+
+A corpse you can see within range that has a size of medium or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least 80 percent of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
+
+The zombie or skeleton is friendly to you and people you choose, and is hostile to any other living creature. You can give it simple verbal commands, and they will blindly follow them.
+
+In order to use this spell, you must have extensively studied the anatomy of the corpse.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
