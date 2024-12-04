@@ -43,14 +43,13 @@ Abilities:
 	Drawing
 	Plattrægnall
 
-	Arcane Magic (40 spells):
+	Arcane Magic (38 spells):
 		Minor:
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
 			Prestidigitation
 
 		Basic:
-			Arcane Lock, Arcane Unlock
 			Counterspell
 			Detect Magic, Detect Thoughts
 			Feather Fall, Fire Bolt

@@ -42,7 +42,8 @@ Abilities:
 
 	Magic:
 		Basic:
-			Arcane Lock, Arcane Unlock
 			Dragonfire
-			Locate Object
 			Misty Step
+
+		Major:
+			Locate Object

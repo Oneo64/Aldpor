@@ -40,7 +40,6 @@ Abilities:
 			Prestidigitation
 
 		Basic:
-			Arcane Lock, Arcane Unlock
 			Counterspell
 			Detect Magic, Detect Thoughts
 			Fire Bolt

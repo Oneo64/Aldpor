@@ -108,31 +108,6 @@ Large: Around the size of your hand
 ABJURATION
 ======================================================================================================================================================
 
-Arcane Lock (basic)
-	Casting time: instantaneous
-	Range:        touch
-	Requirements: V, SG
-	Duration:     lasts until lock breaks or dispelled
-
-An object with a lock is magically locked, and feels oddly cold. Objects large enough such as castle gates, portcullis or the door of a giant cannot be locked. You can also set a password, which must be spoken to the lock. If the password is correct, the spell is inactive for 1 minute, or until the door is shut again.
-
-This spell creates a flash of light originating from inside the lock, and a sharp crack sound when locked. If the password is said correctly, the lock only makes a soft bang.
-In order to use this spell, you must know how the same type of lock you are going to lock (or something similar) works.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Arcane Unlock (basic)
-	Casting time: instantaneous
-	Range:        touch
-	Requirements: V, SG
-
-An object with a lock that is under the Arcane Lock spell is dispelled of that spell. If the lock was non-magically locked and magically locked, then you must cast this spell again to unlock it because the first cast removes the magical lock. Objects large enough such as castle gates, portcullis or the door of a giant cannot be targeted.
-
-This spell creates a quick flash of light originating from inside the lock, and a sharp crack sound when unlocked.
-In order to use this spell, you must know how the same type of lock you are going to unlock (or something similar) works.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Counterspell (basic)
 	Casting time: 3 seconds
 	Range:        40 meters
@@ -225,9 +200,11 @@ Shield (basic)
 	Requirements: V, SG
 	Duration:     2 seconds
 
-A blue spectral bowl-like shape 1 meter in diameter pops out of your fist for a couple of seconds, blocking any direct strikes as if the shield was solid glass.
+A faint white bowl-like shape 1 meter in diameter pops out of your fist for a couple of seconds, blocking any direct strikes as if the shield was solid glass.
 
 If something huge or heavy (like a catapult rock, falling bricks, or a really powerful blunt attack) hits this, the spectral shield shatters into shards, providing no protection. The shards dissipate harmlessly.
+
+If the shield appears and overlaps something else, then that something else is unaffected by this spell and can pass through as it there was nothing there.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -266,7 +243,7 @@ When casting the spell, you can choose the effects of this symbol:
 Wall Armor (major)
 	Casting time: 6 seconds
 	Range:        touch
-	Requirements: V, S, M (a small piece of any white opal)
+	Requirements: V, S, M (a small piece of labradorite)
 	Duration:     until dispelled
 
 You touch a surface that isn't intricately detailed, such as a plain wall, door, or window. Because of this, it cannot be used to protect a creature, statue, or anything like castle walls made with logs.
@@ -582,7 +559,7 @@ Choose an object in which you know it's appearance, or nature. While chanting, y
 Scrying (major)
 	Casting time: 10 seconds
 	Range:        infinite
-	Requirements: V, M (any opal orb that is white, and has a diameter of at least 5 cm)
+	Requirements: V, M (a medium piece of labradorite)
 	Duration:     concentration up to 10 minutes
 
 Choose a specific creature in which you know it's appearance, or nature and mannerisms. The spell creates an invisible sensor in which you can see and hear through, and you can move the sensor anywhere instantly within 4 meters. If the creature moves, then the sensor will move with it, staying in it's location relatively to the creature (doesn't rotate with creature), ensuring it stays within 4 meters from it.
@@ -678,6 +655,15 @@ A creature you point at falls down, paralyzed. The creature is unable to move th
 EVOCATION
 ======================================================================================================================================================
 
+Burning Hands (major)
+	Casting time: instantaneous
+	Range:        10 meters
+	Requirements: V, SG
+
+You hold both hands out, with fingers spread. A burst of fire shoots out of your fingers in a 45 degree flat cone. The fire can ignite flammable gases and liquids.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Cure Wounds (basic)
 	Casting time: 3 seconds
 	Range:        touch
@@ -767,7 +753,9 @@ Icy Touch (basic)
 	Requirements: V, S, M (a handful of a mixture of moss and silver powder, which is consumed on use)
 	Duration:     5 minutes
 
-A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing. If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts.
+A mote of burning frost shoots out of your hand. If it hits a creature, for the next five minutes, the target will be freezing.
+
+If it lands on a surface, it will spread out in a 3 meter radius, providing a slippery surface which is so cold it hurts. The spreading cannot spread around sharp corners, so things like shields or doors won't be affected on the other side.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -810,6 +798,16 @@ Moonbeam (basic)
 	Duration:     concentration up to 1 minute
 
 A thin beam of freezing moonlight shines from your palm until the end of this spell's duration. If whatever it hits has been magically transformed, it reverts to it's true form and cannot assume another shape or form.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ring of Fire (powerful)
+	Casting time: 10 seconds
+	Range:        self
+	Requirements: V, S, M (a piece of fire opal)
+	Duration:     concentration up to 10 minutes
+
+A ring of fire appears around you in a 10 meter radius and stays at it's location, spinning around you like a cyclone. The fire is unable to enter water, but is able to ignite flammable liquid and other objects. However, any objects or liquid ignited by this fire cannot spread.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1314,6 +1312,7 @@ SPELL LIST
 			Sparks
 
 		MAJOR MAGIC:
+			Burning Hands
 			Conjure Elementals
 			Control Water
 			Crackling Red Sprites
@@ -1333,6 +1332,7 @@ SPELL LIST
 			Darkness
 			Imbuement
 			Materialize Magic
+			Ring of Fire
 			Stormwall
 			Summon Spiders
 			Sunbeam
@@ -1367,8 +1367,6 @@ SPELL LIST
 		MAJOR MAGIC:
 			Animate Dead
 			Arcane Eye
-			Arcane Lock
-			Arcane Unlock
 			Conjure Elementals
 			Control Water
 			Darkness
