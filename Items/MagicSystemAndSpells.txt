@@ -961,7 +961,7 @@ The user picks a spot on a surface, then traces their finger around that surface
 NECROMANCY
 ======================================================================================================================================================
 
-Animate Dead (major)
+Animate Corpse (major)
 	Casting time: 30 seconds
 	Range:        10 meters
 	Requirements: V, S, M (a small piece of black onyx)
@@ -1400,7 +1400,7 @@ SPELL LIST
 			Sparks
 
 		MAJOR MAGIC:
-			Animate Dead
+			Animate Corpse
 			Arcane Eye
 			Conjure Elementals
 			Control Water

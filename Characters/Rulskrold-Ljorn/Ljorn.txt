@@ -85,7 +85,7 @@ Abilities:
 			Seidur, Shield, Sparks
 
 		Major:
-			Animate Dead, Arcane Eye
+			Animate Corpse, Arcane Eye
 			Invisibility
 			Lightning Bolt
 			Major Illusion

@@ -58,7 +58,7 @@ Abilities:
 			Seidur, Shield, Sparks
 
 		Major:
-			Animate Dead, Arcane Eye
+			Animate Corpse, Arcane Eye
 			Dispel Magic
 			Fireball
 			Greater Runic Staves

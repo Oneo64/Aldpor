@@ -63,7 +63,7 @@ Abilities:
 			Seidur, Shield, Sparks
 
 		Major:
-			Animate Dead
+			Animate Corpse
 			Dispel Magic
 			Greater Runic Staves
 			Invisibility
