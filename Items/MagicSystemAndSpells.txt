@@ -1208,7 +1208,7 @@ Telekinesis (major)
 
 An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second.
 
-If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, the spell ends.
+If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, or is moved more than 10 meters above the ground, the spell ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
