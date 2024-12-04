@@ -41,11 +41,13 @@ Abilities:
 
 	Druidic Magic:
 		Minor:
+			Calming Touch
 			Druidcraft
 			Entangle
 
 		Basic:
 			Animal Messenger
-			Conjure Minor Animals, Cure Wounds
+			Conjure Minor Animals
+			Healing Palm
 			Moonbeam
 			Waterwalk
