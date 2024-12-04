@@ -39,18 +39,12 @@ Languages:
 	Hendric (English)
 
 Abilities:
-	Seer Magic:
-		Minor:
-			Lesser Runic Staves
-
-		Basic:
-			Cure Wounds
-			Detect Evil and Good
-
 	Druid Magic:
 		Minor:
 			Entangle
+			Lesser Runic Staves
 
 		Basic:
 			Conjure Minor Animals
+			Healing Palm
 			Shillelagh

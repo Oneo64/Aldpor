@@ -49,7 +49,7 @@ Abilities:
 		Elk (travel)
 		Raven (flight)
 
-	Druidic Magic (25 spells):
+	Druidic Magic (26 spells):
 		Minor:
 			Calming Touch
 			Druidcraft
@@ -61,8 +61,8 @@ Abilities:
 		Basic:
 			Animal Messenger
 			Barkskin, Blur
-			Cure Wounds
 			Detect Evil and Good, Detect Thoughts
+			Healing Palm
 			Icy Touch
 			Lesser Restoration
 			Misty Step, Moonbeam
@@ -72,6 +72,7 @@ Abilities:
 
 		Major:
 			Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
+			Cure Wounds
 			Magic Circle
 			Travel by Tree
 

@@ -90,7 +90,7 @@ Study (in the spell description if it says so) means something you have brief ex
 
 Druids and Sorcerers are not required to study extensively for spells like Magic Circle or Protection from Evil and Good.
 
-For druids, instead of a blue magic color, it is colored green. For seers it is a golden color.
+For druids, instead of a blue magic color, it is colored green. For seers it is a yellow color.
 
 
 
@@ -674,7 +674,7 @@ You hold both hands out, with fingers spread. A burst of fire shoots out of your
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cure Wounds (basic)
+Cure Wounds (major)
 	Casting time: 3 seconds
 	Range:        touch
 	Requirements: V, S
@@ -745,6 +745,27 @@ Fire Bolt (basic)
 	Requirements: V, SG
 
 A bolt of fire shoots out of your hands, and bursts into a little puff of fire on impact.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Healing Palm (basic)
+	Casting time: instantaneous
+	Range:        touch
+	Requirements: V, SG
+	Duration:     concentration up to 1 minute
+
+You hover your palm over a wound on a creature. Your palm starts to glow, and the wound slowly closes. If the wound would naturally result with a scar, then the wound healed would result with a scar. This spell cannot fix broken bones or severed limbs.
+
+Your palm glows green if it is cast using druid magic, or yellow if it is cast using seer magic.
+
+Healing times:
+	Gash:         30 minutes
+	Slash:        10 minutes
+	Large bruise: 5 minutes
+	
+	Small bruise: 30 seconds
+	Small cut:    5 seconds
+	Paper cut:    instantaneous
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1208,14 +1229,15 @@ SPELL LIST
 ======================================================================================================================================================
 	SEER:
 		MINOR SPELLS:
+			Calming Touch
 			Lesser Runic Staves
 
 		BASIC MAGIC:
 			Bless
-			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
 			Feign Death
+			Healing Palm
 			Lesser Restoration
 			Mending
 			Misty Step
@@ -1225,6 +1247,7 @@ SPELL LIST
 			Waterwalk
 
 		MAJOR MAGIC:
+			Cure Wounds
 			Etherealness
 			Fear
 			Greater Restoration
@@ -1257,10 +1280,10 @@ SPELL LIST
 			Animal Messenger
 			Barkskin
 			Blur
-			Cure Wounds
 			Detect Evil and Good
 			Detect Thoughts
 			Feign Death
+			Healing Palm
 			Icy Touch
 			Lesser Restoration
 			Mending
@@ -1280,6 +1303,7 @@ SPELL LIST
 			Conjure Woodland Beings
 			Control Plant
 			Control Water
+			Cure Wounds
 			Etherealness
 			Greater Restoration
 			Greater Runic Staves

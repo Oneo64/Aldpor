@@ -46,8 +46,8 @@ Abilities:
 			Wash of Radiance
 
 		Major:
-			Cure Wounds
 			Detect Evil and Good
+			Healing Palm
 
 	Special:
 		Able to sense any sort of undead activity in a 100 meter radius, but she cannot determine where it is happening, the direction of it, or it's distance.
