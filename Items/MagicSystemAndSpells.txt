@@ -1363,7 +1363,6 @@ SPELL LIST
 			Conjure Elementals
 			Control Water
 			Crackling Red Sprites
-			Darkness
 			Fireball
 			Ice Storm
 			Lightning Bolt
@@ -1416,7 +1415,6 @@ SPELL LIST
 			Arcane Eye
 			Conjure Elementals
 			Control Water
-			Darkness
 			Dispel Magic
 			Etherealness
 			Fear

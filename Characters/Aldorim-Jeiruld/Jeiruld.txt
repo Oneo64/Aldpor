@@ -43,8 +43,9 @@ Abilities:
 	Drawing
 	Plattrægnall
 
-	Arcane Magic (39 spells):
+	Arcane Magic (42 spells):
 		Minor:
+			Illusory Script
 			Lesser Runic Staves
 			Mage Hand, Message, Minor Illusion
 			Prestidigitation
@@ -52,7 +53,7 @@ Abilities:
 		Basic:
 			Counterspell
 			Detect Magic, Detect Thoughts
-			Feather Fall, Fire Bolt
+			Feather Fall, Feign Death, Fire Bolt
 			Icy Touch
 			Mage Armor, Magic Missiles, Misty Step
 			Seidur, Shield, Sparks
@@ -74,6 +75,7 @@ Abilities:
 			Banishment, Blight
 			Create Golem
 			Darkness
+			Imbuement
 			Intricate Runic Staves
 			Materialize Magic
 			Reanimation
