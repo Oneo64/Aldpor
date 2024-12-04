@@ -16,8 +16,8 @@ Weapons:
 
 Personality/Behaviour:
 	POSITIVE:
-		1. Observant
-		2. Loyal
+		1. Loyal
+		2. Observant
 
 	NEGATIVE:
 		1. Aloof
