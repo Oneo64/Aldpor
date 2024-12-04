@@ -962,7 +962,7 @@ NECROMANCY
 ======================================================================================================================================================
 
 Animate Corpse (major)
-	Casting time: 30 seconds
+	Casting time: 6 seconds
 	Range:        10 meters
 	Requirements: V, S, M (a small piece of black onyx)
 	Duration:     10 minutes
