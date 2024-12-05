@@ -126,7 +126,7 @@ POTIONS AND CONCOCTIONS
 Abjuration Dissolvent (basic)
 	Appearance:  It is a black, semi-transparent syrupy liquid.
 	Usage:       Soak in object, throw at object, or get the liquid on the object.
-	Effect:      Removes abjuration effects placed on objects. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces or magical barriers such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, which can completely dissipating spells like Shield. If the abjuration spell is until dispelled, then small vials remove only 10% of it's potency, while wine bottles can remove half it's potency.
+	Effect:      Removes abjuration effects placed on objects, and vaporizes on contact with the abjuration effect. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces or magical barriers such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, which can completely dissipating spells like Shield. If the abjuration spell is until dispelled, then small vials remove only 10% of it's potency, while wine bottles can remove half it's potency.
 
 	Specific effect (to abjuration spells that is until dispelled or triggered):
 		Arcane Lock spells on objects like doors will feel like it 'resists' force, as if someone was on the other side pushing the other way. This resistance gets weaker the less potent the spell gets. At full potency, the door cannot be opened.
