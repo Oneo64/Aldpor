@@ -416,7 +416,7 @@ You can choose one of the effects to apply:
 		All forced physical impacts the target makes with their body or things they are holding (like a punch or using a weapon to hit) creates a faint blue flash of light, which slightly burns whatever the target hit with their body or weapon. Weapons the target is holding becomes sharper, and can cut things somewhat easier. The sharpness goes away once the target leaves the range.
 
 	Magical Disruption:
-		Instead of a specific target, all spells with the tier of Major or Powerful is completely blocked and doesn't work. Spells with the tiers of Basic and Minor are three times harder to cast, and spells that are instantly cast take a couple of seconds to finish and take effect.
+		Instead of a specific target, all spells with the tier of Major or Powerful cannot be cast, and all concentrations and spellcasting for these spells are broken. Spells with the tiers of Basic and Minor are three times harder to cast, and spells that are instantly cast take a couple of seconds to finish and take effect.
 	
 	Repel Supernatural Being:
 		Choose a type of creature (undead, fey, demon, elemental, celestial, or anything that doesn't originate from the Material Plane. Targets of this type cannot physically enter the range of the stave.
