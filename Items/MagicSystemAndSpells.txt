@@ -220,7 +220,7 @@ You dip the coal in the ink then draw a magical symbol on a dry surface, which t
 
 When a target is detected within a 10 meters, the symbol takes 10 seconds to charge up, which it starts to glow brighter. If the target leaves the 10 meter radius, the symbol returns to normal.
 
-When it reaches 10 seconds, it disappears with a flash of white light and the target is affected by the effect of this symbol.
+When it reaches 10 seconds, it disappears with a flash of white light and a popping noise, and the target is affected by the effect of this symbol.
 
 When casting the spell, you can choose the effects of this symbol:
 	Disarmament:
