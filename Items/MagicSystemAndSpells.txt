@@ -833,6 +833,15 @@ A ring of fire appears around you in a 10 meter radius and stays at it's locatio
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Scorch Bolt (major)
+	Casting time: instantaneous
+	Range:        40 meters
+	Requirements: V, SG, M (a small glass shard)
+
+A bolt of blue fire shoots out of your hands, and bursts into a little puff of fire on impact. This bolt of blue fire is twice as destructive as a normal fire bolt.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sparks (basic)
 	Casting time: instantaneous
 	Range:        20 meters
@@ -990,7 +999,7 @@ If you cast this spell as a seer, the wraiths appear white and ghostly instead o
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Reanimation (powerful)
-	Casting time: 30 seconds
+	Casting time: 1 minute
 	Range:        10 meters
 	Requirements: V, S, M (a small piece of black onyx)
 
@@ -1366,6 +1375,7 @@ SPELL LIST
 			Fireball
 			Ice Storm
 			Lightning Bolt
+			Scorch Bolt
 			Shockwave
 			Sulfur Rain
 			Telekinesis
@@ -1373,7 +1383,6 @@ SPELL LIST
 			Waterwalk
 
 		POWERFUL MAGIC:
-			Banishment
 			Blight
 			Darkness
 			Imbuement
@@ -1430,6 +1439,7 @@ SPELL LIST
 			Polymorph
 			Protection from Evil and Good
 			Remove Curse
+			Scorch Bolt
 			Scrying
 			Shockwave
 			Speak with Dead
