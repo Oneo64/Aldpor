@@ -459,7 +459,7 @@ Poison Solvent (advanced)
 Quickliquid (basic)
 	Appearance:  The potion is a white liquid, but when carried it feels like you're holding something twice as light.
 	Usage:       Drink.
-	Effect:      You become a little lighter in weight but retain your strength, which causes you to be able to do things a little faster. You get tired with more difficulty, and you can also run and jump one-and-a-half times higher than normal.
+	Effect:      You become a little lighter in weight but retain your strength, which causes you to be able to do things a little faster. You don't get tired as quick, and you can also run and jump one-and-a-half times higher than normal.
 	
 	Ingredients: A five grown dragonfly wings, a fermented fly, and a pinch of glass powder.
 
@@ -595,6 +595,9 @@ Drinking concoction bomb of earth:
 
 Drinking poison solvent or potion acid:
 	Your metabolism is slowed for an hour or two. Also, any potion or poison you consumed earlier suffers the same effect as described in the poison solvent or potion acid effects.
+
+Drinking quickliquid and heavyliquid:
+	No effect, because quickliquid is basically the opposite of heavyliquid.
 
 Eating any of the healing salves:
 	It doesn't do anything beyond acting as a food.
