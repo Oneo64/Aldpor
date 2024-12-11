@@ -32,7 +32,7 @@ Abilities:
 	Alchemy (potion brewing, advanced potions)
 	Medical things
 
-	Arcane Magic (29 spells):
+	Arcane Magic (30 spells):
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
@@ -52,6 +52,7 @@ Abilities:
 			Dispel Magic
 			Etherealness
 			Ice Storm, Invisibility
+			Magic Circle
 			Polymorph
 			Remove Curse
 			Shockwave
