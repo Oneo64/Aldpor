@@ -1,11 +1,11 @@
 Yngvild Rúlskrolð
 Female
-Age: 24 (born 949, may 1)
+Age: 23 (born 950, may 1)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Yngvild is a human from Argonlav. Her hair is dark blond and wavy, which reaches to her shoulders. Her are dark pale blue, and has fair skin. She wears a long yellow tunic down to her ankles, a ring belt, and a pair of shoes. She has a small seax sheathed on her belt. She wears a necklace of Talmundur's symbol, made of silver. She is 163 (5'4) centimeters tall.
+Yngvild is a human from Argonlav. Her hair is dark blond and wavy, which reaches to her armpits. Her are dark pale blue, and has fair skin. She wears a long yellow tunic down to her ankles, a ring belt, and a pair of shoes. She has a small seax sheathed on her belt. She wears a necklace of Talmundur's symbol, made of silver. She is 163 (5'4) centimeters tall.
 
 Weapons:
 	Small seax (7 inches)
@@ -17,6 +17,7 @@ Personality/Behaviour:
 
 	NEGATIVE:
 		1. Ignorant
+		2. Paranoid around centaurs
 	
 	Optimistic (perspective on the future)
 
@@ -31,7 +32,6 @@ Abilities:
 
 	Arcane Magic:
 		Minor:
-			Lesser Runic Staves
 			Prestidigitation
 
 Possessions:
