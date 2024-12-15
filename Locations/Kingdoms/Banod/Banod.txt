@@ -54,3 +54,11 @@ UNIFORMS
 
 Soldiers/Guards: An iron-only coppergate helmet, chainmail hauberk, grey tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a spear, and a wooden buckler.
 Archers/Lookouts: An iron-only coppergate helmet, grey tunic (elbow length), and a brown tunic (to wrists), will provide shoes if needed. Their weapon is a crossbow, with iron-headed arrows.
+
+
+
+======================================================================================================================================================
+LORE, RELIGION, STRUCTURE, ETC
+======================================================================================================================================================
+
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/Banodic.txt for more information on it's lore, religion, structure, and others.
