@@ -22,7 +22,7 @@ Personality:
 		1. Thoughtful
 
 	NEGATIVE:
-		1. Cruel
+		1. Harsh
 
 	Specific:
 		Has strong Dagsvaldian accent
