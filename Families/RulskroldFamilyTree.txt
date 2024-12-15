@@ -21,30 +21,30 @@ Legend:
  >>  = 1 generation
  >>> = More than 1 generations
  ~   = Alive around in this range of years
-
-                                                                                                                                                                    [LAÐURMAND FAMILY]--Vorða [F, 4 October 945]---+
-                                                                                                                                                                                                                   |
-                                                                                                                                                      [GOLVIKÆRN FAMILY]-----+       +-Lalfrel [F, 28 July 941]    +>>+-Svan [M, 18 June 968]
-Haldig Dalsdavu I [800 ~ 785]-+>>>>+-Haldig Rúlskrolð II [850 ~ 835]>>+-Júlfur [M, 863 - 883]----------+                                          +-Anru [F, 14 November 919]+       |                             |
-                                                                                                       |                    [BJOMALDUR FAMILY]--+ |                                  +-Gorður [M, 26 May 942]------+
-                                                    [GLÚPOSKUN FAMILY]--Ljora [F, 866 - 936]-----------+  +-Iðun [F, 893 - 883]                 | +-Frald [M, 4 March 917]--------+>>|
-                                                                                                       |  |                                     | |                               |  +-Ærynd [F, 13 August 943]
-                                                                                                       +>>+-Haldig III [M, 894 - 970]--------+  +-|-Ynüdis [917 - 963]------------+
-                                                                                                                                             |    |
-                                                                        Svoran Jerdfyr [M, 853 - 920]--+                                     +-+  |                                  +-Ulfrir [M, 13 January 946]
-                                                                                                       |>>+-Amja [F, 892 - 966]----------------+>>+-Algord [M, 26 August 915]-----+  |
-                                                                        Fyrel Jerdfyr [F, 855 - 923]---+                                                                          |  +-Ljorn [M, 2 December 947]
-                                                                                                                                                                                  +>>|
-                                                                        Mægnod I Galigt [M, 857 - 915]-+>>+-Bjol Galigt [M, 894 - 964]----------+                                 |  +-Yngvild [F, 1 May 950]
-                                                                                                       |                                        |>>+-Mifrün [F, 19 September 917]-+  |
-                                                                        Agni Galigt [F, 863 - 929]-----+    Elfreida Galigt [F, 5 February 893]-+  |                                 +-Alf [M, 17 August 952]
-                                                                                                                                                   |
-                                                                                                                                                   +-Mægnod II Galigt [M, 7 March 914]
+  
+                                                                                                                                                                     [LAÐURMAND FAMILY]--Vorða [F, 4 October 945]---+
+                                                                                                                                                                                                                    |
+                                                                                                                                                        [GOLVIKÆRN FAMILY]-----+       +-Lalfrel [F, 28 July 941]   +>>+-Svan [M, 18 June 968]
+Haldigr Dalsdavu I [800 ~ 785]-+>>>>+-Haldigr Rúlskrolð II [850 ~ 835]>>+-Júlfr [M, 863 - 883]-----------+                                          +-Anru [F, 14 November 919]+       |                            |
+                                                                                                         |                    [BJOMALDUR FAMILY]--+ |                                  +-Gorðr [M, 26 May 942]------+
+                                                      [GLÚPOSKUN FAMILY]--Ljora [F, 866 - 936]-----------+  +-Iðun [F, 893 - 883]                 | +-Fraldr [M, 4 March 917]-------+>>|
+                                                                                                         |  |                                     | |                               |  +-Ærynd [F, 13 August 943]
+                                                                                                         +>>+-Haldigr III [M, 894 - 970]-------+  +-|-Ynüdis [917 - 963]------------+
+                                                                                                                                               |    |
+                                                                          Svoran Jerdfyr [M, 853 - 920]--+                                     +-+  |                                  +-Ulfrir [M, 13 January 946]
+                                                                                                         |>>+-Amja [F, 892 - 966]----------------+>>+-Algord [M, 26 August 915]-----+  |
+                                                                          Fyrel Jerdfyr [F, 855 - 923]---+                                                                          |  +-Ljorn [M, 2 December 947]
+                                                                                                                                                                                    +>>|
+                                                                          Mægnod I Galigt [M, 857 - 915]-+>>+-Bjol Galigt [M, 894 - 964]----------+                                 |  +-Yngvild [F, 1 May 950]
+                                                                                                         |                                        |>>+-Mifrün [F, 19 September 917]-+  |
+                                                                          Agni Galigt [F, 863 - 929]-----+    Elfreida Galigt [F, 5 February 893]-+  |                                 +-Alfr [M, 17 August 952]
+                                                                                                                                                     |
+                                                                                                                                                     +-Mægnod II Galigt [M, 7 March 914]
 
 
 
 Notes:
-   Haldig Dalsdavu I: Unknown cause of death traveling from Hendril to Tarib. Said to be killed by daevas.
-   Júlfur & Iðun:     Slain during the Invasion of Bravosh.
+   Haldigr Dalsdavu I: Unknown cause of death traveling from Hendril to Tarib. Said to be killed by daevas.
+   Júlfr & Iðun:       Slain during the Invasion of Bravosh.
 
    Anru is married to someone in the Golvikærn family.
