@@ -14,8 +14,8 @@ Land:
 
 ---------------------------------------------------------------
 
-Current people in the longhouse with the farms and fence (10): Algord, Mif, Ulfrir, Ljorn, Yngvild, Alf, Frald, Lalfrel, Ærynd
-Current people in the longhouse with the three farms (3): Gorður, Vorða, Svan
+Current people in the longhouse with the farms and fence (10): Algord, Mifrün, Ulfrir, Ljorn, Yngvild, Alfr, Fraldr, Lalfrel, Ærynd
+Current people in the longhouse with the three farms (3): Gorðr, Vorða, Svan
 
 Legend:
  >>  = 1 generation

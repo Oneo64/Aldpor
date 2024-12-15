@@ -3,7 +3,7 @@ All names below, unless specified, are the Daggsvaldian name for it.
 Planes/Realms:
 	Talygva     = Material realm
 
-	Jælheim     = Good afterlife (LG, paradise realm to good people)
+	Jælhleid     = Good afterlife (LG, paradise realm to good people)
 	Hel         = Bad afterlife (CG, punishment realm to evil people)
 
 	Furnalfa    = Realm of Fey and Pure Nature (N, infinite dark lush green forest)
@@ -15,7 +15,7 @@ Dimensions:
 	Parhrüvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrügi's Tears". Parhrügi's Tears are extremely volatile, and a single vial can be worth tens of gold)
 
 Deities:
-	Talmundur:
+	Talmundr:
 		Domain:      God of Nature, Tempest, and Luck
 		Symbol:      Dagsvaldian 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Tereven (Hendril), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
