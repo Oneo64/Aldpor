@@ -15,7 +15,7 @@ Dimensions:
 	Parhrüvaryg = Plane of Magic (appears to be a sea of a purple sparkly type of liquid, commonly known as "Parhrügi's Tears". Parhrügi's Tears are extremely volatile, and a single vial can be worth tens of gold)
 
 Deities:
-	Talmundr:
+	Talmundur:
 		Domain:      God of Nature, Tempest, and Luck
 		Symbol:      Dagsvaldian 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Tereven (Hendril), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
