@@ -9,7 +9,7 @@ Race:      Human
 
 Þrein wears a brown triangular fur cap, a muted aqua (blueish green) tunic with brown accents, baggy brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
 
-Þrein is the father of Ennu and Baulnir. Þrein also works as a ferryman.
+Þrein is the father of Ennu and Baulnir. Þrein also works as a ferryman, and owns a karve.
 
 Weapons:
 	Seax (12 inches)
@@ -40,4 +40,4 @@ Languages:
 Abilities:
 	Archery
 	Hunting
-	Longboat Control
+	Karve boat control

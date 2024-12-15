@@ -14,8 +14,8 @@ Average family wealth per social class (Personal wealth average divide by 4, sil
 	Very wealthy (mayors, hersirs):      family: 40 gp  + 400 sp  + 100 cp
 	Highest class (jarls, lords):        family: 100 gp + 1000 sp + 500 cp
 
-Skilled Hireling:    3 sp/day (guards, palace guards, healer, merchant, building, etc)
-Unskilled Hireling:  1 sp/day (farmers)
+Skilled Hireling:   6 sp/week (guards, palace guards, healer, merchant, building, etc)
+Unskilled Hireling: 4 sp/week (farmers)
 
 Any carved piece is counted outside of the multiplier, and price goes up by 5x.
 Example: walls multiplier x5, but 1 is carved. the walls cost 1gp each.
