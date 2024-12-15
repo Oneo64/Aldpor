@@ -59,3 +59,11 @@ UNIFORMS
 Soldier/Guard: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a Norman kite shield.
 Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one).
 Archer/Lookout: An archer would have an aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a longbow (self bow) with obsidian-headed arrows.
+
+
+
+======================================================================================================================================================
+LORE, RELIGION, STRUCTURE, ETC
+======================================================================================================================================================
+
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/MoonElf.txt for more information on it's lore, religion, structure, and others.
