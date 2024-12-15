@@ -20,10 +20,10 @@ Dark Lichen:
 	Dark lichen grows in the Plane of Earth and Stone. It is very black, but glows faintly green in the dark. Dark Lichen is poisonous, and can cause temporary blindness when eaten.
 
 Earthfungus:
-	Earthfungus grows in the Plane of Earth and Stone. It is dark tan and grows in a ball shape. It is around 50 centimeters in diameter.
+	Earthfungi grows in the Plane of Earth and Stone. It is dark tan and grows in a ball shape. It is around 50 centimeters in diameter.
 
-Ekraldi's Toadstool:
-	Ekraldi's Toadstools is a tall slender mushroom, around 35 centimeters. They are grey, and their cap is brown and has "fur". Ekraldi's Toadstool is poisonous at full size, and some strands of it's fur start to turn blue. The poison can be removed by fermentation.
+Ekraldys Toadstool:
+	An ekraldys toadstool is a tall slender mushroom, around 35 centimeters. They are grey, and their cap is brown and has "fur". Ekraldys toadstools are poisonous at full size, and some strands of it's fur start to turn blue. The poison can be removed by fermentation.
 
 Moonshroom:
 	A moonshroom is a small mushroom that can grow up to 10 centimeters. It is colored aqua, with small darker "ripples", resembling the surface of a moon.

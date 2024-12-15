@@ -44,7 +44,7 @@ Great Leafbug:
 	Abilities:
 		The leafbug usually stays in forested areas. It is green, so it is hard to see. However, because it is that big, it has trouble climbing surfaces even though it retains it's wall climbing ability.
 
-		They are herbivorous, and they eat ekraldi's toadstools. Their bodily fluids act as a brine, and will ferment the ekraldi's toadstool as it eats it.
+		They are herbivorous, and they eat ekraldys toadstools. Their bodily fluids act as a brine, and will ferment the ekraldys toadstool as it eats it.
 
 
 

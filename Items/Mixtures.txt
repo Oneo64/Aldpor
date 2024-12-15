@@ -258,12 +258,12 @@ Energy Potion (minor)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ekraldi's Concoction (advanced)
+Ekraldys Concoction (advanced)
 	Appearance:  The potion is a clear liquid.
 	Usage:       Drink.
 	Effect:      Nausea, fatigue, dizziness, loss of concentration, and sometimes paralysis.
 
-	Ingredients: A small handful of pickled dark lichen, and an ekraldi's toadstool chopped into pieces.
+	Ingredients: A small handful of pickled dark lichen, and an ekraldys toadstool chopped into pieces.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -294,7 +294,7 @@ Forgetation Concoction (advanced)
 	Effect:      For every 5 ml you drink, you lose memory of all that happened in the past minute. At 50 ml which is the minimum, you would forget what happened in the past 10 minutes.
 	Downside:    If you drank less than 50 ml, you slowly regain those memories after a number of minutes equal to the amount of ml you drank.
 	
-	Ingredients: Two crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a pinch of ground snail shells, and a fermented fly.
+	Ingredients: Two crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a pinch of ground snail shells, and a fermented fly.
 	Brewing:     It must be boiled for five hours.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -304,7 +304,7 @@ Freebreathing Potion (basic)
 	Usage:       Drink.
 	Effect:      Creates oxygen in lungs, allowing immunity to drowning, choking, and suffocation.
 	
-	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldi's toadstool.
+	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldys toadstool.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ Potion of Severe Dementia (powerful)
 	Usage:       Drink.
 	Effect:      Gives the drinker Stage 6 Dementia. The potion is permanent until the drinker sleeps, or in any way go unconscious for at least an hour. When the drinker wakes up, they will wake up with all the memories they had BEFORE they drank the potion, and only faint/broken memories of what they did under it's effect.
 	
-	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldi's toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
+	Ingredients: Four crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a small handful of crushed snail shells, a fermented fly, and a pinch of moon dust from Vel.
 	Brewing:     It must be boiled for eight hours.
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing short term memory loss.
@@ -452,7 +452,7 @@ Poison Solvent (advanced)
 	Effect:      Evaporates poison. The same amount of poison solvent must be poured in the liquid to completely evaporate it. The poison solvent will boil and evaporate once it's in the poison, causing the poison to do the same at the same speed. Evaporated poison loses it's effect, preventing any accidental inhaling.
 	Downside:    You need to wait for the poison solvent to evaporate with the poison before pouring more into the liquid. If it comes into contact with any other liquid other than poison or poison solvent, it has the same effect except it doesn't actually evaporate the liquid.
 	
-	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldi's toadstool, and a chopped great leafbug leg.
+	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldys toadstool, and a chopped great leafbug leg.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
