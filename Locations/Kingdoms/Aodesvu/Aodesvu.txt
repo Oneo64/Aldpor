@@ -57,4 +57,4 @@ Lookouts: An orange tunic, black surcoat, will provide shoes if needed. Their we
 LORE, RELIGION, STRUCTURE, ETC
 ======================================================================================================================================================
 
-Please refer to AldporDescription.txt and Cultures/Aodesvic.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldporDescription.txt,  Cosmology.txt, and Cultures/Aodesvic.txt for more information on it's lore, religion, structure, and others.
