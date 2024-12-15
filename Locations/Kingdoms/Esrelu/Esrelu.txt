@@ -52,4 +52,4 @@ Hathössali guards: An iron nasal helmet, a chainmail hauberk, a blue viking clo
 LORE, RELIGION, STRUCTURE, ETC
 ======================================================================================================================================================
 
-Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/ColdElvish.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/ColdElf.txt for more information on it's lore, religion, structure, and others.
