@@ -1,0 +1,15 @@
+Argonlav
+
+Kingdom:        Dagsvald
+Population:     150 people
+Current hersir: Felagi
+
+
+
+[[LANDSCAPE]]
+Argonlav is on a grassy meadows. About 30 meters south there is a wide, meter-and-a-half deep river with a wooden bridge built across. About 80 meters to the west is the edge of the Southern Dagsvaldian Forest, with a dirt path that leads into the forest.
+
+
+
+[[LOCAL TRADING]]
+Traders usually take a boat along the southern river, to trade wood for fish with Lismerlav, which is a long way to the east where there is farther away from any forest.
