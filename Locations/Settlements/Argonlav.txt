@@ -2,14 +2,16 @@ Argonlav
 
 Kingdom:        Dagsvald
 Population:     150 people
-Current hersir: Felagi
+Current hersir: Randúlfr
 
 
 
 [[LANDSCAPE]]
-Argonlav built on grasslands, south of Dagsvald. About 80 meters to the west is the edge of the Southern Dagsvaldian Forest, with a dirt path that leads into the forest. About 30 meters south there is a wide, meter-and-a-half deep river with a wooden bridge built across. 
+Argonlav built on grasslands, south of Dagsvald. About 80 meters to the west is the edge of the Southern Dagsvaldian Forest where bushes are more prevalent the closer you are to the edge, with a dirt path that leads into the forest. About 30 meters south there is a wide, meter-and-a-half deep river with a wooden bridge built across. There are almost no flowers present on the grasslands, the only ones being white flowers that are faintly scattered across the landscape.
+
+The dirt path that leads into the forest is rather thin and wild, being about a meter wide as it wasn't a road that connected to any settlement. Instead, it connects to a forest opening not far from Argonlav, with visible ruins of a wooden longhouse. The ruins used to be the first building built in the village, but was abandoned for almost 150 years after a troll was sighted wandering in the forest.
 
 
 
 [[LOCAL TRADING]]
-Traders usually take a boat along the southern river, to trade wood for fish with Lismerlav, which is a long way to the east where there is farther away from any forest.
+Traders usually take a boat along the southern river, to trade wood and berries for fish with Lismerlav, which is a long way to the east where it is farther away from forestry.
