@@ -13,3 +13,11 @@ Known Settlements:
 	Antaragen (dagsvaldian captured, now a dagsvaldian outpost)
 	Bravosh (150 centaurs, 20 are guards)
 	Kornatias (100 centaurs, 10 are guards)
+
+
+
+======================================================================================================================================================
+LORE, RELIGION, STRUCTURE, ETC
+======================================================================================================================================================
+
+Please refer to AldporHistory.txt, AldporDescription.txt, and Cultures/Centaur.txt for more information on it's lore, religion, structure, and others.

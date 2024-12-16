@@ -7,3 +7,11 @@ Main language: Rànûdan
 Other language: Sylvendric
 
 Ruler: King Thafassil
+
+
+
+======================================================================================================================================================
+LORE, RELIGION, STRUCTURE, ETC
+======================================================================================================================================================
+
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/MoonElf.txt for more information on it's lore, religion, structure, and others.

@@ -41,3 +41,11 @@ UNIFORMS
 
 Soldiers: A leather nasal helmet, and a dark grey tunic. Their weapon is a spear, and a wooden buckler.
 Archers/Guards: A leather nasal helmet, and a dark grey tunic. Their weapon is a crossbow, with flint-headed bolts.
+
+
+
+======================================================================================================================================================
+LORE, RELIGION, STRUCTURE, ETC
+======================================================================================================================================================
+
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/Glomdur.txt for more information on it's lore, religion, structure, and others.
