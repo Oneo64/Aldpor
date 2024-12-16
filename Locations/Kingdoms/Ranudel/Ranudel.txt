@@ -17,20 +17,14 @@ Cities:
 
 
 
-======================================================================================================================================================
-TOWNS/VILLAGES
-======================================================================================================================================================
-
+[[TOWNS/VILLAGES]]
 Rànûdel is located inside the Forest of Rànûdel.
 
 Qwalu Dasin and Pûsa Dasin are built along the coast of the forest, while Talithtom is built in a lower, flatter part of the forest where it isn't as mountainous and jagged as the other areas.
 
 
 
-======================================================================================================================================================
-EMERÖRESLU
-======================================================================================================================================================
-
+[[EMERÖRESLU]]
 Emeröreslu is built around a karst on the top of a hill, and is about 70 meters high from the top of the hill to the top of the karst. The hill area which isn't jagged allows for a large town built around this karst, which is around the same size of every district in Dagsvald combined. A wooden wall is built around this town, which is about 10 meters high. No towers or other fortifications are built on this wall, because the watchers and lookouts are primarily on the stairs/pathway that lead upwards to the palace.
 
 The palace is the top of the karst. The main building is a circular wooden structure about 25 meters in diameter, with a thatched conic roof. This building is three floors high. The first floor is the throne room and two long tables, that can fit 12 people each (6 on each side). The throne also has a smaller table for the king when there is a feast/banquet. The two long tables are at the side, so there is a direct path to the throne. The throne is set on an elevated platform with stairs that lead up to it. To the right side is a staircase that is built against the wall. On the second floor are the rooms for the king and his family, and on the third floor is storage space.
@@ -44,26 +38,22 @@ On the bottom, houses are usually single floored. Some houses may be two floored
 
 
 
-======================================================================================================================================================
-MILITARY
-======================================================================================================================================================
+[[TRADE]]
+Rànûdel mainly exports silver and dyes. They mostly trade with Hendril, Aodesvu, and Tarib. They also export herbs common in the forest such as amethyst gorbries.
 
+
+
+[[MILITARY]]
 Emeröreslu has 200 soldiers, and 25 guards. Each village has around 5 guards. Soldiers live in their homes.
 
 
 
-======================================================================================================================================================
-UNIFORMS
-======================================================================================================================================================
-
+[[UNIFORMS]]
 Soldier/Guard: A soldier would have an aqua gambeson, brown tunic, brown pants, and leather shoes. Their weapon is a spear and a Norman kite shield.
 Palace Guard: A palace guard would have a leather nasal helmet, aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a ji halberd (the double crescent variant instead of one).
 Archer/Lookout: An archer would have an aqua gambeson, light grey surcoat with Rànûdan's flag on it, brown tunic, and brown pants. Their weapon is a spear, and a longbow (self bow) with obsidian-headed arrows.
 
 
 
-======================================================================================================================================================
-LORE, RELIGION, STRUCTURE, ETC
-======================================================================================================================================================
-
+[[LORE, RELIGION, STRUCTURE, ETC]]
 Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/MoonElf.txt for more information on it's lore, religion, structure, and others.

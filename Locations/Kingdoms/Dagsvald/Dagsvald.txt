@@ -30,32 +30,21 @@ Important castles/Fortresses (about 10 in total, 10 guards and 15 servants in ea
 
 
 
-======================================================================================================================================================
-ÞURYNGARD RING FORTRESS
-======================================================================================================================================================
-
-This castle is a large ring fortress made of stone, built on the top of a hill. The castle contains a city made of three towns: Þalmundrynga, Kasgjenðil, and Vilsnagur. The outer wall has a diameter of about 500 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
+[[ÞURYNGARD RING FORTRESS]]
+This castle is a large ring fortress made of stone, built on the top of a hill and surrounded by a boreal forest. The castle contains a city made of three towns: Þalmundrynga, Kasgjenðil, and Vilsnagur. The outer wall has a diameter of about 500 meters. The inner wall is built on higher terrain, which is elevated up about 6 meters.
 The inner wall is approximately 100 meters. There are three buildings inside, where the king's house is built to the back, it's side facing the main gate while two smaller ones are built on the side. They are made of stone instead of wood.
 
-The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high. Outside the outer walls, are surrounded by a boreal forest.
+The outer wall wall is much farther from the ring fortress, which fits three towns (or districts). The houses in these districts are made taller and larger, unlike the village houses. These houses did not require additional support beams that were on an angle. The outer walls are about 6 meters high.
 
 In the inner ring, there is a large longhouse built with mostly stone, except for the roof and the top triangle wall part of the roof. The ring of the castle is generally reserved for only the king, his family, guards, and nobles).
+
+Þalmundrynga is the town of trade. Everyday, there are markets and stalls set up on the streets where merchants sell things like common food and items. Kasgjenðil and Vilsnagur are mostly for living, but Vilsnagur is a little poorer than Kasgjenðil. The houses in Vilsnagur are somewhat smaller than the ones in Kasgjenðil, and their tarf roofs are thinner.
 
 There are 20 guards patrolling the outer ring, 20 guards patrolling the towns, 10 archers/lookouts, and 15 king's guards. There are also to watch towers with thatched roofs, 10 meters up instead of 6. To get up there is a ladder at the back of the watch towers, and each tower is stationed one archer.
 
 
 
-======================================================================================================================================================
-MILITARY
-======================================================================================================================================================
-
-Dagsvald has around 2000 men in their army, but most live in their homes.
-
-
-======================================================================================================================================================
-OTHER FORTRESSES
-======================================================================================================================================================
-
+[[OTHER FORTRESSES]]
 These fortresses are smaller ring fortresses about 100 meters in diameter. Each fortress has 10 guards and 15 servants, and also has some farms on the outer area. Inside are kept cattle, sheep and chickens, which the servants tend to.
 
 A jarl would live in each ring fortress, and will oversee the ring fortress and nearby settlements, such as trade, and has power over them to make sure all goes well. They can also enforce laws, gather troops, and build in settlements.
@@ -63,16 +52,22 @@ A hersir/chieftain would live in each settlement, and has power over what to bui
 
 
 
-======================================================================================================================================================
-UNIFORMS
-======================================================================================================================================================
+[[TRADE]]
+There is a trade route between Argonlav and Lismerlav, where Lismerlav supplies Argonlav with fish and Argonlav supplies Lismerlav with wood.
 
+Dagsvald mainly exports iron, wool, and rye. They mostly trade with Esrelu, Hendril, and Vuntarla. They also export herbs common in the Northern and Southern Dagsvaldian Forests, such as ekraldys toadstools.
+
+
+
+[[MILITARY]]
+Dagsvald has around 2000 men in their army, but most live in their homes.
+
+
+
+[UNIFORMS]
 Don't be naked, don't be stupid, and have a weapon and you're in.
 
 
 
-======================================================================================================================================================
-LORE, RELIGION, STRUCTURE, ETC
-======================================================================================================================================================
-
+[[LORE, RELIGION, STRUCTURE, ETC]]
 Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/Dagsvaldian.txt for more information on it's lore, religion, structure, and others.
