@@ -48,19 +48,18 @@ There are also 8 watchtowers with thatched roofs spaced evenly along the outer r
 
 
 
-[[OTHER FORTRESSES]]
-These fortresses are smaller ring fortresses about 100 meters in diameter. Each fortress has 10 guards and 15 servants, and also has some farms on the outer area. Inside are kept cattle, sheep and chickens, which the servants tend to.
-
-
-
 [[HIERARCHY]]
-The hierarchy of Dagsvald is, from the highest to lowest, king, jarl, hersir, free men, then slave.
+The hierarchy of Dagsvald is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
 
 A jarl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A hersir/chieftain would live in each settlement.
 
 Jarls are able to rally troops, enforce laws, build in settlements, or even carry out an execution. Hersirs are also able to do such things, but are limited to the settlement they have power over.
 
 Jarls are able to assign new hersirs in the settlements they have control over, but both powers including hersirs cannot step down themselves and instead must arrange this with a higher authority.
+
+Knights are usually warriors or mages who accompany kings, jarls, and hersirs. Each has two knights with them, but the king will always have four. Usually one of his knights are assigned as vice. When someone with authority dies and he has no son or cousin, one of his knights will become the new heir until a higher authority can find a suitable heir.
+
+Most slaves are either prisoners of war or convicted criminals serving public service for the king, a jarl, or a hersir. Servants are more of a job, which can take the place of a slave. The advantages servants have over slaves is that they are treated less harshly, they earn money, and their labor isn't forced, meaning they can leave anytime. However if a slave is found to take the place of a servant, the servant will be dismissed.
 
 Hierarchies and social classes are mostly family based, but if a family is unable to continue it's legacy (no other male heirs) or the family's heir abuses their power, the family can can lose power in favor for another family.
 
