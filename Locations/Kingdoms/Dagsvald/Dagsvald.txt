@@ -51,8 +51,18 @@ There are also 8 watchtowers with thatched roofs spaced evenly along the outer r
 [[OTHER FORTRESSES]]
 These fortresses are smaller ring fortresses about 100 meters in diameter. Each fortress has 10 guards and 15 servants, and also has some farms on the outer area. Inside are kept cattle, sheep and chickens, which the servants tend to.
 
-A jarl would live in each ring fortress, and will oversee the ring fortress and nearby settlements, such as trade, and has power over them to make sure all goes well. They can also enforce laws, gather troops, and build in settlements.
-A hersir/chieftain would live in each settlement, and has power over what to build and other things like hosting local events.
+
+
+[[HIERARCHY]]
+The hierarchy of Dagsvald is, from the highest to lowest, king, jarl, hersir, free men, then slave.
+
+A jarl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A hersir/chieftain would live in each settlement.
+
+Jarls are able to rally troops, enforce laws, build in settlements, or even carry out an execution. Hersirs are also able to do such things, but are limited to the settlement they have power over.
+
+Jarls are able to assign new hersirs in the settlements they have control over, but both powers including hersirs cannot step down themselves and instead must arrange this with a higher authority.
+
+Hierarchies and social classes are mostly family based, but if a family is unable to continue it's legacy (no other male relative) or the head of the family abuses their power, the family can can lose power in favor for another family.
 
 
 
