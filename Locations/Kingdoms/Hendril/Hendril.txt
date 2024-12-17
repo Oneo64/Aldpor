@@ -1,6 +1,6 @@
 Hendril
 
-Government: Elected autocracy
+Government: Elected Autocracy
 Race Majority: Human
 Culture type: Roman/Byzantine
 Population: 25,000 people in towns, 30,000 people in cities, 55,000 people in total

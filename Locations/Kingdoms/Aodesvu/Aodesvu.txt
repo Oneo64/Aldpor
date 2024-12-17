@@ -1,6 +1,6 @@
 Aodesvu
 
-Government: Constitutional Monarchy
+Government: Monarchy
 Race Majority: Men
 Culture type: Roman/Byzantine + some Elvish
 Population: 4000 in villages/towns, 10,000 people in Yūsathu Gandathu, ~14,000 in total
@@ -28,6 +28,32 @@ Yūsathu Gandathu looks like a middle eastern city built on a hill, with it's ho
 
 [[PENDLAS MUS]]
 Pendlas Mus is a small town surrounded by a wall completely made of 10 meters high. Houses are made of wood instead of stone, and has a roof unlike Hendric houses. The roofs are made of wooden boards. There is no sort of defensive structure on the wall. Just outside the town and off the road that leads into it is just thick forests. Pendlas Mus, unlike other villages, has a wall, and they have 20 guards.
+
+
+
+[[HIERARCHY]]
+The hierarchy of Aodesvu is, from the highest to lowest, king, knight, mayor, citizen, then slave.
+
+A mayor would work in the town's community center, but they live in their homes. Their main job is to overseer the wellbeing of the town. In their power, they can appoint buildings to be built and enforce laws. When a mayor dies, an event is held where residents vote for a new one.
+
+Mayors can temporarily jail someone, then residents can attend a local court with the mayor as the judge. If proven guilty, they are sent back to the temporary jail, then are later sent to Yūsathu Gandathu on a cart. Usually a cart carries four and is pulled by two horses, each horse with a guard. Convicts are bound on the wrists with rope, with one leg tied to the cart. Convicts are then jailed in the city to serve their time.
+
+The mayor will also send a scroll with the cart, a scroll of names of convicts that contain sentence type and time. Sentence types are always either imprisonment or public service.
+
+The knights are usually warriors or mages who accompany the king, where there are usually a handful. When the king dies, his son becomes the king. If he has no son, then it's usually his wife, daughter, cousin, or niece.
+
+There is also a council, where many counselors gather in a building in the city. They have the same power as the king, but every decision is made by a vote between the counselors. The king is able to veto any decision made by the council that relates to the city (like construction, expansion, citizen law enforcement, etc).
+
+Most slaves are either prisoners of war or convicted criminals serving public service for the king.
+
+
+
+[[LAW]]
+Usually its the basics: no killing, no stealing, no public disturbance, no assault of any type, no harassment, no human trafficking, and no trafficking or ownership of illegal substances/objects.
+
+Illegal substances/objects include: all poisons and detrimental potions, all potions classified as "advanced" or greater, spell scrolls classified as "major" or greater, forged documents, and permits.
+
+It is possible to get a paper permit from a judge or king to own these illegal substances/objects, but trafficking is still illegal. Creation of these things are required to be overseen by a mayor, the king, or someone who holds a paper permit to oversee and create.
 
 
 
