@@ -1,13 +1,15 @@
+Rànûdel
+
 Government: Elected Geniocracy
 Race Majority: Moon Elf
 Culture type: Moon Elvish
-Population: 15,000 people in settlements, 3000 people in Emeröreslu, ~20,000 people in total
+Population: 30,000 people in settlements, 3000 people in Emeröreslu, ~33,000 people in total
 
 Main languages: Rànûdan
 
 Ruler: Vasolas (Guy)
 
-Important villages (300 settlements, about 50 people in each):
+Important villages (300 settlements, about 100 people in each):
 	Qwalu Dasin
 	Pûsa Dasin
 	Talithtom

@@ -1,7 +1,7 @@
 Basrynga
 
 Kingdom:        Dagsvald
-Population:     100 people
+Population:     200 people
 Current hersir: Skaðfir
 
 
@@ -11,7 +11,7 @@ There are about 15 house in Basrynga, built scattered around a low hill. On top 
 
 There is a thin path to the southwest that leads to a well, covered with a wooden cover to prevent snow from entering and to stop water from freezing over. Around the middle the path splits into two, where the other goes to a small patch of pine trees. To the north another thin path leads up another hill higher than this one, where a longhouse sits isolated 2 kilometers away from the village, which is Loroðil's dwelling.
 
-At the immediate outskirts there is a watchtower built next to the path to the well, and another watchtower built next to the path leading towards the north. One guard is stationed at each watchtower, each guard equipped with a war horn. In the village around five guards patrol around.
+At the immediate outskirts there is a watchtower built next to the path to the well, and another watchtower built next to the path leading towards the north. One guard is stationed at each watchtower, each guard equipped with a war horn. In the village around five to ten guards patrol around.
 
 
 
@@ -24,6 +24,8 @@ The house of the hersir's family is a large longhouse, fenced off with a plank f
 Basrynga is built ontop of a low hill, which is part of a desolate plains where little grass and trees grows. This low hill has some large rocks scattered around.
 
 The only trees is a small patch five kilometers away to the west, which consists of around a thousand pine trees.
+
+In the deep of winter, there is a threat of ice elementals manifesting in the snowy tundra from the north. Sometimes they attack in small groups, but this usually happens once every one to three years.
 
 
 

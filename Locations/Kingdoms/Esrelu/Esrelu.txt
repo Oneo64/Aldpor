@@ -1,25 +1,27 @@
+Esrelu
+
 Government: Elected Noocracy
 Race Majority: Cold Elf
 Culture type: Norse-Elvish
-Population: 16,000 people in villages, 800 people in towns, ~16,800 people
+Population: 20,000 people in villages, 950 people in towns, ~20,950 people
 
 Main language: Esrel
-Other languages: Daggsvaldian
+Other languages: Dagsvaldian
 
 Ruler: Ildiyre (gal)
 
-Important villages, 200 settlements with about 80 people in each:
-	Irbalûind (100 people)
-	Minbaslûind (40 people)
-	Sölenzâeth (80 people)
-	Vesesvala (50 people)
+Important villages, 100 settlements with about 200 people in each:
+	Irbalûind (200 people)
+	Minbaslûind (80 people)
+	Sölenzâeth (150 people)
+	Vesesvala (100 people)
 
 Castles:
 	Hathössali
 
 Towns:
-	Darlûind (500 people)
-	Ilkindel (300 people)
+	Darlûind (550 people)
+	Ilkindel (400 people)
 
 
 

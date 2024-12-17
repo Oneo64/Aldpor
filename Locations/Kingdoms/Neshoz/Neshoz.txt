@@ -1,3 +1,5 @@
+Neshoz
+
 Government: Noocracy
 Race Majority: Orc
 Culture type: Neshozic
@@ -9,8 +11,5 @@ Ruler: Nonakat
 
 
 
-======================================================================================================================================================
-LORE, RELIGION, STRUCTURE, ETC
-======================================================================================================================================================
-
+[[LORE, RELIGION, STRUCTURE, ETC]]
 Please refer to AldporDescription.txt for more information.

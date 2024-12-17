@@ -1,10 +1,12 @@
+Aodesvu
+
 Government: Constitutional Monarchy
 Race Majority: Men
 Culture type: Roman/Byzantine + some Elvish
-Population: 4000 in villages/towns, 30,000 people in Yūsathu Gandathu, 34,000 in total
+Population: 4000 in villages/towns, 10,000 people in Yūsathu Gandathu, ~14,000 in total
 
 Main language: Aodesvic
-Other languages: Rànûdan
+Other languages: Hendric
 
 Ruler: Aodovash
 
@@ -15,7 +17,7 @@ Important villages, about 20 settlemtns with an average population of 200 people
 	Pendlas Mus
 
 Cities:
-	Yūsathu Gandathu (30,000 people, including 500 soldiers and 100 guards)
+	Yūsathu Gandathu (10,000 people, including 500 soldiers and 100 guards)
 
 
 

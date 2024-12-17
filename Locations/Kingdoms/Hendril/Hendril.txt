@@ -1,21 +1,23 @@
+Hendril
+
 Government: Elected autocracy
 Race Majority: Human
 Culture type: Roman/Byzantine
-Population: 15,000 people in towns, 70,000 people in cities, 85,000 people in total
+Population: 25,000 people in towns, 30,000 people in cities, 55,000 people in total
 
 Main languages: Hendric (English)
 
 Ruler: Taevus
 
-Important towns (50 settlements, each town with about 300 people):
+Important towns (50 settlements, each town with about 500 people):
 	Bantusea
 	Forthias
 	Gellervail
 	Zenixras
 
 Cities:
-	Jollantil (main place, 50,000 people, including 1200 soldiers and 150 guards)
-	Virot (20,000 people, including 700 soldiers and 90 guards)
+	Jollantil (main place, 20,000 people, including 1200 soldiers and 150 guards)
+	Virot (10,000 people, including 700 soldiers and 90 guards)
 
 Important fortresses (15 fortresses total):
 	Gavalor

@@ -1,7 +1,7 @@
 Argonlav
 
 Kingdom:        Dagsvald
-Population:     150 people
+Population:     300 people
 Current hersir: Randúlfr
 
 
@@ -17,6 +17,8 @@ There are two watchtowers built on the west side of the village to watch over th
 
 [[IMPORTANT LOCATIONS]]
 The house of the hersir's family is a large longhouse, fenced off with a plank fence instead of wattle fencing. In the fencing, there are several pens holding a few cattle, goats, and two horses for riding.
+
+The longhouse ruins, was once supposed to be the first building on the settlement. After the first hersir sighted a troll wandering in the distance, the house was abandoned. Now it is only a rotten wooden frame, overgrown with plants. Until now, it is believed that the ghost of that troll dwells here.
 
 
 

@@ -1,19 +1,21 @@
+Vuntarla
+
 Government: Absolute Monarchy
 Race Majority: Cold Elf, Human (uncommon)
 Culture type: Norse
-Population: ~500 people
+Population: ~1000 people
 
 Main language: Esrel, Daggsvaldian
 
 Ruler: King Sûvisgarn
 
 Cities:
-	Vuntarla (500 people, 40 are guards)
+	Vuntarla (1000 people, 20 are guards)
 
 
 
 [[VUNTARLA]]
-Vuntarla is a tiny castle that holds a town, perched on an elevated fjord overlooking the eastern ocean. It has an area of about 80x80 meters, and it's walls are 5 meters high and 4 meters thick, and are filled with earth, with no covering above, so the floor of the walls is grass. To get up to the walls from the inside, there is a dirt slope that lead up to the walls, similar to a ring fortress. The walls are also slightly on an angle so the stones used to build the walls don't collapse. The houses inside are made of wood, and the main "keep" is just a viking longhouse, surrounded by an inner curtain wall, made of wood.
+Vuntarla is a tiny castle that holds a town, perched on an elevated fjord overlooking the eastern ocean. It has an area of about 3 hectares, and it's walls are 5 meters high and 4 meters thick, and are filled with earth, with no covering above, so the floor of the walls is grass. To get up to the walls from the inside, there is a dirt slope that lead up to the walls, similar to a ring fortress. The walls are also slightly on an angle so the stones used to build the walls don't collapse. The houses inside are made of wood, and the main "keep" is just a viking longhouse, surrounded by an inner curtain wall, made of wood.
 
 Houses follow the same style as Dagsvald.
 

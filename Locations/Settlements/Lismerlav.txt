@@ -1,7 +1,7 @@
 Lismerlav
 
 Kingdom:        Dagsvald
-Population:     150 people
+Population:     300 people
 Current hersir: Felagi
 
 
