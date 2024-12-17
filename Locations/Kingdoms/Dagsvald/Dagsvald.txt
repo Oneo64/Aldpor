@@ -62,7 +62,7 @@ Jarls are able to rally troops, enforce laws, build in settlements, or even carr
 
 Jarls are able to assign new hersirs in the settlements they have control over, but both powers including hersirs cannot step down themselves and instead must arrange this with a higher authority.
 
-Hierarchies and social classes are mostly family based, but if a family is unable to continue it's legacy (no other male relative) or the heir abuses their power, the family can can lose power in favor for another family.
+Hierarchies and social classes are mostly family based, but if a family is unable to continue it's legacy (no other male heirs) or the family's heir abuses their power, the family can can lose power in favor for another family.
 
 
 
