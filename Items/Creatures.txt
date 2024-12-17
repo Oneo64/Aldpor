@@ -197,6 +197,10 @@ Ice Elemental:
 
 		Ice elementals are able to speak Primordial, despite not having a mouth. They are also able to learn other languages, and are capable of more complex thought and emotion than other elementals. Some ice elementals may even form groups, and have a name for themselves.
 
+		Ice elementals usually arm themselves with spears, war hammers, and knives made of stone or obsidian.
+
+		If an ice elemental loses it's head, it loses the ability to see. If an ice elemental loses both it's arms or legs, it dies.
+
 
 
 Stone Elemental:
