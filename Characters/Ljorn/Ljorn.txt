@@ -5,6 +5,7 @@ Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
+[[DESCRIPTION]]
 Ljorn is a wizard from Argonlav. His hair is dark blond and wavy, is a little longer than shoulder length. His hair is combed back and wears a cloth strip around his head to keep his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people.
 
 He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), baggy brown pants, a belt and a pair of boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed viking sword), and his belt carries two leather pouches. Under the baldric he carries a small seax, and a waterskin.
@@ -19,109 +20,40 @@ Ljorn is friends with Flokr.
 
 He can be found at his house either chopping firewood, checking his family's farm for weeds, sitting outside the door reading his spellbook, playing Plattrægnall with someone (probably with Alfr or Flokr), inside his house brewing potions, or wandering in the forest for whatever reason (most likely something to do with what he usually does).
 
-Weapons:
-	5-lobed viking sword
-	Small seax (7 inches)
+[[PERSONALITY]]
+Ljorn is usually reserved and doesn't like getting himself involved in the affairs of others. He is also introverted, as he would rather be alone or with people close to him. He might appear cold from the outside because of his he talks, but he is kind on the inside. He is also stubborn, and sometimes rather not take any suggestions that changes what or how he want to do something.
 
-Personality/Behaviour:
-	POSITIVE:
-		1. Goodhearted
-		2. Observant
+Ljorn also gets sligtly paranoid while inside boreal forests, which was because he saw a draugr in one at the age of 10.
 
-	NEGATIVE:
-		1. Appears cold, or externally aloof
-		2. Reserved
-		3. Stubborn
+He enjoys venison, and would carry dried strips of some of it in his pouch for later.
 
-	Introverted
-	Realistic (perspective on the future)
+[[ABILITIES]]
+Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), Esrel, and Primordial. He learned Primordial and Hendric from a magic academy, and Esrel he naturally picked it up.
 
-	Specific:
-		Deer meat is his favorite food
-		Has strong Dagsvaldian accent
+The way he talks in English is weird. Not only he has a strong accent, but when speaking he is basically speaking Dagsvaldian if the words were replaced with English words.
 
-		Ljorn doesn't like getting himself involved in things that aren't related to him
-		Gets paranoid whenever being inside boreal forests
-		Ljorn speaks English as if he's speaking Dagsvaldian relexed into English
+He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar.
 
-		Reads and studies magic in free time
-		Focuses more on evocation and abjuration magic than other types of magic
+He has been practicing arcane magic for 6 years, three of it spent in the Academy of Aldorim. He also learned how to brew basic potions, along with these potions: ekraldys concoctions, fire-throwing grenades, nontoxic seizure concoctions, potion of animal conjurations, and transmutation liquids of animal.
 
-Occupations:
-	Woodcutter
-	Farmer
+Sometimes he would practice with his sword, or play Plattrægnall.
 
-Languages:
-	Dagsvaldian
-	Hendric (English, not fluent)
-	Esrel
-	Primordial (not fluent)
+[[ARCANE MAGIC]]
+	Minor:
+		Illusory Script
+		Lesser Runic Staves
+		Mage Hand, Message
+		Prestidigitation
 
-Abilities:
-	Combat experience (raided castle ruins and faced a couple of draugar | participated in a battle)
+	Basic:
+		Counterspell
+		Detect Magic, Detect Thoughts
+		Feather Fall, Feign Death, Fire Bolt
+		Icy Touch
+		Mage Armor, Magic Missiles, Minor Illusion, Misty Step
+		Seidur, Shield, Sparks
 
-	Magic (6 years practice, which 3 years are training)
-	Alchemy (potion brewing, basic potions), additional alchemy knowledge:
-		Ekraldys Concoction
-		Fire-throwing Grenade
-		Nontoxic Seizure Concoction
-		Potion of Animal Conjuration
-		Transmutation Liquid of Animal
-
-	Drawing
-	Plattrægnall
-
-	Sword fighting with and without shield (6 years practice/experience) (below average in combat)
-
-	Arcane Magic (23 spells):
-		Minor:
-			Illusory Script
-			Lesser Runic Staves
-			Mage Hand, Message
-			Prestidigitation
-
-		Basic:
-			Counterspell
-			Detect Magic, Detect Thoughts
-			Feather Fall, Feign Death, Fire Bolt
-			Icy Touch
-			Mage Armor, Magic Missiles, Minor Illusion, Misty Step
-			Seidur, Shield, Sparks
-
-		Major:
-			Animate Corpse, Arcane Eye
-			Invisibility
-			Lightning Bolt
-
-Possessions:
-	Traveling:
-		Front pouch (12x17x5 cm):
-			A small jar of oil
-			A small jar of ink
-			A quill with a wooden casing
-
-			A small vial of Regeneration Potion
-			A small vial of Simple Curing Potion
-
-			A small cloth bag with a few pieces of dried venison
-
-		Leather pouch 2:
-			A spellbook (simple leather cover, 12x17 cm, 100 vellum pages, filled with spells, potions, and illustrations of components)
-
-			5 unlit candles (10 cm long, 1 cm diameter)
-			A small stone lamp
-			
-			Sheets of parchment and vellum
-
-	Not traveling:
-		Front pouch (12x17x5 cm):
-			A small jar of ink
-			
-			A small vial of Regeneration Potion
-			A small vial of Simple Curing Potion
-
-		Leather pouch 2:
-			A spellbook (simple leather cover, 12x17 cm, 100 vellum pages, filled with spells, potions, and illustrations of components)
-			A quill with a wooden casing
-
-			Sheets of parchment and vellum
+	Major:
+		Animate Corpse, Arcane Eye
+		Invisibility
+		Lightning Bolt
