@@ -7,16 +7,19 @@ Race:      Human
 
 Oddir is a human from Lismerlav. He has long red wavy hair, trimmed beard, brown eyes, pale skin, and short light brown hair. His skin is slightly wrinkled.
 
-Þrein wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
+Oddir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
 
-He has a longship, and trades along the Saequor-Lismerlav trade route. He mainly exports wool and rye.
+He has a pouch slung across his shoulder, which contains two spell scrolls that he can use. One contains the spell Sparks, the other contains the spell Dragonfire.
+
+He also owns a longship, and trades along the Saequor-Lismerlav trade route. He mainly exports wool and rye.
 
 Weapons:
 	Seax (12 inches)
 
 Personality:
 	POSITIVE:
-		1. Strict
+		1. Loyal
+		2. Strict
 
 	NEGATIVE:
 		1. Arrogant
@@ -35,3 +38,5 @@ Languages:
 
 Abilities:
 	Longship control
+
+	Scroll Magic

@@ -72,3 +72,10 @@ Arcane Focus:
 	In order for the object to work, you must be wearing it or holding it in your hand.
 
 	To make an orb, soak it in Catalystic Concoction as described in "Mixtures.txt".
+
+Arcane Scroll:
+	An arcane scroll is a scroll, usually made of vellum. In order to use an arcane scroll, you must be holding it in one hand, the second hand free for the spell effect. A scroll has three sentences, one in Primordial, one in Sylvan, and one in Druidic, which are all the same chant in different languages. Just one of the three need to be spoken for spell takes affect.
+
+	After then, the scroll becomes inactive for about an hour.
+
+	To make an arcane scroll, a sorcerer must cast Infuse Scroll as described in "MagicSystemAndSpells.txt".

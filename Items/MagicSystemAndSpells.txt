@@ -10,6 +10,8 @@ Magics:
 
 	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
 
+	- Scroll magic is when you access the Plane of Magic by reading a chant from a scroll (usually Primordial), with a simple gesture in your other hand. Scroll magic can only contain sorcery magic.
+
 	- Wizard magic is when you access the Plane of Magic by speaking in Primordial, doing gestures, and holding materials.
 
 	- People who are born magically attuned to a god are rare, being around one in a million (literally, no pun intended).
@@ -400,6 +402,20 @@ You dip the coal in the water then draw a magical stave on a wooden surface such
 The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Infuse Scroll (powerful)
+	Casting time: 10 minutes
+	Range:        touch
+	Requirements: V, S, M (a vial of Parhrügi's Tears which will be consumed on use, the scroll to imbue spells into, and required materials to write)
+	Duration:     until dispelled
+
+Using a mixture of 50% Parhrügi's Tears and 50% ink, you use this to write 'scroll make' translated into Primordial, followed by a direct translation of the spell name. Do this for another two languages, Sylvan and Druidic.
+
+Once done, you use both hands to hold the scroll open, one hand holding either side of the scroll (must be gripping it). Then you can cast this spell to infuse it in.
+
+When the scroll is activated, the spell whose incantation is written in takes effect.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
