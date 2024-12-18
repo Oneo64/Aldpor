@@ -5,7 +5,7 @@ Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race: Human
 
-Súndi is one of Randúlfr's knights. His hair is shoulder-length black and wavy, his eyes are dark brown, and has fair skin. His left arm is missing, severed by an atgeir during a centaur raid.
+Súndi is one of Randúlfr's knights, and is also a sorcerer. His hair is shoulder-length black and wavy, his eyes are dark brown, and has fair skin. His left arm is missing, severed by an atgeir during a centaur raid.
 
 He wears a brown woolen cap, brown cloak, a chainmail hauberk, a muted yellow tunic, brown pants, a ring belt, and a pair of shoes. He wears a iron Talmundur amulet, and an iron arm ring. He also sports a baldric scabbard with a viking sword sheathed inside.
 
@@ -38,3 +38,10 @@ Abilities:
 	Horse riding
 
 	Plattrægnall
+
+	Sorcery:
+		Minor:
+			Terra Blast
+
+		Basic:
+			Blur
