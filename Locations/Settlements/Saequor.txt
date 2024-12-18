@@ -1,0 +1,26 @@
+Saequor
+
+Kingdom:       Hendril
+Population:    550 people
+Current mayor: Berdithan
+
+
+
+[[SETTLEMENT]]
+The houses in Berdithan are small, the walls built with limestone bricks, and has thatched roofs. They mostly have one floor, and doors made of softwood. The town is built right next to the coast and the river mouth, which is on the same land the fortress Woparias is on. The community center is built in the middle of the town, and consists of two floors. The ground has been paved with pebbles.
+
+The town is then surrounded by a wooden perimeter 5 meters high, and has basic square battlements spaced evenly. Guards can walk and patrol on these walls, and are protected from falling off by simple guard rail. The gates are a simple wooden gate, with metal handles only on the inside. About 5 guards are stationed on the walls to keep watch, and ten guards patrol the inside of the settlement.
+
+At the coast side of the town, there are three wooden ports made of hardwood. They hold smaller ships, which can hold about 600 to 800 kilograms at once.
+
+
+
+[[LANDSCAPE]]
+Berdithan is right in the corner of coast and the river mouth, which is on the same land the fortress Woparias is on. It is then surrounded by grasslands, and the nearest forest is about four hundred meters away. From the wooden gates a road runs south to Woparias.
+
+The forest is part of the Hendric Forests, which is a redwood forest with almost little to no undergrowth.
+
+
+
+[[TRADING]]
+There is a trade route, which is the Saequor-Argonlav trade route. This trade route is along the coast, where traders trade exports here for Dagsvaldian imports like iron, fish, wool, and other things.

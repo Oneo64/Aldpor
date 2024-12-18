@@ -31,7 +31,7 @@ Personality:
 		Has strong Dagsvaldian accent
 
 Occupations:
-	Ferryman
+	Fish Trader
 
 Languages:
 	Dagsvaldian
