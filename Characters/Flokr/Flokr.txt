@@ -1,0 +1,73 @@
+Flokr
+Male
+Age: 25 (born 947, August 10)
+Alignment: Neutral Good
+Ethnicity: Dagsvaldian
+Race:      Human
+
+Flokr is a wizard from Argonlav. His hair is light brown and wavy and is shoulder length. His eyes are hooded and are grey, and has fair skin.
+
+He wears a brown cap, a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), brown pants, a belt and a pair of boots. His belt carries a leather pouch, a 12-inch seax, and a waterskin. He wears an iron Talmundur amulet. He is 173 (5'8) centimeters tall.
+
+Flokr is friends with Ljorn.
+
+He can be found at his house either checking his family's farm for weeds, playing Plattrægnall with someone (probably with Ljorn), inside his house brewing potions, wandering in the local markets, or wandering in the forest for whatever reason (most likely looking for potion ingredients).
+
+Weapons:
+	Small seax (12 inches)
+
+Personality/Behaviour:
+	POSITIVE:
+		1. Calm
+		2. Generous
+
+	NEGATIVE:
+		1. Hesitant
+		2. Reserved
+
+	Slightly introverted
+	Optimistic (perspective on the future)
+
+	Specific:
+		Has strong Dagsvaldian accent
+
+		Focuses more on evocation and abjuration magic than other types of magic
+
+Occupations:
+	Farmer
+
+Languages:
+	Dagsvaldian
+	Hendric (English, not fluent)
+	Primordial (not fluent)
+
+Abilities:
+	Magic (5 years practice, which 3 years are training)
+	Alchemy (potion brewing, advanced potions)
+
+	Drawing
+	Plattrægnall
+
+	Arcane Magic (22 spells):
+		Minor:
+			Illusory Script
+			Lesser Runic Staves
+			Mage Hand, Message
+			Prestidigitation
+
+		Basic:
+			Blur
+			Counterspell
+			Detect Magic
+			Feather Fall, Fire Bolt
+			Icy Touch
+			Mage Armor, Magic Missiles
+			Seidur, Shield, Sparks
+
+		Major:
+			Animate Corpse
+			Dispel Magic
+			Greater Runic Staves
+			Invisibility
+			Lightning Bolt
+			Telekinesis

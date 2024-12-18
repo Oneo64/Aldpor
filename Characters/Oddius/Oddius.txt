@@ -5,9 +5,11 @@ Alignment: Neutral
 Ethnicity: Hendric
 Race: Human
 
-Oddius is the innkeeper in Saequor. He has grey hair, a long beard down to his collarbone, black eyes, and fair skin. His nose is hooked.
+Oddius is the innkeeper in Saequor. He has grey hair, a long beard down to his collarbone, black eyes, and fair skin. His nose is hooked. He wears a white tunic, brown pants, a ring belt, and a pair of leather shoes. He is 170 (5'7) centimeters tall. He walks with a walking stick, which is a plain straight branch.
 
-He wears a white tunic, brown pants, a ring belt, and a pair of shoes. He is 170 (5'7) centimeters tall.
+Oddius lives in the same building as his inn. His living space is a built conjoined at the back side of his inn. Three main doors are built in his inn, one from the outside to his living space, one from the outside to the main inn, and one inside that connects his living space with the back of the inn.
+
+Usually during the day time he can be found either in his living space brewing potions or wine, or sitting on a stool outside the main doors watching the people go by.
 
 Personality:
 	POSITIVE:
@@ -23,3 +25,11 @@ Personality:
 Languages:
 	Hendric (English)
 	Dagsvaldian (not fluent)
+
+Abilities:
+	Alchemy (potion brewing, basic potions)
+	Wine Brewing
+
+	Arcane Magic:
+		Minor:
+			Prestidigitation
