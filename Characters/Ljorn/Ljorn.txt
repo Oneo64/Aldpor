@@ -12,13 +12,11 @@ He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-le
 
 He wears a necklace of an iron Talmundur amulet and a bunch of labradorite and onyx beads (8 labradorite and 2 onyx to be precise). Half of the beads are turned into arcane focuses. He is 175 (5'9) centimeters tall.
 
-His left arm is weaker than his right, because of an arrow shot on his left shoulder during a battle. The arrow resulted in a scar.
-
-Ljorn has some knowledge on the history of the past five hundred years, and he also knows about Furnalfa and Parhrüvaryg.
-
 Ljorn is friends with Flokr.
 
 He can be found at his house either chopping firewood, checking his family's farm for weeds, sitting outside the door reading his spellbook, playing Plattrægnall with someone (probably with Alfr or Flokr), inside his house brewing potions, or wandering in the forest for whatever reason (most likely something to do with what he usually does).
+
+
 
 [[PERSONALITY]]
 Ljorn is usually reserved and doesn't like getting himself involved in the affairs of others. He is also introverted, as he would rather be alone or with people close to him. He might appear cold from the outside because of his he talks, but he is kind on the inside. He is also stubborn, and sometimes rather not take any suggestions that changes what or how he want to do something.
@@ -27,16 +25,24 @@ Ljorn also gets sligtly paranoid while inside boreal forests, which was because 
 
 He enjoys venison, and would carry dried strips of some of it in his pouch for later.
 
+
+
 [[ABILITIES]]
-Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), Esrel, and Primordial. He learned Primordial and Hendric from a magic academy, and Esrel he naturally picked it up.
+Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), Esrel, and Primordial. He learned Primordial and Hendric from the Academy of Aldorim, and Esrel he naturally picked it up.
 
 The way he talks in English is weird. Not only he has a strong accent, but when speaking he is basically speaking Dagsvaldian if the words were replaced with English words.
+
+Having studied in the academy, he has some knowledge on the history of the past five hundred years, and he also knows about the realms Furnalfa and Parhrüvaryg.
 
 He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar.
 
 He has been practicing arcane magic for 6 years, three of it spent in the Academy of Aldorim. He also learned how to brew basic potions, along with these potions: ekraldys concoctions, fire-throwing grenades, nontoxic seizure concoctions, potion of animal conjurations, and transmutation liquids of animal.
 
 Sometimes he would practice with his sword, or play Plattrægnall.
+
+His left arm is weaker than his right, because of an arrow shot on his left shoulder during a battle. The arrow resulted in a scar.
+
+
 
 [[ARCANE MAGIC]]
 	Minor:
