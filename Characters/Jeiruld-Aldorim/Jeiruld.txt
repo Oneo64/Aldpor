@@ -51,7 +51,7 @@ Abilities:
 		Minor:
 			Illusory Script
 			Lesser Runic Staves
-			Mage Hand, Message, Minor Illusion
+			Mage Hand, Message
 			Prestidigitation
 
 		Basic:
@@ -59,7 +59,7 @@ Abilities:
 			Detect Magic, Detect Thoughts
 			Feather Fall, Feign Death, Fire Bolt
 			Icy Touch
-			Mage Armor, Magic Missiles, Misty Step
+			Mage Armor, Magic Missiles, Minor Illusion, Misty Step
 			Seidur, Shield, Sparks
 
 		Major:
@@ -69,7 +69,6 @@ Abilities:
 			Greater Runic Staves
 			Invisibility
 			Locate Object, Lightning Bolt
-			Major Illusion
 			Polymorph
 			Remove Curse
 			Scrying
@@ -81,7 +80,7 @@ Abilities:
 			Darkness
 			Imbuement
 			Intricate Runic Staves
-			Materialize Magic
+			Major Illusion, Materialize Magic
 			Reanimation
 			Sunbeam
 			Symbol

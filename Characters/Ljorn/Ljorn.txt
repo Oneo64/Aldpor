@@ -85,14 +85,13 @@ Abilities:
 			Detect Magic, Detect Thoughts
 			Feather Fall, Feign Death, Fire Bolt
 			Icy Touch
-			Mage Armor, Magic Missiles, Misty Step
+			Mage Armor, Magic Missiles, Minor Illusion, Misty Step
 			Seidur, Shield, Sparks
 
 		Major:
 			Animate Corpse, Arcane Eye
 			Invisibility
 			Lightning Bolt
-			Major Illusion
 
 Possessions:
 	Traveling:

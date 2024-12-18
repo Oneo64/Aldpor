@@ -63,7 +63,7 @@ Abilities:
 			Detect Magic, Detect Thoughts
 			Feather Fall, Feign Death, Fire Bolt
 			Icy Touch
-			Mage Armor, Magic Missiles, Misty Step
+			Mage Armor, Magic Missiles, Minor Illusion, Misty Step
 			Seidur, Shield, Sparks
 
 		Major:
@@ -73,7 +73,7 @@ Abilities:
 			Greater Runic Staves
 			Invisibility
 			Lightning Bolt
-			Magic Circle, Major Illusion
+			Magic Circle
 			Polymorph
 			Remove Curse
 			Scrying
@@ -84,6 +84,5 @@ Abilities:
 			Blight
 			Darkness
 			Intricate Runic Staves
-			Make Wraith
-			Materialize Magic
+			Make Wraith, Materialize Magic
 			Sunbeam

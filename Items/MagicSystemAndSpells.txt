@@ -923,7 +923,7 @@ If the creature picks up any item, or wears anything extra, the additional objec
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Major Illusion (major)
+Major Illusion (powerful)
 	Casting time: 3 seconds
 	Range:        40 meters
 	Requirements: V, SG
@@ -937,7 +937,7 @@ If you go further than the range, the spell ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Minor Illusion (minor)
+Minor Illusion (basic)
 	Casting time: 3 seconds
 	Range:        40 meters
 	Requirements: V, SG
@@ -1415,7 +1415,6 @@ SPELL LIST
 			Lesser Runic Staves
 			Mage Hand
 			Message
-			Minor Illusion
 			Prestidigitation
 
 		BASIC MAGIC:
@@ -1430,6 +1429,7 @@ SPELL LIST
 			Mage Armor
 			Magic Missile
 			Mending
+			Minor Illusion
 			Misty Step
 			Seidur
 			Shield
@@ -1451,7 +1451,6 @@ SPELL LIST
 			Locate Object
 			Lightning Bolt
 			Magic Circle
-			Major Illusion
 			Polymorph
 			Protection from Evil and Good
 			Remove Curse
@@ -1467,6 +1466,7 @@ SPELL LIST
 			Blight
 			Create Golem
 			Darkness
+			Major Illusion
 			Make Wraith
 			Materialize Magic
 			Imbuement
