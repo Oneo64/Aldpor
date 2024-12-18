@@ -1,0 +1,25 @@
+Oddius
+Male
+Age: 60 (born 913, April 1)
+Alignment: Neutral
+Ethnicity: Hendric
+Race: Human
+
+Oddius is the innkeeper in Saequor. He has grey hair, a long beard down to his collarbone, black eyes, and fair skin. His nose is hooked.
+
+He wears a white tunic, brown pants, a ring belt, and a pair of shoes. He is 170 (5'7) centimeters tall.
+
+Personality:
+	POSITIVE:
+		1. Calm
+		2. Open-minded
+
+	NEGATIVE:
+		1. Doesn't care what happens
+
+	Specific:
+		Drinks red wine mostly undiluted
+
+Languages:
+	Hendric (English)
+	Dagsvaldian (not fluent)

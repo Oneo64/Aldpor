@@ -7,9 +7,11 @@ Current mayor: Berdithan
 
 
 [[SETTLEMENT]]
-The houses in Berdithan are small, the walls built with limestone bricks, and has thatched roofs. They mostly have one floor, and doors made of softwood. The town is built right next to the coast and the river mouth, which is on the same land the fortress Woparias is on. The community center is built in the middle of the town, and consists of two floors. The ground has been paved with pebbles.
+The houses in Berdithan are small, the walls built with limestone bricks, and has tiled roofs. They mostly have one floor, and doors made of softwood. The town is built right next to the coast and the river mouth, which is on the same land the fortress Woparias is on. The community center is built in the middle of the town, and consists of two floors. The ground has been paved with pebbles.
 
 The town is then surrounded by a wooden perimeter 5 meters high, and has basic square battlements spaced evenly. Guards can walk and patrol on these walls, and are protected from falling off by simple guard rail. The gates are a simple wooden gate, with metal handles only on the inside. About 5 guards are stationed on the walls to keep watch, and ten guards patrol the inside of the settlement.
+
+There is also an inn for travelers to stay, owned by Oddius. Someone who stays at this inn would pay five coppers for every day spent, where every room consists of a singular bed and a table with a candle. When a room is bought, the innkeeper would go and light the candle for lighting.
 
 At the coast side of the town, there are three wooden ports made of hardwood. They hold smaller ships, which can hold about 600 to 800 kilograms at once.
 
