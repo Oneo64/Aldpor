@@ -24,6 +24,7 @@ Personality:
 
 	NEGATIVE:
 		1. Reserved
+		2. Shy and timid around non-elves
 		
 	Realistic (perspective on the future)
 

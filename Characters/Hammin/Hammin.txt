@@ -1,0 +1,39 @@
+Hammin
+Male
+Age: 20
+Alignment: Neutral Good
+Ethnicity: Dagsvaldian
+Race: Human
+
+Hammin is one of Randúlfr's knights. His hair is short blond and curly, his eyes are pale green, and has fair skin.
+
+He wears a tan cloak, a muted blue tunic, dark yellow pants, a ring belt, and a pair of shoes. He wears a iron Talmundur amulet, and an iron arm ring. He also sports a baldric scabbard with a viking sword sheathed inside, and a round shield slung on his back. His round shield is painted red and black.
+
+Weapons:
+	Viking sword
+
+Personality:
+	POSITIVE:
+		1. Loyal
+		2. Talkative
+
+	NEGATIVE:
+		1. Doesn't like centaurs
+
+	Optimistic view of future
+
+	Specific:
+		Has strong Dagsvaldian accent
+
+Occupations:
+	Knight
+
+Languages:
+	Dagsvaldian
+	Hendric (English, not fluent)
+
+Abilities:
+	Sword fighting (13 years experience) (average in combat)
+	Horse riding
+
+	Plattrægnall
