@@ -15,10 +15,11 @@ Weapons:
 Personality:
 	POSITIVE:
 		1. Loyal
-		2. Talkative
+		2. Caring
 
 	NEGATIVE:
 		1. Doesn't like centaurs
+		2. Impulsive
 
 	Optimistic view of future
 
