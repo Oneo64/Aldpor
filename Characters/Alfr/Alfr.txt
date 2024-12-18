@@ -1,54 +1,34 @@
 Alfr Algordsvein
+
 Male
 Age: 20 (born 952, August 17)
 Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
+
+
+[[DESCRIPTION]]
 Alfr is a human born in Argonlav. He has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
 
 He wears a blue woolen cap with green accents, dark blue shawl, a chainmail hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12 inch long seax, and he wears boots on his feet. He wears an iron Talmundur amulet. He is 173 (5'8) centimeters tall.
 
-He wears a chainmail-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (helm of awe) pained on it.
+He wears a chainmail-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (helm of awe) painted on it.
 
 He can be found at his house either checking his family's farm for weeds, practicing spears with Ulfrir, or playing Plattrægnall with someone (probably with Ljorn). Sometimes he's in the forest with Ulfrir felling trees, or accompanying Ljorn for local exploration.
 
-Weapons:
-	Spear
-	Seax (12 inches)
-	Round shield
 
-Personality:
-	POSITIVE:
-		1. Mindful of surroundings
-		2. Competitive
 
-	NEGATIVE:
-		1. Impulsive
-		
-	Optimistic (perspective on the future)
+[[PERSONALITY]]
+Alfr can be described as a competitive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy.
 
-Occupations:
-	Woodcutter
-	Farmer
 
-Languages:
-	Dagsvaldian
-	Esrel
 
-Abilities:
-	Combat experience (raided castle ruins and faced a couple of draugar)
+[[ABILITIES]]
+Alfr can only speak Dagsvaldian. Sometimes he picks up small hints from an English conversation due to familiarity and similarly, but can also lead to misunderstanding.
 
-	Spear fighting (6 years practice/experience, which a year is training) (above average in combat)
-	Plattrægnall
+Alfr has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljorn, and two other people (Baulnir and Ennu).
 
-Possessions:
-	Leather pouch:
-		Drinking horn
-		Linen bag of nuts and raisins
-		Seax
+He has six years worth of spear fighting experience and practice, and makes him above average in combat with his spear.
 
-		6 unlit torches
-		A waterskin
-
-		15 meters of rope stuffed in the pouch
+He also plays Plattrægnall.
