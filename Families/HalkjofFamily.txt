@@ -11,7 +11,7 @@ Legend:
   >>> = More than 1 generations
   ~   = Alive around in this range of years
 
-Koðrik [M, 914]--+
-                 |>>+-Eifnod [M, 2 April 940]---+
-Fyrniss [F, 919]-+                              |>>+-Geiðnir [M, 28 February 969]
-                      Myrfriss [F, 12 July 947]-+
+Koðrik [M, 914]---+
+                  |>>+-Eifnod [M, 2 April 940]---+
+Fyraniss [F, 919]-+                              |>>+-Geifnir [M, 28 February 969]
+                       Myrfriss [F, 12 July 947]-+
