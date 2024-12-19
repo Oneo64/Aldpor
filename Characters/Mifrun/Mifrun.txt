@@ -1,38 +1,24 @@
 Mifrün Bjoldeissen
+
 Female
 Age: 55 (born 916, July 8)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Mifrün is a human from Argonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and boots. She wears a necklace with an iron Talmundur amulet. She is 165 (5'5) centimeters tall.
 
-Personality:
-	POSITIVE:
-		1. Kind
-		2. Observant
 
-	NEGATIVE:
-		1. Hesitant
-		2. Odd
-		
-	Realistic (perspective on the future)
+[[DESCRIPTION]]
+Mifrün is a human from Argonlav. She has dark blue eyes, fair skin, and brown hair braided into one. She mostly wears a green dress with a brown collar, and leather shoes. On her belt there is a small seax in it's sheath. She wears a necklace with an iron Talmundur amulet. She is 165 (5'5) centimeters tall.
 
-	Specific:
-		Talks to animals when feeling bored
+She can usually be found doing domestic work, and is currently married to Algord.
 
-Occupations:
-	Domestic Work
-	Farmer
 
-Languages:
-	Dagsvaldian
-	Esrel
 
-Abilities:
-	Alchemy (potion brewing, minor potions), additional alchemy knowledge: Curing Tonic
+[[PERSONALITY]]
+Mifrün is described as kind but acts king of odd, shown when she sometimes talks to her family's farm animals when she feels bored.
 
-Possessions:
-	Leather pouch:
-		Small seax
-		Shard of rose quartz
+
+
+[[ABILITIES]]
+Mifrün can only speak Dagsvaldian. She is able to make minor potions, and also has knowledge on how to brew curing tonics.

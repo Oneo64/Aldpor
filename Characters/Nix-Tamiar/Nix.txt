@@ -1,40 +1,34 @@
 Nix Tamiar
+
 Male
 Age: 19 (born 954, august 7)
 Alignment: Chaotic Good
 Ethnicity: Hendric
 Race:      Human
 
+
+
+[[DESCRIPTION]]
 Nix is a sorcerer born in Bantusea, Hendril. He has short, curly dark brown hair, tanned skin, and brown eyes. He wears a black tunic with two orange stripes, grey pants, a belt, and shoes. He has a sheathed dagger on his belt. He also has a coin purse. He is 170 (5'7) centimeters tall.
 
 When Nix uses magic, his eyes will start to glow like fire.
 
-Weapons:
-	Dagger
 
-Personality:
-	POSITIVE:
-		1. Goodhearted
-		2. Brave
-		3. Bold
 
-	NEGATIVE:
-		1. Overprotective
-		2. Prideful
-		
-	Optimistic
+[[PERSONALITY]]
+Nix is described as a goodhearted sorcerer, and is brave and courageous. However he can act prideful of his sorcery, evident when he thinks sorcery is superior to wizardry.
 
-Languages:
-	Hendric (English)
 
-Abilities:
-	Sorcery Magic (Little training no experience)
-	Medical skills
 
-	Sorcery:
-		Minor:
-			Mage Hand
+[[ABILITIES]]
+Nix can only speak Hendric (English). Because he is a sorcerer, he is able to cast spells innately. However he has little training and absolutely no experience with it.
 
-		Basic:
-			Dragonfire
-			Mage Armor, Magic Missile, Mending
+
+
+[[SORCERY]]
+	Minor:
+		Mage Hand
+
+	Basic:
+		Dragonfire
+		Mage Armor, Magic Missile, Mending

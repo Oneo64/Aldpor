@@ -1,34 +1,26 @@
 Mod Gorzadun
+
 Male
 Age: 40 (born 933, April 1)
 Alignment: Lawful Good
 Ethnicity: Banodic
 Race:      Dwarf
 
+
+
+[[DESCRIPTION]]
 Mod is a dwarf from Banod. He has blood red hair, and a beard braided into one, clamped by a silver clasp. His eyes are red, and his skin is pale and slightly dark. He wears a nasal helmet, black capelet, bronze hauberk, black shirt, pale blue pants, and shoes. He also wears a belt, which has a coin purse attached. He is 140 (4'7) centimeters tall.
 
 Mod carries an engraved war hammer, and a bronze shield carved in Banodic that says "Balkrozstuul-mod", meaning "Mod's Shield", "balkrozs" meaning "shield" and "tuul" meaning "of".
 
-His coin purse contains about 15 silver.
+He works as a mercenary, now living in the town Vilsnagur.
 
-Weapons:
-	War hammer
-	Bronze shield carved with Banodic runes
 
-Personality:
-	POSITIIVE:
-		1. Goodhearted
-		2. Kind
 
-	NEGATIVE:
-		1. Boastful
-		2. Reckless
+[[PERSONALITY]]
+Mod is a goodhearted and kind warrior, but he can be boastful of his fighting skills.
 
-Occupations:
-	Mercenary
 
-Languages:
-	Banodic
 
-Abilities:
-	War Hammer (20 years training, 10 years experience) (above average in combat)
+[[ABILITIES]]
+Mod has many years of training and practice with his war hammer and shield. He can be considered as a skilled warrior, being able to hold his own in a fight against two average soldiers.

@@ -1,35 +1,28 @@
 Oddius
+
 Male
 Age: 60 (born 913, April 1)
 Alignment: Neutral
 Ethnicity: Hendric
 Race: Human
 
+
+
+[[DESCRIPTION]]
 Oddius is the innkeeper in Saequor. He has grey hair, a long beard down to his collarbone, black eyes, and fair skin. His nose is hooked. He wears a white tunic, brown pants, a ring belt, and a pair of leather shoes. He is 170 (5'7) centimeters tall. He walks with a walking stick, which is a plain straight branch.
 
 Oddius lives in the same building as his inn. His living space is a built conjoined at the back side of his inn. Three main doors are built in his inn, one from the outside to his living space, one from the outside to the main inn, and one inside that connects his living space with the back of the inn.
 
 Usually during the day time he can be found either in his living space brewing potions or wine, or sitting on a stool outside the main doors watching the people go by.
 
-Personality:
-	POSITIVE:
-		1. Calm
-		2. Open-minded
 
-	NEGATIVE:
-		1. Doesn't care what happens
 
-	Specific:
-		Drinks red wine mostly undiluted
+[[PERSONALITY]]
+Oddius is a calm and open-minded innkeeper. He doesn't care what happens, and is disinterested in common things because of what he has seen with travelers. Unlike many people, he likes to drink red wine undiluted, seperate from his water.
 
-Languages:
-	Hendric (English)
-	Dagsvaldian (not fluent)
 
-Abilities:
-	Alchemy (potion brewing, basic potions)
-	Wine Brewing
 
-	Arcane Magic:
-		Minor:
-			Prestidigitation
+[[ABILITIES]]
+Oddius can brew basic potions, and he also knows how to brew wine. Because of Dagsvaldian traders, he slowly picked up their language but is still not fluent with it.
+
+He can also cast the spell Prestidigitation, but this is mostly for igniting light sources in his inn, especially the candles in the rooms when a customer rents one out.
