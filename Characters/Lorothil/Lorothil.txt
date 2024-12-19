@@ -1,88 +1,70 @@
 Loroðil Olfiksvein
+
 Male
 Age: 30 (born 942, November 2)
 Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
+
+
+[[DESCRIPTION]]
 Loroðil is a wizard from Basrynga. He has shoulder-length dark blond wavy hair. His eyes are dark blue, and he has fair skin.
 
-He wears a blue triangular fur hat on his head, with a woolen brown cloak, a long muted blue tunic with tan accents, brown pants, a belt and a pair of boots. He also has a silver amulet in the shape of Talmundur's symbol, and another amulet which is a piece of sapphire. He has a baldric carrying a scabbard with a Petersen Type X sword, and his belt carries two leather pouches.
+He wears a blue triangular fur hat on his head, with a woolen brown cloak, a long muted blue tunic with tan accents, brown pants, a belt and a pair of boots. He also has a silver amulet in the shape of Talmundur's symbol, and another amulet which is a piece of sapphire. His belt carries two leather pouches.
 
 Loroðil lives in an isolated longhouse two kilometers north of Basrynga. Every day, he can be seen walking to the main village and wandering around the market area, then back to his longhouse.
 
 He is 178 (5'10) centimeters tall.
 
-Weapons:
-	Petersen Type X sword
 
-Personality/Behaviour:
-	POSITIVE:
-		1. Loyal
-		2. Observant
 
-	NEGATIVE:
-		1. Aloof
-		2. Angered easily
+[[PERSONALITY]]
+Loroðil can be described as observant and analytical, being able to spot any hint of deception and make out the true intentions of people faster than anyone. He also feels some responsibility towards his town village, but when he is forced to do something he really doesn't like, he would find a workaround or find some excuse to not do that.
 
-	Slightly introverted
-	Realistic (perspective on the future)
+He is also somewhat quiet, as he is introverted and will only speak when needed to.
 
-	Specific:
-		Has strong Dagsvaldian accent
 
-Occupations:
-	Adventurer
-	Traveler
 
-Languages:
-	Dagsvaldian
-	Rànûdan
-	Hendric (English, not fluent)
-	Primordial (not fluent)
-	Abyssal (not fluent)
+[[ABILITIES]]
+Loroðil's mother tongue is Dagsvaldian. He also learned Rànûdan and Hendric (English) so he could talk to foreigners. He also learned Primordial because it is required to learn magic, and also learned Abyssal to study demons.
 
-Abilities:
-	Magic (11 years practice, which 3 years are training)
-	Alchemy (potion brewing, advanced potions)
+He has practiced magic for eleven years, and also studied it at an academy for three years. During his time in the academy, he learned advanced potion brewing.
 
-	Drawing
-	Plattrægnall
 
-	Sword fighting without shield (14 years practice/experience) (below average in combat)
 
-	Arcane Magic (38 spells):
-		Minor:
-			Illusory Script
-			Lesser Runic Staves
-			Mage Hand, Message
-			Prestidigitation
+[[ARCANE MAGIC]]
+	Minor:
+		Illusory Script
+		Lesser Runic Staves
+		Mage Hand, Message
+		Prestidigitation
 
-		Basic:
-			Counterspell
-			Detect Magic, Detect Thoughts
-			Feather Fall, Feign Death, Fire Bolt
-			Icy Touch
-			Mage Armor, Magic Missiles, Minor Illusion, Misty Step
-			Seidur, Shield, Sparks
+	Basic:
+		Counterspell
+		Detect Magic, Detect Thoughts
+		Feather Fall, Feign Death, Fire Bolt
+		Icy Touch
+		Mage Armor, Magic Missiles, Minor Illusion, Misty Step
+		Seidur, Shield, Sparks
 
-		Major:
-			Animate Corpse, Arcane Eye
-			Dispel Magic
-			Fireball
-			Greater Runic Staves
-			Invisibility
-			Lightning Bolt
-			Magic Circle
-			Polymorph
-			Remove Curse
-			Scrying
-			Telekinesis
+	Major:
+		Animate Corpse, Arcane Eye
+		Dispel Magic
+		Fireball
+		Greater Runic Staves
+		Invisibility
+		Lightning Bolt
+		Magic Circle
+		Polymorph
+		Remove Curse
+		Scrying
+		Telekinesis
 
-		Powerful:
-			Banishment
-			Blight
-			Darkness
-			Intricate Runic Staves
-			Make Wraith, Materialize Magic
-			Sunbeam
+	Powerful:
+		Banishment
+		Blight
+		Darkness
+		Intricate Runic Staves
+		Make Wraith, Materialize Magic
+		Sunbeam
