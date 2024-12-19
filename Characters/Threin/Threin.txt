@@ -1,43 +1,28 @@
 Þrein
+
 Male
 Age: 45 (born 927, September 10)
 Alignment: Lawful Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
+
+
+[[DESCRIPTION]]
 Þrein is a human from Lismerlav. He has grey eyes, pale skin, and short light brown hair. His face has a minimal amount of freckles, and his skin is slightly wrinkled.
 
 Þrein wears a brown triangular fur cap, a muted aqua (blueish green) tunic with brown accents, baggy brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
 
 Þrein is the father of Ennu and Baulnir. Þrein also works as a fish trader, and owns a karve. He trades along the Argolav-Lismerlav route, and Baulnir usually goes with him.
 
-Weapons:
-	Seax (12 inches)
-	Longbow
 
-Personality:
-	POSITIVE:
-		1. Goodhearted
-		2. Protective
-		3. Keen eyesight
 
-	NEGATIVE:
-		1. Impulsive
-		2. Paranoid of his own ship being stolen
+[[PERSONALITY]]
+Þrein is described as having a good heart, and is protective of his family. He also has a keen eyesight from hunting experience. However he may be somewhat impulsive, and paranoid of his own ship being stolen by thieves.
 
-	Optimistic view of future
+He has strong Dagsvaldian accent, and speaks English weirdly. When speaking in English, he speaks English using Dagsvaldian grammar and phrases, as if the words were replaced with English words.
 
-	Specific:
-		Has strong Dagsvaldian accent
 
-Occupations:
-	Fish Trader
 
-Languages:
-	Dagsvaldian
-	Hendric (English, not fluent)
-
-Abilities:
-	Archery
-	Hunting
-	Karve boat control
+[[ABILITIES]]
+Þrein is a trader, who owns a karve and knows how to control that boat. Because of his occupation as a trader, he is able to speak both Dagsvaldian and Hendric (English). He's also proficient with a longbow, since when there is no fish to trade, he usually hunts deer for sport and food.

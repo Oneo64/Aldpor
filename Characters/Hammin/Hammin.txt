@@ -1,40 +1,26 @@
 Hammin
+
 Male
 Age: 20
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race: Human
 
+
+
+[[DESCRIPTION]]
 Hammin is one of Randúlfr's knights. His hair is short blond and curly, his eyes are pale green, and has fair skin.
 
 He wears a tan cloak, a muted blue tunic, dark yellow pants, a ring belt, and a pair of shoes. He wears a iron Talmundur amulet, and an iron arm ring. He also sports a baldric scabbard with a viking sword sheathed inside, and a round shield slung on his back. His round shield is painted red and black.
 
-Weapons:
-	Viking sword
 
-Personality:
-	POSITIVE:
-		1. Loyal
-		2. Caring
 
-	NEGATIVE:
-		1. Doesn't like centaurs
-		2. Impulsive
+[[PERSONALITY]]
+As a knight, Hammin is loyal to Randúlfr as in honor. He can also act caring to people he sees as vulnerable. However he doesn't like centaurs, and may jump to conclusions without much thought.
 
-	Optimistic view of future
+He has strong Dagsvaldian accent, and speaks English weirdly. When speaking in English, he speaks English using Dagsvaldian grammar and phrases, as if the words were replaced with English words.
 
-	Specific:
-		Has strong Dagsvaldian accent
 
-Occupations:
-	Knight
 
-Languages:
-	Dagsvaldian
-	Hendric (English, not fluent)
-
-Abilities:
-	Sword fighting (5 years experience) (average in combat)
-	Horse riding
-
-	Plattrægnall
+[[ABILITIES]]
+Hammin can speak Dagsvaldian as his native language. He can also speak some Hendric (English) even though it isn't fluent. He practices combat with a sword and shield, and knows how to ride horses. He can also play the board game Plattrægnall.
