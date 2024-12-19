@@ -24,41 +24,35 @@ Flokr is mostly calm and generous. But usually, when sometimes when deciding to 
 
 He has strong Dagsvaldian accent, and speaks English weirdly. When speaking in English, he speaks English using Dagsvaldian grammar and phrases, as if the words were replaced with English words.
 
-Occupations:
-	Farmer
 
-Languages:
-	Dagsvaldian
-	Hendric (English, not fluent)
-	Primordial (not fluent)
 
-Abilities:
-	Magic (5 years practice, which 3 years are training)
-	Alchemy (potion brewing, advanced potions)
+[[ABILITIES]]
+Flokr's native language is Dagsvaldian. During his time in the Academy of Aldorim, he learned Hendric (English) and Primordial. He has practiced magic for five years, three spent in the academy. He also learned to brew potions, and can brew potions labeled as advanced.
 
-	Drawing
-	Plattrægnall
+He also plays Plattrægnall.
 
-	Arcane Magic (22 spells):
-		Minor:
-			Illusory Script
-			Lesser Runic Staves
-			Mage Hand, Message
-			Prestidigitation
 
-		Basic:
-			Blur
-			Counterspell
-			Detect Magic
-			Feather Fall, Fire Bolt
-			Icy Touch
-			Mage Armor, Magic Missiles
-			Seidur, Shield, Sparks
 
-		Major:
-			Animate Corpse
-			Dispel Magic
-			Greater Runic Staves
-			Invisibility
-			Lightning Bolt
-			Telekinesis
+[[ARCANE MAGIC]]
+	Minor:
+		Illusory Script
+		Lesser Runic Staves
+		Mage Hand, Message
+		Prestidigitation
+
+	Basic:
+		Blur
+		Counterspell
+		Detect Magic
+		Feather Fall, Fire Bolt
+		Icy Touch
+		Mage Armor, Magic Missiles
+		Seidur, Shield, Sparks
+
+	Major:
+		Animate Corpse
+		Dispel Magic
+		Greater Runic Staves
+		Invisibility
+		Lightning Bolt
+		Telekinesis
