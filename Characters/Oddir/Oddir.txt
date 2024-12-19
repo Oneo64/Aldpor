@@ -1,10 +1,14 @@
 Oddir
+
 Male
 Age: 38 (born 934, September 30)
 Alignment: Lawful Neutral
 Ethnicity: Dagsvaldian
 Race:      Human
 
+
+
+[[DESCRIPTION]]
 Oddir is a human from Lismerlav. He has long red wavy hair, trimmed beard, brown eyes, pale skin, and short light brown hair. His skin is slightly wrinkled.
 
 Oddir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
@@ -13,30 +17,12 @@ He has a pouch slung across his shoulder, which contains two spell scrolls that 
 
 He also owns a longship, and trades along the Saequor-Lismerlav trade route. He mainly exports wool and rye.
 
-Weapons:
-	Seax (12 inches)
 
-Personality:
-	POSITIVE:
-		1. Loyal
-		2. Strict
 
-	NEGATIVE:
-		1. Arrogant
+[[PERSONALITY]]
+Oddir is a strict man, setting rules for anyone he takes with him on his boat while traveling. Usually these rules are: don't be rambunctious and don't walk while the boat is moving. He can also be described as arrogant, seeing his ship as superior compared to other traders in Lismerlav.
 
-	Realistic view of future
 
-	Specific:
-		Has strong Dagsvaldian accent
 
-Occupations:
-	Wool and Rye Trader
-
-Languages:
-	Dagsvaldian
-	Hendric (English)
-
-Abilities:
-	Longship control
-
-	Scroll Magic
+[[ABILITIES]]
+As a trader, Oddir is able to speak both Dagsvaldian and Hendric (English) with near fluency. He also learned how to use scroll magic, in order to protect his ship and its cargo from theft.
