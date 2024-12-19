@@ -1,39 +1,32 @@
 Baulnir Þreinsvein
+
 Male
 Age: 23 (born 950, Feburary 22)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
-Baulnir is a human from in Lismerlav. He has fair skin which is slightly tanned, brown eyes, and light brown hair.
 
-He wears a grey woolen cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword. He wears an iron Talmundur amulet.
+
+[[DESCRIPTION]]
+Baulnir is a human from Lismerlav. He has fair skin which is slightly tanned, brown eyes, and light brown hair.
+
+He wears a grey woolen cap, dark brown cloak, a muted aqua (blueish green) tunic, a pair of brown pants, and he wears shoes on his feet. He carries a Petersen Type U sword in it's scabbard, held by a baldric. He wears an iron Talmundur amulet.
 
 In combat he wears a magical leather nasal helmet, which grants him a slight darkvision when worn. While traveling or going into combat, he has a round shield that's painted brown with a white cross.
 
 When his father takes his boat to trade, Baulnir usually goes with him to guard the boat.
 
-Weapons:
-	Sword
-	Round shield
 
-Personality:
-	POSITIVE:
-		1. Protective
 
-	NEGATIVE:
-		1. Arrogant
-	
-	Realistic view of future
+[[PERSONALITY]]
+Baulnir is protective of his family, and may feel protectiveness to people he sees as morally good and vulnerable. However he can be arrogant, thinking his fighting is better than how it is.
 
-Occupations:
-	Fish Trader
 
-Languages:
-	Dagsvaldian
-	Hendric (English)
 
-Abilities:
-	Combat experience (raided castle ruins and faced a couple of draugar | helped defend Lismerlav from a bandit raid)
+[[ABILITIES]]
+Baulnir can speak Dagsvaldian, and because of trading he picked up some Hendric (English). Still, he isn't fluent in English.
 
-	Sword and shield fighting (4 years practice/experience) (above average in combat)
+Many years ago, he gained some experience from raiding a castle ruins with his sister and another two warriors from Argonlav. Later, he gained some more from defending his home village from a bandit raid.
+
+He sports a sword and shield, since he practiced it over the past four years.
