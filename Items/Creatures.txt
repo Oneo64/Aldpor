@@ -244,6 +244,8 @@ Dryad (medium fey):
 	Abilities:
 		A dryad is able to unlimitedly carve all types of runic staves and perform the spells Druidcraft, Entangle, Seidur and Shillelagh. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to Talygva (material plane), and from Talygva to Furnalfa. She will always know the location of her tree.
 
+		She can also give blessings or curses by touching them. A blessing can either be immunity to poison and disease, or subtle darkvision. But, a curse will always be requiring more sleep for the same amount of energy. These blessings and curses usually last forever, but being blessed or cursed again by a dryad means the previous one dimishes.
+
 		Dryads are able to speak Druidic, and Sylvan.
 
 
