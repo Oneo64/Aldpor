@@ -1,7 +1,4 @@
-======================================================================================================================================================
-OVERVIEW
-======================================================================================================================================================
-
+[[OVERVIEW]]
 Aldpor is a mythic historical high fantasy world, set in the early medieval ages. The project started in 2023, July. Magic is subtle, and is not flashy/dramatic.
 
 The current year is 973. Fantastical elements should correspond from the Late Viking Ages to the Late Roman Period, with subtle elements from the 11th - 12th century. Structures like ring fortresses, creatures like zombies and elementals will be prevalent, but are not as powerful as how some fantasy worlds portray them as. Average spellcasters shouldn't surpass an average warrior in power by design, and even the most powerful spellcasters will have trouble going against twenty average warriors.
@@ -10,10 +7,7 @@ Medieval Stasis: The gods want to see competition and progress in strength. Stil
 
 
 
-======================================================================================================================================================
-ANCESTRY
-======================================================================================================================================================
-
+[[ANCESTRY]]
 Cold elves evolved from moon elves.
 
 Humans evolved from cold elves.
@@ -34,10 +28,7 @@ Average lifespans:
 
 
 
-======================================================================================================================================================
-MAGIC
-======================================================================================================================================================
-
+[[MAGIC]]
 Magic is subtle, and is not flashy/dramatic.
 
 Magic items exist in this world, and there are two ways of making one. The first way is by soaking the item in potion, and the second way is by casting Imbuement on the item. (See "MagicSystemAndSpells.txt")
@@ -58,10 +49,7 @@ Magics:
 
 
 
-======================================================================================================================================================
-KINGDOMS
-======================================================================================================================================================
-	
+[[KINGDOMS]]
 MEN:
 	Hendril:
 		Main language is Hendric
@@ -170,10 +158,7 @@ ORCS:
 
 
 
-======================================================================================================================================================
-GAME/ROLEPLAYING
-======================================================================================================================================================
-
+[[GAME/ROLEPLAYING]]
 Craftsmanship things:
 	Common: Woodworking, Leatherworking (not shoes) Metalworking, Lumberjack, Miner
 	Uncommon: Stone mason
