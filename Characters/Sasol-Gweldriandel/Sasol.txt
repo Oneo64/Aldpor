@@ -1,37 +1,28 @@
 Sasöl Gweldriàndel
+
 Male
 Age: 52, looks 26 (born 921, June 3)
 Alignment: Neutral
 Ethnicity: Rànûdan
 Race:      Moon Elf
 
-Sasöl is a moon elf from Emeröreslu. He has light blue skin, and purple hair down to the shoulders. His eyes are grey and pupiless, and his ears are long and pointed.
 
-He wears a dark aqua gambeson, deer hide pants, simple leather bracers, a belt, and a pair of boots. He also has a plain silver circlet, a quiver on his hip filled with obsidian tipped arrows, and a longbow with a twisting pattern. When he is at the outskirts of Emeröreslu guarding, he is wearing the Rànûdan archer uniform. He is 178 (5'10) centimeters tall.
 
-Weapons:
-	Longbow
-	Obsidian tipped arrows
+[[DESCRIPTION]]
+Sasöl is a moon elf from Emeröreslu. He has light blue skin, and straight purple hair down to the shoulders. His eyes are grey and pupiless, and his ears are long and pointed.
 
-Personality:
-	POSITIVE:
-		1. Calm
-		2. Playful
+He wears a dark aqua gambeson, brown pants, simple leather bracers, a belt, and a pair of boots. He also has a plain silver circlet, a quiver on his hip filled with obsidian tipped arrows, and a longbow with a twisting pattern.
 
-	NEGATIVE:
-		2. Reserved
-		
-	Introverted
-	Realistic (perspective on the future)
+Sasöl works as a ranger, and can usually be seen patrolling the forest outskirts of Emeröreslu. When he is at the outskirts of Emeröreslu guarding, he is wearing the Rànûdan archer uniform. He is 178 (5'10) centimeters tall.
 
-Occupations:
-	Ranger (Emeröreslu outskirts)
 
-Languages:
-	Rànûdan
-	Hendric (English)
 
-Abilities:
-	Longbow (34 years training, 31 years experience)
-	Acrobatics
-	Stealth
+[[PERSONALITY]]
+Sasöl can be described as calm and somewhat playful, albeit a silent type of playful. He is also reserved and introverted, as he would rather not be seen by many people. Sometimes he would purposefully return home late at night just so there would be less people.
+
+
+
+[[ABILITIES]]
+Sasöl speaks Rànûdan and Hendric (English). However, when he does speak in English, he usually uses an OSV word order. Initially, he had about a year of training, and thirty two years of patrol experience.
+
+He is also proficient in acrobatics and stealth, evident when he can silent perch on a tree branch or hop between them without falling.
