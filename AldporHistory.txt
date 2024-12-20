@@ -94,12 +94,12 @@ Borusdaliandur and Veilodin decided to invade Inglinimpara, and took it over.
 Shaefklimper rises in the Heirfgrian Forest.
 
 [740 BCE]
-A group of earth elementals attacked Borusdaliandur. A warrior named Hondaf, took a mace and axe, and went to defend a part of the city called Namiam against the earth elementals. Surprisingly, he destroyed most of the elementals before he retreated due to injury. He was gifted a star glising, which was named Star Glising of Namiam.
+A group of earth elementals attacked Borusdaliandur, at a district named Namiam. A warrior named Hondaf who lived there took a mace and axe, and defended it. He lost his axe, but was able to destroy most of the elementals before he retreated due to injury, letting the guards and soldiers deal with the rest. He was gifted a star glising, which was named Star Glising of Namiam.
 
 <First Age of Peace START>
 
 [760 BCE]
-Hondaf died a natural death. His body was buried in a memorial along with his Star Glising of Namiam, which was then moved to a tomb.
+Hondaf died a natural death. His body was buried in a memorial along with his Star Glising of Namiam, which was then moved to a tomb. The tomb is now protected by spells (Symbol and Intricate Runic Staves).
 
 <First Age of Peace END>
 
@@ -110,7 +110,7 @@ Veilodin collapsed, when a massive disease broke out. It was an incurable diseas
 Borusdaliandur fell. The people of Veilodin traveled south, to the Taribian desert. They formed an empire, named Zarapib. Zarapib was also led by a sorcerer, named Junas.
 
 [610 BCE]
-Junas was assassinated by a group of bandits. Zarapib almost collapsed, but was saved by Haronin using a spear to fend off the bandits. He became a hero, and was given the title of emperor.
+Junas was assassinated by a group of bandits. Zarapib almost collapsed, but was saved by Haronin using a spear to fend off the bandits. He became a hero right after the bandits fled, and was given the title of emperor.
 
 [550 BCE]
 Emperor Haronin died.
@@ -139,13 +139,13 @@ AD
  v
 
 [Exactly 0 AD]
-Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Hendrala.
+Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Hendrala. Hendrala was now where current day Hendril is, and Galabrus was many kilometers northwest of Hendrala.
 
 [20 AD]
-A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla.
+A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla. Vuntarla is built on a fjord, perched overlooking the eastern ocean, while Esrelu was in the northwest where it was icy cold.
 
 [30 AD]
-An priceless artifact, a stone tablet containing a poem in Old Rànûdan, was stolen from a forgotten settlement in Rànûladàen. The forgotten settlement was abandoned after an attack from civil war, but only after few years did they remember this tablet, labeling it as an "ancient" magic item. When an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several satyrs, had already taken the tablet. Lànassil, who was the dryad, found this tablet.
+An priceless, but recently made artifact, a stone tablet containing a poem in Old Rànûdan, was stolen from a forgotten settlement in Rànûladàen. The forgotten settlement was abandoned after an attack from civil war, but only after few years did they remember this tablet, labeling it as an "ancient" magic item. When an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several satyrs, had already taken the tablet. Lànassil, who was the dryad, found this tablet.
 
 [40 AD]
 An ideology of retribution sprouted in Furnalfa. A group of fey adopted to this ideology, where humanoids of the intelligent races, the ones that live in the material realm, were destroying nature and even Talmundur by burning wood, killing animals, and even go as far to call wizards cultists. There were just a little more fey that followed this ideology than the ones that didn't.
@@ -174,14 +174,15 @@ Banodic explorers traveled from Banod again, and created Glomdur.
 Hendrala went under revolution, becoming current day Hendril.
 
 [500 AD]
-Jûmlaanar is created.
+Yûmlathnar is created.
 
 [Exactly 548 AD]
 A large group of explorers from a Galabric village traveled up north. It was led by Bentolus, Garaldor, Jorvas and Muntin.
 
 [Exactly 550 AD]
-The large group of explorers unknowingly enterd the territory of a large bandit group. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
-They established Thaldranga.
+The large group of explorers unknowingly enterd the territory of a large bandit group, who named themselves the Kynnigwaz. During the fighting, Bentolus and Jorvas was slain. Their bodies were buried in a tomb.
+
+A week later, the remaining group established a new settlement: Thaldranga.
 
 [560 AD]
 The King of Yûmlathnar gets corrupted, and used propaganda to make the people believe humans and dwarves are possessed by demons.
@@ -226,7 +227,7 @@ A week after returning to her hometown, Säelri traveled to Furnalfa to retrieve
 [957 AD]
 Evil fey tries to get King Vasolas of Rànûdel to help them in their conquest of the material plane. King Vasolas denied to help them, so the evil fey launched an attack of 10 gvarths onto Rànûdel, targeting Emeröreslu and any nearby settlements. Rànûdel defended itself against this attack.
 
-Säelri returns with the Rànûladàenic tablet. She shows it to Lànassil, and gives it to her.
+Säelri returns with the Rànûladàenic tablet. She shows it to Lànassil, and gives it to her. Because of this, Lànassil blessed Säelri with being immune to poisons and diseases.
 
 [960 AD]
 Yûmlathnar travels up and attacks Sölenzâeth, Esrelu. Sölenzâeth was almost ruined, but recovered after many months.
