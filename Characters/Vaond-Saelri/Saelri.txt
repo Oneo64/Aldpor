@@ -1,92 +1,68 @@
 Säelri Vaond
+
 Female
 Age: 45, looks mid thirties (born 928, January 10)
 Alignment: Neutral Good
 Ethnicity: Esrel
 Race:      Cold Elf
 
+
+
+[[DESCRIPTION]]
 Säelri is a druid from Vesesvala. She has vibrant green pupiless eyes, pale skin, and golden hair. Like all cold elves, her earlobes are long.
 
 She has a white cloak, wears a long dark aqua tunic, a belt, and a pair of shoes. She has a jade and malachite bead bracelet on her right arm. She has a sheathed dagger on her belt, and a pouch. She also has a coin purse.
 
-Säelri is immune to all poison and disease, due to druidic practices. She also knows about Furnalfa.
-
 She carries around a pine wood staff, tipped with a small amber orb.
 
-Weapons:
-	Pine wood staff tipped with small amber orb
-	Dagger
 
-Personality:
-	POSITIVE:
-		1. Calm
-		2. Helpful
-		3. Patient
 
-	NEGATIVE:
-		1. Disorganized
-		2. Little sense of money saving
+[[PERSONALITY]]
+Säelri is described as being usually calm and patient. She likes to help others, but can be disorganized. She has little sense of money saving, and tend to spend more than she should on things like food or trivial things she finds interesting.
 
-	Realistic view of future
 
-Occupations:
-	Healer
 
-Languages:
-	Esrel
-	Druidic
-	Sylvan
-	Hendric (English, not fluent)
+[[ABILITIES]]
+Säelri can speak Esrel. She learned Druidic and Sylvan during druidry practice, and finally learned Hendric (English) to talk to humans.
 
-Abilities:
-	Experience (traveled to Furnalfa to retrieve tablet from evil fey)
+She has traveling experience, as many years ago she traveled to Furnalfa to retrieve an ancient Rànûladàenic tablet stolen by evil fey. She also knows how to handle animals, and has an easier time approaching them and letting them know she's friendly.
 
-	Druidic Magic (30 years experience)
-	Medical things
-	Animal handling
+Säelri is immune to all poison and disease, due to druidic practices. She also knows about Furnalfa.
 
+
+
+[[DRUIDIC MAGIC]]
 	Wild Shape animals:
 		Brown bear (combat)
 		Cat (stealth)
 		Elk (travel)
 		Raven (flight)
 
-	Druidic Magic (26 spells):
-		Minor:
-			Calming Touch
-			Druidcraft
-			Entangle
-			Illusory Script
-			Lesser Runic Staves
-			Terra Blast
+	Minor:
+		Calming Touch
+		Druidcraft
+		Entangle
+		Illusory Script
+		Lesser Runic Staves
+		Terra Blast
 
-		Basic:
-			Animal Messenger
-			Barkskin, Blur
-			Detect Evil and Good, Detect Thoughts
-			Healing Palm
-			Icy Touch
-			Lesser Restoration
-			Misty Step, Moonbeam
-			Purify Food and Drink
-			Seidur, Shillelagh
-			Waterwalk
+	Basic:
+		Animal Messenger
+		Barkskin, Blur
+		Detect Evil and Good, Detect Thoughts
+		Healing Palm
+		Icy Touch
+		Lesser Restoration
+		Misty Step, Moonbeam
+		Purify Food and Drink
+		Seidur, Shillelagh
+		Waterwalk
 
-		Major:
-			Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
-			Cure Wounds
-			Magic Circle
-			Travel by Tree
+	Major:
+		Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
+		Cure Wounds
+		Magic Circle
+		Travel by Tree
 
-		Powerful:
-			Stormwall
-
-Possessions:
-	Leather pouch:
-		A quill
-		10 sheets of parchment
-		10 sheets of vellum
-		3 blank scrolls
-		2 scrolls of incantations written in Esrel
-		A drinking horn
-		A waterskin
+	Powerful:
+		Stormwall
