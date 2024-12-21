@@ -1,7 +1,4 @@
-======================================================================================================================================================
-OVERVIEW
-======================================================================================================================================================
-
+[[OVERVIEW]]
 Magics:
 	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic. Incantations are spoken in Druidic.
 
@@ -36,29 +33,25 @@ Magic spells reference (including shapechange animals):
 
 
 
-======================================================================================================================================================
-PARHRÜVARYG/PLANE OF MAGIC
-======================================================================================================================================================
-
+[[PARHRÜVARYG/PLANE OF MAGIC]]
 This plane is an infinite dimension of just magic catalysts. By using wizard magic, you are accessing these catalysts, and making them do things according to the Primordial incantations, gestures, and materials you are holding.
 
 
 
-======================================================================================================================================================
-VISUALS
-======================================================================================================================================================
+[[VISUALS]]
+Visuals of most magic are extremely simple and subtle, and will be just either flashes of light, glowing, auras, mists, or something elemental. Unless the spell specifies and explains the visual effect of the spell, it will have no visual effect and the spell effect simply happens.
 
-Visuals of most magic are extremely simple and subtle, and will be just either flashes of light, glowing, auras, mists, or something elemental.
+For example: The spell Etherealness does not specify any visuals, therefore when someone casts Etherealness they simply just fade out and enter the ethereal plane.
 
-If the spell doesn't explain the visual effect, then that spell has no visual effect.
-For example: Control Plant does not specify any visuals, therefore Control Plant does not have any visuals.
+When magic force is specified but it doesn't specify a color, then it follows these rules:
+	- Minor spells looks like a faintly spectral or shimmering white color.
+	- Basic magic looks like a faintly spectral or shimmering light blue color.
+	- Major magic looks like a shimmering blue color.
+	- Powerful magic looks like an intense blue color.
 
 
 
-======================================================================================================================================================
-CLASSES/TIERS
-======================================================================================================================================================
-
+[[CLASSES/TIERS]]
 Minor magic:
 	- Magic that doesn't require much study (little to no knowledge of a target)
 	- Less than 4 days of study and practice to learn
@@ -96,10 +89,7 @@ For druids, instead of a blue magic color, it is colored green. For seers it is 
 
 
 
-======================================================================================================================================================
-MATERIAL SIZES
-======================================================================================================================================================
-
+[[MATERIAL SIZES]]
 Small: Around the size of a few marbles
 Medium: Around the size of a golf ball
 Large: Around the size of your hand
@@ -125,6 +115,7 @@ Dispel Magic (major)
 	Requirements: V, S
 
 Choose a creature, an object, or a magical effect that's class is major or lower in range that you can see. If you chose a creature or object, all magical effects placed on it are dispelled. If it is a magical effect, then that magical effect is dispelled.
+
 In order to use this spell, you must have studied the same school of magic before, and have some knowledge on it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
