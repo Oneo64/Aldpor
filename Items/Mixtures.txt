@@ -10,7 +10,7 @@ Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful o
 Two pickled and crushed practal gorbries, a pinch of coal powder, and some material as ingredients usually applies the effects of that material.
 Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
 
-Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the igredients more potent if their original properties are too weak to be any use.
+Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the ingredients more potent if their original properties are too weak to be any use.
 
 
 
