@@ -282,7 +282,7 @@ Gvarth (huge fey):
 
 		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
-		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
+		Some gvarths have carved rune staves on their bark, which is usually three "Greater Runic Staves: Shielding" and three "Intricate Runic Staves: Magical Disruption".
 
 		Gvarths are unaffected by all psychic attacks.
 
