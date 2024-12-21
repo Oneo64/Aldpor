@@ -1,10 +1,14 @@
 Jungenaz
+
 Male
 Age: 451 (born 522, January 3)
 Alignment: Chaotic Neutral
 Ethnicity: Galabric
 Race:      Draugr (Human)
 
+
+
+[[DESCRIPTION]]
 Jungenaz was a human, born in 522 AD in a Galabric town, 200 years after the Kingdom of Galabrus's collapse. He and 3 other nobles traveled north with a group of men, but was killed in battle by bandits. Later, he returned as a draugr, and now resides inside his tomb. Like all corpses, Jungenaz has blueish grey skin, completely white eyes, and his hair is sparse and gray. He is 190 (6'3) centimeters tall.
 
 He has a deep, open cut across the right side of his neck, which is a sign of a failed beheading.
@@ -13,37 +17,16 @@ He wears a migration period helmet, lined with brass and lead. He also wears a w
 
 Like all draugr, his voice is raspy and deep.
 
-Weapons:
-	Round Shield
-	Spatha
 
-Personality:
-	POSITIVE:
-		1. Careful
 
-	NEGATIVE:
-		1. Cold
-		2. Unfriendly
-		
-	Realistic (perspective on the future)
+[[PERSONALITY]]
+Jungenaz is careful, always handling objects as if they were fragile. However he is cold and unfriendly and will always do anything to protect his land, usually resorting to killing.
 
-Occupations:
-	Guard of his own tomb
 
-Languages:
-	Galabric
-	Old Esrel
 
-Abilities:
-	Combat experience (unknown combat experiences | died in a battle against a bandit army)
+[[ABILITIES]]
+Jungenaz can only speak Galabric and Old Esrel, which are both almost extinct languages. Only few can only speak these languages, and are usually learned from libraries.
 
-	Sword and shield (very skilled in combat)
-	Magic
+He has gotten combat combat experience, as he was killed in a battle against a bandit army. He is very skilled with a sword and shield.
 
-	Magic:
-		Basic:
-			Dragonfire
-			Misty Step
-
-		Major:
-			Locate Object
+He is also able to cast three spells, them being Dragonfire, Misty Step, and Locate Object.
