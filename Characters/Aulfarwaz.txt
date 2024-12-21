@@ -1,10 +1,14 @@
 Aulfarwaz
+
 Male
 Age: 332 (born 641, December 3)
 Alignment: Neutral
 Ethnicity: Dagsvaldian
 Race:      Draugr (Human)
 
+
+
+[[DESCRIPTION]]
 Aulfarwaz was a human druid from early Þalmundol. He got lost in the forest many kilometers north, and starved to death sitting against a tree. Aulfarwaz is now a gaunt corpse, has greenish grey skin, completely white eyes, and his hair is grey, long and messy. He also has a full beard, with it's appearance in the same manner as his hair. He is 178 (5'11) centimeters tall.
 
 He wears a worn bear hide cloak, tunic, pants, a rope as a belt and a pair of shoes. There is a piece of malachite and jade tied to his belt. The colors of his clothing have faded, so it all looks just dull and grey. The bear cloak and tunic is mossed, dirty, and soiled.
@@ -13,61 +17,49 @@ Like all draugr, his voice is raspy and deep.
 
 His wildshape animals and the animals he conjures will appear like a zombie or corpse.
 
-Personality:
-	POSITIVE:
-		1. Careful
 
-	NEGATIVE:
-		1. Anti-social, avoids civilization or groups of people
-		2. Impulsive
-		3. Seems emotionless and expressionless
 
-	Pessimistic view of future
+[[PERSONALITY]]
+Aulfarwaz seems to be emotionless and expressionless. He also tends to avoid civilization and groups of people, and is pessimistic.	He may get depressed at the sight of food being eaten, or any mention of eating.
 
-	Specific:
-		May get depressed at the sight of food being eaten, or any mention of eating
 
-Occupations:
-	None
 
-Languages:
-	Galabric
-	Druidic
+[[ABILITIES]]
+Aulfarwas can only speak Galabric and Druidic. He also practices druidry, and knows how to calm bears and wolves.
 
-Abilities:
-	Druidic Magic
 
+
+[[DRUIDIC MAGIC]]
 	Wild Shape animals:
 		Raven (flight)
 		Wolf (travel)
 
-	Druidic Magic (27 spells):
-		Minor:
-			Calming Touch
-			Druidcraft
-			Entangle
-			Illusory Script
-			Lesser Runic Staves
-			Terra Blast
+	Minor:
+		Calming Touch
+		Druidcraft
+		Entangle
+		Illusory Script
+		Lesser Runic Staves
+		Terra Blast
 
-		Basic:
-			Barkskin, Blur
-			Conjure Minor Animals, Cure Wounds
-			Detect Thoughts
-			Feign Death
-			Icy Touch
-			Misty Step, Moonbeam
-			Seidur, Shield, Sparks
-			Waterwalk
+	Basic:
+		Barkskin, Blur
+		Conjure Minor Animals, Cure Wounds
+		Detect Thoughts
+		Feign Death
+		Icy Touch
+		Misty Step, Moonbeam
+		Seidur, Shield, Sparks
+		Waterwalk
 
-		Major:
-			Arcane Eye
-			Conjure Animals, Control Plant
-			Ice Storm
-			Polymorph
-			Speak with Dead
-			Travel by Tree
+	Major:
+		Arcane Eye
+		Conjure Animals, Control Plant
+		Ice Storm
+		Polymorph
+		Speak with Dead
+		Travel by Tree
 
-		Powerful:
-			Stormwall
+	Powerful:
+		Stormwall
 
