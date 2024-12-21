@@ -1,10 +1,14 @@
 Vielthöri Aldriàndel
+
 Female
 Age: 19 (born 954, march 5)
 Alignment: Lawful Good
 Ethnicity: Aodesvic
 Race: Human aligned to Lünanyr
 
+
+
+[[DESCRIPTION]]
 Vielthöri is a celestial human who magically leans towards Lünanyr (called Lûnania in Aodesvu regions), and was born in Pendlas Mus. She has unusually vibrant green eyes, pale skin, and long light blond hair. She wears a purple surcoat bearing Lünanyr's symbol (which is a four pointed star), a grey tunic, brown pants, a buckled belt, and a pair of boots. She is 165 (5'5) centimeters tall.
 
 She wears a metal helmet with a brass rim in combat. She carries a spatha in a blue scabbard, and a blue Norman kite shield slung across her back.
@@ -13,48 +17,28 @@ Her goal is to "protect" the world and the cycle of life from undeath, and is wi
 
 During the day when she isn't exploring or going on a "crusade", she can be found either patrolling the streets, talking to people in the community center, or riding her horse in the nearby woods.
 
-Weapons:
-	Spatha
-	Norman style blue kite shield
 
-Personality:
-	POSITIVE:
-		1. Friendly
-		2. Assertive
-		3. Generous
 
-	NEGATIVE:
-		1. Purist
-		2. Meddlesome
+[[PERSONALITY]]
+Vielthori is friendly, and generous, also described as meddlesome as she likes to assert or associate herself with things she doesn't need to be involved with. She is also a purist, and never participates or even support any kind of war against another civilization.
 
-	SPECIAL:
-		Horse riding as a hobby
-		Killing undead is satisfying to her
 
-Occupations:
-	Guard
-	Noble
 
-Languages:
-	Aodesvic
-	Hendric (English)
+[[ABILITIES]]
+Vielthöri speaks Aodesvic as her mother tongue, and learned Hendric (English). She has only little experience with her sword and shield, gained from defending her town from a small group of vamerks with the help of the town's guards.
 
-Abilities:
-	Combat experience (defended town from small group of vamerks with the help of town guards)
+Vielthöri is also an innate seer, which means she can use divine magic without study. Along with this, she can sense any sort of undead activity in a 100 meter radius, but she cannot determine where it is happening, the direction of it, or it's distance.
 
-	Sword fighting with shield (3 years practice, no training) (average in combat)
-	Horse riding
+Aso she doesn't know this, but she recovers from wounds and diseases around one-and-a-half times faster than normal, and her touch can speed the healing of anyone by about 20%.
 
-	Seer Magic:
-		Basic:
-			Bless
-			Mending
-			Wash of Radiance
 
-		Major:
-			Detect Evil and Good
-			Healing Palm
 
-	Special:
-		Able to sense any sort of undead activity in a 100 meter radius, but she cannot determine where it is happening, the direction of it, or it's distance.
-		She recovers from wounds and diseases around one and a half times faster than normal, and her touch can speed the healing of anyone by about 20%, but she doesn't know this.
+[[SEER MAGIC]]
+	Basic:
+		Bless
+		Mending
+		Wash of Radiance
+
+	Major:
+		Detect Evil and Good
+		Healing Palm
