@@ -15,7 +15,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 
 	Urban:								Ghost, Golem
 
-	Furnalfa:							Centaur, Dryad, Gvarth, Satyr, Sprite
+	Furnalfa:							Centaur, Dryad, Faerie Hare, Gvarth, Satyr, Sprite
 	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
 
 
@@ -162,6 +162,8 @@ Earth Elemental:
 	Description:
 		Earth elementals looks like a hulking humanoid completely made of chunks of earth. Earth elementals don't have a face, but they can see normally. Earth elementals may have grass growing on the top side of their bodies. Some may even adorn themselves with flowers and vines.
 
+		An earth elemental typically stands at a height of two meters.
+
 	Abilities:
 		Earth elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
@@ -209,6 +211,8 @@ Stone Elemental:
 	Description:
 		Stone elementals looks like a hulking humanoid completely made of chunks of stone. Stone elementals don't have a face, but they can see normally. Some stone elementals may have moss or lichen growing on their bodies.
 
+		A stone elemental typically stands at a height of almost four meters.
+
 	Abilities:
 		Stone elementals do not have a natural weapon other than their fists. Because they are a solid material, they are able to pick up weapons and wear armor.
 
@@ -247,6 +251,19 @@ Dryad (medium fey):
 		She can also give blessings or curses by touching them. A blessing can either be immunity to poison and disease, or subtle darkvision. But, a curse will always be requiring more sleep for the same amount of energy. These blessings and curses usually last forever, but being blessed or cursed again by a dryad means the previous one dimishes.
 
 		Dryads are able to speak Druidic, and Sylvan.
+
+
+
+Faerie Hare (small fey):
+	A faerie hare is a hare that lives in Furnalfa.
+
+	Description:
+		A faerie hare looks like a normal hare. It's fur color is normally a mix of brown and tan. When it moves, it's paws emit a faint green mist. It's eye colors are always green, and slightly glows in the dark.
+
+	Abilities:
+		When a faerie hare runs over farmland, it usually fertilizes that farm land.
+
+		Faerie hares also has a natural repelling of undead. When a zombie, skeleton, or vamerk gets within the presence of a faerie rabbit, it starts to try and move away from it.
 
 
 
