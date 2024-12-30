@@ -11,10 +11,10 @@ Other languages: Esrel
 Ruler: Joralðr II
 
 Important villages, (200 settlements, average 250 people each village):
-	Argonlav (300 people, under Kjartkjofn)
-	Basrynga (200 people)
-	Elkvin (50 people, under Ynfrünar)
-	Lismerlav (300 people, under Dúagrynga)
+	Argánlaf (300 people, under Kjartkjofn)
+	Básrynga (200 people)
+	Elkvein (50 people, under Ynfrünar)
+	Lismerlaf (300 people, under Dúagrynga)
 
 Cities:
 	Þuryngard (2000 people, including 20 guards patrolling the walls, 20 patrolling the town, 10 lookouts, and 10 king's guards)
@@ -66,7 +66,7 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 
 
 [[TRADE]]
-There is a trade route between Argonlav and Lismerlav, where Lismerlav supplies Argonlav with fish and Argonlav supplies Lismerlav with wood.
+There is a trade route between Argánlaf and Lismerlaf, where Lismerlaf supplies Argánlaf with fish and Argánlaf supplies Lismerlaf with wood.
  
 Dagsvald mainly exports iron, wool, and rye. They mostly trade with Esrelu, Hendril, and Vuntarla. They also export herbs common in the Northern and Southern Dagsvaldian Forests such as ekraldys toadstools, and spices grown in winter.
 
