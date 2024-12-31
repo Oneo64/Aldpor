@@ -1,11 +1,8 @@
-!NEEDS IMPROVEMENT!
-!WRITING IS TOTAL SHITE!
-
 Meyrúna
 
 Female
 Age: 20
-Alignment: Neutral
+Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
 
@@ -24,6 +21,8 @@ Meyrúna is described as empathetic and very loyal. She is also curious, but she
 
 
 [[ABILITIES]]
-Meyrúna can only speak Dagsvaldian.
+Meyrúna can speak Dagsvaldian, and picked up a minor English underatanding due to traders and merchants.
 
-Meyrúna can play a lyre, and sometimes make up songs to play them. She can also carve wood into things like spoons and small figurines to gift to other people, and she practices herbology.
+Meyrúna can play a lyre and sometimes make up songs to play them, which are almost always in Dagsvaldian. Most of these songs are about nature or her adventures.
+
+Meyrúna practices herbology and can identify many common herbs in the Northern region. She took interest in carving wood, and can turn them into things like spoons and small figurines to gift to other people.
