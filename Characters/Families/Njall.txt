@@ -1,0 +1,15 @@
+Heir:   Njall
+Wealth: Moderately wealthy
+
+Land:
+    A longhouse. This house is in Argonlav, Dagsvald.
+
+---------------------------------------------------------------
+
+
+
+Dageski [M, 910]------+
+                      |
+Sifind [F, 900 - 956]-+>>+-Njall [M, 925]-+
+                                          |>>+-Meyrúna [F, 950]
+                           Þone [F, 927]--+  

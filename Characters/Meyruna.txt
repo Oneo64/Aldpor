@@ -1,7 +1,7 @@
 Meyrúna
 
 Female
-Age: 20
+Age: 20 (born 953)
 Alignment: Neutral Good
 Ethnicity: Dagsvaldian
 Race:      Human
@@ -9,19 +9,21 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Meyrúna is a human from Argánlaf. She has wavy auburn hair, and her skin is pale with a red hue. Her eyes are large, and have a pale green color. She is 162 (5'4) centimeters tall.
+Meyrúna is a human from Argánlaf. She has wavy light brown hair, and her skin is pale with a red hue. Her eyes are large, and have a pale green color. She is 162 (5'4) centimeters tall.
 
-She wears a dark yellow woolen cloak, a muted blue dress, a ring belt, and leather shoes. On her belt there is a small seax in it's sheath. She wears a necklace with an iron Talmundur amulet. 
+She wears a dark yellow woolen cloak, a muted blue dress, a ring belt, and leather shoes. On her belt there is a small seax in it's sheath. She wears a necklace with an iron Talmundur amulet.
+
+Meyrúna is friends with Ljorn and Yngvild. She can usually be found in the nearby areas of the forest gathering herbs alone or with Ljorn, at her house making wood carvings, or by the river.
 
 
 
 [[PERSONALITY]]
-Meyrúna is described as empathetic and very loyal. She is also curious, but she would rather try new things or go on adventures alone or with people that are close.
+Meyrúna is described as calm and pleasant, however she can be introverted as she prefers to work on her carvings, or be at quiet areas such as near the river where there isn't much noise. She can also be generous, as she would sometimes gift wood carvings to people. She can also be unassertive, shown when she would avoid conflict by not associating herself with it.
 
 
 
 [[ABILITIES]]
-Meyrúna can speak Dagsvaldian, and picked up a minor English understanding due to traders and merchants.
+Meyrúna can only speak Dagsvaldian, and picked up a minor English understanding due to traders and merchants.
 
 Meyrúna can play a lyre and sometimes make up songs to play them, which are almost always in Dagsvaldian. Most of these songs are about nature or her adventures.
 
