@@ -42,7 +42,7 @@ Cold Elf:
 		Has natural darkvision up to 10 meters.
 		Can survive 5 degrees celsius (and being naked) and still feel fine.
 
-		Ages until 120 to 140 years old. (Looks 25% younger.)
+		Ages until 60 to 90 years old. (Looks x0.88 younger.)
 
 	Body features:
 		Height: Average for men/women is 170/157 centimeters.
@@ -64,7 +64,7 @@ Moon Elf:
 	Abilities:
 		Has natural darkvision up to 10 meters.
 		Keen sense of balance.
-		Ages until 170 to 230 years old. (Looks twice as young.)
+		Ages until 100 to 130 years old. (Looks x0.65 younger.)
 
 	Body features:
 		Height: Average for men/women is 180/168 centimeters.
