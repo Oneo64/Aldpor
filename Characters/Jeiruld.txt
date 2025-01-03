@@ -57,8 +57,7 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 		Telekinesis
 
 	Powerful:
-		Create Golem
-		Darkness, Detect Thoughts
+		Detect Thoughts
 		Imbuement
 		Intricate Runic Staves
 		Materialize Magic

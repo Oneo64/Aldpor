@@ -300,22 +300,6 @@ If a fey conjured by this spell dies, it disappears in a puff of lively green mi
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Create Golem (powerful)
-	Casting time: 5 minutes
-	Range:        5 meters
-	Requirements: V, SG
-	Duration:     1 week
-
-You point at any loose material, such as sand, pebbles, dirt, gravel, any powder, or a mix of any of the listed. You must also chant, and make a gesture with your other hand. During spellcasting, the material slowly flies into place, forming a medium humanoid golem of that material. If your spellcasting is interrupted, the unfinished golem simply collapses back to the ground. Materials that are 'pure', for example dirt that isn't mixed with anything, usually provides better results than mixed material. If someone casts this spell targeting the same material and the same spot as you, that person speeds up the spellcasting.
-
-When the golem is created, it is friendly to you, and you can verbally command them to do actions. The golem will follow behaviour patterns written in "Creatures.txt".
-
-A golem only dies if both arms are destroyed, it loses balance, or it's torso is halved with a space of at least 5 cm apart. It is also very resistant to slashing and piercing. If it is hit with a bludgeoning weapon, or a small explosion, debris does not connect back to the golem.
-
-When the golem dies, or the spell ends, it will simply crumble and collapse back to the ground.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Entangle (minor)
 	Casting time: 6 seconds
 	Range:        30 meters
@@ -608,20 +592,6 @@ Metals have a higher chance of being struck, while wood has a lower chance of be
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Darkness (powerful)
-	Casting time: 10 seconds
-	Range:        50 meters
-	Requirements: V, S, M (a medium piece of black onyx)
-	Duration:     concentration up to 10 minutes
-
-A spot on the ground you can see starts emitting magical darkness that spreads into a area 4 meters in radius. The darkness spreads around corners. The darkness blocks out all light, and anyone within the radius are blinded. Anyone inside, if they are not actually blind, cannot suffer permanent blindness while they are inside.
-
-The darkness appears to be a pitch-black mist that slowly spreads out from the point chosen, swirling like a fire slowed 10 times.
-
-You can also choose a point on an object to emit this darkness. If this object moves, and the darkness moves with it.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Dragonfire (basic)
 	Casting time: instantaneous
 	Range:        10 meters
@@ -641,7 +611,7 @@ A near-harmless bolt of earth shoots out of your hands. When the earth bolt hits
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fireball (major)
+Fireball (powerful)
 	Casting time: 3 seconds
 	Range:        50 meters
 	Requirements: V, S
@@ -753,15 +723,6 @@ A ring of fire appears around you in a 10 meter radius and stays at it's locatio
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Scorch Bolt (major)
-	Casting time: instantaneous
-	Range:        40 meters
-	Requirements: V, SG, M (a small glass shard)
-
-A bolt of blue fire shoots out of your hands, and bursts into a little puff of fire on impact. This bolt of blue fire is twice as destructive as a normal fire bolt.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Sparks (basic)
 	Casting time: instantaneous
 	Range:        20 meters
@@ -789,7 +750,7 @@ A small, foot-wide beam of sunlight shines from your hand like a laser. It scorc
 
 If the beam exceeds 100 meters, then from there it will start to weaken until 200 meters where it is completely ineffective.
 
-However, they are almost useless against golems and elementals (except ice elementals) since they are not made of a flammable material.
+However, they are almost useless against elementals (except ice elementals) since they are not made of a flammable material.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1178,10 +1139,8 @@ SPELL LIST
 		MAJOR MAGIC:
 			Burning Hands
 			Crackling Red Sprites
-			Fireball
 			Ice Storm
 			Lightning Bolt
-			Scorch Bolt
 			Shockwave
 			Sulfur Rain
 			Telekinesis
@@ -1189,8 +1148,7 @@ SPELL LIST
 
 		POWERFUL MAGIC:
 			Conjure Elementals
-			Darkness
-			Imbuement
+			Infuse Scroll
 			Materialize Magic
 			Ring of Fire
 			Stormwall
@@ -1221,7 +1179,6 @@ SPELL LIST
 
 		MAJOR MAGIC:
 			Feign Death
-			Fireball
 			Greater Runic Staves
 			Hold person
 			Ice Storm
@@ -1231,15 +1188,13 @@ SPELL LIST
 			Magic Circle
 			Protection from Evil and Good
 			Remove Curse
-			Scorch Bolt
 			Shockwave
 			Telekinesis
 
 		POWERFUL MAGIC:
 			Conjure Elementals
-			Create Golem
-			Darkness
 			Detect Thoughts
+			Fireball
 			Make Wraith
 			Materialize Magic
 			Imbuement

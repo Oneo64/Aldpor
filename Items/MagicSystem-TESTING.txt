@@ -1,3 +1,6 @@
+!THIS IS A TEST MAGIC SYSTEM, DO NOT TAKE ANYTHING HERE FOR GRANTED!
+
+
 [[OVERVIEW]]
 Magics:
 	- Druidry incantations are spoken in Druidic, and are all nature-based.

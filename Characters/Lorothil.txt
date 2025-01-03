@@ -49,7 +49,7 @@ He has practiced magic for eleven years, and also studied it at an academy for t
 		Seidur, Shield, Sparks
 
 	Major:
-		Feign Death, Fireball
+		Feign Death
 		Greater Runic Staves
 		Invisibility
 		Lightning Bolt
@@ -58,7 +58,8 @@ He has practiced magic for eleven years, and also studied it at an academy for t
 		Telekinesis
 
 	Powerful:
-		Darkness, Detect Thoughts
+		Detect Thoughts
+		Fireball
 		Intricate Runic Staves
 		Make Wraith, Materialize Magic
 		Scrying, Sunbeam
