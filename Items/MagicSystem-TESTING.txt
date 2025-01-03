@@ -81,29 +81,26 @@ By thinking and concentrating an effect to happen at your hands, you can cause o
 Elemental Control (adult):
 By thinking and concentrating an effect to happen, you can cause one of these effects to happen:
 	- A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
+	- A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 	- A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
 ----------------------------------------------------------------------------------------------------
-Create Scroll (requires knowledge and practice):
-After writing arcane symbols and runes in a scroll, you infuse part of your power into that scroll. Once this is done, anyone can usee this scroll as a new type of magic practice called Scroll Sorcery. You can only create one scroll per day, as you won't have enough power to create another.
+Elderly Power (elderly):
+The sorcery you can cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
+----------------------------------------------------------------------------------------------------
+Create Scroll (requires intermediate arcane research):
+After writing arcane symbols and runes in a scroll, you infuse part of your power into that scroll. Once this is done, anyone can use this scroll as a new type of magic practice called Scroll Sorcery. You can only create one scroll per day, as you won't have enough power to create another.
 
 
 
 [[ARCANE MAGIC]]
 ====================================================================================================
-Arcane Spells: Spells that are cast by gestures and incantations.
+Arcane Spells: Spells that are cast by gestures and incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Magical Staves: Magical symbols drawn on wooden surfaces, will remain until the wood breaks or rots, or if the drawing is washed off.
 ====================================================================================================
 Creation (beginner, 1 week to learn):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- A small illusory trinket appears on your hand.
 	- A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
-----------------------------------------------------------------------------------------------------
-Arcane Spells (intermediate, 1 month to learn one spell):
-By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
-	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
-	- Lightning: A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
-	- Frostbolt: A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Magical Staves (intermediate, 1 month to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
@@ -112,6 +109,12 @@ These are the staves you can make:
 	- Gapaldur: Targets in a 20 meter range are physically stronger when bare-handed.
 	- Vegvisir: Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
 	- Toustefna: This must be drawn on oak. Foxes are unwilling to go within 20 meters of this stave.
+----------------------------------------------------------------------------------------------------
+Intermediate Arcane Spells (intermediate, 1 month to learn one spell):
+By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
+	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
+	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Frostbolt: A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (expert, 1 month and 2 weeks to learn one spell):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
