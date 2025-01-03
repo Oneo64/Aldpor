@@ -32,39 +32,15 @@ She has traveling experience, as many years ago she traveled to Furnalfa to retr
 Säelri is immune to all poison and disease, due to druidic practices. She also knows about Furnalfa.
 
 
-
-[[DRUIDIC MAGIC]]
-	Wild Shape animals:
+		
+[[DRUIDRY]]
+	Shapeshift animals:
 		Brown bear (combat)
 		Cat (stealth)
 		Elk (travel)
 		Raven (flight)
 
-	Minor:
-		Calming Touch
-		Druidcraft
-		Entangle
-		Illusory Script
-		Lesser Runic Staves
-		Terra Blast
-
-	Basic:
-		Animal Messenger
-		Barkskin, Blur
-		Detect Evil and Good
-		Healing Palm
-		Icy Touch
-		Lesser Restoration
-		Moonbeam
-		Purify Food and Drink
-		Seidur, Shillelagh
-		Waterwalk
-
-	Major:
-		Conjure Animals, Conjure Woodland Beings, Cure Wounds
-		Magic Circle
-
-	Powerful:
-		Detect Thoughts
-		Stormwall
-		Travel by Tree
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm
+	Shapeshift
