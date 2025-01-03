@@ -102,8 +102,8 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 Arcane Spells (intermediate, 1 month to learn one spell):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
-	- Lightning Bolt: A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
-	- Frost Bolt: A mote of frost shoots out of your hand towards where you are aiming at.
+	- Lightning: A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
+	- Frostbolt: A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Magical Staves (intermediate, 1 month to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
@@ -115,6 +115,7 @@ These are the staves you can make:
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (expert, 1 month and 2 weeks to learn one spell):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
+	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
 	- Suspension: An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
 	- Shield: A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
 	- Wind: A burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
