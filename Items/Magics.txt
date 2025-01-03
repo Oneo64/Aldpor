@@ -30,6 +30,9 @@ By speaking in Druidic or Sylvan, you can talk to animals. The animals will be a
 Healing Palm (intermediate):
 By holding a beaded wooden bracelet in your other hand, and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound would naturally result with a scar, then the wound healed would result with a scar. A small cut is healed instantly, however a wound such as a sword slash can take tens of minutes.
 ----------------------------------------------------------------------------------------------------
+Cleanse Liquid (intermediate):
+By speaking an incantation and sticking a finger into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt.
+----------------------------------------------------------------------------------------------------
 Shapeshift (expert):
 By holding a small piece of jade or malachite in your hand and speaking an incantation, you can shift into any forest animal from your region.
 

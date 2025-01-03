@@ -43,4 +43,5 @@ Säelri is immune to all poison and disease, due to druidic practices. She also 
 	Bloom or Wither Flowers
 	Talk to Animals
 	Healing Palm
+	Cleanse Liquid
 	Shapeshift

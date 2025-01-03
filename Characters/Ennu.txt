@@ -28,11 +28,6 @@ Many years ago, Ennu gained some experience from raiding a castle ruins with his
 
 
 [[DRUIDRY]]
-	Shapeshift animals:
-		Elk (travel)
-		Raven (flight)
-
 	Bloom or Wither Flowers
 	Talk to Animals
 	Healing Palm
-	Shapeshift

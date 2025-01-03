@@ -31,3 +31,4 @@ Vriitiwaz can only speak the local troll language and druidic. He also practices
 	Bloom or Wither Flowers
 	Talk to Animals
 	Healing Palm
+	Cleanse Liquid

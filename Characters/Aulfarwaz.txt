@@ -37,4 +37,5 @@ Aulfarwas can only speak Galabric and Druidic. He also practices druidry, and kn
 	Bloom or Wither Flowers
 	Talk to Animals
 	Healing Palm
+	Cleanse Liquid
 	Shapeshift
