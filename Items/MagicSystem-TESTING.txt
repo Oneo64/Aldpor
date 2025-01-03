@@ -17,17 +17,6 @@ Components:
 
 
 
-[[VISUALS]]
-Visuals of most magic are extremely simple and subtle, and will be just either flashes of light, glowing, auras, mists, or something elemental. Unless the spell specifies and explains the visual effect of the spell, it will have no visual effect and the spell effect simply happens.
-
-When magic force is specified but it doesn't specify a color, then it follows these rules:
-	- Minor spells looks like a faintly spectral or shimmering white color.
-	- Basic magic looks like a faintly spectral or shimmering light blue color.
-	- Major magic looks like a shimmering blue color.
-	- Powerful magic looks like an intense blue color.
-
-
-
 [[MATERIAL SIZES]]
 Small: Around the size of a few marbles
 Medium: Around the size of a golf ball
@@ -91,7 +80,36 @@ By thinking and concentrating an effect to happen at your hands, you can make on
 ----------------------------------------------------------------------------------------------------
 Elemental Control (adult):
 By thinking and concentrating an effect to happen, you can make one of these effects to happen:
-	- A small speck of fire shoots out of your hand and bursts on contact. This fire will ignite anything flammable.
-	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at.
+	- A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
+	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
 	- A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
+
+
+
+[[ARCANE MAGIC]]
+====================================================================================================
+Creation (beginner):
+By making a strange had gesture with your other hand and speaking an incantation, you can make one of these effects to happen:
+	- A small illusory trinket appears on your hand.
+	- A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 ----------------------------------------------------------------------------------------------------
+Arcane Control (intermediate):
+By making a strange had gesture with your other hand and speaking an incantation, you can make one of these effects to happen:
+	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
+	- Lightning Bolt: A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at. This lightning bolt has a range of 40 meters.
+	- Frost Bolt: A mote of frost shoots out of your hand towards where you are aiming at.
+----------------------------------------------------------------------------------------------------
+Magical Staves (intermediate):
+You can create a magical stave by drawing a symbol on a surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius, and will glow slightly red. The drawing cannot be washed off by clear mundane water, but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, blood.
+The incantation will include what the stave will do, and who will be effected by it. Who to be effected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age. 
+These are the staves you can make:
+	- Gapaldur: Targets in a 10 meter range are physically stronger when bare-handed.
+	- Vegvisir: Targets in a 10 meter range are more resilient to cold weather, more resilient to wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
+	- Toustefna: Foxes are unwilling to go within 10 meters of this stave.
+----------------------------------------------------------------------------------------------------
+Intricate Magical Staves (master):
+You can create a magical stave by drawing a symbol on a surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius, and will glow slightly red. The drawing cannot be washed off by clear mundane water, but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, blood.
+The incantation will include what the stave will do, and who will be effected by it. Who to be effected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age. 
+These are the staves you can make:
+	- Helm of Awe: Targets in a 10 meter range are physically stronger and more durable. They also feel more confident.
+	- Lukkustafir: Scares away lesser demons and undead within a 10 meter range. Lesser demons and undead example: wraiths and zombies.
