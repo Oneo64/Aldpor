@@ -58,7 +58,12 @@ Look for Omens (beginner):
 By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
 	- Crows and ravens surrounding someone or a location for bad luck
 	- One or two crows or ravens surrounding someone for good luck
+	- One owl near someone for intelligence or wisdom
+	- One parrot near someone for low intelligence or wisdom
 	- Red eyes for a possibility of a sickness during the winter
+	- Faint blue aura around someone for sadness
+	- Faint white aura around someone for innocence
+	- Faint black aura around someone for ill intentions
 ----------------------------------------------------------------------------------------------------
 Foresight (intermediate):
 By holding beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
@@ -86,10 +91,3 @@ By thinking and concentrating an effect to happen, you can make one of these eff
 	- A small speck of fire shoots out of your hand and bursts on contact. This fire will ignite anything flammable.
 	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at.
 	- A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
-----------------------------------------------------------------------------------------------------
-Augury (elderly):
-By thinking to see omens and signs, you start to hallucinate subtle omens. Hallucinary omens could include:
-	- Crows and ravens surrounding someone or a location for bad luck
-	- One or two crows or ravens surrounding someone for good luck
-	- One owl near someone for intelligence or wisdom
-	- One parrot near someone for low intelligence or wisdom
