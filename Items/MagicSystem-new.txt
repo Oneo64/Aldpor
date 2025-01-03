@@ -1,0 +1,95 @@
+[[OVERVIEW]]
+Magics:
+	- Druidry incantations are spoken in Druidic, and are all nature-based.
+	- Seidr is a practice of foresight and altering luck. You must be born with these abilities to use this.
+	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
+	- Scroll sorcery is when you make simple magic reading a chant from a scroll, made by a sorcerer.
+	- Arcane magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials.
+
+Components:
+	V = Verbal (wizards and seers chant in Primordial, druids chant in either Druidic or Sylvan, sorcerers don't need to chant)
+	S = Somatic (weaving the spell, doing some ritual shit like drawing circles or coating in powder, any magic other than wizard/arcane magic uses SG instead)
+	SG = Somatic gesture (simply pointing, touching, reaching, waving, wrist flicking, etc)
+	M = Material
+
+
+
+[[VISUALS]]
+Visuals of most magic are extremely simple and subtle, and will be just either flashes of light, glowing, auras, mists, or something elemental. Unless the spell specifies and explains the visual effect of the spell, it will have no visual effect and the spell effect simply happens.
+
+When magic force is specified but it doesn't specify a color, then it follows these rules:
+	- Minor spells looks like a faintly spectral or shimmering white color.
+	- Basic magic looks like a faintly spectral or shimmering light blue color.
+	- Major magic looks like a shimmering blue color.
+	- Powerful magic looks like an intense blue color.
+
+
+
+[[MATERIAL SIZES]]
+Small: Around the size of a few marbles
+Medium: Around the size of a golf ball
+Large: Around the size of your hand
+
+
+
+====================================================================================================
+
+
+
+[[DRUIDRY]]
+====================================================================================================
+Bloom or Wither Flowers (beginner):
+By touching a plant and speaking an incantation, you can instantly make a flower blossom, a seed pod open, or a leaf bud bloom. Alternatively, you can make them wither or turn them into ash.
+----------------------------------------------------------------------------------------------------
+Talk to Animals (beginner):
+By speaking in Druidic or Sylvan, you can talk to animals. However, the animal cannot speak back.
+----------------------------------------------------------------------------------------------------
+Healing Palm (intermediate):
+By holding a beaded wooden bracelet in your other hand, and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound would naturally result with a scar, then the wound healed would result with a scar. A small cut is healed instantly, however a wound such as a sword slash can take tens of minutes.
+----------------------------------------------------------------------------------------------------
+Shapeshift (master):
+By holding a small piece of jade or malachite in your hand and speaking an incantation, you can shift into any forest animal from your region.
+
+
+
+[[Seidr]]
+====================================================================================================
+Look for Omens (beginner):
+By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
+	- Crows and ravens surrounding someone or a location for bad luck
+	- One or two crows or ravens surrounding someone for good luck
+	- Red eyes for a possibility of a sickness during the winter
+----------------------------------------------------------------------------------------------------
+Foresight (intermediate):
+By holding beaded amber and jade bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
+	- Feel a chill for a blizzard or snow storm
+	- Smell of the sea for rain
+	- Feeling warm for a drought
+----------------------------------------------------------------------------------------------------
+Shift Luck (intermediate):
+By chanting in an incantation and staring at a living target, you can either make them slightly luckier or unluckier.
+----------------------------------------------------------------------------------------------------
+Shapeshift (master):
+By holding a small piece of amber in your hand and speaking an incantation, you can shift into any forest animal from your region.
+
+
+
+[[SORCERY]]
+====================================================================================================
+Unexplained Effects (young):
+By thinking and concentrating an effect to happen at your hands, you can make one of these effects to happen:
+	- A small illusory trinket appears on your hand.
+	- A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
+----------------------------------------------------------------------------------------------------
+Elemental Control (adult):
+By thinking and concentrating an effect to happen, you can make one of these effects to happen:
+	- A small speck of fire shoots out of your hand and bursts on contact. This fire will ignite anything flammable.
+	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at.
+	- A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
+----------------------------------------------------------------------------------------------------
+Augury (elderly):
+By thinking to see omens and signs, you start to hallucinate subtle omens. Hallucinary omens could include:
+	- Crows and ravens surrounding someone or a location for bad luck
+	- One or two crows or ravens surrounding someone for good luck
+	- One owl near someone for intelligence or wisdom
+	- One parrot near someone for low intelligence or wisdom
