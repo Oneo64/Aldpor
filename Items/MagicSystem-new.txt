@@ -91,3 +91,4 @@ By thinking and concentrating an effect to happen, you can make one of these eff
 	- A small speck of fire shoots out of your hand and bursts on contact. This fire will ignite anything flammable.
 	- A thin bolt of lightning zaps out of your hand and strikes whatever you are pointing at.
 	- A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
+----------------------------------------------------------------------------------------------------

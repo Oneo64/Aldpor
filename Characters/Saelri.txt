@@ -61,8 +61,7 @@ Säelri is immune to all poison and disease, due to druidic practices. She also 
 		Waterwalk
 
 	Major:
-		Conjure Animals, Conjure Woodland Beings, Control Water
-		Cure Wounds
+		Conjure Animals, Conjure Woodland Beings, Cure Wounds
 		Magic Circle
 
 	Powerful:

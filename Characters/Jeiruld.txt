@@ -49,8 +49,7 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 		Seidur, Shield, Sparks
 
 	Major:
-		Feign Death
-		Fireball
+		Feign Death, Fireball
 		Greater Runic Staves
 		Invisibility
 		Locate Object, Lightning Bolt
@@ -59,15 +58,12 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 
 	Powerful:
 		Create Golem
-		Darkness
-		Detect Thoughts
+		Darkness, Detect Thoughts
 		Imbuement
 		Intricate Runic Staves
 		Materialize Magic
 		Reanimation
-		Scrying
-		Sunbeam
-		Symbol
+		Scrying, Sunbeam, Symbol
 
 
 
