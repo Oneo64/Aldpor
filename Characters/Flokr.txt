@@ -50,9 +50,6 @@ He also plays Plattrægnall.
 		Seidur, Shield, Sparks
 
 	Major:
-		Animate Corpse
-		Dispel Magic
 		Greater Runic Staves
 		Invisibility
-		Lightning Bolt
 		Telekinesis

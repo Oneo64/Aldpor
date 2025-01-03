@@ -42,29 +42,23 @@ He has practiced magic for eleven years, and also studied it at an academy for t
 
 	Basic:
 		Counterspell
-		Detect Magic, Detect Thoughts
-		Feather Fall, Feign Death, Fire Bolt
+		Detect Magic
+		Feather Fall, Fire Bolt
 		Icy Touch
-		Mage Armor, Magic Missiles, Minor Illusion, Misty Step
+		Mage Armor, Magic Missiles
 		Seidur, Shield, Sparks
 
 	Major:
-		Animate Corpse, Arcane Eye
-		Dispel Magic
-		Fireball
+		Feign Death, Fireball
 		Greater Runic Staves
 		Invisibility
 		Lightning Bolt
 		Magic Circle
-		Polymorph
 		Remove Curse
-		Scrying
 		Telekinesis
 
 	Powerful:
-		Banishment
-		Blight
-		Darkness
+		Darkness, Detect Thoughts
 		Intricate Runic Staves
 		Make Wraith, Materialize Magic
-		Sunbeam
+		Scrying, Sunbeam

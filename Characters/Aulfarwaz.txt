@@ -45,21 +45,18 @@ Aulfarwas can only speak Galabric and Druidic. He also practices druidry, and kn
 	Basic:
 		Barkskin, Blur
 		Conjure Minor Animals, Cure Wounds
-		Detect Thoughts
-		Feign Death
 		Icy Touch
-		Misty Step, Moonbeam
+		Moonbeam
 		Seidur, Shield, Sparks
 		Waterwalk
 
 	Major:
-		Arcane Eye
 		Conjure Animals, Control Plant
+		Feign Death
 		Ice Storm
-		Polymorph
-		Speak with Dead
-		Travel by Tree
 
 	Powerful:
+		Detect Thoughts
 		Stormwall
+		Travel by Tree
 

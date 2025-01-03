@@ -51,20 +51,21 @@ Säelri is immune to all poison and disease, due to druidic practices. She also 
 	Basic:
 		Animal Messenger
 		Barkskin, Blur
-		Detect Evil and Good, Detect Thoughts
+		Detect Evil and Good
 		Healing Palm
 		Icy Touch
 		Lesser Restoration
-		Misty Step, Moonbeam
+		Moonbeam
 		Purify Food and Drink
 		Seidur, Shillelagh
 		Waterwalk
 
 	Major:
-		Conjure Animals, Conjure Woodland Beings, Control Plant, Control Water
+		Conjure Animals, Conjure Woodland Beings, Control Water
 		Cure Wounds
 		Magic Circle
-		Travel by Tree
 
 	Powerful:
+		Detect Thoughts
 		Stormwall
+		Travel by Tree

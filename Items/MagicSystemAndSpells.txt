@@ -109,17 +109,6 @@ You can interrupt a basic or minor spell concentration of a creature you can see
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dispel Magic (major)
-	Casting time: 6 seconds
-	Range:        40 meters
-	Requirements: V, S
-
-Choose a creature, an object, or a magical effect that's class is major or lower in range that you can see. If you chose a creature or object, all magical effects placed on it are dispelled. If it is a magical effect, then that magical effect is dispelled.
-
-In order to use this spell, you must have studied the same school of magic before, and have some knowledge on it.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Greater Restoration (major)
 	Casting time: 30 seconds
 	Range:        touch
@@ -205,15 +194,13 @@ Symbol (powerful)
 	Casting time: 30 seconds
 	Range:        touch
 	Requirements: V, S, M (a chalk dipped in ink which the spell consumes)
-	Duration:     until dispelled or triggered
+	Duration:     until dispelled, triggered, or destroyed
 
-You pick a general description that would match one target for this spell, like "a man wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
+You pick a general description that would match one target for this spell, like "a man wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me". You dip the coal in the ink then draw a magical symbol on a dry surface, which the symbol then fades until it is almost invisible.
 
-You dip the coal in the ink then draw a magical symbol on a dry surface, which the symbol then fades until it is almost invisible.
+When a target is detected within a 10 meters, the symbol takes 10 seconds to charge up, which it starts to glow brighter. If the target leaves the 10 meter radius, the symbol returns to normal. When it reaches 10 seconds, it disappears with a flash of white light and a popping noise, and the target is affected by the effect of this symbol.
 
-When a target is detected within a 10 meters, the symbol takes 10 seconds to charge up, which it starts to glow brighter. If the target leaves the 10 meter radius, the symbol returns to normal.
-
-When it reaches 10 seconds, it disappears with a flash of white light and a popping noise, and the target is affected by the effect of this symbol.
+The symbol can be destroyed by pouring or splashing magical water on it.
 
 When casting the spell, you can choose the effects of this symbol:
 	Disarmament:
@@ -231,39 +218,11 @@ When casting the spell, you can choose the effects of this symbol:
 	Suspension:
 		The target must resist a wave of numbness. If the target doesn't or cannot resist, they become paralyzed and held in the air for five minutes.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Wall Armor (major)
-	Casting time: 6 seconds
-	Range:        touch
-	Requirements: V, S, M (a small piece of labradorite)
-	Duration:     until dispelled
-
-You touch a surface that isn't intricately detailed, such as a plain wall, door, or window. Because of this, it cannot be used to protect a creature, statue, or anything like castle walls made with logs.
-
-A faint blue aura forms on that surface in a 5 meter radius, and doesn't spread onto other objects even if it was pressed together. This blue aura acts as if it was solid glass. When the blue aura is shattered, the shards fall and dissipate harmlessly.
-
 
 
 ======================================================================================================================================================
 CONJURATION
 ======================================================================================================================================================
-
-Banishment (powerful)
-	Casting time: 6 seconds
-	Range:        20 meters
-	Requirements: V, S, M (a small piece of amber)
-	Duration:     concentration up to 1 minute
-
-A creature you can see that is alive within range is banished to it's home plane. If the target is native to the current plane, then sent to a demiplane instead.
-
-If the target is sent to a demiplane, then it is incapacitated, and remains there until the spell ends.
-
-If the target is sent back to it's home plane, then if the spell ends before the 1 minute duration ends, it reappears back to it's spot where it was banished from. Otherwise, the target doesn't return.
-
-When the target is banished, it disappears with a subtle flash of rainbow light and a popping noise.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Conjure Animals (major)
 	Casting time: 6 seconds
@@ -289,7 +248,7 @@ If an animal conjured by this spell dies, it disappears in a puff of lively gree
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Conjure Elementals (major)
+Conjure Elementals (powerful)
 	Casting time: 6 seconds
 	Range:        20 meters
 	Requirements: V, S
@@ -371,7 +330,7 @@ Greater Runic Staves (major)
 	Casting time: 1 minute
 	Range:        20 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
-	Duration:     until dispelled
+	Duration:     until dispelled or destroyed
 
 You pick a general description that would match one target for this spell, like "a man wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me".
 
@@ -390,7 +349,7 @@ You dip the coal in the water then draw a magical stave on a wooden surface such
 
 		The shield appears and disappears just quick enough to block the projectile. When all charges are expended, the stave fades and becomes a non-magical drawing.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water, but other liquids like oil, tar, or magical water can.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
 
@@ -400,7 +359,7 @@ Infuse Scroll (powerful)
 	Casting time: 10 minutes
 	Range:        touch
 	Requirements: V, S, M (a vial of Parhrügi's Tears which will be consumed on use, the scroll to imbue spells into, and required materials to write)
-	Duration:     until dispelled
+	Duration:     until dispelled or destroyed
 
 Using a mixture of 50% Parhrügi's Tears and 50% ink, you use this to write 'scroll make' translated into Primordial, followed by a direct translation of the spell name. Do this for another two languages, Sylvan and Druidic.
 
@@ -414,7 +373,7 @@ Intricate Runic Staves (powerful)
 	Casting time: 5 minutes
 	Range:        30 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
-	Duration:     until dispelled
+	Duration:     until dispelled or destroyed
 
 You pick a general description that would match one target for this spell, like "a man wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me". You dip the coal in the water then draw a magical stave on a wooden or stone surface such as a tree, a wooden sign etc, in which the stave glows slightly red.
 
@@ -433,11 +392,11 @@ You can choose one of the effects to apply:
 	Turret:
 		This stave has 5 charges. Everytime a target enters the range of the stave, the stave "casts" a spell assigned to the stave. If the stave's spell doesn't have an instantaneous casting time, it instead starts glowing brighter. At the end of the stave casting it's spell, it is glowing twice more than normal. Once the stave finishes the spell casting or is countered by counterspell, it's light dims back to normal.
 
-		If the spell requires a chosen target, the target will be one of the targets of this stave. If the spell requires a direction, the direction will be the direction towards the target. If the spell is placed instead, the spell takes effect at where the target is. If the spell requires concentration, then that concentration is maintained until the spell ends. If the spell requires an option or parameter like Major Illusion or another stave spell, then you must decide that when drawing the stave by writing it in Primordial or any of the languages listed below around the stave.
+		If the spell requires a chosen target, the target will be one of the targets of this stave. If the spell requires a direction, the direction will be the direction towards the target. If the spell is placed instead, the spell takes effect at where the target is. If the spell requires concentration, then that concentration is maintained until the spell ends. If the spell requires an option or parameter like another stave spell, then you must decide that when drawing the stave by writing it in Primordial or any of the languages listed below around the stave.
 
 		The stave replenishes one charge per two hours.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water, but other liquids like oil, tar, or magical water can.
 
 In order to draw a stave, you must have studied some Primordial.
 
@@ -447,7 +406,7 @@ Lesser Runic Staves (minor)
 	Casting time: 20 seconds
 	Range:        20 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Parhrügi and a piece of coal which is consumed on use)
-	Duration:     until dispelled
+	Duration:     until dispelled or destroyed
 
 You pick a general description that would match one target for this spell, like "a man wearing a red surcoat", "people not wearing shoes", "people with black hair", "any elemental", or "anyone that isn't me". You dip the coal in the water then draw a magical stave on a wooden surface such as a tree, a wooden sign etc, in which the stave glows slightly red.
 
@@ -458,35 +417,13 @@ You can choose one of the effects to apply:
 	Vegvisir:
 		A target in range is unbothered by difficult terrain for the next 24 hours.
 
-The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water.
+The stave's magic will be active until the drawing is destroyed, or dispelled. The rune cannot be washed away by mundane water, but other liquids like oil, tar, or magical water can.
 
 In order to draw a stave, you must have studied either some Primordial, Druidic, Sylvan or Sylvendric.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Misty Step (basic)
-	Casting time: instantaneous
-	Range:        10 meters
-	Requirements: V
-
-You turn into mist, which then shoots towards a location you can visibly see within range. You then turn back to your form, all of that happening withing a fraction of a second. During that short amount of time as mist, you are incorporeal, and invulnerable to all damage that doesn't directly target the mind, life, or soul. If the trajectory of your mist form is blocked, it just ignores the barrier and goes through anyways.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Summon Spiders (powerful)
-	Casting time: 10 seconds
-	Range:        100 meters
-	Requirements: V, S
-	Duration:     concentration up to 1 hour
-
-You conjure 5 giant tarantulas that will appear a few meters around you. The giant spiders are friendly to you and anyone you choose, and you can verbally command them to do actions that do not directly harm themselves. They will automatically defend themselves from hostility.
-
-If a spider moves outside this spell's range, it dies.
-If a spider created by this spell dies, it disappears in a puff of black smoke.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Travel by Tree (major)
+Travel by Tree (powerful)
 	Casting time: 6 seconds
 	Range:        300 meters
 	Requirements: V, SG
@@ -500,20 +437,6 @@ If the spell cannot find a tree of the same type and size within range, the spel
 ======================================================================================================================================================
 DIVINATION
 ======================================================================================================================================================
-
-Arcane Eye (major)
-	Casting time: instantaneous
-	Range:        100 meters
-	Requirements: V, M (a medium piece of labradorite)
-	Duration:     concentration up to 1 hour
-
-You chant the incantation of this spell. While chanting, you can see though a magical eye that you created by casting this spell. You can choose to move or turn this magical eye in any direction you like, but the eye cannot go through solid objects. The eye moves at a speed of 4 meters per second, and fits in holes at least 1 square inch.
-
-While this spell is active, your eyes must be closed. A creature that can see invisible things see a white wisp-like orb that's about the size of your fist. By opening your eyes, the spell ends.
-
-If the eye goes through a doorway or a window or something similar, and that opening is blocked or cut off (like closing the door), the spell ends.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Detect Evil and Good (basic)
 	Casting time: instantaneous
@@ -534,7 +457,7 @@ You chant the incantation of this spell. While chanting, only you can see areas 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Detect Thoughts (basic)
+Detect Thoughts (powerful)
 	Casting time: instantaneous
 	Range:        5 meters
 	Requirements: V, SG
@@ -550,13 +473,13 @@ Locate Object (major)
 	Requirements: V, SG
 	Duration:     concentration up to 10 minutes
 
-Choose an object in which you know it's appearance, or nature. While chanting, you can sense the direction of where this object is, how far it is, and the direction it's moving if it is.
+Choose an object in which you have seen it's appearance, or know it's nature. While chanting, you can sense the direction of where this object is, how far it is, and the direction it's moving if it is.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Scrying (major)
+Scrying (powerful)
 	Casting time: 10 seconds
-	Range:        infinite
+	Range:        100 meters
 	Requirements: V, M (a medium piece of labradorite)
 	Duration:     concentration up to 10 minutes
 
@@ -570,7 +493,7 @@ You can also choose a location you remember in place of the creature, but you ca
 
 Seidur (basic)
 	Casting time: 30 seconds
-	Range:        infinite
+	Range:        100 meters
 	Requirements: V, S, M (a vial of water spiritually aligned or attuned to Talmundur which is consumed on use)
 	Duration:     special
 
@@ -629,17 +552,7 @@ You touch a creature. You can choose one of these effects to happen while your h
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fear (major)
-	Casting time: 3 seconds
-	Range:        20 meters
-	Requirements: V, S
-	Duration:     1 minute
-
-A creature you can see within range hallucinates a creature or person resembling something they are afraid the most.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Feign Death (basic)
+Feign Death (major)
 	Casting time: 3 seconds
 	Range:        touch
 	Requirements: V, SG
@@ -649,7 +562,7 @@ A willing creature you touch falls limp, and is indistinguishable from death, no
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hold Person (basic)
+Hold Person (major)
 	Casting time: 6 seconds
 	Range:        20 meters
 	Requirements: V, S
@@ -914,41 +827,13 @@ If the creature picks up any item, or wears anything extra, the additional objec
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Major Illusion (powerful)
-	Casting time: 3 seconds
-	Range:        40 meters
-	Requirements: V, SG
-	Duration:     concentration up to 10 minutes
-
-Choose a 5 meter cube of space within range. As you chant, you can create an illusion of anything in that area, accompanied by appropriate sound, temperature, smell and illumination. You can choose whether it appears natural or not. However, this spell is unable to produce anything intense enough to hurt or damage, such as blinding light, deafening noise, or a sickening smell, or a temperature that burns. You can also choose change the illusion, cause something in the illusion to happen, or move the illusion to any spot you like as long as it is within range.
-
-You can also choose whether anything 'physical' that happens within the illusion is realistic, or follow what you want to happen. However, anything relating to creature behaviour (decision making) and memory is only something you control fully, so that means you must know their behaviour, and memory (if you're making an illusion of someone else) in order to portray them accurately.
-
-If you go further than the range, the spell ends.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Minor Illusion (basic)
-	Casting time: 3 seconds
-	Range:        40 meters
-	Requirements: V, SG
-	Duration:     concentration up to 1 minutes
-
-Choose a 2 meter cube of space within range. As you chant, you can create an illusion of anything in that area, but it is soundless and cannot provide proper temperature and illumination. You can instead cause a sound you have heard before to emit from a point within range, but it cannot be loud enough to rupture ears.
-
-You can also choose whether anything 'physical' that happens within the illusion is realistic, or follow what you want to happen. However, anything relating to creature behaviour (decision making) and memory is only something you control fully, so that means you must know their behaviour, and memory (if you're making an illusion of someone else) in order to portray them accurately.
-
-If you go further than the range, the spell ends.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Invisibility (major)
 	Casting time: 3 seconds
 	Range:        touch
 	Requirements: V, S
 	Duration:     concentration up to 5 minutes
 
-A creature or an object that you can hold turns invisible for the duration. If target is a creature and it dies, the spell still remains. If the target is an object and it breaks or is modified, the spell ends.
+A creature or an object that you can hold turns almost invisible for the duration, but still looks like they've been turned into an extremely hard-to-see glass. If target is a creature and it dies, the spell still remains. If the target is an object and it breaks or is modified, the spell ends.
 
 If the creature picks up any item, or wears anything extra, the additional object is not affected by the spell. If the creature drops an item, the spell effect on that item ends.
 
@@ -968,29 +853,6 @@ The user picks a spot on a surface, then traces their finger around that surface
 NECROMANCY
 ======================================================================================================================================================
 
-Animate Corpse (major)
-	Casting time: 6 seconds
-	Range:        10 meters
-	Requirements: V, S, M (a small piece of black onyx)
-	Duration:     30 minutes
-
-A corpse you can see within range that has a size of medium or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least 80 percent of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
-
-The zombie or skeleton is friendly to you and people you choose, and is hostile to any other living creature. You can give it simple verbal commands, and they will blindly follow them. When the duration ends, the zombie or skeleton collapses and return to it's true dead state.
-
-In order to use this spell, you must have extensively studied the anatomy of the corpse.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Blight (powerful)
-	Casting time: 3 seconds
-	Range:        20 meters
-	Requirements: V, S
-
-Necromantic energy washes over a living creature you point at, instantly draining a portion of it's vitality. When a target is hit by this spell, a faint puff black mist emits from every inch of their body. Magical plants and trees are weak to this spell, and non-magical plants instantly shrivel up and die.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Make Wraiths (powerful)
 	Casting time: 6 seconds
 	Range:        50 meters
@@ -1007,26 +869,12 @@ If you cast this spell as a seer, the wraiths appear white and ghostly instead o
 
 Reanimation (powerful)
 	Casting time: 1 minute
-	Range:        10 meters
+	Range:        touch
 	Requirements: V, S, M (a small piece of black onyx)
 
-A corpse you can see within range that has a size of medium or smaller is risen as a zombie. If you instead choose a pile of bones, the pile of bones must contain at least 80 percent of the creature's bones. For example, you can mix and match the bones of two humanoids, but you cannot use the bones of a horse. The only exception is the skull.
-
-The zombie or skeleton is friendly to you and people you choose, and is hostile to any other living creature. You can give it simple verbal commands, and they will blindly follow them.
+A corpse you can see within range that has a size of medium or smaller is risen as a zombie. The zombie is friendly to you and people you choose, and is hostile to any other living creature. You can give it simple verbal commands, and they will blindly follow them.
 
 In order to use this spell, you must have extensively studied the anatomy of the corpse.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Speak with Dead (major)
-	Casting time: 6 seconds
-	Range:        10 meters
-	Requirements: V, S
-	Duration:     10 minutes
-
-You target one humanoid corpse that had thought and emotional capability before it died. The corpse comes alive, and you can ask the corpse 5 questions. When five questions have been asked, the spell ends. In order to use this spell, you must have studied the mind of the same type of the corpse's species/race.
-
-When the spell ends, the corpse returns to it's dead state.
 
 
 
@@ -1058,18 +906,6 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Control Water (major)
-	Casting time: instantaneous
-	Range:        100 meters
-	Requirements: V, S
-	Duration:     concentration up to 10 minutes
-
-Choose a body of water up to 20 meter cube of water you can see within range. You can choose any of the actions:
-	- The body of water flows freely in any direction you want given it sticks to a surface, which can flow up to 4 meters per second. For example, you could make water flow up a wall and across the ceiling, but you can't make the water fly into the air.
-	- The body of water splashes in any direction you choose except up and down.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Druidcraft (minor)
 	Casting time: instantaneous
 	Range:        10 meters
@@ -1087,16 +923,6 @@ In order to cast this spell, you must have studied either some Druidic, or Sylva
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Etherealness (major)
-	Casting time: 6 seconds
-	Range:        self
-	Requirements: V, S, M (a medium piece of labradorite)
-	Duration:     1 hour
-
-You go to the ethereal plane for the duration. You can choose to end the spell any time you want, returning to the realm this ethereal plane is bound to.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Feather Fall (minor)
 	Casting time: 3 seconds
 	Range:        10 meters
@@ -1111,9 +937,9 @@ Imbuement (powerful)
 	Casting time: special
 	Range:        touch
 	Requirements: V, S, M (a vial of Parhrügi's Tears which will be consumed on use, and the item to imbue spells into)
-	Duration:     until dispelled
+	Duration:     until dispelled or destroyed
 
-Coat the item you want to imbue the spell into, or a part of the item with will be magical (for example a spearhead, or a sword's blade).
+Coat the item you want to imbue the spell into, or a part of the item with will be magical (for example a spearhead, or a sword's blade). The item cannot be too big like the surface of a door.
 
 Speak this spell incantation, then immediately start casting the other spell you want to imbue into this item. If this spell has different options to choose from, then when the spell is activated, it will always follow those options. When this spell is cast along with the spell you want to imbue, the spell you want to imbue does not take immediate effect.
 
@@ -1160,18 +986,6 @@ Mending (basic)
 	Requirements: V, SG, M (two lodestones)
 
 You touch two ends of broken pieces, and they meld together like it was never broken before. If it was broken into many pieces like glass, you will need to use this spell for each broken piece separately. You cannot mend any metal, stone, or anything harder/denser than that.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Polymorph (major)
-	Casting time: 6 seconds
-	Range:        20 meters
-	Requirements: V, S
-	Duration:     concentration up to 1 hour
-
-Choose a living creature you can see within range. You then turn that creature into an animal you have physically seen and studied/worked with for the duration. Common animals like sheep, cattle, or wolf are easy to do, but lesser known animals like horses, big cats and bears are harder. The mentality of the creature will match it's new form, but it remains it's morality. In order to use this spell, you must have studied the anatomy of whatever you are transforming the creature to, and the anatomy of whatever you are transforming.
-
-This spell cannot target objects with binding runes drawn on them.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1230,13 +1044,13 @@ The only things that can enter include: arrows and siege weapon projectiles.
 
 Telekinesis (major)
 	Casting time: 3 seconds
-	Range:        40 meters
+	Range:        20 meters
 	Requirements: V, SG
 	Duration:     concentration up to 1 minute
 
 An object or creature you choose hovers in the air for the duration. The target must be 200 kilograms or lower. You can make the object or creature float in a direction at a speed of 2 meters per second.
 
-If the target is moved farther than 20 meters, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range, or is moved more than 10 meters above the ground, the spell ends.
+If the target is moved farther than half the spell's range, the spell starts to get weaker, and the target will start to "fall", or feel the effects of gravity and other external forces. If the target is moved farther than the range or is moved more than 10 meters above the ground, the spell ends.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1263,8 +1077,6 @@ SPELL LIST
 		BASIC MAGIC:
 			Bless
 			Detect Evil and Good
-			Detect Thoughts
-			Feign Death
 			Healing Palm
 			Lesser Restoration
 			Mending
@@ -1276,22 +1088,20 @@ SPELL LIST
 
 		MAJOR MAGIC:
 			Cure Wounds
-			Etherealness
-			Fear
+			Feign Death
 			Greater Restoration
 			Greater Runic Staves
 			Magic Circle
 			Protection from Evil and Good
-			Scrying
-			Speak with Dead
 			Remove Curse
 			Sulfur Rain
 			Telekinesis
 
 		POWERFUL MAGIC:
-			Banishment
+			Detect Thoughts
 			Make Wraith
 			Materialize Magic
+			Scrying
 			Sunbeam
 
 	DRUID:
@@ -1309,13 +1119,10 @@ SPELL LIST
 			Barkskin
 			Blur
 			Detect Evil and Good
-			Detect Thoughts
-			Feign Death
 			Healing Palm
 			Icy Touch
 			Lesser Restoration
 			Mending
-			Misty Step
 			Moonbeam
 			Purify Food and Drink
 			Seidur
@@ -1325,14 +1132,11 @@ SPELL LIST
 			Waterwalk
 
 		MAJOR MAGIC:
-			Arcane Eye
 			Conjure Animals
-			Conjure Elementals
 			Conjure Woodland Beings
 			Control Plant
-			Control Water
 			Cure Wounds
-			Etherealness
+			Feign Death
 			Greater Restoration
 			Greater Runic Staves
 			Hold person
@@ -1340,18 +1144,16 @@ SPELL LIST
 			Locate Object
 			Lightning Bolt
 			Magic Circle
-			Polymorph
 			Protection from Evil and Good
 			Remove Curse
 			Shockwave
-			Speak with Dead
-			Travel by Tree
 
 		POWERFUL MAGIC:
-			Banishment
-			Blight
+			Conjure Elementals
+			Detect Thoughts
 			Stormwall
 			Sunbeam
+			Travel by Tree
 
 	SORCERER:
 		MINOR SPELLS:
@@ -1370,14 +1172,11 @@ SPELL LIST
 			Mage Armor
 			Magic Missile
 			Mending
-			Misty Step
 			Shield
 			Sparks
 
 		MAJOR MAGIC:
 			Burning Hands
-			Conjure Elementals
-			Control Water
 			Crackling Red Sprites
 			Fireball
 			Ice Storm
@@ -1386,17 +1185,15 @@ SPELL LIST
 			Shockwave
 			Sulfur Rain
 			Telekinesis
-			Wall Armor
 			Waterwalk
 
 		POWERFUL MAGIC:
-			Blight
+			Conjure Elementals
 			Darkness
 			Imbuement
 			Materialize Magic
 			Ring of Fire
 			Stormwall
-			Summon Spiders
 			Sunbeam
 
 	WIZARD:
@@ -1412,28 +1209,18 @@ SPELL LIST
 			Blur
 			Counterspell
 			Detect Magic
-			Detect Thoughts
 			Feather Fall
-			Feign Death
 			Fire Bolt
 			Icy Touch
 			Mage Armor
 			Magic Missile
 			Mending
-			Minor Illusion
-			Misty Step
 			Seidur
 			Shield
 			Sparks
 
 		MAJOR MAGIC:
-			Animate Corpse
-			Arcane Eye
-			Conjure Elementals
-			Control Water
-			Dispel Magic
-			Etherealness
-			Fear
+			Feign Death
 			Fireball
 			Greater Runic Staves
 			Hold person
@@ -1442,26 +1229,22 @@ SPELL LIST
 			Locate Object
 			Lightning Bolt
 			Magic Circle
-			Polymorph
 			Protection from Evil and Good
 			Remove Curse
 			Scorch Bolt
-			Scrying
 			Shockwave
-			Speak with Dead
 			Telekinesis
-			Wall Armor
 
 		POWERFUL MAGIC:
-			Banishment
-			Blight
+			Conjure Elementals
 			Create Golem
 			Darkness
-			Major Illusion
+			Detect Thoughts
 			Make Wraith
 			Materialize Magic
 			Imbuement
 			Intricate Runic Staves
 			Reanimation
+			Scrying
 			Sunbeam
 			Symbol

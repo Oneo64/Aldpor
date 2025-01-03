@@ -42,32 +42,30 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 
 	Basic:
 		Counterspell
-		Detect Magic, Detect Thoughts
-		Feather Fall, Feign Death, Fire Bolt
+		Detect Magic
+		Feather Fall, Fire Bolt
 		Icy Touch
-		Mage Armor, Magic Missiles, Minor Illusion, Misty Step
+		Mage Armor, Magic Missiles
 		Seidur, Shield, Sparks
 
 	Major:
-		Animate Corpse, Arcane Eye
-		Dispel Magic
+		Feign Death
 		Fireball
 		Greater Runic Staves
 		Invisibility
 		Locate Object, Lightning Bolt
-		Polymorph
 		Remove Curse
-		Scrying
 		Telekinesis
 
 	Powerful:
-		Banishment, Blight
 		Create Golem
 		Darkness
+		Detect Thoughts
 		Imbuement
 		Intricate Runic Staves
-		Major Illusion, Materialize Magic
+		Materialize Magic
 		Reanimation
+		Scrying
 		Sunbeam
 		Symbol
 

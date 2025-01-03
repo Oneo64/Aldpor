@@ -42,11 +42,10 @@ Helessin was born a sorcerer, and can cast magic on will. He can also speak flue
 
 	Major:
 		Burning Hands
-		Conjure Elementals, Control Water
 		Fireball
 		Scorch Bolt, Shockwave, Sulfur Rain
 
 	Powerful:
+		Conjure Elementals
 		Darkness
-		Summon Spiders
 		Ring of Fire

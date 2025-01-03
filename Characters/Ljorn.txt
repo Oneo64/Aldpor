@@ -52,13 +52,13 @@ His left arm is weaker than his right, because of an arrow shot on his left shou
 
 	Basic:
 		Counterspell
-		Detect Magic, Detect Thoughts
-		Feather Fall, Feign Death, Fire Bolt
+		Detect Magic
+		Feather Fall, Fire Bolt
 		Icy Touch
-		Mage Armor, Magic Missiles, Minor Illusion, Misty Step
+		Mage Armor, Magic Missiles
 		Seidur, Shield, Sparks
 
 	Major:
-		Animate Corpse, Arcane Eye
+		Feign Death
 		Invisibility
 		Lightning Bolt
