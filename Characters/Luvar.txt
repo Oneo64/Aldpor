@@ -20,14 +20,7 @@ Rànûdan is his native language, and he can also speak Druidic. He practices dr
 
 
 
-[[DRUIDIC MAGIC]]
-	Minor:
-		Druidcraft
-		Lesser Runic Staves
-
-	Basic:
-		Lesser Restoration
-		Seidur
-
-	Major:
-		Greater Runic Staves
+[[DRUIDRY]]
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm

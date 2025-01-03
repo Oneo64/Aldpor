@@ -20,6 +20,8 @@ Because of old age, he walks around with a walking stick. He is 170 (5'7) centim
 [[PERSONALITY]]
 Jeiruld is described as observant and analytical, being able to spot any hint of deception and make out the true intentions of people faster than anyone. He is also mysterious and aloof, careful not to let some information about him slip, such as his age or how powerful he really is. He may also come of as being easily angered from clumsiness, ignorance, or disrespect due the reason of being old.
 
+He harbors one secret, one that no one knows, which is the fact that he is able to cast the necromantic spell Raise Zombie.
+
 
 
 [[ABILITIES]]
@@ -34,35 +36,35 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 
 
 [[ARCANE MAGIC]]
-	Minor:
-		Illusory Script
-		Lesser Runic Staves
-		Mage Hand, Message
-		Prestidigitation
+	Illusion:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Counterspell
-		Detect Magic
-		Feather Fall, Fire Bolt
-		Icy Touch
-		Mage Armor, Magic Missiles
-		Seidur, Shield, Sparks
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
 
-	Major:
-		Feign Death, Fireball
-		Greater Runic Staves
-		Invisibility
-		Locate Object, Lightning Bolt
-		Remove Curse
-		Telekinesis
+	Arcane Spells:
+		Magic Missile
+		Sparks
+		Frostbolt
 
-	Powerful:
-		Detect Thoughts
-		Imbuement
-		Intricate Runic Staves
-		Materialize Magic
-		Reanimation
-		Scrying, Sunbeam, Symbol
+	Intricate Magical Staves:
+		Helm of Awe
+		Lukkustafir
+		Shielding
+		Brynslustafir
+
+	Intricate Arcane Spells:
+		Bolt of Fire
+		Suspension
+		Shield
+		Wind
+
+	Necromancy:
+		Raise Zombie
+
 
 
 

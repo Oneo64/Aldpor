@@ -34,22 +34,16 @@ He also plays Plattrægnall.
 
 
 [[ARCANE MAGIC]]
-	Minor:
-		Illusory Script
-		Lesser Runic Staves
-		Mage Hand, Message
-		Prestidigitation
+	Illusion:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Blur
-		Counterspell
-		Detect Magic
-		Feather Fall, Fire Bolt
-		Icy Touch
-		Mage Armor, Magic Missiles
-		Seidur, Shield, Sparks
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
 
-	Major:
-		Greater Runic Staves
-		Invisibility
-		Telekinesis
+	Arcane Spells:
+		Magic Missile
+		Sparks
+		Frostbolt

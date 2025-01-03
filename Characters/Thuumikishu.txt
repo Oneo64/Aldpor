@@ -35,12 +35,7 @@ He is a druid, meaning he practices druidry which was taught by Vriitiwaz.
 
 
 
-[[DRUIDIC MAGIC]]
-	Minor:
-		Entangle
-		Lesser Runic Staves
-
-	Basic:
-		Conjure Minor Animals
-		Healing Palm
-		Shillelagh
+[[DRUIDRY]]
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm

@@ -9,7 +9,7 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Ljorn is a wizard from Argánlaf. His hair is dark blond and wavy, is a little longer than shoulder length. A cloth strip tied around his head keeps his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people. He is 175 (5'9) centimeters tall.
+Ljorn is a man from Argánlaf. His hair is dark blond and wavy, is a little longer than shoulder length. A cloth strip tied around his head keeps his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people. He is 175 (5'9) centimeters tall.
 
 He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), baggy brown pants, a belt, and a pair of boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundur amulet and eight labradorite beads. Half of the beads are turned into arcane focuses.
 
@@ -29,36 +29,28 @@ He enjoys venison, and would carry dried strips of some of it in his pouch for l
 
 
 [[ABILITIES]]
-Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), Esrel, and Primordial. He learned Primordial and Hendric from the Academy of Aldorim, and Esrel he naturally picked it up.
+Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), and Esrel. He learned Esrel and Hendric from the Academy of Aldorim. He knows how to play Plattrægnall, a local board game.
 
-Having studied in the academy, he has some knowledge on the history of the past five hundred years, and he also knows about the realms Furnalfa and Parhrüvaryg.
+He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar. But because he was shot in the shoulder with an arrow during the battle, his left arm is weaker than his right.
 
-He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar.
-
-He has been practicing arcane magic for 6 years, three of it spent in the Academy of Aldorim. He also learned how to brew basic potions, along with these potions: ekraldys concoctions, fire-throwing grenades, nontoxic seizure concoctions, potions of animal conjuration, and transmutation liquids of animal.
-
-Sometimes he would practice with his sword, or play Plattrægnall.
-
-His left arm is weaker than his right, because of an arrow shot on his left shoulder during a battle. The arrow resulted in a scar.
+Having studied in the Academy of Aldorim, he knows how to cast some arcane spells. He has been practicing magic for 6 years, three of it spent in the academy. He also learned how to brew basic potions, along with these potions: ekraldys concoctions, fire-throwing grenades, nontoxic seizure concoctions, potions of animal conjuration, and transmutation liquids of animal.
 
 
 
 [[ARCANE MAGIC]]
-	Minor:
-		Illusory Script
-		Lesser Runic Staves
-		Mage Hand, Message
-		Prestidigitation
+	Illusion:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Counterspell
-		Detect Magic
-		Feather Fall, Fire Bolt
-		Icy Touch
-		Mage Armor, Magic Missiles
-		Seidur, Shield, Sparks
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
 
-	Major:
-		Feign Death
-		Invisibility
-		Lightning Bolt
+	Arcane Spells:
+		Magic Missile
+		Sparks
+		Frostbolt
+
+	Intricate Magical Staves:
+		Lukkustafir

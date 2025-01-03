@@ -1,47 +1,33 @@
 Vriitiwaz
+
 Male
-Age: 38 (born 934, December 20)
+Age: 38 (born 934)
 Alignment: Chaotic Neutral
 Ethnicity: Unknown troll tribe
 Race:      Troll
 
+
+
+[[DESCRIPTION]]
 Vriitiwaz is a trollen druid. He has brown eyes, and pale stone-grey skin. His nose is big and flat, and he has beady eyes. His hair is long, messy and black.
 
-He wears a brown tunic, and leather shoes. He wears a necklace of bear claws and wolf fangs, with a wooden bead between of each fang and claw. He also wears a brown, floppy pointed hat, in the shape of a simple cone.
-
-He is wiser and more intelligent than average trolls. His height is 170 (5'7) centimeters.
+He wears a brown tunic, and leather shoes. He wears a necklace of bear claws and wolf fangs, with a wooden bead between of each fang and claw. He also wears a brown, floppy pointed hat, in the shape of a simple cone. He is 170 (5'7) centimeters tall.
 
 He carries a plain wooden stick as a walking stick.
 
-Weapons:
-	Plain wood staff
 
-Personality:
-	POSITIVE:
-		1. Eccentric and whimsical
-		2. Open minded
 
-	NEGATIVE:
-		2. Lost in thought
+[[PERSONALITY]]
+Vriitiwaz is described as having an eccentric and whimsical demeanor. He has an open mind, even to the point of viewing necromancy as just another magic type. However he seems to be always lost in thought.
 
-	Realistic view of future
 
-Occupations:
-	Leader of a troll tribe
 
-Languages:
-	Local troll language
-	Druidic
+[[Abilities]]
+Vriitiwaz can only speak the local troll language and druidic. He also practices druidry, and is one of the wisest and most intelligent trolls in the tribe. Because of his, he is the leader of that tribe.
 
-Abilities:
-	Druidic Magic
 
-	Druidic Magic:
-		Minor:
-			Druidcraft
-			Entangle
 
-		Basic:
-			Conjure Minor Animals
-			Moonbeam
-			Shillelagh
+[[DRUIDRY]]
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm

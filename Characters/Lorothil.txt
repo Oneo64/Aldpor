@@ -34,32 +34,22 @@ He has practiced magic for eleven years, and also studied it at an academy for t
 
 
 [[ARCANE MAGIC]]
-	Minor:
-		Illusory Script
-		Lesser Runic Staves
-		Mage Hand, Message
-		Prestidigitation
+	Illusion:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Counterspell
-		Detect Magic
-		Feather Fall, Fire Bolt
-		Icy Touch
-		Mage Armor, Magic Missiles
-		Seidur, Shield, Sparks
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
 
-	Major:
-		Feign Death
-		Greater Runic Staves
-		Invisibility
-		Lightning Bolt
-		Magic Circle
-		Remove Curse
-		Telekinesis
-
-	Powerful:
-		Detect Thoughts
-		Fireball
-		Intricate Runic Staves
-		Make Wraith, Materialize Magic
-		Scrying, Sunbeam
+	Arcane Spells:
+		Magic Missile
+		Sparks
+		Frostbolt
+		
+	Intricate Arcane Spells:
+		Bolt of Fire
+		Suspension
+		Shield
+		Wind

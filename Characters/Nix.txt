@@ -26,9 +26,6 @@ Nix can only speak Hendric (English). Because he is a sorcerer, he is able to ca
 
 
 [[SORCERY]]
-	Minor:
-		Mage Hand
-
-	Basic:
-		Dragonfire
-		Mage Armor, Magic Missile, Mending
+	Unexplained Effects:
+		Illusion of Sight
+		Illusion of Sound

@@ -27,19 +27,12 @@ Many years ago, Ennu gained some experience from raiding a castle ruins with his
 
 
 
-[[DRUIDIC MAGIC]]
-	Wild Shape animals:
+[[DRUIDRY]]
+	Shapeshift animals:
 		Elk (travel)
 		Raven (flight)
 
-	Minor:
-		Calming Touch
-		Druidcraft
-		Entangle
-
-	Basic:
-		Animal Messenger
-		Conjure Minor Animals
-		Healing Palm
-		Moonbeam
-		Waterwalk
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm
+	Shapeshift

@@ -26,8 +26,11 @@ Súndi speaks Dagsvaldian as his only language. He can also use a sword with 13 
 
 
 [[SORCERY]]
-	Minor:
-		Terra Blast
+	Unexplained Effects:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Blur
+	Elemental Control:
+		Firebolt
+		Sparks
+		Greater Illusion of Sound

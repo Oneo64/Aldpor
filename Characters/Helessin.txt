@@ -28,22 +28,13 @@ Helessin was born a sorcerer, and can cast magic on will. He can also speak flue
 
 
 [[SORCERY]]
-	Minor:
-		Mage Hand, Message
-		Terra Blast
+	Unexplained Effects:
+		Illusion of Sight
+		Illusion of Sound
 
-	Basic:
-		Blur
-		Detect Magic, Dragonfire
-		Fire Bolt
-		Icy Touch
-		Mage Armor, Magic Missile, Mending
-		Shield, Sparks
+	Elemental Control:
+		Firebolt
+		Sparks
+		Greater Illusion of Sound
 
-	Major:
-		Burning Hands
-		Shockwave, Sulfur Rain
-
-	Powerful:
-		Fireball
-		Ring of Fire
+	Create Scroll
