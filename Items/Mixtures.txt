@@ -4,12 +4,6 @@ OVERVIEW
 
 Potions are concoctions and mixtures of different items dissolved into water, and powered by a magic catalyst.
 
-Two crushed amethyst gorbries as ingredients usually applies the effects of a spell, but only if the spell has a material component.
-Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
-
-Two pickled and crushed practal gorbries, a pinch of coal powder, and some material as ingredients usually applies the effects of that material.
-Example: Potion of Mage Armor has two crushed amethyst gorbries, and a handful of cobweb. A handful of cobweb is the material component for mage armor.
-
 Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the ingredients more potent if their original properties are too weak to be any use.
 
 
@@ -105,37 +99,27 @@ LEVELS
 
 Minor:
 	- Potions that are easy to brew, almost the first level of potions alchemists start at.
+	- One week to master.
 
 Basic:
 	- Potions that average alchemists know how to brew. Usually either schools stop teaching after this level, or students don't learn anything higher than this.
+	- Two weeks to master.
 
 Advanced:
 	- Potions that advanced/professional alchemists can make. Usually a village would have one to three at this level.
 	- Brewing and using potions with this level that are deemed harmful are illegal without permission.
+	- One month to master.
 
 Powerful:
 	- Potions that not many alchemists can make. Usually only one in a few villages are at this level.
 	- Brewing and using potions with this level that are deemed harmful are illegal without permission from the king or whoever is the ruler.
+	- One month to master.
 
 
 
 ======================================================================================================================================================
 POTIONS AND CONCOCTIONS
 ======================================================================================================================================================
-
-Abjuration Dissolvent (basic)
-	Appearance:  It is a black, semi-transparent syrupy liquid.
-	Usage:       Soak in object, throw at object, or get the liquid on the object.
-	Effect:      Removes abjuration effects placed on objects, and vaporizes on contact with the abjuration effect. Small vials remove 5 minutes of duration, a wine bottle of potion can remove 30 minutes of duration. For hard surfaces or magical barriers such as the Shield spell, small vials remove only a couple of seconds of duration, a wine bottle of potion can remove 10 seconds, which can completely dissipating spells like Shield. If the abjuration spell is until dispelled, then small vials remove only 10% of it's potency, while wine bottles can remove half it's potency.
-
-	Specific effect (to abjuration spells that is until dispelled or triggered):
-		Arcane Lock spells on objects like doors will feel like it 'resists' force, as if someone was on the other side pushing the other way. This resistance gets weaker the less potent the spell gets. At full potency, the door cannot be opened.
-
-		Spells like Magic Circle where it makes targets unwilling to enter, or the target must resist something, the unwillingness or the thing making the target resist is weaker the less potent the spell gets.
-	
-	Ingredients: Two practal gorbries, and a small handful of pickled dark lichen.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bastard's Poison (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
@@ -234,17 +218,6 @@ Dragonfrost Potion (powerful)
 	Downside:    Fire feels hotter.
 	
 	Ingredients: Ten ground frost dragon scales, a pinch of silver powder, and a small handful of raw wool.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Earthly Construct Concoction (advanced)
-	Appearance:  The potion is a earthly brown slop. The earth sometimes swirls, as if there was something moving within the slop.
-	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:      Once the potion shatters, the liquid grows in size and forms into a faceless humanoid made of earth. You are able to control this golem as if it was created with the Create Golem spell. The earth golem lasts for around ten minutes, before it dies and crumbles into mundane dirt. When the earth golem collapses back to mundane dirt, the dirt then turns into smoke.
-	
-	Ingredients: A crushed amethyst gorbry, a small handful of cobweb, and a small handful of plain mundane dirt (the dirt musn't contain any rock, clay, or sand).
-
-	Caution:     If the mundane dirt contains any rock, clay, or sand, the potion finished potion won't work and is spoiled.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -368,15 +341,6 @@ Iron Grease of Magic (advanced)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Mixture of Wraiths (advanced)
-	Appearance:  The potion is an opaque brown dirt-like liquid that is watery.
-	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:      Creates a wraith at your service for 10 minutes, geared with a sword, helmet, and tunic. The wraith can understand all languages that you speak.
-
-	Ingredients: One crushed amethyst gorbries, a butterfly cocoon, a pinch of volcanic ash, and a pinch of wraith dust.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Moonic Death (advanced)
 	Appearance:  The potion is a clear liquid, with small black specks floating inside.
 	Usage:       Drink.
@@ -404,33 +368,6 @@ Potion Acid (basic)
 	Downside:    You need to wait for the potion acid to evaporate before pouring more into the liquid. The liquid stays in the container, and doesn't boil, evaporate, or otherwise leave the container the same way the potion acid does. If poured into any poison, it is twice less effective, which means some poison would need twice the amount of potion acid to distill that amount of poison.
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Potion of Animal Conjuration (advanced)
-	Appearance:  The potion is an opaque gray-brown syrupy liquid.
-	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:      Creates one animal exactly like the spell Conjure Animals, corresponding to the wooden figurine. The liquid used must be more than 20 ml, or the potion doesn't do anything.
-
-	Ingredients: Two crushed amethyst gorbries, a butterfly cocoon, and a carved wooden figurine of the animal to conjure.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Potion of Frostcoating (basic)
-	Appearance:  The potion is a silvery liquid that glows in the dark.
-	Usage:       Make it hit things at high speeds. (Throwing, dropping, launching etc.)
-	Effect:      Potion coats and sticks to surfaces. When the potion touches any solid surface, it then turns into a frost coating similar in effect to Cold Snare.
-	
-	Ingredients: Two crushed amethyst gorbries, a handful of moss, and a pinch of silver powder.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Potion of Mage Armor (advanced)
-	Appearance:  The potion is a blue liquid that glows in the dark.
-	Usage:       Drink.
-	Effect:      Gives the effects of Mage Armor.
-	
-	Ingredients: Two crushed amethyst gorbries, and a handful of cobweb.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -624,8 +561,6 @@ Mixing/Drinking conflicting concoctions #2:
 
 		regenerative/reverting salve and hailskin potion
 		regenerative/reverting salve and fire immunity potion
-
-		potion of mage armor and abjuration dissolvent
 	
 	The mixture starts to boil until either one of the potion runs out. For example, if you mixed 100% hailskin potion with 20% fire immunity potion, it would boil until there was 80% hailskin potion left.
 

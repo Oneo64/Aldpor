@@ -9,13 +9,15 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Ljorn is a man from Argánlaf. His hair is dark blond and wavy, is a little longer than shoulder length. A cloth strip tied around his head keeps his hair back, and he has a light stubble. His eyes are hooded, downturned and are dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people. He is 175 (5'9) centimeters tall.
+Ljorn is a man from Argánlaf. His hair is dark blond and wavy and is a little longer than shoulder length. A cloth strip tied around his head keeps his hair back, and he has a light stubble. His eyes are hooded, downturned, and dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people. He is 175 (5'9) centimeters tall.
 
 He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), baggy brown pants, a belt, and a pair of boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundur amulet.
 
-Ljorn is friends with Flokr, and close friends with Meyrúna.
+While traveling, Ljorn has a nasal helmet, and a round shield slung over his back.
 
-He can be found at his house either chopping firewood, checking his family's farm for weeds, sitting outside the door reading his spellbook, playing Plattrægnall with someone (probably with Alfr or Flokr), inside his house brewing potions, or wandering in the forest for whatever reason (most likely something to do with what he usually does).
+He carries a grimoire, a piece of labradorite, and a piece of coal in the pouch.
+
+Ljorn is friends with Flokr, and close friends with Meyrúna. He can be found at his house either chopping firewood, checking his family's farm for weeds, sitting outside the door reading his spellbook, playing Plattrægnall with someone (probably with Alfr or Flokr), or help carry wood Alfr and Ulfrir have felled back to their home. Sometimes he will accompany Meyrúna into the forest as she gathers herbs.
 
 
 
@@ -31,9 +33,11 @@ He enjoys venison, and would carry dried strips of some of it in his pouch for l
 [[ABILITIES]]
 Ljorn's native language is Dagsvaldian, but he can also speak Hendric (English), and Esrel. He learned Esrel and Hendric from the Academy of Aldorim. He knows how to play Plattrægnall, a local board game.
 
-He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar. But because he was shot in the shoulder with an arrow during the battle, his left arm is weaker than his right.
+Ljorn usually fights with a sword and shield. He could be described as just average with the weapons, or perhaps below average because of his weak left arm.
 
-Having studied in the Academy of Aldorim, he knows how to cast some arcane spells. He has been practicing magic for 6 years, three of it spent in the academy. He also learned how to brew basic potions, along with these potions: ekraldys concoctions, fire-throwing grenades, nontoxic seizure concoctions, potions of animal conjuration, and transmutation liquids of animal.
+He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar. But because he was shot in the shoulder with an arrow during the battle, his left arm was weakened.
+
+Having studied one year in the Academy of Aldorim, he knows how to cast some arcane spells. He also learned how to brew some potions, which are: Bastard's Poison, Calming Salve, Curing Tonic, Nontoxic Seizure Concoction, Regeneration Potion.
 
 
 
@@ -44,13 +48,7 @@ Having studied in the Academy of Aldorim, he knows how to cast some arcane spell
 
 	Magical Staves:
 		Gapaldur
-		Vegvisir
 		Toustefna
 
 	Arcane Spells:
 		Magic Missile
-		Sparks
-		Frostbolt
-
-	Intricate Magical Staves:
-		Lukkustafir
