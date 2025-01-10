@@ -5,12 +5,10 @@ the Coast LLC and available at https://dnd.wizards.com/resources/systems-referen
 SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
 https://creativecommons.org/licenses/by/4.0/legalcode.
 
-When viewing the secrets of the universe (AldporHistory.txt, MagicSystem.txt, Spells.txt), please click on the three dots on the top right and turn on Wrap Lines.
+When viewing the secrets of the universe (AldporHistory.txt, Magics.txt, Creatures.txt, etc), please click on the three dots on the top right and turn on Wrap Lines.
 
 NOTE: This repository is meant to be read in tab sizes of 4. Any tab size other than 4 will look unformatted (especially character sheets!)
 
 CREATURES: All available creatures are listed in Creatures.txt. Any creature/monster not listed in that file are considered non-existant (except animals and the races of course). If you find a creature said somewhere and it isn't listed, please submit an issue!
-
-SPELLS: All available spells are listed in Spells.txt. Any spell not listed in that file are considered non-existant. If you find a spell a character knows but it isn't listed, please submit an issue!
 
 If you have found an image or you are the owner of that image, and the image is under CC-BY-4.0 or similar, AND you don't see appropriate credits in "ATTRIBUTIONcredits.txt", you can submit an issue under the "copyrighted/trademarked" label.

@@ -1,41 +1,32 @@
-======================================================================================================================================================
-OVERVIEW
-======================================================================================================================================================
-
+[[OVERVIEW]]
 Potions are concoctions and mixtures of different items dissolved into water, and powered by a magic catalyst.
 
 Sometimes, pickling the ingredient is required to make it more acidic, usually for anything that dissolves or break elements down. Fermentation would be required to enhance or make the ingredients more potent if their original properties are too weak to be any use.
 
 
 
-======================================================================================================================================================
-BREWING STEPS
-======================================================================================================================================================
-
-	1.  Get a container. Lets suppose it's a small 6 inch cauldron (37 small vials), since ingredients below are assumed a the potion is being brewed in a cauldron.
+[[BREWING STEPS]]
+1.  Get a container. Lets suppose it's a small 6 inch cauldron (37 small vials), since ingredients below are assumed a the potion is being brewed in a cauldron.
 	
-	2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
-	2a. If you have magical water, you do not need a catalyst.
+2.  Add water, then add a catalyst. Make sure the catalyst is fully submerged.
+2a. If you have magical water, you do not need a catalyst.
 	
-	3.  Add ingredients. Ingredients also must be fully submerged.
-	3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
+3.  Add ingredients. Ingredients also must be fully submerged.
+3a. Make sure the water isn't a slop, and must be at least as 'watery' as syrup.
 	
-	4.  Boil it, and maintain continuous boiling for two hours. You can also let it sit instead for six hours, but it's potency is slightly lower.
-	4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
+4.  Boil it, and maintain continuous boiling for two hours. You can also let it sit instead for six hours, but it's potency is slightly lower.
+4a. You enhance the effects by leaving it boiling for another few hours, which will increase it's potency by about 25 percent.
 	
-	5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
+5.  Let it sit (again if it already sat for 6 hours in step 4) for at least 6 hours for the ingredients to fully dissolve before using.
 
-	Based on the amount you drank, the potion could last from minutes to hours. A small vial (50 ml) could last 10 minutes, and a wine bottle (750 ml) could last 2.5 hours.
-	Most potions require more than 50 ml to be drank to take effect.
+Based on the amount you drank, the potion could last from minutes to hours. A small vial (50 ml) could last 10 minutes, and a wine bottle (750 ml) could last 2.5 hours.
+Most potions require more than 50 ml to be drank to take effect.
 
-	Game conversion: 1 ml = 12 seconds, 5 ml = 1 minute
+Game conversion: 1 ml = 12 seconds, 5 ml = 1 minute
 
 
 
-======================================================================================================================================================
-SOAKING
-======================================================================================================================================================
-
+[[SOAKING]]
 You can soak various materials in potion to give them potion effects. This is how most 'magic' items are made, also the most common method. The other, less common but more powerful method is by directly giving the item magic by using the spell Imbuement, described in "MagicSystemAndSpells.txt".
 
 Soaking times:
@@ -49,10 +40,7 @@ Soaking times:
 
 
 
-======================================================================================================================================================
-CATALYSTS
-======================================================================================================================================================
-
+[[CATALYSTS]]
 A catalyst is required to make a potion. Without a catalyst, a "potion" would just be a gross mixture that might make you sick.
 A catalyst is an object/liquid that is either magical, or it can be naturally occuring. They are what makes the potion's effect. Any nonliving thing that has an innate magical/natural connection can be considered a catalyst.
 
@@ -83,20 +71,14 @@ Here is a list of all naturally occuring catalysts, and naturally occuring magic
 
 
 
-======================================================================================================================================================
-MATERIAL SIZES
-======================================================================================================================================================
-
+[[MATERIAL SIZES]]
 Ground:  Ground into powder
 Crushed: Crushed into small pieces, not exactly powder
 Small:   Around the size of a few marbles
 
 
 
-======================================================================================================================================================
-LEVELS
-======================================================================================================================================================
-
+[[LEVELS]]
 Minor:
 	- Potions that are easy to brew, almost the first level of potions alchemists start at.
 	- One week to master.
@@ -117,10 +99,12 @@ Powerful:
 
 
 
-======================================================================================================================================================
-POTIONS AND CONCOCTIONS
-======================================================================================================================================================
+====================================================================================================
 
+
+
+[[POTIONS AND CONCOCTIONS]]
+====================================================================================================
 Bastard's Poison (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
 	Usage:       Drink.
@@ -129,7 +113,7 @@ Bastard's Poison (basic)
 	Ingredients: A small handful of ground bones or bone meal, a small handful of white talc or chalk powder, and a some wood chips.
 	Brewing:     It must be boiled for five hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Bone-growing Salve (advanced)
 	Appearance:  The salve is a pale grey salve.
@@ -140,7 +124,7 @@ Bone-growing Salve (advanced)
 	Ingredients: A handful of ground comfrey (must have stems included), a small handful of ground bone or bone meal, a spoon of any milk, and a few drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Blindness Granting Mixture (advanced)
 	Appearance:  The potion is a black watery liquid. It also feels about 10 degrees Celsius colder.
@@ -149,7 +133,7 @@ Blindness Granting Mixture (advanced)
 	
 	Ingredients: One fermented practal gorbry which is then crushed, a small handful of ground snail shells, and a small handful of a mix of ground dark lichen and coal powder.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Calming Salve (basic)
 	Appearance:  The salve is a pale brown salve.
@@ -160,18 +144,7 @@ Calming Salve (basic)
 	Ingredients: A small handful of ground mint leaves (stems removed first), a small handful of mashed blueberry, and a several drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Catalystic Concoction (powerful)
-	Appearance:  It is transparent and purple, with blue streaks, and seems to be eternally filled with glitter. It also glows in the dark.
-	Usage:       Soak in object, works best in an orb.
-	Effect:      It will quicken spellcasting, only for the person attuned to it.
-	Downside:    It only works with spells that are given to the object, and only the person attuned to the object can use it.
-	
-	Ingredients: Three crushed amethyst gorbries, and a drop of Parhrügi's Tears.
-	Brewing:     It must be boiled for five hours.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Concoction Bomb of Earth (advanced)
 	Appearance:  It is a brown clear liquid, which seems to be dirty of random specks of earth and sand. It is constantly swirling at a slow speed, if left to rest.
@@ -181,7 +154,7 @@ Concoction Bomb of Earth (advanced)
 	Ingredients: A small handful of sulfur powder, a small handful of fermented dark lichen, a small handful of fermented ground earthfungi, and two pinches of sand.
 	Brewing:     It must be boiled for five hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Curing Tonic (basic)
 	Appearance:  The potion is a clear liquid, with white specks floating around, like dandruff or lemon fibers.
@@ -191,7 +164,7 @@ Curing Tonic (basic)
 	
 	Ingredients: A handful of ground mint and basil, and a ground bezoar.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Darkvision Potion (basic)
 	Appearance:  The potion is completely black with some glowing streaks of blue.
@@ -201,7 +174,7 @@ Darkvision Potion (basic)
 	
 	Ingredients: Chopped bits of fermented moonshroom, and a small handful of moss.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Dragonfire Potion (powerful)
 	Appearance:  The potion looks like liquified stone if the stone wasn't hot and didn't glow.
@@ -210,7 +183,7 @@ Dragonfire Potion (powerful)
 	
 	Ingredients: Ten ground fire dragon scales, a small handful of sulfur powder, and a pinch of sand.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Dragonfrost Potion (powerful)
 	Appearance:  The potion looks like liquified stone if the stone wasn't hot and didn't glow.
@@ -219,7 +192,7 @@ Dragonfrost Potion (powerful)
 	
 	Ingredients: Ten ground frost dragon scales, a pinch of silver powder, and a small handful of raw wool.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Energy Potion (minor)
 	Appearance:  The potion is a pale green slop.
@@ -229,7 +202,7 @@ Energy Potion (minor)
 	
 	Ingredients: A crushed practal gorbry, and a fermented cabbage leaf.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Ekraldys Concoction (advanced)
 	Appearance:  The potion is a clear liquid.
@@ -238,7 +211,7 @@ Ekraldys Concoction (advanced)
 
 	Ingredients: A small handful of pickled dark lichen, and an ekraldys toadstool chopped into pieces.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Fire Immunity Potion (advanced)
 	Appearance:  It is a semi-transparent liquid, with what seems like a mixture of volcanic ash, basalt powder, and the occasional sparks slowly swirling inside.
@@ -249,7 +222,7 @@ Fire Immunity Potion (advanced)
 	Ingredients: One crushed amethyst gorbry, a pinch of sulfur powder, and a small piece of fire opal.
 	Brewing:     It must be boiled for five hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Fire-throwing Grenade (advanced)
 	Appearance:  The potion is a orange liquid with small black specks.
@@ -259,7 +232,7 @@ Fire-throwing Grenade (advanced)
 	Ingredients: Sparkfire Potion, any oil made from plants.
 	Brewing:     Add oil after the sparkfire potion is made. Put several drops of oil in at a time to make sure the potion doesn't combust instantly (due to potion usage).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Forgetation Concoction (advanced)
 	Appearance:  It is a semi-transparent pale brown liquid.
@@ -270,7 +243,7 @@ Forgetation Concoction (advanced)
 	Ingredients: Two crushed practal gorbries, chopped bits of a pickled ekraldys toadstool, a pinch of ground snail shells, and a fermented fly.
 	Brewing:     It must be boiled for five hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Freebreathing Potion (basic)
 	Appearance:  The potion is a clear liquid.
@@ -279,7 +252,7 @@ Freebreathing Potion (basic)
 	
 	Ingredients: A small handful of rust, and a fermented chopped and crushed ekraldys toadstool.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Gardening Growth Concoction (basic)
 	Appearance:  The potion is a clear liquid, with faint green swirls inside. The swirls glow in the dark.
@@ -288,7 +261,7 @@ Gardening Growth Concoction (basic)
 	
 	Ingredients: A small handful of dried ground moss, and a small handful of ground jadeblossom.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Greater Moonic Death (powerful)
 	Appearance:  The potion is a clear liquid, with many small black specks floating inside.
@@ -297,7 +270,7 @@ Greater Moonic Death (powerful)
 	
 	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder, and a small handful of onyx shards.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Hailskin Potion (advanced)
 	Appearance:  The potion is a blue semi-transparent liquid. It seems to faintly glow in the dark.
@@ -307,7 +280,7 @@ Hailskin Potion (advanced)
 	
 	Ingredients: A ground ice elemental's core, a handful of ground mint leaves, and a pinch of silver powder.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Heavyliquid (advanced)
 	Appearance:  The potion is a white liquid, but when carried it feels like you're holding liquid metal.
@@ -316,7 +289,7 @@ Heavyliquid (advanced)
 	
 	Ingredients: A small handful of ground earthfungi, four chopped tarantula legs, and a pinch of gold powder.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Honeymead Creation Liquid (basic)
 	Appearance:  The potion is a semi-transparent honey-colored liquid.
@@ -326,7 +299,7 @@ Honeymead Creation Liquid (basic)
 	
 	Ingredients: One crushed practal gorbry, a several drops of honey, and one fermented bee.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Iron Grease of Magic (advanced)
 	Appearance:  The grease is a black transparent grease.
@@ -339,7 +312,7 @@ Iron Grease of Magic (advanced)
 
 	Catalyst examples: Volcanic Ash (fire), scorched needles from a coniferous tree struck by lightning (frost), water from a milion-year old geode (sunlight), pond of water struck by lightning (lightning), any part of a glimmering moth (moonlight), daeva horns (necrotic), elemental cores (only fire or ice elementals), amethyst gorbries or glimmering moth part (magic force).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Moonic Death (advanced)
 	Appearance:  The potion is a clear liquid, with small black specks floating inside.
@@ -348,7 +321,7 @@ Moonic Death (advanced)
 	
 	Ingredients: A pinch of moon dust, each from Vel, An, and Lûn, along with a small handful of ground obsidian powder.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Nontoxic Seizure Concoction (advanced)
 	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. Despite it's boiling appearance, it is not hot or warm.
@@ -359,7 +332,7 @@ Nontoxic Seizure Concoction (advanced)
 
 	Caution:     Make sure the bees are bees, and not wasps or hornets. Using wasps or hornets turns the liquid into a mucus color, and can cause excessive boiling, or even an explosion. Anyone caught in the explosion may start experiencing the effects of the potion. Breathing in the fumes may cause a minor adrenaline rush.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Potion Acid (basic)
 	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
@@ -369,7 +342,7 @@ Potion Acid (basic)
 	
 	Ingredients: A butterfly cocoon, three pinches of a mixture of salt and rust.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Potion of Severe Dementia (powerful)
 	Appearance:  The potion is a black watery liquid, with visible white specks like dandruff floating around inside. It also feels about 10 degrees Celsius colder.
@@ -381,7 +354,7 @@ Potion of Severe Dementia (powerful)
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing short term memory loss.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Poison Solvent (advanced)
 	Appearance:  The potion is a clear liquid like water, with constant bubbles rising bottom like some boiling soda. It feels to be around 5 degrees warmer than room temperature.
@@ -391,7 +364,7 @@ Poison Solvent (advanced)
 	
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, the fur of an ekraldys toadstool, and a chopped great leafbug leg.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Quickliquid (basic)
 	Appearance:  The potion is a white liquid, but when carried it feels like you're holding something twice as light.
@@ -400,7 +373,7 @@ Quickliquid (basic)
 	
 	Ingredients: A five grown dragonfly wings, a fermented fly, and a pinch of glass powder.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Realsight Potion (advanced)
 	Appearance:  The potion is a clear grey liquid.
@@ -409,7 +382,7 @@ Realsight Potion (advanced)
 	
 	Ingredients: A pinch of glass powder, a pinch of silver, and a pinch of crushed amber.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Regeneration Potion (basic)
 	Appearance:  The potion is a clear pale honey-colored liquid.
@@ -419,7 +392,7 @@ Regeneration Potion (basic)
 	
 	Ingredients: A small handful of ground basil and comfrey leaves (stems removed first), a small handful of ground wild celery, and three jadeblossom petals.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Regenerative Salve (minor)
 	Appearance:  The salve is a pale yellow salve.
@@ -430,7 +403,7 @@ Regenerative Salve (minor)
 	Ingredients: A handful of ground basil and comfrey leaves (stems removed first), and a few drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 33% of the original amount of water left as salve.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Reverting Salve (advanced)
 	Appearance:  The salve is a pale yellow salve, that slightly glows in the dark.
@@ -441,7 +414,7 @@ Reverting Salve (advanced)
 	Ingredients: A small handful of ground mint, basil, and comfrey leaves (stems removed first), a small handful of ground wild celery, a ground bezoar, and a several drops of any vegetable oil.
 	Brewing:     It must be boiled (wait for water to evaporate) until it resembles a creamy texture. Do not add additional water. Small cauldrons could take a day to finish, while larger ones may take a few days of boiling. The boiling of this salve isn't required to be boiling at all times. Should the fire go out, you may resume any time later. When the boiling is finished, there should be 50% of the original amount of water left as salve.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Rotting Curse Potion (powerful)
 	Appearance:  The potion is a weird mix of black, dark green, and dark yellow swirling slowly like fresh water coloring put into the potion.
@@ -453,7 +426,7 @@ Rotting Curse Potion (powerful)
 
 	Caution:     Do NOT breathe in the fumes of the potion, or you may start experiencing: sickness, nausea, bruising around the neck and nose. Breathing the fumes too much may actually give you the effects of this potion.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Silencing Potion (basic)
 	Appearance:  The potion is a half clear pale yellow liquid.
@@ -463,7 +436,7 @@ Silencing Potion (basic)
 	
 	Ingredients: Four fermented crickets, a small handful of goat hairs, and a pinch of wood dust.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Sparkfire Ale (advanced)
 	Appearance:  This thing is just ale with sparkfire potion properties.
@@ -472,7 +445,7 @@ Sparkfire Ale (advanced)
 	
 	Ingredients: Instead of making the potion the traditional way, you add the sparkfire potion ingredients with the ale ingredients together with a catalyst.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Sparkfire Potion (basic)
 	Appearance:  The potion is a orange liquid.
@@ -482,7 +455,7 @@ Sparkfire Potion (basic)
 	Ingredients: A handful of sulfur powder, a pinch of sand, and two pinches of rust.
 	Brewing:     It must be boiled for five hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Slow-falling Potion (advanced)
 	Appearance:  The potion is a white liquid.
@@ -491,7 +464,7 @@ Slow-falling Potion (advanced)
 	
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, and several feathers of any bird.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Transmutation Liquid of Animal (advanced)
 	Appearance:  The potion is an opaque dark tan syrupy liquid.
@@ -501,7 +474,7 @@ Transmutation Liquid of Animal (advanced)
 
 	Ingredients: Two pickled and crushed practal gorbries, a pinch of coal powder, a raw fermented egg of any bird (shells included), and a carved wooden figurine of the animal to become.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Traumatic Relife Potion (powerful)
 	Appearance:  The potion is a black slop. It also feels about 10 degrees Celsius colder.
@@ -511,7 +484,7 @@ Traumatic Relife Potion (powerful)
 	Ingredients: A small fermented chunk of brain (any animal), one crushed amethyst gorbry, a small piece of severely oxidized copper or bronze, and a small handful of ground snail shells.
 	Brewing:     It must be boiled for eight hours.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Tarfire Grenade (advanced)
 	Appearance:  The potion is a orange liquid with black streaks.
@@ -523,9 +496,7 @@ Tarfire Grenade (advanced)
 
 
 
-======================================================================================================================================================
-REACTIONS
-======================================================================================================================================================
+[[REACTIONS]]
 
 Drinking concoction bomb of earth:
 	You start to feel full as if you've ate a meal, however you won't gain any nutritions. Also it tastes exactly like wet dirt.

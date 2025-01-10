@@ -12,9 +12,7 @@ Habitats:
 
 
 
-======================================================================================================================================================
-FUNGI
-======================================================================================================================================================
+[[FUNGI]]
 
 Dark Lichen:
 	Dark lichen grows in the Plane of Earth and Stone. It is very black, but glows faintly green in the dark. Dark Lichen is poisonous, and can cause temporary blindness when eaten.
@@ -30,9 +28,7 @@ Moonshroom:
 
 
 
-======================================================================================================================================================
-PLANTS AND HERBS
-======================================================================================================================================================
+[[PLANTS AND HERBS]]
 
 Amethyst Gorbry:
 	Amethyst Gorbries are a rare bush. Their flowers are a mix of blue and pink, but their fruits are clear and purple, in the shape of a rhombicosidodecahedron and size of a grape. Sometimes at night, they might emit a very faint glow.
@@ -45,37 +41,11 @@ Practal Gorbry:
 
 
 
-======================================================================================================================================================
-LIQUIDS
-======================================================================================================================================================
-
-Parhrügi's Tears:
-	Parhrügi's Tears is a liquid of the substance found in Parhrüvaryg. It is transparent and purple, and seems to be eternally filled with glitter. It also glows in the dark. Because it is from Parhrüvaryg, a single vial is worth tens of gold. Parhrügi's Tears is an important component to making magic items without potions.
-
-	Primordial must not be spoken within a 10 meter radius of this liquid, or the liquid might take effect of the spell that has this incantation, or take effect of the meaning of the scentence.
-
-	For example:
-		- Saying "Thò-fik-ru (bolt-force-rotate, incantation for magic missile)" would create many magic missiles that would shoot in random directions.
-		- Saying "Kò bod (make/create wood, no spell with this incantation)" would turn the liquid into solid wood.
-
-	To protect the liquid against Primordial, the vial must be surrounded by thick material such as stone, wood, or even leather, and it must be corked.
-
-
-
-======================================================================================================================================================
-ITEMS
-======================================================================================================================================================
-
-Arcane Focus:
-	An arcane focus is an object, used by wizards and druids. It is usually made of wood, but wealthier people can afford gemstone or metal ones. They make spellcasting almost one-and-a-half times faster. The bigger and more convex the object is, the more effective it is. The effectiveness stops when the object is a 10 cm smooth sphere.
-
-	In order for the object to work, you must be wearing it or holding it in your hand.
-
-	To make an orb, soak it in Catalystic Concoction as described in "Mixtures.txt".
+[[ITEMS]]
 
 Arcane Scroll:
-	An arcane scroll is a scroll, usually made of vellum. In order to use an arcane scroll, you must be holding it in one hand, the second hand free for the spell effect. A scroll has three sentences, one in Primordial, one in Sylvan, and one in Druidic, which are all the same chant in different languages. Just one of the three need to be spoken for spell takes affect.
+	An arcane scroll is a scroll, usually made of vellum. In order to use an arcane scroll, you must be holding it in one hand, the second hand free for the spell effect. A scroll is written in arcane symbols and runes, which must be spoken for the spell to take affect.
 
 	After then, the scroll becomes inactive for about an hour.
 
-	To make an arcane scroll, a sorcerer must cast Infuse Scroll as described in "MagicSystemAndSpells.txt".
+	To make an arcane scroll, a sorcerer use Create Scroll as described in "Magics.txt".
