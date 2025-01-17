@@ -33,6 +33,9 @@ Northern and Southern Dagsvaldian Forests (forests near Argonlav and under Esrel
 Sölshaef Forest (and the snowy taiga near Argonlav, and the taiga north of Mornesvid):
 	These forests are snowy coniferous forests. This forest also contains all three moon shrine variants, located in the west.
 
+Lantheressil Forest, peninsula southwest of Esrelu:
+	This forest mostly covered with a tall pine forest, with large, one-and-a-half meter ferns covering the ground. There has been rumors of frost dragons living here.
+
 
 
 [[GEOGRAPHICAL LOCATIONS]]
@@ -42,6 +45,3 @@ Banodic Mountain Ranges:
 
 Mountains in the very north:
 	These mountains are tall mountains covered in snow.
-
-Peninsula southwest of Esrelu:
-	This peninsula is mostly covered with the same forest near Argonlav. There has been rumors of frost dragons living here.
