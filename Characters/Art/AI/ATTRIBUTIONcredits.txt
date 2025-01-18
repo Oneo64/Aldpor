@@ -4,6 +4,6 @@ All AI art put here will represent how the characters should look. NOTICE: These
 
 Characters/Art/AI/Meyruna.webp
 	License: CC BY-NC 4.0 | https://creativecommons.org/licenses/by-nc/4.0/legalcode
+	Source:  https://yodayo.com
 	Model:   Anything XL (Moescape Exclusive Version)
 	Maker:   @Linaqruf
-	From:    https://yodayo.com
