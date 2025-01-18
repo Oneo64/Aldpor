@@ -13,7 +13,7 @@ Other dimensions:
 	Maresil     = Astral plane
 
 Deities:
-	Talmundur:
+	Talmundúr:
 		Domain:      God of Nature, Tempest, and Luck
 		Symbol:      Dagsvaldian 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Tereven (Hendril), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
