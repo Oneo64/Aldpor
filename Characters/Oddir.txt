@@ -11,7 +11,7 @@ Race:      Human
 [[DESCRIPTION]]
 Oddir is a human from Lismerlaf. He has long red wavy hair, trimmed beard, brown eyes, pale skin, and short light brown hair. His skin is slightly wrinkled.
 
-Oddir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundur amulet.
+Oddir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundúr amulet.
 
 He has a pouch slung across his shoulder, which contains two spell scrolls that he can use. One contains the spell Elemental Control: Sparks, the other contains the spell Elemental Control: Firebolt.
 
