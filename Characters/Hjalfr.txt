@@ -9,9 +9,9 @@ Race: Human
 
 
 [[DESCRIPTION]]
-Hjalfr is an explorer who lives in Argánlaf. His short hair is black, his eyes are pale green, and has fair skin. His eyes are deep-set, and his gaze can be described as "withering", even though it doesn't actually do anything.
+Hjalfr is an explorer who lives in Argánlaf. He has a lean body, and is around 5'8" in height. His short hair is black, his eyes are pale green, and has fair skin. His eyes are deep-set, and his gaze can be described as "withering", even though it doesn't actually do anything.
 
-He wears a dark cloak, a muted red tunic, dark pants, a ring belt, and a pair of shoes. When in combat, he wears a chainmail hauberk and an iron gjermundbu helmet. He wears a iron Talmundúr amulet.
+He wears a dark cloak, a muted red tunic, dark pants, a ring belt, and a pair of shoes. When in combat, he wears a chainmail hauberk and a Gjermundbu helmet. He wears a iron Talmundúr amulet.
 
 
 
