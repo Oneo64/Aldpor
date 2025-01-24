@@ -107,31 +107,31 @@ Magical Staves (intermediate, 1 month to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
 These are the staves you can make:
-	- Gapaldur: Targets in a 20 meter range are physically stronger when bare-handed.
-	- Vegvisir: Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
+	- Gapaldur:  Targets in a 20 meter range are physically stronger when bare-handed.
+	- Vegvisir:  Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
 	- Toustefna: This must be drawn on oak. Foxes are unwilling to go within 20 meters of this stave.
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (intermediate, 1 month to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
-	- Sparks: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
-	- Frostbolt: A mote of frost shoots out of your hand towards where you are aiming at.
+	- Sparks:        A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Frostbolt:     A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Intricate Magical Staves (expert, 2 months to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
 These are the staves you can make:
-	- Helm of Awe: Targets in a 20 meter range are physically stronger and more durable. They also feel more confident.
-	- Lukkustafir: Scares away lesser demons and undead within a 20 meter range. Lesser demons and undead example: wraiths and zombies.
-	- Shielding: There are five charges. All incoming projectiles that weigh less than 1 kg are blocked by a flash of light, which uses a charge. A charge recharges after one hour.
+	- Helm of Awe:   Targets in a 20 meter range are physically stronger and more durable. They also feel more confident.
+	- Lukkustafir:   Scares away lesser demons and undead within a 20 meter range. Lesser demons and undead example: wraiths and zombies.
+	- Shielding:     There are five charges. All incoming projectiles that weigh less than 1 kg are blocked by a flash of light, which uses a charge. A charge recharges after one hour.
 	- Brynslustafir: The blades of targets within 20 meters will create a flash of blue light on contact, giving the struck thing a light burn.
 ----------------------------------------------------------------------------------------------------
 Intricate Arcane Spells (expert, 2 months to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- Suspension: An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
-	- Shield: A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
-	- Wind: A burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
+	- Suspension:   An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
+	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
+	- Wind:         A burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
 ----------------------------------------------------------------------------------------------------
 Necromancy (expert, 2 months to learn one spell):
 Necromancy is considered an evil practice by most people. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:

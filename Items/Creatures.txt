@@ -241,16 +241,14 @@ Dryad (medium fey):
 	Dryads are native to Furnalfa. They are bound to their own tree. Then that tree is killed, the dryad becomes chaotic neutral, and will attempt to kill the person who harmed their tree.
 
 	Description:
-		A dryad appears to be a beautiful woman that is completely green. She radiates green mist from every part of her body.
+		A dryad appears to be a beautiful woman that is completely green. She seems to be naked, however there is thick green mist to cover her private appendages. She radiates green mist from every part of her body.
 
-		Dryads matures by 20, and lives up to 300 years old.
+		Dryads mature by 20, and live up to 300 years old.
 
 	Abilities:
-		A dryad is able to unlimitedly carve all types of runic staves and perform the spells Druidcraft, Entangle, Seidur and Shillelagh. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to Talygva (material plane), and from Talygva to Furnalfa. She will always know the location of her tree.
+		A dryad is able to unlimitedly carve all types of magical staves and perform all druidry. She is also able to control dreams, possess creatures, and willingly travel from Furnalfa to the material realm and vice versa. She will always know the location of her tree, unless it is destroyed.
 
-		She can also give blessings or curses by touching them. A blessing can either be immunity to poison and disease, or subtle darkvision. But, a curse will always be requiring more sleep for the same amount of energy. These blessings and curses usually last forever, but being blessed or cursed again by a dryad means the previous one dimishes.
-
-		Dryads are able to speak Druidic, and Sylvan.
+		Dryads are able to speak Druidic and Sylvan.
 
 
 
@@ -259,6 +257,8 @@ Faerie Hare (small fey):
 
 	Description:
 		A faerie hare looks like a normal hare. It's fur color is normally a mix of brown and tan. When it moves, it's paws emit a faint green mist. It's eye colors are always green, and slightly glows in the dark.
+
+		Usually if there is any fey activity in the material realm, it attracts faerie hares to go and take a look.
 
 	Abilities:
 		When a faerie hare runs over farmland, it usually fertilizes that farm land.
@@ -282,7 +282,7 @@ Gvarth (huge fey):
 
 		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
-		Some gvarths have carved rune staves on their bark, which is usually three "Greater Runic Staves: Shielding" and three "Intricate Runic Staves: Magical Disruption".
+		Some gvarths have carved magical staves on their bark, which is usually four "Intricate Magical Staves: Shielding".
 
 		Gvarths are unaffected by all psychic attacks.
 
@@ -381,7 +381,7 @@ Rotten Gvarth (huge undead):
 
 		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
 
-		Some gvarths have carved rune staves on their bark, which are Greater Runic Staves: Shielding. Most of them have one on the front, back, left and right.
+		Some gvarths have carved magical staves on their bark, which are usually four "Intricate Magical Staves: Shielding".
 
 		Rotten gvarths, unlike ordinary gvarths, are especially vulnerable to fire. It is also unaffected by all poisons, and all necromantic and psychic attacks. However, they are weak to physical attacks, and lightning.
 
