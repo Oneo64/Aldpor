@@ -1,5 +1,5 @@
 Heir:   Eifnod
-Wealth: Moderately wealthy
+Wealth: Wealthy
 
 Land:
     A ring fortress named Kjartkjofn.

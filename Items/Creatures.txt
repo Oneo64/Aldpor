@@ -400,25 +400,6 @@ Skeleton (medium undead):
 
 
 
-Vamerk (medium undead):
-	Vamerks are undead reanimated by magic, usually to serve as servants or guards, usually to guard or secure something.
-
-	Description:
-		Vamerks are risen corpses moved by a magical effect. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. After being reanimated, the zombie will continue to decompose until a point where they start to bloat, which they will stop decomposing.
-
-	Abilities:
-		They are capable to using weapons and martial skills. They are just as intelligent as the average person, but are incapable of thought and emotion.
-
-		Vamerks are able to learn magic, but you must personally teach them how to use it. However, spells they cast are weaker and has a shorter range than normal spells, they cannot use orbs or any type of arcane focus, and cannot be taught spells that require materials. They then will be unable to forget or lose memory of spells. They can usually learn only 3 to 4 spells, and cannot learn any other type of magic other than wizardry.
-
-		Vamerks can also be taught very simple long-term commands and strategies to follow, but can only learn a few at a time. Example: 'Do not get close to more than 4 other corpses at a time.', which is to prevent necromantic instability from happening.
-
-		They only understand the languages of it's creator, and are only able to speak trained words (such as incantations or simple commands).
-
-		They are immune to poisons.
-
-
-
 Wraith (medium undead):
 	When someone dies, their corpse has a chance of becoming a wraith only if they were 'magical'. Being 'magical' means if they were a sorcerer, innate seer, or had suffered either short-term intense magical activity, or prolonged magical activity. The wraith will be made about a month later after the person's death.
 

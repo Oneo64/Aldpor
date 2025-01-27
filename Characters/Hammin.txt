@@ -1,4 +1,4 @@
-Hammin
+Hammin the Angelic
 
 Male
 Age: 20
@@ -9,9 +9,9 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Hammin is one of Randúlfr's knights. His hair is short blond and curly, his eyes are pale green, and has fair skin.
+Hammin is one of Randúlfr's knights. His hair is short light-blond and curly, his eyes are pale green, and has fair skin. He also has a light stubble for a beard.
 
-He wears a tan cloak, a muted blue tunic, dark yellow pants, a ring belt, and a pair of shoes. He wears a iron Talmundur amulet, and an iron arm ring. He also sports a baldric scabbard with a viking sword sheathed inside, and a round shield slung on his back. His round shield is painted red and black.
+He wears a tan cloak, a yellow tunic, dark grey pants, a ring belt, and a pair of shoes. He wears a iron Talmundúr amulet, and an iron arm ring. He also sports a spear, and a round shield slung on his back. His round shield is painted white and blue.
 
 
 

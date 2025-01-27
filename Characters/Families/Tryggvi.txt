@@ -1,0 +1,15 @@
+Heir:   Tryggvi
+Wealth: Moderately wealthy
+
+Land:
+    A longhouse. This house is in Argánlaf, Dagsvald.
+
+---------------------------------------------------------------
+
+
+
+                    +-Súndi [M, 944]
+Tryggvi [M, 920]-+  |
+                 |>>+-Brandingi [M, 948]
+Þorvi [F, 923]---+  |
+                    +-Hammin [M, 953]

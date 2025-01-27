@@ -1,8 +1,8 @@
 Heir:   Palðr
-Wealth: Moderately wealthy
+Wealth: Middle class
 
 Land:
-    A longhouse. This house is in Argonlav, Dagsvald.
+    A longhouse. This house is in Argánlaf, Dagsvald.
     A piece of farmland around their house.
 
 ---------------------------------------------------------------
