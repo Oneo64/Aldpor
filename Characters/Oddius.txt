@@ -4,7 +4,7 @@ Male
 Age: 60 (born 913, April 1)
 Alignment: Neutral
 Ethnicity: Hendric
-Race: Human
+Race:      Human
 
 
 

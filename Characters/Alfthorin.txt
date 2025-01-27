@@ -4,7 +4,7 @@ Male
 Age: 53 (born 919, december 17)
 Alignment: Neutral
 Ethnicity: Dagsvaldian
-Race: Human
+Race:      Human
 
 
 

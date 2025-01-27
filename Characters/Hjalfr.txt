@@ -4,7 +4,7 @@ Male
 Age: 41
 Alignment: Chaotic Neutral
 Ethnicity: Dagsvaldian
-Race: Human
+Race:      Human
 
 
 
