@@ -47,3 +47,7 @@ He also plays Plattrægnall.
 		Magic Missile
 		Sparks
 		Frostbolt
+
+	Magical Staves:
+		Helm of Awe
+		Lukkustafir

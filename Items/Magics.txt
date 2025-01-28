@@ -6,6 +6,13 @@ Magics:
 	- Scroll Sorcery is when you make simple magic reading a chant from a scroll, made by a sorcerer.
 	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials.
 
+Spell amount to power scale reference for Arcane Magic (don't actually use this to power scale):
+	1-4:   Starting
+	5-10:  Average
+	11-12: Above average
+	13-14: Strong
+	15+:   Master
+
 
 
 [[MATERIAL SIZES]]

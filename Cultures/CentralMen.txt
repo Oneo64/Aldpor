@@ -8,14 +8,13 @@ Aesthetic/base: Roman, Byzantine
 	Dagsvaldians:   A lot of them don't like Dagsvaldians, seeing them as barbaric or uncivilized.
 	Northern Elves: Same as Dagsvaldians, but not with as much dislike.
 	Trolls:         A common belief is that trolls find enjoyment in watching sexual intercourse of other races (this is false of course). This leads them to loathe trolls.
-	Elves:          Another common belief is that moon elves actually came from the moon.
+	Elves:          Another common belief is that moon elves have cold blood and are nocturnal.
 
 
 
 [[PREFERENCES]]
 	Preferred weapons:
 		Longbow
-		Flanged mace
 		Spatha
 		Spear
 

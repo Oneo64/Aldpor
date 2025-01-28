@@ -20,7 +20,8 @@ Placed along the road are banners in blue written in the Elvish script: "Mrûsse
 
 
 [[SUBJECT DISTRIBUTION]]
-	50% Arcane Magic
-	30% Potion-making
+	30% Arcane Magic (Spells)
+	30% Arcane Magic (Magical Staves)
+	20% Potion-making
 	10% Combat training
 	10% History

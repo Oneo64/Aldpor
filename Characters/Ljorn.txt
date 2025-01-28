@@ -11,11 +11,11 @@ Race:      Human
 [[DESCRIPTION]]
 Ljorn is a man from Argánlaf. His hair is dark blond and slightly wavy and is a little longer than shoulder length. A cloth strip tied around his head keeps his hair back, and he has a light stubble. His eyes are hooded, downturned, and dark pale blue, and has fair skin. Because his eyes are hooded and downturned, he may look sad or tired to some people. He is 175 (5'9) centimeters tall.
 
-He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), baggy brown pants, a belt, and a pair of boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundúr amulet.
+He wears a woolen brown cloak held by a brooch, a long muted blue tunic (calf-length), baggy brown pants, a belt, and a pair of boots. He has a baldric carrying a scabbard with a Petersen Type L sword (5-lobed viking sword). On his belt, he has a leather pouch and a small seax under the sword baldric. He wears a necklace of an iron Talmundúr amulet, and another necklace with a single piece of labradorite.
 
 While traveling, Ljorn has a nasal helmet, and a round shield slung over his back.
 
-He carries a grimoire, a piece of labradorite, and a piece of coal in the pouch.
+He carries a grimoire, and a piece of coal in the pouch.
 
 Ljorn is close friends (from childhood) with Meyrúna, and acquainted with Flokr (not exactly a friend). He can be found at his house either chopping firewood, checking his family's farm for weeds, sitting outside the door reading his spellbook, playing Plattrægnall with someone (probably with Alfr or Flokr), or help carry wood Alfr and Ulfrir have felled back to their home. Sometimes he will accompany Meyrúna into the forest as she gathers herbs.
 
@@ -37,7 +37,7 @@ Ljorn usually fights with a sword and shield. He could be described as just aver
 
 He has combat experience from raiding and old castle ruins, where he fought a couple of draugar. He also participated in a battle before he returned from the Academy of Aldorim, fighting against the Kingdom of Yûmlathnar. But because he was shot in the shoulder with an arrow during the battle, his left arm was weakened.
 
-Having studied one year in the Academy of Aldorim, he knows how to cast some arcane spells. He also learned how to brew some potions, which are: Bastard's Poison, Calming Salve, Curing Tonic, Nontoxic Seizure Concoction, Regeneration Potion.
+Having studied one year in the Academy of Aldorim, he knows how to cast some arcane spells, even though he learned more for magical staves than arcane spells. He also learned how to brew some potions, which are: Bastard's Poison, Calming Salve, Curing Tonic, Nontoxic Seizure Concoction, Regeneration Potion.
 
 
 
@@ -48,7 +48,11 @@ Having studied one year in the Academy of Aldorim, he knows how to cast some arc
 
 	Magical Staves:
 		Gapaldur
-		Toustefna
+		Vegvisir
 
 	Arcane Spells:
 		Magic Missile
+
+	Intricate Magical Staves:
+		Helm of Awe
+		Lukkustafir
