@@ -9,24 +9,18 @@ Race:      Human
 
 
 [[DESCRIPTION]]
-Lucanus is a tall Hendric man at 5'11". He has short brown hair, blue eyes, and tanned skin. He wears a 
+Lucanus is a tall Hendric man at 5'11". He has short brown hair, blue eyes, and tanned skin. He wears a the standard Hendric centurion equipment, that being: a steel galea helmet, a suit of lorica segmentata, a white tunic, a pair of grey pants, a pair of shoes, a baldric with a sheathed spatha, and a red norman kite shield slung over his back.
 
-She wears a metal helmet with a brass rim in combat. She carries a spatha in a blue scabbard, and a blue Norman kite shield slung across her back.
-
-Her goal is to protect the world and the cycle of life from undeath, and is willing to kill any undead she sees. During the day when she isn't exploring or going on a "crusade", she can be found either patrolling the streets, talking to people in the community center, or riding her horse in the nearby woods.
+He is a centurion of the Hendric army.
 
 
 
 [[PERSONALITY]]
-Vielthori is friendly, and generous, also described as meddlesome as she likes to assert or associate herself with things she doesn't need to be involved with. She is also a purist, and never participates or even support any kind of war against another civilization.
+Lucanus is usually described as a no-nonsense man. He has a bad sense of humor and doesn't find many jokes funny. He's very loyal to Hendril, and sometimes goes on a brave streak. He is also intelligent, as he is one of Hendril's strategists.
+
+He calls his horse Felavim.
 
 
 
 [[ABILITIES]]
-Vielthöri speaks Aodesvic as her mother tongue, and learned Hendric (English). She has only little experience with her sword and shield, gained from defending her town from a small group of vamerks with the help of the town's guards. Because Vielthöri is a seeress, she can also use Seidr, and has some experience with it.
-
-
-
-[[SEIDR]]
-	Look for Omens
-	Foresight
+Lucanus is proficient in fighting with his spear and spatha. He can also ride a horse.

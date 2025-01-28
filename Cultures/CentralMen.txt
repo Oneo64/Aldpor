@@ -5,9 +5,10 @@ Aesthetic/base: Roman, Byzantine
 
 
 [[BELIEFS/MISCONCEPTIONS]]
-	Dagsvaldians: A lot of them don't like Dagsvaldians, seeing them as barbaric or uncivilized.
-	Trolls: A common belief is that trolls find enjoyment in watching sexual intercourse of other races (this is false of course). This leads them to loathe trolls.
-	Elves: Another common belief is that moon elves actually came from the moon.
+	Dagsvaldians:   A lot of them don't like Dagsvaldians, seeing them as barbaric or uncivilized.
+	Northern Elves: Same as Dagsvaldians, but not with as much dislike.
+	Trolls:         A common belief is that trolls find enjoyment in watching sexual intercourse of other races (this is false of course). This leads them to loathe trolls.
+	Elves:          Another common belief is that moon elves actually came from the moon.
 
 
 
