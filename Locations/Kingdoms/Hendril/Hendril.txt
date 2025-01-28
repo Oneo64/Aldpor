@@ -2,7 +2,7 @@ Hendril
 
 Government: Elected Autocracy
 Race Majority: Human
-Culture type: Roman/Byzantine
+Culture type: Central Men
 Population: 25,000 people in towns, 30,000 people in cities, 55,000 people in total
 
 Main languages: Hendric (English)
@@ -60,9 +60,10 @@ Hendril has 2500 men in their army, about 40 in each fortress, 1200 in Jollantil
 
 
 [[UNIFORMS]]
-Spearmen/Guard: A spearman would have a leather nasal helmet, white tunic, grey pants, will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+Spearmen/Guard: A spearman would have a leather nasal helmet, leather Roman chest armor, white tunic, grey pants, will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+Centurion:      A centurion would have a steel galea helmet, a suit of lorica segmentata, white tunic, grey pants, will provide shoes if needed. Their weapon is a spear, spatha, and a norman kite shield.
 Archer/Lookout: An archer would have a leather nasal helmet, white tunic, grey pants, will provide shoes if needed. Their weapon is a longbow, flint-headed arrows, and a knife.
-Palace Guard: A palace guard would have an iron nasal helmet, yellow surcoat, hauberk, red tunic, and will provide shoes if needed. Their weapon is a spear and a norman kite shield.
+Palace Guard:   A palace guard would have an steel galea helmet, yellow surcoat, chainmail hauberk, red tunic, and will provide shoes if needed. Their weapon is a spear and a norman kite shield.
 
 
 

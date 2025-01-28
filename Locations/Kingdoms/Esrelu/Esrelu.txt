@@ -2,7 +2,7 @@ Esrelu
 
 Government: Elected Noocracy
 Race Majority: Cold Elf
-Culture type: Norse-Elvish
+Culture type: Northern Elvish
 Population: 20,000 people in villages, 950 people in towns, ~20,950 people
 
 Main language: Esrel

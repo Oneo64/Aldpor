@@ -2,7 +2,7 @@ Banod
 
 Government: Elected Diarchy
 Race Majority: Dwarf (red metals and jewelry variants)
-Culture type: Slavic
+Culture type: Banodic
 Population: ~2300 people
 
 Main languages: Banodic

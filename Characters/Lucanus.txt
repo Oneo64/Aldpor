@@ -1,0 +1,32 @@
+Lucanus
+
+Female
+Age: 29 (born 944)
+Alignment: Lawful Neutral
+Ethnicity: Hendric
+Race:      Human
+
+
+
+[[DESCRIPTION]]
+Lucanus is a tall Hendric man at 5'11". He has short brown hair, blue eyes, and tanned skin. He wears a 
+
+She wears a metal helmet with a brass rim in combat. She carries a spatha in a blue scabbard, and a blue Norman kite shield slung across her back.
+
+Her goal is to protect the world and the cycle of life from undeath, and is willing to kill any undead she sees. During the day when she isn't exploring or going on a "crusade", she can be found either patrolling the streets, talking to people in the community center, or riding her horse in the nearby woods.
+
+
+
+[[PERSONALITY]]
+Vielthori is friendly, and generous, also described as meddlesome as she likes to assert or associate herself with things she doesn't need to be involved with. She is also a purist, and never participates or even support any kind of war against another civilization.
+
+
+
+[[ABILITIES]]
+Vielthöri speaks Aodesvic as her mother tongue, and learned Hendric (English). She has only little experience with her sword and shield, gained from defending her town from a small group of vamerks with the help of the town's guards. Because Vielthöri is a seeress, she can also use Seidr, and has some experience with it.
+
+
+
+[[SEIDR]]
+	Look for Omens
+	Foresight
