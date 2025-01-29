@@ -8,6 +8,8 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 
 	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr (rare)
 	Jungles:							Daeva, Manticore
+	Centrumic Forests:					Great Leafbug
+	Dwarven Forests:					Great Leafbug
 	Northern Dagsvaldian Forests: 		Crow, Owl, Raven, Troll
 	Southern Dagsvaldian Forests:		Crow, Owl, Raven, Troll (less frequent)
 	Far Northern Tundra/Snowfield:		Frost Dragon, Ice Elemental
@@ -36,7 +38,7 @@ Glimmering Moth:
 		Glimmering Moths can fly at a speed of 10 meters a second. They are herbivorous, and they eat moonshrooms.
 
 Great Leafbug:
-	Great leafbugs can be found in the dwarven and hendric forests.
+	Great leafbugs can be found in the dwarven and Centrumic forests.
 
 	Appearance:
 		A greatleaf bug looks like a green stickbug, instead it has 6 legs on each side. It is about 1.5 meters long, and live up to 10 years.

@@ -1,6 +1,6 @@
 Saequor
 
-Kingdom:       Hendril
+Kingdom:       Centruma
 Population:    550 people
 Current mayor: Berdithan
 
@@ -20,7 +20,7 @@ At the coast side of the town, there are three wooden ports made of hardwood. Th
 [[LANDSCAPE]]
 Berdithan is right in the corner of coast and the river mouth, which is on the same land the fortress Woparias is on. It is then surrounded by grasslands, and the nearest forest is about four hundred meters away. From the wooden gates a road runs south to Woparias.
 
-The forest is part of the Hendric Forests, which is a redwood forest with almost little to no undergrowth.
+The forest is part of the Centrumic Forests, which is a redwood forest with almost little to no undergrowth.
 
 
 

@@ -6,7 +6,7 @@ Culture type: Glomish
 Population: 25,000 in villages, 5,000 in the city, ~30,000 people in total
 
 Main languages: Banodic
-Other languages: Hendric
+Other languages: Centrumic
 
 Rulers (guys):
 	Garv (Rules economy, imports, exports, trading)
@@ -27,7 +27,7 @@ The outside of Glomdur looks like a bunch of staircases and curtain walls that h
 
 
 [[TRADE]]
-Glomdur mainly exports iron, silver, copper, and bronze. They trade mostly with Hendril and Banod.
+Glomdur mainly exports iron, silver, copper, and bronze. They trade mostly with Centruma and Banod.
 
 
 

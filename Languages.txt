@@ -1,6 +1,6 @@
 Common:
 	Humans:
-		Hendric (English)
+		Centrumic (English)
 		Dagsvaldian (Any English accents should be equivalent to an Icelandic one)
 		Taribian (Any English accents should be equivalent to a Persian one)
 
@@ -13,14 +13,14 @@ Common:
 		Mornesvian
 
 	Mix:
-		Aodesvic (Rànûdan + Hendric)
+		Aodesvic
 
 Uncommon:
 	Daevas/Orcs:
 		Neshozic
 
 	Centaurs:
-		Sylvendric (Sylvan + Hendric)
+		Sylvendric (Sylvan + Centrumic)
 
 Exotic:
 	Primordial
@@ -36,7 +36,7 @@ Exotic:
 	Old Taribian
 	Grutorian
 	Galabric
-	Old Hendric
+	Old Cantrium
 	Primal Dagsvaldian
 
 	Ancient Elvish

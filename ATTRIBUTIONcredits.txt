@@ -13,7 +13,7 @@ Locations\References\Structures\Banodic House (Overground).png
 
 
 
-Locations\References\Structures\Hendril.png
+Locations\References\Structures\Centruma.png
 	License: CC BY-SA 3.0
 	Username: Olevy
 	Link to user: https://fr.wikipedia.org/wiki/Utilisateur:Olevy
@@ -51,7 +51,7 @@ Locations\References\Furnalfa (IRELAND).jpg
 
 
 
-Locations\References\Hendric Forests (ROTORUA).jpg
+Locations\References\Centrumic Forests (ROTORUA).jpg
 	License: CC BY-SA 1.0
 	Owner: https://www.mtbproject.com/user/7001191/brian-smith
 	Link to file: https://www.mtbproject.com/photo/7004258, https://www.flickr.com/photos/94539250@N00/297888720

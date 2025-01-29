@@ -3,13 +3,13 @@ Jeiruld Aldorim
 Male
 Age: 77 (born 896, April 10)
 Alignment: Lawful Neutral
-Ethnicity: Hendric
+Ethnicity: Centrumian
 Race:      Human
 
 
 
 [[DESCRIPTION]]
-Jeiruld is a wizard born in Forthias, Hendril, but he later traveled to Dagsvald, and opened an arcane evocation school called Academy of Aldorim, and is the current headmaster.
+Jeiruld is a wizard born in Forthias, Centruma, but he later traveled to Dagsvald, and opened an arcane evocation school called Academy of Aldorim, and is the current headmaster.
 
 He is a human, old and bald. He has dark brown eyes. He wears a brown cap, a black silk cloak, dark red robes, a belt, and a pair of boots. He also wears a plain golden circlet, and two silver rings on his left land. The front of his robes has two large pockets on the chest and leg part, holding things like spell components, papers, or scrolls. He wears a necklace that has all sorts of fangs and claws from bears, big cats, boars and other animals.
 
@@ -25,7 +25,7 @@ He harbors one secret, one that no one knows, which is the fact that he is able 
 
 
 [[ABILITIES]]
-Being a powerful wizard, Jeiruld can speak many languages alongside Hendric (English). Rànûdan and Esrel, he learned these so he could talk to elves. Primordial, he learned this because it was a core part of magic practice. Dagsvaldian, he learned this so he could communicate and guide students in his academy. And lastly he learned Abyssal so he could study demons.
+Being a powerful wizard, Jeiruld can speak many languages alongside Centrumic (English). Rànûdan and Esrel, he learned these so he could talk to elves. Primordial, he learned this because it was a core part of magic practice. Dagsvaldian, he learned this so he could communicate and guide students in his academy. And lastly he learned Abyssal so he could study demons.
 
 Jeiruld is very intelligent and wise, knowing many spells, ancient items, and history that goes back over two thousand years. He also knows about every realm in the world.
 
@@ -70,7 +70,7 @@ He could brew potions, knowing how to brew almost all potions known in Dagsvald.
 
 [[LORE]]
 [910 AD]
-Jeiruld started to teach himself magic. A few months later, he joined a group of mercenaries, hired by the local lords to take out three earth elementals that were sighted in the Hendric Forests 10 kilometers southwest. They were able to kill the earth elementals.
+Jeiruld started to teach himself magic. A few months later, he joined a group of mercenaries, hired by the local lords to take out three earth elementals that were sighted in the Centrumic Forests 10 kilometers southwest. They were able to kill the earth elementals.
 
 [931 AD]
 Jeiruld traveled to Dagsvald.

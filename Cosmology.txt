@@ -16,24 +16,24 @@ Deities:
 	Talmundúr:
 		Domain:      God of Nature, Tempest, and Luck
 		Symbol:      Dagsvaldian 'T' rune, upside down
-		Other names: Talûsa (Aodesvu), Tereven (Hendril), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
+		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
 
 	Lünanyr:
 		Domain:      God of Life, Death, and Nature
 		Symbol:      4 pointed star
-		Other names: Lûnania (Aodesvu), Lunara (Hendril), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
+		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
 
 	Jalfar:
 		Domain:      God of Creation and Destruction
 		Symbol:      An eye
-		Other names: Yulvis (Aodesvu), Yorgarar (Hendril), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)
+		Other names: Yulvis (Aodesvu), Agarius (Centruma), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)
 
 	Parhrügi:
 		Domain:      God of Magic
 		Symbol:      A circle surrounded by 8 smaller circles (each small circle symbolizes a school of magic)
-		Other names: Pöldànis (Aodesvu), Parletha (Hendril), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
+		Other names: Pöldànis (Aodesvu), Parletha (Centruma), Pönanis (Rànûdel), Padhuuki (Banod, Glomdur), Plakisael (Mornesvid)
 
 	Hirulfyr:
 		Domain:      God of Emotions
 		Symbol:      A drop of water
-		Other names: Himarir (Aodesvu), Hirnest (Hendril), Ainassare (Rànûdel), Hiiruldir (Banod, Glomdur), Hegetsen (Mornesvid)
+		Other names: Himarir (Aodesvu), Hiranestia (Centruma), Ainassare (Rànûdel), Hiiruldir (Banod, Glomdur), Hegetsen (Mornesvid)

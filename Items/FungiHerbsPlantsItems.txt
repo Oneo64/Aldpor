@@ -2,7 +2,7 @@ Habitats:
 	Jungles:									Jadeblossom
 	Aodesvic Forests:							Jadeblossom, Practal Gorbry
 	Northern and Southern Dagsvaldian Forests:	Ekraldi's Toadstool, Practal Gorbry
-	Hendric Forests:							Jadeblossom, Practal Gorbry
+	Centrumic Forests:							Jadeblossom, Practal Gorbry
 	Forests of Rànûdel:							Amethyst Gorbry, Jadeblossom, Moonshroom
 	Heirfgrian Forest:							Jadeblossom, Moonshroom
 

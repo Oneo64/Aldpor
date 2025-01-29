@@ -24,7 +24,7 @@ Forests on the western island:
 Heirfgrian Forest:
 	This forest is a dark redwood forest. The main inhabitants are Heirgrian centaurs. This forest contains a shrine of An.
 
-Hendric Forests (forests above Hendril, surrounding Woparias and Zenixras):
+Centrumic Forests (forests above Centruma, surrounding Woparias and Zenixras):
 	These forests are a bright redwood forest, with little undergrowth.
 
 Northern and Southern Dagsvaldian Forests (forests near Argonlav and under Esrelu, and west of Glomdur):
