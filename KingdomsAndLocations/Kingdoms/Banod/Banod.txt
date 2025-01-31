@@ -1,7 +1,7 @@
 Banod
 
 Government: Elected Diarchy
-Race Majority: Dwarf (red metals and jewelry variants)
+Race Majority: Dwarf (mostly red metals variants)
 Culture type: Banodic
 Population: ~2300 people
 

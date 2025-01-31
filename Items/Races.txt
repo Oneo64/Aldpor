@@ -13,9 +13,15 @@ Abilities:
 	Slightly resists poison.
 	Ages until 120 to 140 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
 
-Skin: Very light grayed skin.
-Hair: Blond, light blond, brown, grey, or blood red.
-Eyes: Blue, green, golden, grey, or red. Eyes are usually vibrant.
+Red metals variants:
+	Skin: Very light grayed skin.
+	Hair: Red or blood red.
+	Eyes: Yellow, orange, golden, or red.
+
+Jewelry variants:
+	Skin: Very light grayed skin.
+	Hair: Blond, light blond, brown, grey.
+	Eyes: Blue, green, grey, or purple (rare).
 
 
 

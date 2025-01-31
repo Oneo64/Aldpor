@@ -1,7 +1,7 @@
 Glomdur
 
 Government: Elected Diarchy
-Race Majority: Dwarf (red metals and jewelry variants)
+Race Majority: Dwarf (mostly red metals variants)
 Culture type: Glomish
 Population: 25,000 in villages, 5,000 in the city, ~30,000 people in total
 
