@@ -3,6 +3,8 @@
 General body features and personality traits:
 	Most are humourous and like to play pranks.
 	Hair grows slightly faster than normal.
+	
+	An adult dwarf's body looks like a baby, with the head of a fully grown person.
 
 	Height: Average is 140 centimeters.
 	Weight: Average is 70 kilograms.
@@ -11,15 +13,9 @@ Abilities:
 	Slightly resists poison.
 	Ages until 120 to 140 years old. (Ages normally until 80 years old, isn't really physically impaired until 100 years old.)
 
-Variant 1 (red metals: copper, brass, and bronze):
-	Skin: Very light grayed skin, or very pale skin.
-	Hair: Red, or actually red (more like maroon or blood color).
-	Eyes: Brown, golden, orange, or red.
-
-Variant 2 (jewelry and rock):
-	Skin: Very light grayed skin, or very pale skin.
-	Hair: Blond, red, brown.
-	Eyes: Blue, green, golden, grey.
+Skin: Very light grayed skin.
+Hair: Blond, light blond, brown, grey, or blood red.
+Eyes: Blue, green, golden, grey, or red. Eyes are usually vibrant.
 
 
 
@@ -89,7 +85,6 @@ General body features:
 	Height: Average for southern men/women is 170/159 centimeters.
 
 	Ages until 50 to 80 years old.
-
 
 Skin: Ranges from brown to bright skin.
 Hair: Black, blond, red, or brown.
