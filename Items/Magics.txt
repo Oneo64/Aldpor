@@ -109,6 +109,7 @@ Illusion (novice, 1 week to learn):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Illusion of Sight: A small illusory trinket appears on your hand.
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
+	- Illusion of Bolt: A small blue wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
 Magical Staves (intermediate, 1 month to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.

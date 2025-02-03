@@ -24,11 +24,10 @@ Plattrægnall:
 
 Academy of Aldorim's training sport:
 	Workings:
-		Once every week, the academy hosts a sport where wizards are assigned to two teams. Wizards are then to cast Mage Armor on themselves. Their goal is to 'eliminate' the opposing members, but they are restricted to using harmless spells. Being hit with a spell means you're out, and must leave the game field. The team to win each gets 3 copper pieces.
+		Once every week, the academy hosts a sport where students are assigned to two teams. Their goal is to 'eliminate' the opposing members, but they are restricted to using harmless spells. Being hit with a spell means you're out, and must leave the game field. The team to win each gets 3 copper pieces.
 
 		Team members are free to form any sort of hierarchy, and they are also able to surrender.
 
 		Rules:
-			- You must have the effects of Mage Armor on you at all times.
-			- You may not cast any harmful or mental/physical controlling spells, and the only evocation spell you may cast is Earth Bolt.
+			- You may only use Illusion of Bolt.
 			- If both teams still have active players after one hour, the game stops and the team with the more active players win.

@@ -25,7 +25,7 @@ Placed along the road are banners in blue written in the Elvish script: "Mrûsse
 [[SUBJECT DISTRIBUTION]]
 Students can take a combination of any of the three subjects, but must pick at least two: Arcane Magic (Spells), Arcane Magic (Magical Staves), potion-making, and history.
 
-Combat training is required, and all students recieve combat training.
+Combat training is required, and all students recieve combat training. The combat training is done every week, where non-injured and non-sick students are required to participate.
 
 Subjects:
 	30% Arcane Magic (Spells)
@@ -33,3 +33,8 @@ Subjects:
 	20% Potion-making
 	10% Combat training
 	10% History
+
+
+
+[[ENROLLMENT REQUIREMENTS]]
+Students that enroll are required to their own empty book with at least fifty pages, and a quill. They are also required to know how to activate a stave, and if they fail, they get another two attempts.
