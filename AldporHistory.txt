@@ -53,12 +53,10 @@ Settlements/empires/kingdoms:
 
 
 Legend:
-
-[TIME]   = The time which this event started.
-BCE      = Years before 0 AD.
-AD       = Year 1 and later.
-Beliefs  = What is belived. This can be either true or false.
-
+	[TIME]   = The time which this event started.
+	BCE      = Years before 0 AD.
+	AD       = Year 1 and later.
+	Beliefs  = What is belived. This can be either true or false.
 
 
 
