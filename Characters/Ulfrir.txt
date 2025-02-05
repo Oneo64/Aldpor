@@ -3,7 +3,7 @@ Ulfrir
 Male
 Age: 27 (born 946, January 13)
 Alignment: Lawful Neutral
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -27,4 +27,4 @@ Because Mifrün, his mother, would care for him as if he was still young, Ulfrir
 [[ABILITIES]]
 Ulfrir has some very minor combat experience, gained from defending his family's home from a centaur a few years ago. He sports a spear, and taught himself archery. As of now he still isn't very good at hunting, since sometimes deer would notice him before he gets a chance to fire any arrows at them.
 
-Ulfrir only understands Dagsvaldian.
+Ulfrir only understands Fjallandic.

@@ -12,7 +12,7 @@ Ruler: Klivahon
 
 Known Settlements:
 	Ainattor (ruined)
-	Antaragen (dagsvaldian captured, now a dagsvaldian outpost)
+	Antaragen (fjalland captured, now a fjallandic outpost)
 	Bravosh (150 centaurs, 20 are guards)
 	Kornatias (100 centaurs, 10 are guards)
 

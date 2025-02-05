@@ -1,4 +1,4 @@
-All names below, unless specified, are the Dagsvaldian name for it.
+All names below, unless specified, are the Fjallandic name for it.
 
 Planes/Realms:
 	Varygjorðr  = Material realm
@@ -15,7 +15,7 @@ Other dimensions:
 Deities:
 	Talmundúr:
 		Domain:      God of Nature, Tempest, and Luck
-		Symbol:      Dagsvaldian 'T' rune, upside down
+		Symbol:      Fjallandic 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
 
 	Lünanyr:

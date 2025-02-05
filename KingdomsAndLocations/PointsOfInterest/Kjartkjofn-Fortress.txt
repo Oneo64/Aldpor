@@ -1,6 +1,6 @@
 Kjartkjofn
 
-Kingdom:      Dagsvald
+Kingdom:      Fjalland
 Current jarl: Eifnod
 
 
@@ -15,4 +15,4 @@ Distress signals inside the fortress, which are two "bonfire huts", which is a h
 
 
 [[LANDSCAPE]]
-Kjartkjofn is built inside the Southern Dagsvaldian Forest.
+Kjartkjofn is built inside the Southern Fjallandic Forest.

@@ -3,7 +3,7 @@ Hjalfr the Uncoverer
 Male
 Age: 41
 Alignment: Chaotic Neutral
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -21,6 +21,6 @@ Hjalfr is described as arrogant. He likes to talk to people but can be a little 
 
 
 [[ABILITIES]]
-Hjalfr can speak Dagsvaldian as his native language. Hjalfr practices with a dane axe, and owns one in his home.
+Hjalfr can speak Fjallandic as his native language. Hjalfr practices with a dane axe, and owns one in his home.
 
 When Hjalfr fights with his dane axe, he is more defensive, as he would usually wait for his opponents to strike first. And if not, he would taunt them.

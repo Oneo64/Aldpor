@@ -1,6 +1,6 @@
 Básrynga
 
-Kingdom:        Dagsvald
+Kingdom:        Fjalland
 Population:     200 people
 Current hersir: Skaðfir
 

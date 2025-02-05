@@ -3,7 +3,7 @@ Ennu
 Female
 Age: 21 (born 952, January 27)
 Alignment: Neutral Good
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -23,7 +23,7 @@ Ennu is described as being pleasant, and has an optimistic view of the future. S
 
 
 [[ABILITIES]]
-Many years ago, Ennu gained some experience from raiding a castle ruins with his brother and another two warriors from Argánlaf. But despite their group faced two draugar, she didn't really engage in combat. She speaks Dagsvaldian as her native language, and she also speaks Druidic.
+Many years ago, Ennu gained some experience from raiding a castle ruins with his brother and another two warriors from Argánlaf. But despite their group faced two draugar, she didn't really engage in combat. She speaks Fjallandic as her native language, and she also speaks Druidic.
 
 
 

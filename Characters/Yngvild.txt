@@ -3,7 +3,7 @@ Yngvild
 Female
 Age: 23 (born 950, may 1)
 Alignment: Neutral Good
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -21,4 +21,4 @@ Yngvild is generally optimistic, and can be playful at times, pulling minor gigs
 
 
 [[ABILITIES]]
-The only language Yngvild can speak and understand is Dagsvaldian, her native language. She can also cast the spell Illusion: Illusion of Sight, after she persuaded Ljorn to teach her the spell just so she could show Ulfrir her hands which was full of illusory mud.
+The only language Yngvild can speak and understand is Fjallandic, her native language. She can also cast the spell Illusion: Illusion of Sight, after she persuaded Ljorn to teach her the spell just so she could show Ulfrir her hands which was full of illusory mud.

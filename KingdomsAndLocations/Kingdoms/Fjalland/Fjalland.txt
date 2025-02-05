@@ -1,11 +1,11 @@
-Dagsvald
+Fjalland
 
 Government: Feudal Absolute Monarchy
 Race Majority: Human
 Culture type: Northern Men
 Population: 50,000 in settlements, 200 in fortresses, 2000 in Þuryngard, ~51,700 people in total
 
-Main languages: Dagsvaldian
+Main languages: Fjallandic
 Other languages: Esrel
 
 Ruler: King Alfþorin II
@@ -49,7 +49,7 @@ There are also 8 watchtowers with thatched roofs spaced evenly along the outer r
 
 
 [[HIERARCHY]]
-The hierarchy of Dagsvald is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
+The hierarchy of Fjalland is, from the highest to lowest, king, jarl, hersir, knight, free men, then slave.
 
 A jarl would live in each ring fortress, and will oversee the ring fortress and their settlements, such as trade or wellbeing, and has power over them to make sure all goes well. A hersir/chieftain would live in each settlement.
 
@@ -68,12 +68,12 @@ Hierarchies and social classes are mostly family based, but if a family is unabl
 [[TRADE]]
 There is a trade route between Argánlaf and Lismerlaf, where Lismerlaf supplies Argánlaf with fish and Argánlaf supplies Lismerlaf with wood.
  
-Dagsvald mainly exports iron, wool, and rye. They mostly trade with Esrelu, Centruma, and Vuntarla. They also export herbs common in the Northern and Southern Dagsvaldian Forests such as ekraldys toadstools, and spices grown in winter.
+Fjalland mainly exports iron, wool, and rye. They mostly trade with Esrelu, Centruma, and Vuntarla. They also export herbs common in the Northern and Southern Fjallandic Forests such as ekraldys toadstools, and spices grown in winter.
 
 
 
 [[MILITARY]]
-Dagsvald has around 2000 men in their army, but most live in their homes.
+Fjalland has around 2000 men in their army, but most live in their homes.
 
 
 
@@ -83,4 +83,4 @@ Wear at least a tunic and pants, have common sense, and have a weapon that you k
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/Dagsvaldian.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/NorthernMen.txt for more information on it's lore, religion, structure, and others.

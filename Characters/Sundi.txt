@@ -3,7 +3,7 @@ Súndi One-Arm
 Male
 Age: 29
 Alignment: Lawful Neutral
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -21,7 +21,7 @@ Súndi is loyal to his position as a knight. He is also described as being obedi
 
 
 [[Abilities]]
-Súndi speaks Dagsvaldian as his only language. He can also use a sword with 13 years of experience, however he is only average in combat. Somehow, he's also managed to get by riding horses with one arm, and can also play the board game Plattrægnall.
+Súndi speaks Fjallandic as his only language. He can also use a sword with 13 years of experience, however he is only average in combat. Somehow, he's also managed to get by riding horses with one arm, and can also play the board game Plattrægnall.
 
 
 

@@ -3,7 +3,7 @@ Mifrún
 Female
 Age: 55 (born 916, July 8)
 Alignment: Neutral Good
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -21,4 +21,4 @@ Mifrün is described as kind but acts sort of odd, shown when she sometimes talk
 
 
 [[ABILITIES]]
-Mifrün can only speak Dagsvaldian. She is able to make minor potions, and also has knowledge on how to brew curing tonics.
+Mifrün can only speak Fjallandic. She is able to make minor potions, and also has knowledge on how to brew curing tonics.

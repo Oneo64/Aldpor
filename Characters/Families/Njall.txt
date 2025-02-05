@@ -2,7 +2,7 @@ Heir:   Njall
 Wealth: Moderately wealthy
 
 Land:
-    A longhouse. This house is in Argánlaf, Dagsvald.
+    A longhouse. This house is in Argánlaf, Fjalland.
 
 ---------------------------------------------------------------
 

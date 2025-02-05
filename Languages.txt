@@ -1,7 +1,7 @@
 Common:
 	Humans:
 		Centrumic (English)
-		Dagsvaldian (Any English accents should be equivalent to an Icelandic one)
+		Fjallandic (Any English accents should be equivalent to an Icelandic one)
 		Taribian (Any English accents should be equivalent to a Persian one)
 
 	Elves:
@@ -37,7 +37,7 @@ Exotic:
 	Grutorian
 	Galabric
 	Old Cantrium
-	Primal Dagsvaldian
+	Primal Fjallandic
 
 	Ancient Elvish
 	Old Rànûdan

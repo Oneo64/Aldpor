@@ -55,15 +55,15 @@ Magics:
 MEN:
 	Centruma:
 		Main language is Centrumic
-		Culture is central men (roman with 1st century Jerusalem architecture)
+		Culture is Central Men
 		Political structure is elected autocracy
 
-		Current allies: Dagsvald, Aodesvu
+		Current allies: Fjalland, Aodesvu
 		Current wars:   Yûmlathnar, Vatakond
 
-	Dagsvald:
-		Main language is Dagsvaldian
-		Culture is Dagsvaldian (Norse)
+	Fjalland:
+		Main language is Fjallandic
+		Culture is Northern Men
 		Political structure is feudal absolute monarchy
 
 		Current allies: Centruma, Esrelu, Vuntarla
@@ -84,11 +84,11 @@ MEN:
 ELVES:
 	Esrelu:
 		Main language is Esrel
-		Other language is Dagsvaldian
+		Other language is Fjallandic
 		Culture is Northern Elvish
 		Political structure is noocracy
 
-		Current allies: Dagsvald, Vuntarla
+		Current allies: Fjalland, Vuntarla
 		Current wars:   Yûmlathnar, Vatakond
 
 	Rànûdel:
@@ -104,16 +104,16 @@ ELVES:
 		Political structure is elected autocracy
 
 		Current allies: Vatakond, Evil fey
-		Current wars:   Dagsvald, Esrelu, Centruma
+		Current wars:   Fjalland, Esrelu, Centruma
 	
 MEN AND ELVES:
 	Vuntarla:
 		Populated by cold elves, elfmen, and mostly men
-		Main language is Dagsvaldian and Esrel
-		Culture is Dagsvaldian
+		Main language is Fjallandic and Esrel
+		Culture is Fjallandic
 		Political structure is absolute monarchy
 
-		Current allies: Dagsvald
+		Current allies: Fjalland
 
 DWARVES:
 	Glomdur:
@@ -143,7 +143,7 @@ CENTAURS:
 		Political structure is noocracy
 
 		Current allies: Yûmlathnar, Evil fey
-		Current wars:   Dagsvald, Esrelu, Centruma
+		Current wars:   Fjalland, Esrelu, Centruma
 
 	Heirfgria:
 		Main language is Sylvendric

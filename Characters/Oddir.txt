@@ -3,7 +3,7 @@ Oddir
 Male
 Age: 38 (born 934, September 30)
 Alignment: Lawful Neutral
-Ethnicity: Dagsvaldian
+Ethnicity: Fjallander
 Race:      Human
 
 
@@ -25,4 +25,4 @@ Oddir is a strict man, setting rules for anyone he takes with him on his boat wh
 
 
 [[ABILITIES]]
-As a trader, Oddir is able to speak both Dagsvaldian and Centrumic (English) with near fluency. He also learned how to use scroll magic, in order to protect his ship and its cargo from theft.
+As a trader, Oddir is able to speak both Fjallandic and Centrumic (English) with near fluency. He also learned how to use scroll magic, in order to protect his ship and its cargo from theft.

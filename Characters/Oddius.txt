@@ -23,6 +23,4 @@ Oddius is a calm and open-minded innkeeper. He doesn't care what happens, and is
 
 
 [[ABILITIES]]
-Oddius can brew basic potions, and he also knows how to brew wine. Because of Dagsvaldian traders, he slowly picked up their language but is still not fluent with it.
-
-He can also cast the spell Prestidigitation, but this is mostly for igniting light sources in his inn, especially the candles in the rooms when a customer rents one out.
+Oddius can brew basic potions, and he also knows how to brew wine. Because of Fjallandic traders, he slowly picked up their language but is still not fluent with it.

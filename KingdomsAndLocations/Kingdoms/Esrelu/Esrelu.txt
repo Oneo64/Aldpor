@@ -6,7 +6,7 @@ Culture type: Northern Elvish
 Population: 20,000 people in villages, 950 people in towns, ~20,950 people
 
 Main language: Esrel
-Other languages: Dagsvaldian
+Other languages: Fjallandic
 
 Ruler: Ildiyre (gal)
 
@@ -31,7 +31,7 @@ This castle is a large ring fortress made of stone, built on top of a small circ
 
 
 [[TRADE]]
-Esrelu mainly exports timber, and silver. They trade mostly with Dagsvald and Vuntarla.
+Esrelu mainly exports timber, and silver. They trade mostly with Fjalland and Vuntarla.
 
 
 
@@ -47,4 +47,4 @@ Hathössali guards: An iron nasal helmet, a chainmail hauberk, a blue viking clo
 
 
 [[LORE, RELIGION, STRUCTURE, ETC]]
-Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/ColdElf.txt for more information on it's lore, religion, structure, and others.
+Please refer to AldporHistory.txt, AldporDescription.txt, Cosmology.txt, and Cultures/NorthernElvish.txt for more information on it's lore, religion, structure, and others.

@@ -1,6 +1,6 @@
 Lismerlaf
 
-Kingdom:        Dagsvald
+Kingdom:        Fjalland
 Population:     300 people
 Current hersir: Felagi
 
