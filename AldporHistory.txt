@@ -51,6 +51,17 @@ Settlements/empires/kingdoms:
 		Vatakond (Sylvendric)									(220 AD - Present day)
 
 
+
+Legend:
+
+[TIME]   = The time which this event started.
+BCE      = Years before 0 AD.
+AD       = Year 1 and later.
+Beliefs  = What is belived. This can be either true or false.
+
+
+
+
 [Some time around 3500 BCE]
 Linklontina, a centaur kingdom, rises in what is now called the Forests of Rànûdel.
 
@@ -94,7 +105,9 @@ Borusdaliandur and Veilodin decided to invade Inglinimpara. They successfully to
 Shaefklimper rises in the Heirfgrian Forest.
 
 [740 BCE]
-A group of earth elementals attacked Borusdaliandur, at a district named Namiam. A warrior named Hondaf who lived there took a mace and axe, and defended it. He lost his axe, but was able to destroy most of the elementals before he retreated due to injury, letting the guards and soldiers deal with the rest. He was gifted a star glising, which was named Star Glising of Namiam.
+A group of earth elementals attacked Borusdaliandur, at a district named Namiam. Ther was a warrior named Hondaf. He was of average height, and his hair was brown. He who lived there took a mace and axe, and defended it. He lost his axe, but was able to destroy most of the elementals before he retreated due to injury, letting the guards and soldiers deal with the rest. He was gifted a star glising, which was named Star Glising of Namiam.
+
+Beliefs: Hondaf is a tall muscular figure with long blond hair. His tomb is cursed by the spirit of himself.
 
 <First Age of Peace START>
 
@@ -130,6 +143,8 @@ Grutorus fully became a kingdom. In the Kingdom of Thissalfiran II, a group of e
 [200 BCE]
 Shaefklimper collapsed.
 
+Beliefs: Shaefklimper's collapse (and most of it's reign) is a mystery.
+
  ^
  |
 BCE
@@ -141,8 +156,7 @@ AD
 [Exactly 0 AD]
 Grutorus collapsed. From the remains of Grutorus, a two new kingdoms rose. Galabrus, and Cantrium. Cantrium was now where current day Cantruma is, and Galabrus was many kilometers northwest of Cantrium.
 
-[20 AD]
-A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla. Vuntarla is built on a fjord, perched overlooking the eastern ocean, while Esrelu was in the northwest where it was icy cold.
+Beliefs: The King of Grutorus killed himself because of stress.
 
 [30 AD]
 An priceless, but recently made artifact, a stone tablet containing a poem in Old Rànûdan, was stolen from a forgotten settlement in Rànûladàen. The forgotten settlement was abandoned after an attack from civil war, but only after few years did they remember this tablet, labeling it as an "ancient" magic item. When an adventurous group decided to search the ruins of this settlement, they found nothing. A group of fey, one dryad and several satyrs, had already taken the tablet. Lànassil, who was the dryad, found this tablet.
@@ -166,6 +180,8 @@ The centaur settlement transforms into Vatakond.
 
 [350 AD]
 Galabrus was destroyed. Banodic explorers traveled, and created Mornesvid.
+
+Beliefs: The gods destroyed Galabrus who "greatly and mightily" defied them. (really there's no explaination)
 
 [355 AD]
 Banodic explorers traveled from Banod again, and created Glomdur.
@@ -193,7 +209,12 @@ Thaldranga became Þalmundrynga.
 [640 AD]
 From the settlement Þalmundrynga, Fjalland rises.
 
+Beliefs: Joki was a warrior from the village Hrafandis. He traveled north to explore a tomb, but was met by the draugr Tiwaz. Joki described Tiwaz as "He looked like a rotting corpse. Big as a bull, boated and black like boiling tar. He had the strength of many men, and appeared and vanished as he pleased." Luckily, Joki was able to defend himself by throwing rocks at the draugr before making his escape.
+
 <Second Age of Peace START>
+
+[650 AD]
+A group of explorers from Rànûladàen traveled north, and established Esrelu and Vuntarla. Vuntarla is built on a fjord, perched overlooking the eastern ocean, while Esrelu was in the northwest where it was icy cold.
 
 [870 AD]
 Centaurs were spotted scouting in the forests of Fjalland.
