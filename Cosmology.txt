@@ -14,7 +14,7 @@ Other dimensions:
 
 Deities:
 	Talmundúr:
-		Domain:      God of Nature, Tempest, and Luck
+		Domain:      God of Nature, Storms, and Luck
 		Symbol:      Fjallandic 'T' rune, upside down
 		Other names: Talûsa (Aodesvu), Terevanus (Centruma), Tànûssiel (Rànûdel), Tadhuundar (Banod, Glomdur), Tsakasten (Mornesvid)
 
