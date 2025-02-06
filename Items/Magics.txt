@@ -4,7 +4,7 @@ Magics:
 	- Seidr is a practice of foresight and altering luck. You must be born with these abilities to use this.
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
 	- Scroll Sorcery is when you make simple magic reading a chant from a scroll, made by a sorcerer.
-	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials.
+	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
 
 Spell amount to power scale reference for Arcane Magic (don't actually use this to power scale):
 	1-4:   Starting
