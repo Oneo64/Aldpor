@@ -109,7 +109,7 @@ Illusion (novice, 1 week to learn):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Illusion of Sight: A small illusory trinket appears on your hand.
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
-	- Illusion of Bolt: A small blue wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
+	- Illusion of Bolt: A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
 Magical Staves (intermediate, 1 month to learn one stave):
 You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
@@ -121,7 +121,7 @@ These are the staves you can make:
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (intermediate, 1 month to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Magic Missile: A mote of blue light shoots out of your hand towards where you are aiming at, and strikes in a flash of blue light. This magic missile has a range of 40 meters.
+	- Magic Missile: A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
 	- Sparks:        A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 	- Frostbolt:     A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
