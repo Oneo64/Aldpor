@@ -4,7 +4,7 @@ Female
 Age: 19 (born 954, march 5)
 Alignment: Lawful Good
 Ethnicity: Aodesvic
-Race:      Human Seeress
+Race:      Human Seeress (innate)
 
 
 
