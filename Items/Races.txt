@@ -47,7 +47,7 @@ Cold Elf:
 		Ages until 60 to 90 years old. (Looks x0.88 younger.)
 
 	Body features:
-		Height: Average for men/women is 170/157 centimeters.
+		Height: Average for men/women is 173/162 centimeters.
 		Weight: Average is 55 kilograms.
 
 		Earlobes are long.
@@ -75,7 +75,7 @@ Moon Elf:
 		Ears are pointed, and close to the head. The tip of the ears generally end at the top of the head, and doesn't go back farther than the back of the head.
 
 	Skin: Very light/pale blue to a darker very light/pale blue.
-	Hair: Dark purple, or white.
+	Hair: Dark purple, dark magenta, dark pale pink, or white.
 	Eyes: Blue, grey, or purple.
 
 
