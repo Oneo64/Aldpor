@@ -33,6 +33,12 @@ Loroðil can speak a total of six languages. His mother tongue is Fjallandic, an
 
 
 
+[[MAGIC ITEMS | ITEMS WITH MAGICAL PROPERTIES]]
+[Circlet of Shielding]
+Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon or a projectile, the circlet has a fifty percent chance to conjure a white shimmering shield to absorb the attack. The shield's damage can absorb up to a heavy crossbow's bolt. If the shield takes a blow and cannot recover, or tries to absorb anything greater than what it can take, it shatters and whatever attack goes right through and hits Loroðil. Once the circlet activates, it cannot activate again until the next day.
+
+
+
 [[ARCANE MAGIC]]
 	Illusion:
 		Illusion of Sight
