@@ -140,7 +140,7 @@ By holding a piece of labradorite and speaking an incantation, you can cause one
 	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
 	- Suspension:   An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
 	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
-	- Wind:         A burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
+	- Wind:         A strong burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
 ----------------------------------------------------------------------------------------------------
 Necromancy (expert, 2 months to learn one spell):
 Necromancy is considered an evil practice by most people. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
