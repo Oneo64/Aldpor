@@ -1,0 +1,65 @@
+Humans:
+	Áleifr Alfþorinssen
+	Alfr
+	King Alfþorin II (King Alfthorin II)
+	Algord
+	Baulnir
+	Brandingi the Earless
+	Eifnod Halkjof
+	Ennu
+	Flokr
+	Hammin the Angelic
+	Hjalfr the Uncoverer
+	Jeiruld Aldorim
+	Kenund
+	Ljorn
+	Loroðil the Galdrarcrafter (Lorothil)
+	Lucanus
+	Meyrúna
+	Mifrún
+	Nix Tamiar
+	Oddir
+	Oddius
+	Randúlfr
+	Seyja
+	Súndi One-Arm
+	Thuumikishu
+	Tjorn
+	Ulfrir
+	Vielthöri Aldriàndel
+	Yngvild
+	Þrein (Threin)
+	Þungwaz the Half-Beheaded
+
+Elves:
+	Cold Elves:
+		Alaskös Ereviyne
+		Beläe Vaond
+		Helessin
+		Heltena
+		Ildiyre
+		Säelrie Vaond
+		Zessiele Ereviyne
+
+	Moon Elves:
+		Àlantre Rûmelanassa
+		Lûvar Ilûvràn
+		Sasöl Gweldriàndel
+
+Dwarves:
+	Mod Gorzadun
+	Varandir Hathrak
+
+Draugar:
+	Aulfarwaz
+	Haldigr
+
+Dryad:
+	Föressantre
+	Lànassilie
+
+Trolls:
+	Vriitiwaz
+
+Yuan-Ti:
+	Yelestina
