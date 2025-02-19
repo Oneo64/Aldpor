@@ -27,5 +27,5 @@ Nix can only speak Centrumic (English). Because he is a sorcerer, he is able to 
 
 [[SORCERY]]
 	Unexplained Effects:
-		Illusion of Sight
-		Illusion of Sound
+		Fake imagery
+		Fake sounds
