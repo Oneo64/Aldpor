@@ -100,7 +100,7 @@ By thinking and concentrating an effect to happen, you can cause one of these ef
 	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 ----------------------------------------------------------------------------------------------------
 Power of the wise (elderly):
-The sorcery you can cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
+The sorcery you cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
 ----------------------------------------------------------------------------------------------------
 Create Artefact (requires intermediate arcane research):
 By thinking on one of these effects, you infuse part of your power into something that can be worn. Once this is done, anyone can wear this thing and use it's power. You can only create one per day, as you won't have enough power to create another.
@@ -125,14 +125,14 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (intermediate, 1 month to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Magic Missile: A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
-	- Lightning:     A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
-	- Frost:         A mote of frost shoots out of your hand towards where you are aiming at.
+	- Strike:    A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
+	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Frost:     A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Intricate Arcane Spells (expert, 2 months to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- Suspension:   An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
+	- Hold:         An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
 	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
 	- Wind:         A strong burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
 ----------------------------------------------------------------------------------------------------

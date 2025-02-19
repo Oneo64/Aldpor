@@ -41,9 +41,9 @@ He also plays Plattrægnall.
 		Illusion of Sound
 
 	Arcane Spells:
-		Magic Missile
-		Sparks
-		Frostbolt
+		Strike
+		Lightning
+		Frost
 
 	Magical Staves:
 		Gapaldur

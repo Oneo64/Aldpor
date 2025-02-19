@@ -43,13 +43,13 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 		Illusion of Sound
 
 	Arcane Spells:
-		Magic Missile
-		Sparks
-		Frostbolt
+		Strike
+		Lightning
+		Frost
 
 	Intricate Arcane Spells:
 		Bolt of Fire
-		Suspension
+		Hold
 		Shield
 		Wind
 

@@ -47,13 +47,13 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 		Illusion of Sound
 
 	Arcane Spells:
-		Magic Missile
-		Sparks
-		Frostbolt
+		Strike
+		Lightning
+		Frost
 		
 	Intricate Arcane Spells:
 		Bolt of Fire
-		Suspension
+		Hold
 		Shield
 		Wind
 
