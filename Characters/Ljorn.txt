@@ -37,7 +37,7 @@ Ljorn's native language is Fjallandic, but he can also speak Centrumic (English)
 
 
 
-[[ARCANE GRIMOIRE]]
+[[GRIMOIRE]]
 	Potions:
 		Bastard's Poison
 		Calming Salve

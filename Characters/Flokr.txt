@@ -33,15 +33,12 @@ He also plays Plattrægnall.
 
 
 
-[[ARCANE MAGIC]]
+[[GRIMOIRE]]
+	Potions: All advanced tier potions.
+
 	Illusion:
 		Illusion of Sight
 		Illusion of Sound
-
-	Magical Staves:
-		Gapaldur
-		Vegvisir
-		Toustefna
 
 	Arcane Spells:
 		Magic Missile
@@ -49,5 +46,10 @@ He also plays Plattrægnall.
 		Frostbolt
 
 	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
+
+	Intricate Magical Staves:
 		Helm of Awe
 		Lukkustafir

@@ -35,26 +35,17 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 
 
 
-[[ARCANE MAGIC]]
+[[GRIMOIRE]]
+	Potions: All powerful tier potions.
+
 	Illusion:
 		Illusion of Sight
 		Illusion of Sound
-
-	Magical Staves:
-		Gapaldur
-		Vegvisir
-		Toustefna
 
 	Arcane Spells:
 		Magic Missile
 		Sparks
 		Frostbolt
-
-	Intricate Magical Staves:
-		Helm of Awe
-		Lukkustafir
-		Shielding
-		Brynslustafir
 
 	Intricate Arcane Spells:
 		Bolt of Fire
@@ -62,9 +53,19 @@ He could brew potions, knowing how to brew almost all potions known in Fjalland.
 		Shield
 		Wind
 
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
+
+	Intricate Magical Staves:
+		Helm of Awe
+		Lukkustafir
+		Shielding
+		Brynslustafir
+
 	Necromancy:
 		Raise Zombie
-
 
 
 

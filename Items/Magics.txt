@@ -4,7 +4,8 @@ Magics:
 	- Seidr is a practice of foresight and altering luck. You must be born with these abilities to use this.
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
 	- Scroll Sorcery is when you make simple magic reading a chant from a scroll, made by a sorcerer.
-	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
+	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
+	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
 
 Spell amount to power scale reference for Arcane Magic (don't actually use this to power scale):
 	1-4:   Starting
@@ -104,7 +105,6 @@ By thinking on one of these effects, you infuse part of your power into somethin
 ====================================================================================================
 Arcane Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
-Magical Staves: Magical symbols drawn on wooden surfaces, will remain until the wood breaks or rots, or if the drawing is washed off.
 ====================================================================================================
 Illusion (novice, 1 week to learn):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
@@ -112,28 +112,11 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 	- Illusion of Bolt: A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
-Magical Staves (intermediate, 1 month to learn one stave):
-You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
-The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
-These are the staves you can make:
-	- Gapaldur:  Targets in a 20 meter range are physically stronger when bare-handed.
-	- Vegvisir:  Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
-	- Toustefna: This must be drawn on oak. Foxes are unwilling to go within 20 meters of this stave.
-----------------------------------------------------------------------------------------------------
 Arcane Spells (intermediate, 1 month to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Magic Missile: A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
 	- Sparks:        A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 	- Frostbolt:     A mote of frost shoots out of your hand towards where you are aiming at.
-----------------------------------------------------------------------------------------------------
-Intricate Magical Staves (expert, 2 months to learn one stave):
-You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
-The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
-These are the staves you can make:
-	- Helm of Awe:   Targets in a 20 meter range are physically stronger and more durable. They also feel more confident.
-	- Lukkustafir:   Scares away lesser demons and undead within a 20 meter range. Lesser demons and undead example: wraiths and zombies.
-	- Shielding:     There are five charges. All incoming projectiles that weigh less than 1 kg are blocked by a flash of light, which uses a charge. A charge recharges after one hour.
-	- Brynslustafir: The blades of targets within 20 meters will create a flash of blue light on contact, giving the struck thing a light burn.
 ----------------------------------------------------------------------------------------------------
 Intricate Arcane Spells (expert, 2 months to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
@@ -146,3 +129,26 @@ Necromancy (expert, 2 months to learn one spell):
 Necromancy is considered an evil practice by most people. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
 	- Control Mind: You must make direct eye contact with the person you want to control. As long as you are holding the two stones in your hand, the person will blindly follow your instructions.
 	- Raise Zombie: A corpse you are concentrating at is risen as a zombie, and will blindly follow your instructions.
+
+
+
+[[STAVE MAGIC]]
+====================================================================================================
+Magical Staves: Magical symbols drawn on wooden surfaces, will remain until the wood breaks or rots, or if the drawing is washed off.
+====================================================================================================
+Magical Staves (intermediate, 1 month to learn one stave):
+You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
+The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
+These are the staves you can make:
+	- Gapaldur:  Targets in a 20 meter range are physically stronger when bare-handed.
+	- Vegvisir:  Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
+	- Toustefna: This must be drawn on oak. Foxes are unwilling to go within 20 meters of this stave.
+----------------------------------------------------------------------------------------------------
+Intricate Magical Staves (expert, 2 months to learn one stave):
+You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
+The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
+These are the staves you can make:
+	- Helm of Awe:   Targets in a 20 meter range are physically stronger and more durable. They also feel more confident.
+	- Lukkustafir:   Scares away lesser demons and undead within a 20 meter range. Lesser demons and undead example: wraiths and zombies.
+	- Shielding:     There are five charges. All incoming projectiles that weigh less than 1 kg are blocked by a flash of light, which uses a charge. A charge recharges after one hour.
+	- Brynslustafir: The blades of targets within 20 meters will create a flash of blue light on contact, giving the struck thing a light burn.

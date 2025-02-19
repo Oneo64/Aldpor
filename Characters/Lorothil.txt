@@ -39,32 +39,34 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 
 
 
-[[ARCANE MAGIC]]
+[[GRIMOIRE]]
+	Potions: All advanced tier potions.
+
 	Illusion:
 		Illusion of Sight
 		Illusion of Sound
-
-	Magical Staves:
-		Gapaldur
-		Vegvisir
-		Toustefna
 
 	Arcane Spells:
 		Magic Missile
 		Sparks
 		Frostbolt
-
-	Intricate Magical Staves:
-		Helm of Awe
-		Lukkustafir
-		Shielding
-		Brynslustafir
 		
 	Intricate Arcane Spells:
 		Bolt of Fire
 		Suspension
 		Shield
 		Wind
+
+	Magical Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
+
+	Intricate Magical Staves:
+		Helm of Awe
+		Lukkustafir
+		Shielding
+		Brynslustafir
 
 
 
