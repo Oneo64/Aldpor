@@ -117,27 +117,27 @@ By thinking on one of these effects, you infuse part of your power into somethin
 Arcane Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
 ====================================================================================================
-Illusion (novice, 1 week to learn):
+Illusion (easy):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Illusion of Sight: A small illusory trinket appears on your hand.
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
-Arcane Spells (intermediate, 1 month to learn one spell):
+Arcane Spells:
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Strike:    A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
 	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 	- Frost:     A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
-Intricate Arcane Spells (expert, 2 months to learn one spell):
+Intricate Arcane Spells (harder to cast):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
 	- Hold:         An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
 	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
 	- Wind:         A strong burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
 ----------------------------------------------------------------------------------------------------
-Necromancy (expert, 2 months to learn one spell):
-Necromancy is considered an evil practice by most people. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
+Necromancy (harder to cast due to obscurity):
+Necromancy is considered an evil practice by most people. Because it's more obscure (attempts to hide or destroy it), it takes longer to learn a spell and harder to cast. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
 	- Control Mind: You must make direct eye contact with the person you want to control. As long as you are holding the two stones in your hand, the person will blindly follow your instructions.
 	- Raise Zombie: A corpse you are concentrating at is risen as a zombie, and will blindly follow your instructions.
 
