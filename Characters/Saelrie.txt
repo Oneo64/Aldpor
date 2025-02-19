@@ -40,8 +40,8 @@ Säelrie is immune to all poison and disease, due to druidic practices. She also
 		Elk (travel)
 		Raven (flight)
 
-	Bloom or Wither Flowers
-	Talk to Animals
-	Healing Palm
-	Cleanse Liquid
+	Bloom flowers or make them wither
+	Talk to animals
+	Heal wounds
+	Clense liquid of corruption
 	Shapeshift

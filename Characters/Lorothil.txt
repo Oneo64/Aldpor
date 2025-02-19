@@ -45,16 +45,11 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 	Illusion:
 		Illusion of Sight
 		Illusion of Sound
-
-	Arcane Spells:
-		Strike
-		Lightning
-		Frost
 		
-	Intricate Arcane Spells:
-		Bolt of Fire
-		Hold
-		Shield
+	Spells:
+		Explode
+		Mind-Read
+		Wall
 		Wind
 
 	Magical Staves:
@@ -67,6 +62,8 @@ Loroðil's silver circlet is enchanted. When Loroðil is attacked with a weapon 
 		Lukkustafir
 		Shielding
 		Brynslustafir
+
+	Strike
 
 
 

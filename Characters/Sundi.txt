@@ -26,9 +26,9 @@ Súndi speaks Fjallandic as his only language. He can also use a sword with 13 y
 
 
 [[SORCERY]]
-	Unexplained Effects:
-		Illusion of Sight
-		Illusion of Sound
+	Unexplained effects:
+		Fake imagery
+		Fake sounds
 
-	Elemental Control:
-		Bolt of Fire
+	Strike with fire and lightning:
+		Fire

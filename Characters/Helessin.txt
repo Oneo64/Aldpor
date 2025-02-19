@@ -28,10 +28,10 @@ Helessin was born a sorcerer, and can cast magic on will. He can also speak flue
 
 
 [[SORCERY]]
-	Unexplained Effects:
+	Unexplained effects:
 		Fake imagery
 		Fake sounds
 
-	Elemental Control:
+	Strike with fire and lightning:
 		Fire
 		Lightning

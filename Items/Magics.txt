@@ -3,17 +3,9 @@ Magics:
 	- Druidry incantations are spoken in Druidic, and are all nature-based.
 	- Seidr is a practice of foresight and altering luck.
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
-	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
+	- Scholarly Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
 	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
-
-Regional Differences: Druidry and stave magics are most commonly practiced in the northern and central regions. Arcane magics are more common in the southmost regions, especially in middle-eastern kingdoms like Tarib. Because sorcery is an innate power, it remains as a worldwide thing.
-
-Spell amount to power scale reference for Arcane Magic (don't actually use this to power scale):
-	1-4:   Starting
-	5-10:  Average
-	11-12: Above average
-	13-14: Strong
-	15+:   Master
+	- Gu is evil magic practiced by yuan-ti, and is prevalent in southern regions.
 
 
 
@@ -134,18 +126,17 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
-Spells:
-By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Strike:    A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a mace.
-	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at.
-	- Frost:     A mote of frost shoots out of your hand towards where you are aiming at.
+Strike:
+By holding a piece of labradorite and speaking an incantation, you cause a shimmering streak of white force to shoot out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a mace.
 ----------------------------------------------------------------------------------------------------
-Intricate Spells (harder to cast):
+Spells (harder to cast):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote will ignite anything flammable.
-	- Hold:         You point your palm at something that's lighter than an adult ox. That thing will then start to move slowly, and will fall slower to the ground. If that thing is hit by something fast-moving, the spell stops functioning. You can do this to yourself too, and can end it any time.
-	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
-	- Wind:         A strong burst of wind comes out of your hand.
+	- Explode:   A point you're pointing at starts to glow with a speck of golden color. If maintained for several seconds, it explodes like a firecracker.
+	- Mind-Read: By chanting and staring at someone's forehead, you hear your own voice tell you what they are thinking.
+	- Hold:      You point your palm at something that's lighter than an adult ox. That thing will then start to move slowly, and will fall slower to the ground. If that thing is hit by something fast-moving, the spell stops functioning. You can do this to yourself too, and can end it any time.
+	- Shield:    A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
+	- Wall:      A faint shimmering dome appears at a spot you choose. The dome cannot be penetrated easily. If an arrow landed on this, it would probably make it halfway through before getting stuck in it. The wall can also appear in doorways, hallways, or anywhere if all four edges of the wall are completely inside something else.
+	- Wind:      A strong burst of wind comes out of your hand.
 ----------------------------------------------------------------------------------------------------
 Necromancy (harder to cast due to obscurity):
 Necromancy is considered an evil practice by most people. Because it's more obscure (attempts to hide or destroy it), it takes longer to learn a spell and harder to cast. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
@@ -172,3 +163,18 @@ These are the staves you can make:
 	- Lukkustafir:   Scares away lesser demons and undead. Lesser demons and undead example: wraiths and zombies.
 	- Shielding:     There are five charges. All incoming projectiles as heavy as a sword or lighter are blocked by a flash of light, which uses a charge. The stave slowly regains it's charges back. If all charges were used at dawn, the stave usually regains them at dusk.
 	- Brynslustafir: The blades of targets will create a flash of blue light on contact, giving the struck thing a light burn.
+
+
+
+[[GU MAGIC]]
+====================================================================================================
+Gu magic is another shamanic practice that's mainly used by yuan-ti, and is prevalent in southern regions. It's basically poisons that's given magical properties. Usually the magic ends as soon as the affected person falls asleep or loses consciousness. Basically: it's evil.
+====================================================================================================
+Bewitch their family to sickness:
+When someone who consumes this poison, their whole family (not including external family) is bewitched to catch a cold.
+----------------------------------------------------------------------------------------------------
+Charm and seduce:
+When someone who consumes this poison, they go into an unnoticeable trance-like state where they will follow your orders because you're "beautiful".
+----------------------------------------------------------------------------------------------------
+Charm and seduce into terrible illness:
+When someone who consumes this poison, they will enter a trance-like state where they are sexually aroused. They will also begin to think about you almost non-stop, and imagine you in their mind.

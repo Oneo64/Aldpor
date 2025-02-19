@@ -36,12 +36,12 @@ He is a seer-druid, meaning he is a seer, and also practices druidry which was t
 
 
 [[DRUIDRY]]
-	Bloom or Wither Flowers
-	Talk to Animals
-	Healing Palm
+	Bloom flowers or make them wither
+	Talk to animals
+	Heal wounds
 
 
 
 [[SEIDR]]
-	Look for Omens
-	Foresight
+	Scour for the unseen omens
+	Scour for deeper omens

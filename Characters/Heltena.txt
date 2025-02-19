@@ -26,6 +26,6 @@ Heltena is a seeress, meaning she practices Seidr. She also practices knife-thro
 
 
 [[SEIDR]]
-	Look for Omens
-	Foresight
-	Shift Luck
+	Scour for the unseen omens
+	Scour for deeper omens
+	Bless them luck or curse them illness
