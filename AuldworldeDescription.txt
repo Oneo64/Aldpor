@@ -14,7 +14,7 @@ Cold elves evolved from moon elves.
 
 Humans evolved from cold elves.
 
-Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans. They are more likely to worship Jalfar, or Hirulfyr.
+Dwarves had human ancestors. They have a greater ambition than humans, making them desire more wealth and power. So they took on mining, as it was the safest way to gain gold, silver and crystals without danger. From long periods of time being in dark areas and mining, their skin has gone very white, and their hair has gone very blonde or red, brighter than most humans. They also have the same lifespan of humans.
 
 Dwarves have multiple kings. Each king usually handles a part of the kingdom, like a pantheon. One of the dwarven king will be the kings leader. Examples: One king handles the kingdom's army, one handles imports and exports, one handles economy etc.
 
@@ -27,27 +27,6 @@ Average lifespans:
 	Cold Elf:	120-140
 	Orc:		60-80
 	Troll:		40-60
-
-
-
-[[MAGIC]]
-Magic is subtle, and is not flashy/dramatic.
-
-Magic items exist in this world, and there are two ways of making one. The first way is by soaking the item in potion, and the second way is by casting Imbuement on the item. (See "MagicSystemAndSpells.txt")
-
-Druids are like normal people, except for a few things: they are vegetarian (NOT vegan!), and they are most likely to worship Talmundur, or less commonly Lünanyr.
-
-Magics:
-	- Druidic magic is basically wizard magic without study and using fey magic instead of directly accessing the Plane of Magic.
-
-	- Seer magic is when you take the essence of any god other than Parhrügi to make magic.
-	- Some people are innately seers by leaning towards Lünanyr or Hirulfyr, such as Vielthöri Aldriàndel.
-
-	- Sorcery is when you can make simple magic happen by whim, by being magically attuned to Jalfar.
-
-	- Wizard magic is when you make access the Plane of Magic by speaking in Primordial, doing gestures, and holding materials.
-
-	- People who are born magically attuned to a god are rare, being around one in a million (literally, no pun intended).
 
 
 

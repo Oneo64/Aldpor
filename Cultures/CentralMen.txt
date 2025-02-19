@@ -28,5 +28,5 @@ Aesthetic/base: Roman, Byzantine
 
 [[SUPERSTITIONS]]
 	Gems, gemstones and crystals:
-		Amber - Believed to repel evil spirits, associated with Jalfar
+		Amber - Believed to repel evil spirits, associated with Jallfaran
 		Jade  - Associated with Vel
