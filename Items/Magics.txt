@@ -1,10 +1,12 @@
 [[OVERVIEW]]
 Magics:
 	- Druidry incantations are spoken in Druidic, and are all nature-based.
-	- Seidr is a practice of foresight and altering luck. You must be born with these abilities to use this.
+	- Seidr is a practice of foresight and altering luck.
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
 	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
 	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
+
+Regional Differences: Druidry and stave magics are most commonly practiced in the northern and central regions. Arcane magics are more common in the southmost regions, especially in middle-eastern kingdoms like Tarib. Because sorcery is an innate power, it remains as a worldwide thing.
 
 Spell amount to power scale reference for Arcane Magic (don't actually use this to power scale):
 	1-4:   Starting
@@ -39,6 +41,8 @@ Large: Around the size of your hand
 
 [[DRUIDRY]]
 ====================================================================================================
+Druidry is most commonly associated with femininity. This magic is shamanic, found in northern and central regions.
+====================================================================================================
 Bloom flowers or make them wither (easy):
 By touching a plant and speaking an incantation, you can instantly make a flower blossom, a seed pod open, or a leaf bud bloom. Alternatively, you can make them wither or turn them into ash.
 ----------------------------------------------------------------------------------------------------
@@ -57,6 +61,8 @@ By holding a small piece of jade or malachite in your hand and speaking an incan
 
 
 [[SEIDR]]
+====================================================================================================
+Another feminine magic. This magic is also shamanic, found in northern and central regions.
 ====================================================================================================
 Scour for the unseen omens (easy):
 By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
@@ -89,15 +95,18 @@ By holding a small piece of amber in your hand and speaking an incantation, you 
 
 [[SORCERY]]
 ====================================================================================================
+Sorcery is innate magic that someone can produce innately, without needing learning or education. A sorcerer slowly gains in power the older they get, mainly because they have witnessed more things that happened. Sorcery typically has an effective range of fourty-four cubits.
+====================================================================================================
 Unexplained effects (young):
 By thinking and concentrating an effect to happen at your hands, you can cause one of these effects to happen:
 	- Fake imagery: A small illusory trinket appears on your hand.
 	- Fake sounds:  A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
+	- Gargle:       An illusion of a disproportionate monstrosity or thing warps and distorts at your hand if you're not concentrating.
 ----------------------------------------------------------------------------------------------------
 Strike with fire and lightning (adult):
 By thinking and concentrating an effect to happen, you can cause one of these effects to happen:
-	- Fire:      A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Fire:      A small speck of fire shoots out of your hand and bursts on contact. This fire mote will ignite anything flammable, but will disappear before it can reach twenty meters.
+	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc usually has a short range.
 ----------------------------------------------------------------------------------------------------
 Power of the wise (elderly):
 The sorcery you cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
@@ -112,9 +121,11 @@ By thinking on one of these effects, you infuse part of your power into somethin
 
 
 
-[[ARCANE MAGIC]]
+[[SCHOLARLY MAGIC]]
 ====================================================================================================
-Arcane Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
+Scholarly magic is magic that is learned through education. This type of magic is most commonly found in southern regions such as Tarib. Scholarly magic typically has an effective range of fourty-four cubits.
+
+Spells: Spells that are cast by holding a piece of labradorite and speaking incantations. Most of these spells aren't powerful enough to easily break through a wooden shield.
 Necromancy: Spells that are cast by holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation. These spells are considered evil by most people.
 ====================================================================================================
 Illusion (easy):
@@ -123,18 +134,18 @@ By making a strange hand gesture with your other hand and speaking an incantatio
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
 	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
-Arcane Spells:
+Spells:
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Strike:    A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
-	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Strike:    A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This projectile strikes like a mace.
+	- Lightning: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at.
 	- Frost:     A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
-Intricate Arcane Spells (harder to cast):
+Intricate Spells (harder to cast):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
-	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- Hold:         An object lighter than 100 kgs that your hand is facing is suspended of most movement, and will fall slowly to the ground. You can do this to your self, and can end it any time.
+	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote will ignite anything flammable.
+	- Hold:         You point your palm at something that's lighter than an adult ox. That thing will then start to move slowly, and will fall slower to the ground. If that thing is hit by something fast-moving, the spell stops functioning. You can do this to yourself too, and can end it any time.
 	- Shield:       A faint shimmering dome forms around your hand. This dome will cause all incoming attacks to bounce off, but will disappear once it has been blocked. Larger projectiles or attacks, such as a catapult rock or a giant's fist cannot be bounced off. Instead, it causes you to be sent flying backwards.
-	- Wind:         A strong burst of wind comes out of your hand, pushing everyone in a 10 meter cone backwards.
+	- Wind:         A strong burst of wind comes out of your hand.
 ----------------------------------------------------------------------------------------------------
 Necromancy (harder to cast due to obscurity):
 Necromancy is considered an evil practice by most people. Because it's more obscure (attempts to hide or destroy it), it takes longer to learn a spell and harder to cast. By holding a piece of onyx in one hand, a piece of obsidian in another, and speaking an incantation, you can cause one of these effects to happen:
@@ -145,21 +156,19 @@ Necromancy is considered an evil practice by most people. Because it's more obsc
 
 [[STAVE MAGIC]]
 ====================================================================================================
-Magical Staves: Magical symbols drawn on wooden surfaces, will remain until the wood breaks or rots, or if the drawing is washed off.
+Stave magic is magic that is activated by a symbol drawn on a surface. This type of magic is most commonly found in the northmost areas, such as Fjalland, Esrelu, and Vuntarla. Stave magic typically has an effective range of fourty-four cubits.
 ====================================================================================================
 Magical Staves:
-You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
-The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
+You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red. The drawing can't be washed off by clear mundane water, but examples that can wash it off are: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 These are the staves you can make:
-	- Gapaldur:  Targets in a 20 meter range are physically stronger when bare-handed.
-	- Vegvisir:  Targets in a 20 meter range are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
-	- Toustefna: This must be drawn on oak. Foxes are unwilling to go within 20 meters of this stave.
+	- Gapaldur:  Targets are physically stronger when bare-handed.
+	- Vegvisir:  Targets are more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
+	- Toustefna: This must be drawn on oak. Foxes are unwilling to go near stave, and will feel paranoid/unease if they cannot leave the presence of this stave.
 ----------------------------------------------------------------------------------------------------
 Intricate Magical Staves (requires effort or practice to draw):
-You can create a magical stave by drawing a symbol on a wood surface with coal, then say an incantation to activate it. The runic staves are about half a meter in radius and will glow slightly red. The drawing cannot be washed off by clear mundane water but can be removed by: vinegar/brine, saltwater, magical water, oil, tar, and blood.
-The incantation will include what the stave will do, and who will be effected by it. Whoever is affected can be described a mix of: name, physical appearance, clothing, medical condition, race, ethnicity, age.
+You can create a stave by drawing a symbol on a surface with coal, and describe whoever is affected by writing it around the stave. The runic staves are about half a meter in radius and will glow slightly red. The drawing can't be washed off by clear mundane water, but examples that can wash it off are: vinegar/brine, saltwater, magical water, oil, tar, and blood.
 These are the staves you can make:
-	- Helm of Awe:   Targets in a 20 meter range are physically stronger and more durable. They also feel more confident.
-	- Lukkustafir:   Scares away lesser demons and undead within a 20 meter range. Lesser demons and undead example: wraiths and zombies.
-	- Shielding:     There are five charges. All incoming projectiles that weigh less than 1 kg are blocked by a flash of light, which uses a charge. A charge recharges after one hour.
-	- Brynslustafir: The blades of targets within 20 meters will create a flash of blue light on contact, giving the struck thing a light burn.
+	- Helm of Awe:   Targets are physically stronger and more durable. They also feel more confident.
+	- Lukkustafir:   Scares away lesser demons and undead. Lesser demons and undead example: wraiths and zombies.
+	- Shielding:     There are five charges. All incoming projectiles as heavy as a sword or lighter are blocked by a flash of light, which uses a charge. The stave slowly regains it's charges back. If all charges were used at dawn, the stave usually regains them at dusk.
+	- Brynslustafir: The blades of targets will create a flash of blue light on contact, giving the struck thing a light burn.
