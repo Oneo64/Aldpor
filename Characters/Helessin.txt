@@ -33,8 +33,5 @@ Helessin was born a sorcerer, and can cast magic on will. He can also speak flue
 		Illusion of Sound
 
 	Elemental Control:
-		Firebolt
-		Sparks
-		Greater Illusion of Sound
-
-	Create Scroll
+		Bolt of Fire
+		Lightning

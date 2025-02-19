@@ -13,7 +13,7 @@ Oddir is a human from Lismerlaf. He has long red wavy hair, trimmed beard, brown
 
 Oddir wears a tan triangular fur cap, a brown tunic with vibrant blue accents, dark brown pants, a belt, and a pair of boots. He has a 12-inch seax sheathed on his belt, and a coin purse. He wears an iron Talmundúr amulet.
 
-He has a pouch slung across his shoulder, which contains two spell scrolls that he can use. One contains the spell Elemental Control: Sparks, the other contains the spell Elemental Control: Firebolt.
+He usually travels with a spear, using it to protect his boat.
 
 He also owns a longship, and trades along the Saequor-Lismerlaf trade route. He mainly exports wool and rye.
 
@@ -25,4 +25,4 @@ Oddir is a strict man, setting rules for anyone he takes with him on his boat wh
 
 
 [[ABILITIES]]
-As a trader, Oddir is able to speak both Fjallandic and Centrumic (English) with near fluency. He also learned how to use scroll magic, in order to protect his ship and its cargo from theft.
+As a trader, Oddir is able to speak both Fjallandic and Centrumic (English) with near fluency.

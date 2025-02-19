@@ -31,6 +31,4 @@ Súndi speaks Fjallandic as his only language. He can also use a sword with 13 y
 		Illusion of Sound
 
 	Elemental Control:
-		Firebolt
-		Sparks
-		Greater Illusion of Sound
+		Bolt of Fire

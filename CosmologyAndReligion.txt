@@ -25,7 +25,7 @@ Deities:
 		Other names: Lûnania (Aodesvu), Lunara (Centruma), Lomathelis (Rànûdel), Luunakir (Banod, Glomdur), Lorazin (Mornesvid)
 		Commonly worshipped by: Aodesvic Men
 
-	Jalfar:
+	Jallfaran:
 		Domain:      God of Creation and Destruction
 		Symbol:      An eye
 		Other names: Yulvis (Aodesvu), Agarius (Centruma), Yiisessil (Rànûdel), Yorvar (Banod, Glomdur), Edorfil (Mornesvid)

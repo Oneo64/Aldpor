@@ -3,7 +3,6 @@ Magics:
 	- Druidry incantations are spoken in Druidic, and are all nature-based.
 	- Seidr is a practice of foresight and altering luck. You must be born with these abilities to use this.
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
-	- Scroll Sorcery is when you make simple magic reading a chant from a scroll, made by a sorcerer.
 	- Arcane Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
 	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
 
@@ -13,6 +12,17 @@ Spell amount to power scale reference for Arcane Magic (don't actually use this 
 	11-12: Above average
 	13-14: Strong
 	15+:   Master
+
+
+
+[["SUPPOSED" LORE]]
+It is believed that thousands of years prior, all onyxes are shattered pieces of Jallfaran's burnt finger when it fell and crashed onto the world, after being severed when he tried to move the sun into place. Amber is also a mix of Jallfaran's sweat and tear drops hardened after they fell into a pool of tar.
+
+All labradorites in the world were created when the god Parhrúgi sneezed upon the world. His mucus hardened into many small rocks as it minglinged with soil and sand, and were all absorbed into the ground.
+
+Some of Parhrúgi's mucus fell into Furnalfa instead, which became malachite and jade. Centaurs carried these believing they possess the spirits of dead animals that would "guide" them through life.
+
+After the events of these, it's believed that the world was first inhabited by fey. Then, there was a war and all the centaurs that carried malachite and jade were killed by moon elves (over whether Hærrulfyr (or Ainassare as the elves called him) was better than Lúnanyr (or Lomathelis as the centaurs called him)), and their gemstones sunk into the ground. After the gemstones sunk into the ground, they say that the centaur's gemstones begun to grow and multiply really slow as if they were animals.
 
 
 
@@ -29,16 +39,16 @@ Large: Around the size of your hand
 
 [[DRUIDRY]]
 ====================================================================================================
-Bloom or Wither Flowers (novice):
+Make flowers bloom or wither (novice):
 By touching a plant and speaking an incantation, you can instantly make a flower blossom, a seed pod open, or a leaf bud bloom. Alternatively, you can make them wither or turn them into ash.
 ----------------------------------------------------------------------------------------------------
-Talk to Animals (novice):
+Talk to animals (novice):
 By speaking in Druidic or Sylvan, you can talk to animals. The animals will be able to hear and understand you. However, the animal cannot speak back.
 ----------------------------------------------------------------------------------------------------
-Healing Palm (intermediate):
+Heal wounds (intermediate):
 By holding a beaded wooden bracelet in your other hand, and hovering your palm over an open wound on a creature, you can slowly heal that wound. If the wound would naturally result with a scar, then the wound healed would result with a scar. A small cut is healed instantly, however a wound such as a sword slash can take tens of minutes.
 ----------------------------------------------------------------------------------------------------
-Cleanse Liquid (intermediate):
+Make liquid safe to drink (intermediate):
 By speaking an incantation and sticking a finger into a liquid contained in a mug, tankard, drinking horn, bowl, or anything similar, you can clean that liquid of all harmful substances such as poisons and dirt.
 ----------------------------------------------------------------------------------------------------
 Shapeshift (expert):
@@ -48,7 +58,7 @@ By holding a small piece of jade or malachite in your hand and speaking an incan
 
 [[SEIDR]]
 ====================================================================================================
-Look for Omens (novice):
+Look for omens (novice):
 By holding beaded amber bracelet in your hand and speaking a chant, you start to hallucinate subtle omens. Hallucinary omens could include:
 	- Crows and ravens surrounding someone or a location for bad luck
 	- One or two crows or ravens surrounding someone for good luck
@@ -66,7 +76,7 @@ By holding beaded amber and jade bracelet in your hand and speaking a chant, you
 	- Feeling warm for a drought
 	- A black aura surrounding someone or a location for dread/evil
 ----------------------------------------------------------------------------------------------------
-Shift Luck (intermediate):
+Shift luck (intermediate):
 By chanting in an incantation and staring at a living target, you can either make them slightly luckier or unluckier.
 ----------------------------------------------------------------------------------------------------
 Shapeshift (expert):
@@ -83,21 +93,19 @@ By thinking and concentrating an effect to happen at your hands, you can cause o
 ----------------------------------------------------------------------------------------------------
 Elemental Control (adult):
 By thinking and concentrating an effect to happen, you can cause one of these effects to happen:
-	- Firebolt: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
-	- Sparks: A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
-	- Greater Illusion of Sound: A faint, short sound happens at a point you can see and hear, such as the sound of glass shattering, footsteps, or voices.
+	- Bolt of Fire: A small speck of fire shoots out of your hand and bursts on contact. This fire mote has a range of 40 meters, will ignite anything flammable.
+	- Lightning:    A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
 ----------------------------------------------------------------------------------------------------
-Elderly Power (elderly):
+Elderly's Power (elderly):
 The sorcery you can cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
-----------------------------------------------------------------------------------------------------
-Create Scroll (requires intermediate arcane research):
-After writing arcane symbols and runes in a scroll, you infuse part of your power into that scroll. Once this is done, anyone can use this scroll as a new type of magic practice called Scroll Sorcery. You can only create one scroll per day, as you won't have enough power to create another.
 ----------------------------------------------------------------------------------------------------
 Create Artefact (requires intermediate arcane research):
 By thinking on one of these effects, you infuse part of your power into something that can be worn. Once this is done, anyone can wear this thing and use it's power. You can only create one per day, as you won't have enough power to create another.
 	- Nightvision: Wearers will gain subtle nightvision.
-	- Resistance: Wearers will become more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
-	- Strength: Wearers will become physically stronger and more durable.
+	- Resistance:  Wearers will become more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
+	- Strength:    Wearers will become physically stronger and more durable.
+	- Will:        Wearers will become resistant to possession or supernatural influences on the mind.
+	- Unexplainatory effects: If you aren't focusing on one of the four above, the thing might gain a random unknown effect.
 
 
 
@@ -110,13 +118,13 @@ Illusion (novice, 1 week to learn):
 By making a strange hand gesture with your other hand and speaking an incantation, you can cause one of these effects to happen:
 	- Illusion of Sight: A small illusory trinket appears on your hand.
 	- Illusion of Sound: A faint, short sound happens at your hands, sound of glass shattering, footsteps, or voices.
-	- Illusion of Bolt: A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
+	- Wispy blast:       A small, white wispy blast shoots out of your hand. This blast is only illusory, which means it's harmless.
 ----------------------------------------------------------------------------------------------------
 Arcane Spells (intermediate, 1 month to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
 	- Magic Missile: A streak of force shoots out of your hand towards where you are aiming at, and strikes in a faint flash of light. This magic missile has a range of 40 meters, and has the damaging capacity of a mace strike.
-	- Sparks:        A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
-	- Frostbolt:     A mote of frost shoots out of your hand towards where you are aiming at.
+	- Lightning:     A thin arc of electricity zaps out of your hand and strikes whatever you are pointing at. This arc has a range of 40 meters.
+	- Frost:         A mote of frost shoots out of your hand towards where you are aiming at.
 ----------------------------------------------------------------------------------------------------
 Intricate Arcane Spells (expert, 2 months to learn one spell):
 By holding a piece of labradorite and speaking an incantation, you can cause one of these effects to happen:
