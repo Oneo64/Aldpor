@@ -5,7 +5,7 @@ Magics:
 	- Sorcery is when you can make simple magic happen by whim. You must be born with these abilities to use this.
 	- Scholarly Magic is a practice where magic is made by doing gestures, speaking an incantation, and holding materials. Wizards usually study at a school to learn this magic.
 	- Stave Magic is a practice where a magical symbol is drawn on a surface. If someone is rich enough, they can buy a book or scroll that contain stave-making instructions.
-	- Gu is evil magic practiced by yuan-ti, and is prevalent in southern regions.
+	- Gu is evil magic practiced by demi-humans, and is prevalent in southern regions.
 
 
 
@@ -168,7 +168,7 @@ These are the staves you can make:
 
 [[GU MAGIC]]
 ====================================================================================================
-Gu magic is another shamanic practice that's mainly used by yuan-ti, and is prevalent in southern regions. It's basically poisons that's given magical properties. Usually the magic ends as soon as the affected person falls asleep or loses consciousness. Basically: it's evil.
+Gu magic is another shamanic practice that's mainly used by demi-humans, and is prevalent in southern regions. It's basically poisons that's given magical properties. Usually the magic ends as soon as the affected person falls asleep or loses consciousness. Basically: it's evil.
 ====================================================================================================
 Bewitch their family to sickness:
 When someone who consumes this poison, their whole family (not including external family) is bewitched to catch a cold.

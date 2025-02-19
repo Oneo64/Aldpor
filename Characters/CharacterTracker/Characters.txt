@@ -61,5 +61,5 @@ Dryad:
 Trolls:
 	Vriitiwaz
 
-Yuan-Ti:
+Demi-Humans:
 	Yelestina
