@@ -38,14 +38,3 @@ Jadeblossom:
 
 Practal Gorbry:
 	Practal Gorbries are a bush. Their flowers are muted red. Their fruits are soft, and are colored red and yellow like an apple, and are in the shape of an ball and size of a grape.
-
-
-
-[[ITEMS]]
-
-Arcane Scroll:
-	An arcane scroll is a scroll, usually made of vellum. In order to use an arcane scroll, you must be holding it in one hand, the second hand free for the spell effect. A scroll is written in arcane symbols and runes, which must be spoken for the spell to take affect.
-
-	After then, the scroll becomes inactive for about an hour.
-
-	To make an arcane scroll, a sorcerer use Create Scroll as described in "Magics.txt".

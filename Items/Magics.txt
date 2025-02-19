@@ -103,7 +103,7 @@ By thinking and concentrating an effect to happen, you can cause one of these ef
 Power of the wise (elderly):
 The sorcery you cause now has a new power: they can happen not just from your hands, but anywhere within a 5 meter radius that you can see and concentrate on.
 ----------------------------------------------------------------------------------------------------
-Create Artefact (requires intermediate arcane research):
+Create Artefact (requires intermediate scholarly research):
 By thinking on one of these effects, you infuse part of your power into something that can be worn. Once this is done, anyone can wear this thing and use it's power. You can only create one per day, as you won't have enough power to create another.
 	- Nightvision: Wearers will gain subtle nightvision.
 	- Resistance:  Wearers will become more resilient to cold weather, wind and rain, won't be soaked as easily, and are more unlikely to be struck by lightning.
