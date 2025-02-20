@@ -6,7 +6,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 	Mountains:							Fire Elemental, Frost Dragon
 	Snowy Mountains:					Frost Dragon, Ice Elemental
 
-	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr (rare)
+	All Forests:						Centaur (they are more prominent in some forests), Gvarth (rare), Satyr
 	Jungles:							Daeva, Manticore
 	Centrumic Forests:					Great Leafbug
 	Dwarven Forests:					Great Leafbug
@@ -37,6 +37,8 @@ Glimmering Moth:
 	Abilities:
 		Glimmering Moths can fly at a speed of 10 meters a second. They are herbivorous, and they eat moonshrooms.
 
+
+
 Great Leafbug:
 	Great leafbugs can be found in the dwarven and Centrumic forests.
 
@@ -50,22 +52,14 @@ Great Leafbug:
 
 
 
-====================================================================================================
-CONSTRUCTS
-----------------------------------------------------------------------------------------------------
-Constructs are made from magic.
-====================================================================================================
-
-Golem:
-	Golems appear as a medium humanoid.
+Manticore (large beast):
+	A manticore lives in jungles or lives with a daeva tribe.
 
 	Appearance:
-		Golems are medium humanoids that are made of loose material, such as sand, pebbles, gravel, dirt, powder, or a mix of the listed materials.
+		A manticore appears to have the head of a man, the body of a lion, and the tail of a scorpion. It's tail has a stinger similar to a porcupine quill. It's eyes are vibrant blue, it's hair is the color of blood, and they have three rows of sharp teeth. Their main diet is human meat.
 
 	Abilities:
-		Golems can use weapons, but are incapable of thought or emotion. They understand all languages their creator spoke when the golem was made, and will follow only the commands of the creator plus anyone the creator has permitted.
-
-		Golems memory are very short, and can only remember anything that happened in the past ten minutes except for commands, who their creator is, and who the creator has permitted command of the golem.
+		A manticore usually swallows a person whole and digests the body in their stomach. They can fire the stinger on their tail, which hurts like a metal arrow and causes numbness to spread over the bodies of anyone who gets shot. The tail's stinger regrows in about a day. They cannot be burnt by ordinary fire.
 
 
 
@@ -79,34 +73,16 @@ Daeva (large fiend):
 	A daeva is a demon, found mostly in hot regions. They are said to be manifestations of pure evil.
 
 	Appearance:
-		A daeva appears as a large humanoid. Their skin can be any vibrant color. Daevas have the tusks of a boat, and has the short horns of a goat, or the long curled horns of a sheep. They are mostly flat-faced. Their eyes appear to be normal, exept the whites of their eyes are actually yellow. They are mostly active during the night.
+		A daeva is a towering human-like demon. They have mostly blue skin, but some have red skin. They have tusks like a boar, and have horns like a goat or a sheep. Their eyes appear to be normal, exept the whites of their eyes are yellow. They have flat faces.
 
-		Daevas tend to wear only a skirt.
-
-	Abilities:
-		Daevas are stronger and more durable than normal men. They mostly favor the scimitar, using iron to make them.
-		Daevas are also able to consume the corpse of a human or elf, healing itself in the process.
-
-		Some daevas are able to use an innate magic, who can give a sleeping enemy they can see a nightmare. These daevas are usually the leaders of their group, if they are in one.
-
-		When daevas are in daylight, they feel weak, and cannot see, or hear as good. During the night, their strength is at peak, and they will start to slowly regenerate wounds and lost limbs. They are also able to see in the dark.
-
-		Daevas speak Abyssal, and they mostly live in small groups, which mostly ranges from 3 to 20 members.
-
-
-
-Manticore (large fiend):
-	A manticore is a demon, they are usually found either in jungles, or living with a daeva trive. They are said to be manifestations of pure evil.
-
-	Appearance:
-		A manticore appears to have the head of a man, the body of a lion, and the tail of a scorpion. It's tail has a stinger similar to a porcupine quill. It's eyes are vibrant blue, it's hair is the color of blood, and they have three rows of sharp teeth.
+		Daevas usually wear just a skirt and nothing else. Daevas are mostly active during the night.
 
 	Abilities:
-		A manticore usually swallows a person whole, and is able to digest the whole body.
+		Daevas are stronger and more durable than normal men. They can consume the corpse of a human or elf, healing itself in the process. Some of them can use magic and give a sleeping enemy they can see a nightmare, in addition to having sorcerous magic. If these sorcerous daevas are in a group, they are usually the leader.
 
-		Their bodies are resistant to fire, and is able to quickly absorb blood.
+		Daevas are weak in daylight and cannot see or hear as good. Their strength is at peak only at night, especially when there is a full moon. They are also able to see in the dark.
 
-		They can also fire the stinger on their tail, which hurts like a metal arrow and causes numbness to spread over the body. The tail's stinger can regrow in about a day.
+		Daevas speak Abyssal, and they mostly live in small groups, which can go from a few to twenty members.
 
 
 
@@ -282,16 +258,14 @@ Gvarth (huge fey):
 
 
 
-Satyr (medium fey):
-	A satyr is a goatman found in Furnalfa, and rarely, Talygva (material plane). They are more like nomads, and they travel in small groups of about 20 satyrs.
+Satyr (medium fiend):
+	A satyr is a goatman who roams forests and mountains.
 
 	Description:
-		A satyr is a goatman, with the body of a human and the legs of a goat. They also have goat horns.
-		
-		Satyrs matures by 20, and lives up to 100 years old.
+		A satyr is a goatman. They have the body of a man, the legs of a goat, a flimsy tail like a horse, and small goat horns that protrude from their foreheads. Their genitals are always either erect or at least extremely large. They are usually always trying to get drunk, cause mischief or chaos, and mostly engage in sexual behavior. They are also always trying to seduce women, not caring for their race and species unless they're not humanoid.
 
 	Abilities:
-		Satyrs are able to speak Sylvan.
+		Satyrs can live twice as long as a human, similar to a moon elf. They can speak Sylvan.
 
 
 
