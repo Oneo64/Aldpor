@@ -17,7 +17,7 @@ Creature Habitats (if an animal isn't present here, then they will follow their 
 
 	Urban:								Ghost, Golem
 
-	Furnalfa:							Centaur, Dryad, Faerie Hare, Gvarth, Satyr, Sprite
+	Furnalfa:							Centaur, Dryad, Faerie Hare, Gvarth, Satyr
 	Plane of Earth and Stone:			Earth Elemental, Stone Elemental
 
 
@@ -266,21 +266,6 @@ Satyr (medium fiend):
 
 	Abilities:
 		Satyrs can live twice as long as a human, similar to a moon elf. They can speak Sylvan.
-
-
-
-Sprite (tiny fey):
-	A sprite is a tiny humanoid found in sprite communities and villages in Furnalfa.
-
-	Description:
-		A sprite appears to be a tiny cold elf of wood variant, averaging around 20 centimeters tall.
-
-		Sprites matures by 5, and lives up to 30 years old.
-
-	Abilities:
-		A sprite is able to turn invisible, and they can know a creature's emotional state and moralities by touching them.
-
-		Sprites are able to speak Sylvan.
 
 
 

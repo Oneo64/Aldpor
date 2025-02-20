@@ -1,6 +1,3 @@
-Behaviour patterns:
-	Sprite villages are usually small wooden houses made of twigs and thatch built on trees. A tree is usually enough to sustain a sprite village. Sprite villages are never built on trees that have a dryad bound to it.
-
 Preferred weapons:
 	Magic
 
