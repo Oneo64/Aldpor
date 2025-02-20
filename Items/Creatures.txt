@@ -324,10 +324,12 @@ Draugr (medium undead):
 
 		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt.
 
-		Usually when a draugr in their burial place rises, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising.
+		Usually when a draugr in their burial place rises, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising. Other than killing animals, a draugar rarely attacks anyone unless they invaded their tomb.
 
 	Abilities:
-		Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or spiritually attacked. To kill a draugr, their head must be decapitated or removed. Moonlight weakens them.
+		Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or exorcised. To kill a draugr, their head must be decapitated or removed.
+
+		Some draugar, like Joki's description of them, had the ability to vanish into the air and appear elsewhere. Others could turn their heads a full circle around, or enter the dreams of other people. Some were said to practice Seidr and curse anyone who tried to enter their domain.
 
 		Draugar can still speak, but their voice sounds raspy and deep.
 
