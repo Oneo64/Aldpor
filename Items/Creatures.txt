@@ -273,20 +273,12 @@ Gvarth (huge fey):
 	Gvarths are sentient trees created from normal living trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
 	Description:
-		A gvarth looks like a regular tree, some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Most gvarths have a trunk size of wider than 1.5 meter in diameter.
+		A gvarth is a towering tree with the size of an oak, and are indistinguishable from normal trees. Some gvarths are adorned with dark green banners or carved with sylvan and druidic runes.
 
 	Abilities:
-		The gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
+		Gvarths move by having it's roots move in the dirt like the oars of a boat. Their branches are like boneless arms or whips, and can lash out with the force of a mace. They rely on sensing their targets instead of seeing them, which means they can "see" in the dark.
 
-		Gvarths are unable to move onto or across hard surfaces such as stone, but the gvarth can leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
-
-		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
-
-		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
-
-		Some gvarths have carved magical staves on their bark, which is usually four "Intricate Magical Staves: Shielding".
-
-		Gvarths are unaffected by all psychic attacks.
+		These things can't move on hard surfaces like stone, but they can leap into the air with five times the force of a man. They're aware that if they aren't careful when they jump, they might harm themselves, but other than that, they aren't wise or smart, nor do they have free will. They can't speak, but understand Druidic and Sylvan.
 
 
 
@@ -321,50 +313,23 @@ Sprite (tiny fey):
 ====================================================================================================
 UNDEAD
 ----------------------------------------------------------------------------------------------------
-Undead are either reanimated corpses by magic, or resurrected corpses due to natural phenomenon.
+Undead are either reanimated corpses by magic, or resurrected corpses due to natural phenomenon. Almost all undead are immune to any poisons or venom, and mind control and mind reading doesn't work on them.
 ====================================================================================================
 
 Draugr (medium undead):
-	When the soul of a dead person is unable to cross the Astral Plane to the afterlife, it is forced back into it's dead body and will wake up as a draugr 10 to 20 years later.
-
-	If the corpse is sitting or standing upright in it's place of death, it is more likely for this to happen.
+	Some draugar are because their former self were cursed. One way to prevent their rise is to make sure they're laying down, and their hands and feet are bound together.
 
 	Description:
-		Draugar looks like a zombie, however they have almost the same mental capacity and combat prowess as they had when they died. They can also see in the dark.
+		Draugar looks like a zombie, however they have almost the same mental capacity and combat prowess as they had when they died.
 
-		Their usual descriptions are grey skinned, completely white eyes, and sparse grey hair.
+		Some draugar might look like they're covered in ash, with grey skin, completely white eyes, and sparse grey hair. Some might be bloated at their stomach and completely black as if they were burnt.
 
-		When a draugr returns as one, their behavior depends on where they were when they came back. If they were buried in a tomb, burial grounds, grave or the sort, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising.
-
-		If they were not buried properly, they will not feel bound to their death place, and roam freely. If they do roam freely, their moralities are similar to whatever they died with. They will be unable to show much emotion, even if they do feel such emotion. However if they were buried properly, they will become extremely resilient to love, hate, or any other strong emotion.
+		Usually when a draugr in their burial place rises, then they will dwell at their death place and protect their objects. Occasionally during the night, they leave their death place to pillage houses or kill animals, and will return once the sun starts rising.
 
 	Abilities:
-		Despite being undead, draugr are able to move at the normal speed of their former self, but they prefer to walk loosely when not. They are also physically much stronger than the average human, being around twice the usual strength. They can also see in the dark up to around 50 meters.
-
-		Their bodies resist physical damage, and cannot feel pain. Severing their arm or leg means that they can simply touch the severed ends together, and they will fuse back after an hour, provided that both ends of the severed limb were touching the entire time. After this, the severed part will be attached, but will be weaker for a few days.
-
-		A draugr will rise a day after it's death. The only way to prevent this is by decapitating them or in any way remove at least the upper half of the draugr's head from it's torso.
-
-		They are immune to poisons, and are immune to all forms of necromantic/necrotic attacks that do not target the mind, spirit, or soul.
+		Despite being undead, draugar can move as if they were alive, albeit with a little stagger. They are twice as strong compared to men, can see in the dark, and can't be poisoned or spiritually attacked. To kill a draugr, their head must be decapitated or removed. Moonlight weakens them.
 
 		Draugar can still speak, but their voice sounds raspy and deep.
-
-
-
-Ghost (medium undead):
-	When the soul of a dead person is unable to cross the Astral Plane to the afterlife and is unable to return back to it's body, it returns back as a ghost.
-
-	Description:
-		A ghost appears to be a white smoky visage of itself before they died. Their moralities and mannerisms remain the same.
-
-	Abilities:
-		Ghosts move by floating in the air. They can move up to 8 meters a second, but they must accelerate to that speed to do so. Their normal moving speed is about 4 meters a second. They are also able to change their clothing to however they like, but their clothing will do nothing to protect them, as they are purely visual.
-
-		Ghosts are unable to do much damage unarmed, so most of them might pick up a weapon, occasionally with a shield, and even wear armor.
-
-		They can also decide to turn incorporeal and float through objects, however doing so causes all of their equipment to drop to the ground. Similarly, they can travel to the ethereal plane with the same effect of losing their equipment on travel.
-
-		They are immune to poisons, and are immune to all forms of necromantic/necrotic attacks that do not target the mind, spirit, or soul. They are also immune to fire and frost, and acids do nothing against them.
 
 
 
@@ -372,62 +337,48 @@ Rotten Gvarth (huge undead):
 	Rotten gvarths are undead trees created from dying or dead trees by evil fey as soldiers, aimed to destroy all intelligent civilization in order to "restore" nature.
 
 	Description:
-		A rotten gvarth looks like a tree, except it has no leaves. It's wood and bark is rotten and decaying, but it's decay has been stopped by fey magic. Some gvarths may even be adorned with plain dark green banners, or carved with sylvan and druidic runes. It travels by having it's roots move in the dirt like the oars of a boat. Most gvarths have a trunk size of wider than 1.5 meter in diameter.
+		A gvarth is a towering tree with the size of an oak, but have no leaves. It's wood and bark looks like it's rotten, but it's decay was stopped by fey magic. Some rotten gvarths are adorned with dark green banners or carved with sylvan and druidic runes.
 
 	Abilities:
-		The rotten gvarth has several of it's roots sticking out of the ground, serving as it's arms. These roots are able to lash out up to 15 meters, striking with the force of a mace.
+		Rotten gvarths move by having it's roots move in the dirt like the oars of a boat. Their branches are like boneless arms or whips, and can lash out with the force of a mace. They rely on sensing their targets instead of seeing them, which means they can "see" in the dark.
 
-		Gvarths are unable to move onto or across hard surfaces such as stone, but the rotten gvarth can leap into the air at a maximum of about 5 meters up and 25 meters away to a spot it desires, to get across hard surfaces or to kill someone by landing on them. However a rotten gvarth is unwilling to leap itself into the walls of a castle because it can potentially damage or snap a root off.
+		These things can't move on hard surfaces like stone, but they can leap into the air with five times the force of a man. They're aware that if they aren't careful when they jump, they might harm themselves, but other than that, they aren't wise or smart, nor do they have free will. They can't speak, but understand Druidic and Sylvan.
 
-		Gvarths can see by using the fey magic imbued within it, detecting it's surroundings.
-
-		They do not have much wisdom or charisma, as it is similar to an awakened tree. They also understand Druidic and Sylvan, although they cannot speak it.
-
-		Some gvarths have carved magical staves on their bark, which are usually four "Intricate Magical Staves: Shielding".
-
-		Rotten gvarths, unlike ordinary gvarths, are especially vulnerable to fire. It is also unaffected by all poisons, and all necromantic and psychic attacks. However, they are weak to physical attacks, and lightning.
+		Rotten gvarths, unlike ordinary gvarths, are especially vulnerable to fire and lightning.
 
 
 
 Skeleton (medium undead):
-	A skeleton raised by magic, usually as a soldier or guard.
+	A skeleton raised by magic.
 
 	Description:
-		The reanimated skeleton of a humanoid. Most skeletons are equipped with a helmet, sometimes with a shield.
+		A skeleton of a humanoid that's been reanimated by magic.
 
 	Abilities:
-		These things are dim-witted, and know just enough to use a weapon. They can also see in the dark up to about 20 meters. They only understand the languages of it's creator, but cannot speak.
-
-		They are immune to poisons.
+		These things are dim-witted, and know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
 
 
 
 Wraith (medium undead):
-	When someone dies, their corpse has a chance of becoming a wraith only if they were 'magical'. Being 'magical' means if they were a sorcerer, innate seer, or had suffered either short-term intense magical activity, or prolonged magical activity. The wraith will be made about a month later after the person's death.
+	A wraith is a maleviolent spirit that will roam the world and kill living creatures. When someone is cursed to become a wraith and they die, they'll come out of their body as a wraith.
 
 	Description:
 		A wraith appears to be a dark brown dirt-resembling ghost missing it's lower half. It's body is zombie-like and rotten, and it is wearing any armor or clothing it died with.
 
 	Abilities:
-		Wraiths move by flying in the air. They can fly up to 8 meters a second, but they normally fly at about 4 meters a second. Wraiths are always corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The body (not the armor or weapons) of a wraith is generally extremely fragile, and will die instantly if sliced through. The body of the wraith can also fit into spaces a little smaller than it's actual size, allowing it to slip out of restraints with moderate difficulty.
+		Wraiths move by flying in the air. Wraiths are corporeal, and can pick items up to use them, but they prefer to use whatever weapon they died with. The wraith's body (not the armor or weapons) is extremely fragile, and will die instantly if they're sliced through. They're also slippery and can fit into small spaces like a cat.
 
-		Wraiths can see in the dark.
+		Wraiths cannot be burnt nor frozen, but they are weak to sunlight and will slowly disintegrate upon touching it. But if their body returns to any shade, the disintegrated parts will manifest back. When a wraith dies, it falls down and disintegrates into a pile of wraith dust.
 
-		Wraiths are unable to speak. They also cannot cast any spells unless they were a sorcerer or innate seer.
-
-		They are immune to poisons and all forms of necromantic/necrotic attacks. They are also immune to fire and frost. They are weak to sunlight, and will disintegrate slowly upon touching it. But if their body returns to any shade, the disintegrated parts will manifest back.
-
-		When a wraith dies, it loses it's flying ability, then it's spectral body, armor, and weapons will dissipate into nothing.
+		Wraiths can see in pitch black. They can't speak or use any magic.
 
 
 
 Zombie (medium undead):
-	Zombies are simple undead reanimated by magic.
+	Zombies are corpses reanimated by magic.
 
 	Description:
-		Zombies are risen corpses moved by a magical effect. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. After being reanimated, the zombie will continue to decompose until a point where they start to bloat, which they will stop decomposing.
+		Zombies are corpses reanimated by magic. Their appearance can range from seemingly alive to rotting, depending on how long they've been dead. A seemingly alive one means they were recently killed. A rotting one means they were killed within a few week. A bloated one means they were killed within a couple of months. If a zombie is really old, it's flesh rots off and it's a skeleton instead.
 
 	Abilities:
-		They are incapable of thought and emotion, and will take the easiest path for them. They cannot comprehend simple obstacles like fire, obvious traps or a pit.
-
-		They are immune to poisons.
+		These things are dim-witted, and know just enough to use a weapon. They only understand the languages of it's creator, but cannot speak.
