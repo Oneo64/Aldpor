@@ -238,10 +238,10 @@ Faerie Hare (small fey):
 
 		Usually if there is any fey activity in the material realm, it attracts faerie hares to go and take a look.
 
-	Abilities:
-		When a faerie hare runs over farmland, it usually fertilizes that farm land.
+		Faerie hares are active at night, and can only be seen by other fey. When a faerie hare runs over someone's farmland, they can see the hare in their dream.
 
-		Faerie hares also has a natural repelling of undead. When a zombie, skeleton, or vamerk gets within the presence of a faerie rabbit, it starts to try and move away from it.
+	Abilities:
+		When a faerie hare runs over farmland, the farmland becomes fertilized. Faerie hares naturally repel zombies and skeletons. If these undead go near the hare, they will try and move away from it.
 
 
 
